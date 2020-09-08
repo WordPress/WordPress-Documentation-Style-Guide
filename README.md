@@ -1,1 +1,1 @@
-# WordPress-Documentation-Style-Guide
+# WordPress Documentation Style Guide
