@@ -104,5 +104,36 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | Units of Measurement                                              |        |
 
 ### User Interface 
+| Component                  | Status |
+|----------------------------|--------|
+| Activities                 |        |
+| Buttons                    |        |
+| Code Snippets, Code Blocks |        |
+| Command Line Interface     |        |
+| Dialogs                    |        |
+| Menus & Dropdowns          |        |
+| Pop-ups & Alerts           |        |
+| Tabs                       |        |
+| Terminology                |        |
+| UI elements                |        |
+| Windows                    |        |
+
 ### Code 
+| Component   | Status |
+|-------------|--------|
+| CSS         |        |
+| HTML        |        |
+| JS          |        |
+| Markdown    |        |
+| MySQL       |        |
+| PHP         |        |
+| Syntax      |        |
+| XML         |        |
+| Terminology |        |
+| UI elements |        |
+| Windows     |        |
+
 ### Word Usage Dictionary/Glossary
+| Component | Status |
+|-----------|--------|
+| A-Z       |        |
