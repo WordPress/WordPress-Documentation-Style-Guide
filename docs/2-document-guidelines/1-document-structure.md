@@ -1,6 +1,12 @@
 # Document Structure
 
-Document Layout
-Page Layout
-Sentence Layout
-encoding
+## Document Layout
+
+## Page Layout
+
+## Sentence Layout
+
+## Encoding
+
+## Fonts
+<!-- (also link to Accessibility) -->
