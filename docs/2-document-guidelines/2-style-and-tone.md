@@ -35,4 +35,4 @@ Failure to do so could result in increased document perplexity and the reader ha
 - Brief and concise sentences.
 - Using second person by keeping emphasis on the reader (such as *You*).
 - Using conditional phrases.
-- Defining technical terms, jargon and abbreviations.
+- Defining technical terms, jargon, and abbreviations.
