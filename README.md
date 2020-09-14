@@ -1,35 +1,43 @@
 # WordPress Documentation Style Guide
 
-WordPress Documentation Style Guide is one of [Google Season of Docs projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020. 
+WordPress Documentation Style Guide is one of [Google Season of Docs projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020.
 
 - Technical writer: Atharva Dhekne [@tacitonic](https://github.com/tacitonic)
 - Mentors: Felipe Elia [@felipeelia](https://github.com/felipeelia) and Milana Cap [@zzap](https://github.com/zzap)
 
 ## Proposed Elements/Components in the Style Guide
-### Document Guidelines
-| Component                          | Status |
-|------------------------------------|--------|
-| Accessibility                      |        |
-| Document Structure                 |        |
-| Encoding                           |        |
-| External Sources                   |        |
-| Facts                              |        |
-| Fonts                              |        |
-| Global Audience                    |        |
-| Inclusivity                        |        |
+
+| Status | Description |
+|---------|-------------|
+| 🔄      | In progress |
+| ✔️      | Completed   |
+| ❌      | Discarded   |
+| ⚠️      | Needs Changes |
+
+### Document Guidelines 🔄
+| Component                          | Status  |
+|------------------------------------|---------|
+| Accessibility                      |   🔄   |
+| Document Structure                 |   🔄   |
+| Encoding                           |   🔄   |
+| External Sources                   |   🔄   |
+| Facts                              |   🔄   |
+| Fonts                              |   🔄   |
+| Global Audience                    |   🔄   |
+| Inclusivity                        |   🔄   |
 | Legality                           |        |
-| Multi-platform Accessibility       |        |
+| Multi-platform Accessibility       |   🔄   |
 | Non-ambiguous, No Excessive Claims |        |
-| Page Layout                        |        |
+| Page Layout                        |   🔄   |
 | Political Correctness              |        |
 | Protocols                          |        |
 | Security                           |        |
-| Sentence Structure                 |        |
-| Succinct Writing                   |        |
-| Tone & Style                       |        |
-| Unbiased                           |        |
+| Sentence Structure                 |   🔄   |
+| Succinct Writing                   |   🔄   |
+| Tone & Style                       |   🔄   |
+| Unbiased                           |   🔄   |
 
-### Language & Grammar 
+### Language & Grammar
 | Component                                         | Status |
 |---------------------------------------------------|--------|
 | Abbreviations & acronyms                          |        |
@@ -52,7 +60,7 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | Verbs                                             |        |
 | Voice                                             |        |
 
-### Punctuation 
+### Punctuation
 | Component                    | Status |
 |------------------------------|--------|
 | Apostrophe & Quotation Marks |        |
@@ -75,7 +83,7 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | Verbs                        |        |
 | Voice                        |        |
 
-### Formatting 
+### Formatting
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
 | Abstracts, Introduction, Prefaces                                 |        |
@@ -103,7 +111,7 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | UI elements                                                       |        |
 | Units of Measurement                                              |        |
 
-### User Interface 
+### User Interface
 | Component                  | Status |
 |----------------------------|--------|
 | Activities                 |        |
@@ -118,7 +126,7 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | UI elements                |        |
 | Windows                    |        |
 
-### Code 
+### Code
 | Component   | Status |
 |-------------|--------|
 | CSS         |        |
