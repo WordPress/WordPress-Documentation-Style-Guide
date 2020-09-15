@@ -5,24 +5,27 @@ The WordPress community and the open source WordPress project is committed to be
 Multi-platform accessibility
 fonts (link to document structure)
 put the person first
-use approved terminology for people with specific disabilities.
 spell out symbols/abbreviations
 Anything that the reader must know or do needs to be in text, too, not just in images.
 alt text for images
 
 ## General Do's and Don'ts
+- Use approved terminology for people with specific disabilities.
+- Maintain a uniform structure for your document.
 - Take a pragmatic approach to HTML semantics. Don’t add semantics purely for the sake of semantics; but if there is an HTML structure that clearly matches the content, use that element. For example, if you have a group of links, it should most likely use a list element.
--
 
+## Text Accessibility
+- Avoid camel case and all caps text; follow capitalization guidelines.
+- Use proper heading hierarchy. The H1 is the main heading representing the page title on every core page. For subsections, use a reasonable HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
+ - Use H2 through H6 to give internal structure to the page.
+ - Don’t skip heading levels.
+ - Don’t add extra functionality inside a heading, like links or buttons.
 
-## Reading Accessibility
-avoid camel case, all caps, follow Capitalization guidelines.
 Don’t use screened or shaded backgrounds, watermarks, or other images behind text. Reduced contrast makes text harder to read and hinders screen readers.
-no continuous text - break up in paragraphs, bullet points, headings, lists
+Avoid continuous text - break up in paragraphs, bullet points, headings, lists
 color contrast
 spell out symbols/abbreviations
 uniform document structure
-Heading hierarchy
 use
 
 
