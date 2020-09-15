@@ -13,6 +13,7 @@ alt text for images
 - Use approved terminology for people with specific disabilities.
 - Maintain a uniform structure for your document.
 - Take a pragmatic approach to HTML semantics. Don’t add semantics purely for the sake of semantics; but if there is an HTML structure that clearly matches the content, use that element. For example, if you have a group of links, it should most likely use a list element.
+- Use simple tables and tabular formats. Avoid span tags (such as rowspan and colspan)
 
 ## Text Accessibility
 - Avoid camel case and all caps text; follow capitalization guidelines.
@@ -20,14 +21,9 @@ alt text for images
  - Use H2 through H6 to give internal structure to the page.
  - Don’t skip heading levels.
  - Don’t add extra functionality inside a heading, like links or buttons.
-
-Don’t use screened or shaded backgrounds, watermarks, or other images behind text. Reduced contrast makes text harder to read and hinders screen readers.
-Avoid continuous text - break up in paragraphs, bullet points, headings, lists
-color contrast
-spell out symbols/abbreviations
-uniform document structure
-use
-
+- Don't used colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
+- Avoid a screen full of continued text; rather break up your content in paragraphs and make use of headings, lists, bullet points, etc.
+- Define and spell out symbols or abbreviations.
 
 ## Media Accessibility
 Provide clear alternative descriptions for images
