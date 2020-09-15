@@ -22,9 +22,11 @@ alt text for images
 
 ## Additional Resources
 
-[WordPress' Accessibility Homepage](https://wordpress.org/about/accessibility/)
-[](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/)
-[](https://core.trac.wordpress.org/focus/accessibility)
-[](https://wordpress.org/themes/tags/accessibility-ready/)
-[](https://make.wordpress.org/accessibility/handbook/)
-[](https://www.w3.org/TR/ATAG20/)
+- [WordPress' Accessibility Team Homepage](https://wordpress.org/about/accessibility/)
+- [WordPress Accessibility Coding Standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/accessibility/)
+- [WordPress accessibility-ready themes](https://wordpress.org/themes/tags/accessibility-ready/)
+- [WordPress Accessibility Handbook](https://make.wordpress.org/accessibility/handbook/)
+- [WordPress Core issues with Accessibility focus](https://core.trac.wordpress.org/focus/accessibility)
+- [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
+- [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/)
+- [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/glance/)
