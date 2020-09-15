@@ -23,8 +23,8 @@ The WordPress community and the open source WordPress project is committed to be
  - Don’t add extra functionality inside a heading, like links or buttons.
 - Don't used colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
 - Avoid a screen full of continued text; rather break up your content in paragraphs and make use of headings, lists, bullet points, etc.
-- Define and spell out symbols or abbreviations.
-- Don't limit the reader to open links in a new tab. If the links do open in a new tab, indicate it using text or an icon.
+- Define and spell out symbols, abbreviations or acronyms.
+- Don't limit the reader to forcefully open links in a new tab. If the links do open in a new tab, indicate it using text or an icon.
 
 ## Media Accessibility
 
