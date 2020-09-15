@@ -73,15 +73,6 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | Periods                      |        |
 | Question Marks               |        |
 | Slashes                      |        |
-| Prepositions                 |        |
-| Pronouns                     |        |
-| Referencing                  |        |
-| Slang & jargon               |        |
-| Spellings                    |        |
-| Technical terms              |        |
-| Tense                        |        |
-| Verbs                        |        |
-| Voice                        |        |
 
 ### Formatting
 | Component                                                         | Status |
@@ -136,10 +127,10 @@ WordPress Documentation Style Guide is one of [Google Season of Docs projects](h
 | MySQL       |        |
 | PHP         |        |
 | Syntax      |        |
-| XML         |        |
 | Terminology |        |
 | UI elements |        |
 | Windows     |        |
+| XML         |        |
 
 ### Word Usage Dictionary/Glossary
 | Component | Status |
