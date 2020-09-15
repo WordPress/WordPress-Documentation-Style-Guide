@@ -2,21 +2,21 @@
 
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
-Multi-platform accessibility
-fonts (link to document structure)
-put the person first
-spell out symbols/abbreviations
-Anything that the reader must know or do needs to be in text, too, not just in images.
-alt text for images
-
 ## General Do's and Don'ts
-- Use approved terminology for people with specific disabilities.
+- Emphasize the reader rather than underlining their inconveniences.
+ - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
+ - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about "Inclusivity".
 - Maintain a uniform structure for your document.
+- Consider multi-platform accessibility for all types of devices and operating systems.
+- Don't use ableist language. Be inclusive and unbiased while writing about accessibility and disability.
 - Take a pragmatic approach to HTML semantics. Don’t add semantics purely for the sake of semantics; but if there is an HTML structure that clearly matches the content, use that element. For example, if you have a group of links, it should most likely use a list element.
-- Use simple tables and tabular formats. Avoid span tags (such as rowspan and colspan)
+- Use simple tables and tabular formats. Avoid span tags (such as `rowspan` and `colspan`). Tables prove to be difficult for screen readers.
 
 ## Text Accessibility
+
+- Use concise and simple sentences.
 - Avoid camel case and all caps text; follow capitalization guidelines.
+- Don't format fonts unnecessarily. More information on "Fonts".
 - Use proper heading hierarchy. The H1 is the main heading representing the page title on every core page. For subsections, use a reasonable HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
  - Use H2 through H6 to give internal structure to the page.
  - Don’t skip heading levels.
@@ -24,12 +24,20 @@ alt text for images
 - Don't used colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
 - Avoid a screen full of continued text; rather break up your content in paragraphs and make use of headings, lists, bullet points, etc.
 - Define and spell out symbols or abbreviations.
+- Don't limit the reader to open links in a new tab. If the links do open in a new tab, indicate it using text or an icon.
 
 ## Media Accessibility
-Provide clear alternative descriptions for images
+
+- Provide clear alternative descriptions for images.
+ - Anything that the reader needs to know or do, must be in text as well.
+ - Include `alt` and `figure` attributes/tags for images and illustrations.
+ - Limit the alt text to 50 characters.
+- Provide transcripts, captions and descriptions for audio and video content.
 UI Elements
 
 ## Document Rendering
+
+
 
 ## Additional Resources
 
