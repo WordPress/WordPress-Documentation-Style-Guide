@@ -36,14 +36,14 @@ The WordPress community and the open source WordPress project is committed to be
   - Use actual text rather than images of text.
 - Provide transcripts, closed-captions and descriptions for audio and video content.
 - Avoid auto-playing media. Provide controls to start, stop, and pause media.
-- Don't use flickering or flashing elements. Using them can cause seizures or motion sickness.
+- Don't use flickering or flashing elements. Using them can cause seizures and/or motion sickness.
 
 ## UI Accessibility
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and fixing them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or `aria-label`. More on "aria-label".
+- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on "aria-label".
 
 ## Document Rendering
 
