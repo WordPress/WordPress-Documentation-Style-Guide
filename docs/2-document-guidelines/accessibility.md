@@ -40,10 +40,10 @@ The WordPress community and the open source WordPress project is committed to be
 
 ## UI Accessibility
 
-- Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the "Publish" button on the right sidebar*'; rather than '*Go to the top and click the button.*').
+- Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and fixing them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify the regions of a page with the ARIA landmark roles.
+- Identify and inspect the regions of a page to use the `aria-label`. More on "aria-label".
 
 ## Document Rendering
 
