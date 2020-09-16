@@ -2,10 +2,10 @@
 
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
-## General Do's and Don'ts
+## General do's and don'ts
 - Emphasize the reader rather than underlining their inconveniences.
- - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
- - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about "Inclusivity".
+  - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
+  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about "Inclusivity".
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Consider multi-platform accessibility for all types of devices and operating systems.
 - Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc.
@@ -19,9 +19,9 @@ The WordPress community and the open source WordPress project is committed to be
 - Avoid camel case and all caps text; follow capitalization guidelines.
 - Don't format fonts unnecessarily. More information on "Fonts".
 - Use proper heading hierarchy. The H1 is the main heading representing the page title on every core page. For subsections, use a reasonable HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
- - Use H2 through H6 to give internal structure to the page.
- - Don’t skip heading levels.
- - Don’t add extra functionality inside a heading, like links or buttons.
+  - Use H2 through H6 to give internal structure to the page.
+  - Don’t skip heading levels.
+  - Don’t add extra functionality inside a heading, like links or buttons.
 - Don't used colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
 - Avoid a screen full of continued text; rather break up your content in paragraphs and make use of headings, lists, bullet points, etc.
 - Define and spell out symbols, abbreviations or acronyms.
@@ -30,10 +30,10 @@ The WordPress community and the open source WordPress project is committed to be
 ## Media Accessibility
 
 - Provide clear alternative descriptions for images.
- - Anything that the reader needs to know or do, must be in text as well.
- - Include `alt` and `figure` attributes/tags for images and illustrations.
- - Limit the alt text to 50 characters.
- - Use actual text rather than images of text.
+  - Anything that the reader needs to know or do, must be in text as well.
+  - Include `alt` and `figure` attributes/tags for images and illustrations.
+  - Limit the alt text to 50 characters.
+  - Use actual text rather than images of text.
 - Provide transcripts, closed-captions and descriptions for audio and video content.
 - Avoid auto-playing media. Provide controls to start, stop, and pause media.
 - Don't use flickering or flashing elements. Using them can cause seizures or motion sickness.
@@ -50,12 +50,12 @@ The WordPress community and the open source WordPress project is committed to be
 - Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
 - Don't rely on color solely to convey documentation.
 - Similarly, ensure that  the document conveys all the information you intended when you view it in the following contexts:
- - Without sound
- - Using only sound
- - Without color
- - Using a keyboard
- - With screen magnification
- - Without punctuation
+  - Without sound
+  - Using only sound
+  - Without color
+  - Using a keyboard
+  - With screen magnification
+  - Without punctuation
 
 ## Additional Resources
 
