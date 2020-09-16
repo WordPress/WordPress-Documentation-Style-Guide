@@ -43,7 +43,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and fixing them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify and inspect the regions of a page to use the `aria-label`. More on "aria-label".
+- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or `aria-label`. More on "aria-label".
 
 ## Document Rendering
 
