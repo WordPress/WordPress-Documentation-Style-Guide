@@ -8,7 +8,7 @@ The WordPress community and the open source WordPress project is committed to be
  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about "Inclusivity".
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Consider multi-platform accessibility for all types of devices and operating systems.
-- Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc. 
+- Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc.
 - Don't use ableist language. Be inclusive and unbiased while writing about accessibility and disability.
 - Take a pragmatic approach to HTML semantics. Don’t add semantics purely for the sake of semantics; but if there is an HTML structure that clearly matches the content, use that element. For example, if you have a group of links, it should most likely use a list element.
 - Use simple tables and tabular formats. Avoid span tags (such as `rowspan` and `colspan`). Tables prove to be difficult for screen readers.
@@ -33,16 +33,29 @@ The WordPress community and the open source WordPress project is committed to be
  - Anything that the reader needs to know or do, must be in text as well.
  - Include `alt` and `figure` attributes/tags for images and illustrations.
  - Limit the alt text to 50 characters.
-- Provide transcripts, captions and descriptions for audio and video content.
+ - Use actual text rather than images of text.
+- Provide transcripts, closed-captions and descriptions for audio and video content.
+- Avoid auto-playing media. Provide controls to start, stop, and pause media.
+- Don't use flickering or flashing elements. Using them can cause seizures or motion sickness.
 
 ## UI Accessibility
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the "Publish" button on the right sidebar*'; rather than '*Go to the top and click the button.*').
--  
+-  Clearly state error descriptions and fixing them.
+- Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
+- Identify the regions of a page with the ARIA landmark roles.
 
 ## Document Rendering
 
-
+- Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
+- Don't rely on color solely to convey documentation.
+- Similarly, ensure that  the document conveys all the information you intended when you view it in the following contexts:
+ - Without sound
+ - Using only sound
+ - Without color
+ - Using a keyboard
+ - With screen magnification
+ - Without punctuation
 
 ## Additional Resources
 
