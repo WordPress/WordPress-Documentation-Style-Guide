@@ -1,5 +1,7 @@
 # Style and Tone
 
+<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/ make additions-->
+
 Always write your documents in simple, easy-to-understand sentences. Ensure that your tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
 
 Don't try to be overly colloquial. On the other hand, a formal/robotic tone is unfit as well. Try to achieve a balance between colloquial and formal language, that is suitable for providing knowledge and information. The document should persuade readers, rather than overwhelm them with verbiage.
