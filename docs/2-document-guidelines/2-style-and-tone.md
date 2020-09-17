@@ -1,6 +1,8 @@
 # Style and Tone
 
-<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/ make additions-->
+<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/ 
+https://make.wordpress.org/docs/handbook/documentation-team-handbook/handbooks-style-and-formatting-guide/
+(make additions)-->
 
 Always write your documents in simple, easy-to-understand sentences. Ensure that your tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
 
