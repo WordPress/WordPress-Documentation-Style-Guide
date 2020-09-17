@@ -47,6 +47,7 @@ The WordPress community and the open source WordPress project is committed to be
 
 ## Document Rendering
 
+- Consider that your document will be used on a multitude of devices.
 - Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
 - Don't rely on color solely to convey documentation.
 - Similarly, ensure that  the document conveys all the information you intended when you view it in the following contexts:
