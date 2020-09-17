@@ -17,7 +17,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 ### Document Guidelines 🔄
 | Component                          | Status  |
 |------------------------------------|---------|
-| Accessibility                      |   ✔️(⚠️ while publishing)   |
+| Accessibility                      |   ✔️ (⚠️ while publishing)   |
 | Document Structure                 |   🔄   |
 | Encoding                           |   🔄   |
 | External Sources                   |   🔄   |
@@ -26,7 +26,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Global Audience                    |   🔄   |
 | Inclusivity                        |   🔄   |
 | Legality                           |        |
-| Multi-platform Accessibility       |   🔄   |
+| Multi-platform Accessibility       |   ✔️   |
 | Non-ambiguous, No Excessive Claims |        |
 | Page Layout                        |   🔄   |
 | Political Correctness              |        |
