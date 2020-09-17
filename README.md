@@ -24,12 +24,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Facts                              |   🔄   |
 | Fonts                              |   🔄   |
 | Global Audience                    |   🔄   |
-| Inclusivity                        |   🔄   |
+| Inclusivity                        |   ✔️ (⚠️ while publishing)  |
 | Legality                           |        |
 | Multi-platform Accessibility       |   ✔️   |
 | Non-ambiguous, No Excessive Claims |        |
 | Page Layout                        |   🔄   |
-| Political Correctness              |        |
+| Political Correctness              |   ✔️   |
 | Protocols                          |        |
 | Security                           |        |
 | Sentence Structure                 |   🔄   |
