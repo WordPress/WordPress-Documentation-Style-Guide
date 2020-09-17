@@ -47,4 +47,19 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 [tip] Recommended: primary/subordinate [/tip]
 
 
-## Accessibility and disability terms
+## Accessibility and disability
+- Research the terminology that the people with disability want to be identified with.
+- Don't refer to people without disabilities as normal, fit or healthy; terms that would demean people with disabilities. This includes terms that are judgmental and victimize people with disabilities as abnormal or sick.  
+
+### Terminology
+
+| Recommended          | Not Recommended |
+|----------------------|-----------------|
+| person with disability | the disabled, handicapped, differently abled, challenged, abnormal |
+| person without disability | normal person, healthy person, able-bodied |
+| has [disability] | victim of, suffering from, affected by, stricken with |
+| unable to speak, uses synthetic speech | dumb, mute |
+| deaf, low-hearing | hearing-impaired |
+| blind, low-vision | vision-impaired, visually-challenged |
+| cognitive or developmental disabilities | mentally-challenged, slow-learner |
+| person with limited mobility, person with a physical disability | crippled, handicapped |
