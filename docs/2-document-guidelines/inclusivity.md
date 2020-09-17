@@ -39,8 +39,7 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 [/tip]
 
 ## Using diverse examples
-- Represent diverse perspectives and scenarios in text and media.
-- Make use of inclusive and a diverse range of names, ages,  locations, professions, and cultures while depicting people.
+Represent diverse perspectives and scenarios in text and media. Make use of inclusive and a diverse range of names, ages, locations, professions, and cultures while depicting people.
 - Avoid making generalizations about people, religions, cultures, regions, and countries.
 - Avoid unintentional racial and cultural bias while writing documentation.  
 
