@@ -21,13 +21,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Document Structure                 |   🔄   |
 | Encoding                           |   🔄   |
 | External Sources                   |   🔄   |
-| Facts                              |   🔄   |
+| Facts                              |   ✔️   |
 | Fonts                              |   🔄   |
 | Global Audience                    |   🔄   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)  |
 | Legality                           |        |
 | Multi-platform Accessibility       |   ✔️   |
-| Non-ambiguous, No Excessive Claims |        |
+| Non-ambiguous, No Excessive Claims |   ✔️   |
 | Page Layout                        |   🔄   |
 | Political Correctness              |   ✔️   |
 | Protocols                          |        |
