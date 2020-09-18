@@ -21,4 +21,4 @@ Express data using the standard international conventions outlined in this chapt
 https://make.wordpress.org/polyglots/
 https://make.wordpress.org/polyglots/handbook/
 http://translate.wordpress.org/
-[Getting involved with WordPress translation] (https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/)
+[Getting involved with WordPress translation](https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/)
