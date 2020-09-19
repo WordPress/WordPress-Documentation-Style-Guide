@@ -12,7 +12,7 @@ The process of localizing software has two steps. The first step is when the dev
 
 The second step is the actual localization (*l10n*). It is the process by which the a product/service is translated and adapted to another language and culture along with its documentation. The framework prescribed by the developers of the software is used for this purpose. Localization is done by people who are familiar with the local language and culture. For example, the *l10n* process involves adapting to the laws, currency and political requirements of a specific locale (market). WordPress has already been localized into many languages (see WordPress' [list of teams](https://make.wordpress.org/polyglots/teams/) for more information).
 
-Translation is changing the language of the content to another language. Translation can be done by both editors from the community as well as machine-aided translation.
+Translation is simply changing the language of the content to another language. Translation can be done by both editors from the community as well as machine-aided translation.
 
 ## General guidelines
 
@@ -20,8 +20,14 @@ Translation is changing the language of the content to another language. Transla
 - Don't be specific in terms of culture and religion in your documentation.
 - Use diverse examples that would cater to an international audience. These include, diverse and inclusive names, email addresses, locations, and professions in examples.
 - Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
-- Avoid culturally-specific humor and references to cultural practices, holidays, seasons, etc.
+- Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons,  etc.
+- Try to use standards that are universal. Measurement units, character encoding, currencies, text layouts
+-
 
+## Language guidelines
+
+- Write concise and succinct sentences. Longer sentences are difficult to translate and utilize higher
+- 
 
 Express data using the standard international conventions outlined in this chapter. You should vary from these standards only when there’s a truly compelling advantage in using a proprietary or customary style.
 
