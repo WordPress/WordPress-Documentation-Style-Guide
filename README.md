@@ -98,6 +98,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Tables                                                            |        |
 | Text                                                              |        |
 | Trademarks, Copyrights, Patents, Citations                        |        |
+| Typography & Fonts                                                |        |
 | Tutorials & Procedures                                            |        |
 | UI elements                                                       |        |
 | Units of Measurement                                              |        |
