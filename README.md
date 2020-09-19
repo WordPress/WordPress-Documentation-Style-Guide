@@ -23,7 +23,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | External Sources                   |   🔄   |
 | Facts                              |   ✔️   |
 | Fonts                              |   🔄   |
-| Global Audience                    |   🔄   |
+| Global Audience                    |   ✔️   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)  |
 | Legality                           |        |
 | Multi-platform Accessibility       |   ✔️   |
