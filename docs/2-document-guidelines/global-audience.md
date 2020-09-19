@@ -21,21 +21,17 @@ Translation is simply changing the language of the content to another language. 
 - Use diverse examples that would cater to an international audience. These include, diverse and inclusive names, email addresses, locations, and professions in examples.
 - Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
 - Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons,  etc.
-- Express data using the standard international conventions. Measurement units, character encoding, currencies, text layouts, date and time formats, phone numbers are different all over the world. Don't assume that US standards are familiar to everyone.
-
+- Express data using the standard international conventions. Measurement units, character encoding, currencies, text layouts, date and time formats, phone numbers, etc. are different all over the world. Don't assume that US standards are familiar to everyone.
 
 ## Language guidelines
 
-- Write concise and succinct sentences. Longer sentences are difficult to translate and require higher effort.
+- Write concise and succinct sentences, while using simple verbs and vocabulary. Longer sentences are difficult to translate and require higher effort.
+- If the sentence consists of more than a few commas, it usually indicates and complex sentence. Review the sentence and consider breaking it down to multiple sentences. Also, replace complex sentences and paragraphs with illustrations, tables, and lists.
+- Use active voice, present tense, and second person.
 - Avoid shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Ensure overall consistency in language - particularly names, terminology, punctuation and capitalization.
 - Use consistent text and media formatting. Additional information on "Text Formatting".
-
-Express data using the standard international conventions outlined in this chapter. You should vary from these standards only when there’s a truly compelling advantage in using a proprietary or customary style.
-
-
-
-
+- Deviate from conventional standards only when there's a genuinely compelling purpose in implementing an atypical style. 
 
 ## Additional resources
 
