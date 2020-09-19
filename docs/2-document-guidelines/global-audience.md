@@ -28,6 +28,8 @@ Translation is simply changing the language of the content to another language. 
 - Write concise and succinct sentences, while using simple verbs and vocabulary. Longer sentences are difficult to translate and require higher effort.
 - If the sentence consists of more than a few commas, it usually indicates and complex sentence. Review the sentence and consider breaking it down to multiple sentences. Also, replace complex sentences and paragraphs with illustrations, tables, and lists.
 - Use active voice, present tense, and second person.
+- Avoid long chains of modifying words. Keep adverbs and adjectives close to their modifying words. Be mindful of placement of words like *only*.
+- Make abundant use of articles such as *a*, *an*, *the* and helper words such as *if*, *then*, etc.
 - Avoid shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Ensure overall consistency in language - particularly names, terminology, punctuation and capitalization.
 - Use consistent text and media formatting. Additional information on "Text Formatting".
