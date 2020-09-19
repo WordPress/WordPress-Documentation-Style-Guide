@@ -20,8 +20,7 @@ Translation is changing the language of the content to another language. Transla
 - Don't be specific in terms of culture and religion in your documentation.
 - Use diverse examples that would cater to an international audience. These include, diverse and inclusive names, email addresses, locations, and professions in examples.
 - Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
-- Avoid references to holidays, seasons, and culturally- specific humor.
-
+- Avoid culturally-specific humor and references to cultural practices, holidays, seasons, etc.
 
 
 Express data using the standard international conventions outlined in this chapter. You should vary from these standards only when there’s a truly compelling advantage in using a proprietary or customary style.
