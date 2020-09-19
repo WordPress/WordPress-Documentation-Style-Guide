@@ -16,7 +16,7 @@ Translation is simply changing the language of the content to another language. 
 
 ## General guidelines
 
-- If you write for international audiences, read and learn more about them.
+- If you write for international audiences, research, read and learn more about them.
 - Don't be specific in terms of culture and religion in your documentation.
 - Use diverse examples that would cater to an international audience. These include, diverse and inclusive names, email addresses, locations, and professions in examples.
 - Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
@@ -31,11 +31,11 @@ Translation is simply changing the language of the content to another language. 
 - Avoid shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Ensure overall consistency in language - particularly names, terminology, punctuation and capitalization.
 - Use consistent text and media formatting. Additional information on "Text Formatting".
-- Deviate from conventional standards only when there's a genuinely compelling purpose in implementing an atypical style. 
+- Deviate from conventional standards only when there's a genuinely compelling purpose in implementing an unconventional style.
 
 ## Additional resources
 
-https://make.wordpress.org/polyglots/
-https://make.wordpress.org/polyglots/handbook/
-http://translate.wordpress.org/
+[WordPress Polyglots Homepage](https://make.wordpress.org/polyglots/)
+[WordPress Polyglots Handbook](https://make.wordpress.org/polyglots/handbook/)
+[Translating WordPress Homepage](http://translate.wordpress.org/)
 [Getting involved with WordPress translation](https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/)
