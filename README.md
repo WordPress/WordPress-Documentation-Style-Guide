@@ -18,22 +18,22 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Component                          | Status  |
 |------------------------------------|---------|
 | Accessibility                      |   ✔️ (⚠️ while publishing)   |
-| Document Structure                 |   🔄   |
-| Encoding                           |   🔄   |
+| Document Structure                 |   ✔️ (⚠️ while publishing)   |
+| Encoding                           |   ✔️   |
 | External Sources                   |   🔄   |
 | Facts                              |   ✔️   |
-| Fonts                              |   🔄   |
+| Fonts                              |   (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)  |
 | Legality                           |        |
 | Multi-platform Accessibility       |   ✔️   |
 | Non-ambiguous, No Excessive Claims |   ✔️   |
-| Page Layout                        |   🔄   |
+| Page Layout                        |   ✔️   |
 | Political Correctness              |   ✔️   |
 | Protocols                          |        |
 | Security                           |        |
-| Sentence Structure                 |   🔄   |
-| Succinct Writing                   |   🔄   |
+| Sentence Structure                 |   ✔️   |
+| Succinct Writing                   |   ✔️   |
 | Tone & Style                       |   ⚠️   |
 | Unbiased                           |   ✔️   |
 
@@ -98,8 +98,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Tables                                                            |        |
 | Text                                                              |        |
 | Trademarks, Copyrights, Patents, Citations                        |        |
-| Typography & Fonts                                                |        |
 | Tutorials & Procedures                                            |        |
+| Typography & Fonts                                                |        |
 | UI elements                                                       |        |
 | Units of Measurement                                              |        |
 
