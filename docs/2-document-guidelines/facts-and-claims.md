@@ -4,4 +4,8 @@ Avoid making excessive claims about WordPress' products and services. Abide with
 
 ## Avoid ambiguities
 
-If a particular fact is not verified or proven, don't go into ambiguities. Substantiate facts without exception, and then publish them to your document.
+If a particular fact is not verified or proven, don't go into ambiguities. Substantiate facts without exception, and then include them to your document.
+
+## Documenting future features
+
+Don't document WordPress' future features, products, or services unless explicitly specified.
