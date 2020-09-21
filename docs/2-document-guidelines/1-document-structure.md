@@ -1,7 +1,7 @@
 # Document Layout
 
 - Don't write walls of text in your documentation. Follow a defined structure throughout your documentation.
-- Break up long pages of text into paragraphs, lists, tables, and illustrations. Use proper heading hierarchy.
+- Break up long pages of text into paragraphs, lists, and illustrations. Use proper heading hierarchy.
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Use concise and simple sentence structures. Ensure that your tone is succinct, natural, and friendly towards the reader.  
 
