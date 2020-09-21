@@ -7,4 +7,4 @@ For example,
   - laser - light amplification by stimulated emission of radiation.
   - radar - radio detection and ranging.
   - LAN - local area network.
-- 
+-
