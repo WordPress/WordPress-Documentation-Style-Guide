@@ -16,12 +16,12 @@ Abbreviations include acronyms, initialisms, contractions, and shortened phrases
   - I'm - *I am*.
   - they've - *they have*.
   - Additional information on "Contractions".
-- A shortened word or phrase is part of the word or phrase, but condensed; sometimes with at the end.
+- A shortened word or phrase is part of the word or phrase, but condensed; sometimes with a period at the end.
   - Dr. - *Doctor*.
   - Rd. - *Road*.
   - etc. - *et cetera*.
   - min - *minutes*.
-- Sometimes the long and short versions of a word are used interchangeably.
+- Sometimes the long and short versions of a word are used interchangeably. These words don't need a period at the end.
   - max - *Maximum*.
   - info - *Information*.
   - app - *Application*.
@@ -30,9 +30,14 @@ Abbreviations include acronyms, initialisms, contractions, and shortened phrases
 Some words often have concurrent characteristics of acronyms, initialisms, or shortened words. Words like GUI, GIF could be either spoken as an acronym or an initialism; subject to preference of the speaker.
 
 ## Declaring/spelling out abbreviations/full forms
- - Titles and headings
+
+Spell out and declare abbreviations whenever they are used for the first time in a document. Avoid using abbreviations in titles and headings, unless absolutely necessary. If using an abbreviation in a heading/title is mandatory, spell out the abbreviation in the succeeding body text.
+
+## Abbreviations to be avoided
+
  - If an acronym will appear only once in your content, just spell out the term. Don't introduce it in parentheses after the spelled-out version.
 
-Articles
+## Articles
+
 
 Capitalization
