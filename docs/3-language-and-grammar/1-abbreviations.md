@@ -34,9 +34,11 @@ Some words often have concurrent characteristics of acronyms, initialisms, or sh
 Spell out and declare abbreviations whenever they are used for the first time in a document. Avoid using abbreviations in titles and headings, unless absolutely necessary. If using an abbreviation in a heading/title is mandatory, spell out the abbreviation in the succeeding body text.
 Upon successive mentions of the abbreviation in the document, you can use the abbreviation without spelling it out.
 
+Consider your audience while defining or spelling-out an abbreviation. Some abbreviations like PC, RAM, USB, PDF are more well-known than their spelled-out terms. If you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. 
+
 ## Abbreviations to be avoided
 
-- If an acronym will appear only once in your content, just spell out the term. Don't introduce it in parentheses after the spelled-out version.
+- If an acronym appears only once in your document, just spell out the term. Don't introduce it in parentheses after the spelled-out version.
 - Avoid internet slang abbreviations such as tbh (*to be honest*), fwiw (*for what it's worth*), tl;dr (*too long; didn't read*). Rephrase the sentence in an objective approach.
 
 
