@@ -1,6 +1,6 @@
 # WordPress Documentation Style Guide
 
-The WordPress Documentation Style Guide is one of [Google Season of Docs projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020.
+The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020.
 
 - Technical writer: Atharva Dhekne [@tacitonic](https://github.com/tacitonic)
 - Mentors: Felipe Elia [@felipeelia](https://github.com/felipeelia) and Milana Cap [@zzap](https://github.com/zzap)
@@ -37,10 +37,10 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs project
 | Tone & Style                       |   ⚠️   |
 | Unbiased                           |   ✔️   |
 
-### Language & Grammar
+### Language & Grammar 🔄
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations & acronyms                          |        |
+| Abbreviations & acronyms                          |    🔄    |
 | Affirmation & Negation                            |        |
 | Articles                                          |        |
 | Capitalization                                    |        |
