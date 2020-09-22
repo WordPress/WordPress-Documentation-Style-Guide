@@ -40,7 +40,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Language & Grammar 🔄
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations & acronyms                          |    🔄    |
+| Abbreviations & acronyms                          |    🔄 (⚠️ while publishing)    |
 | Affirmation & Negation                            |        |
 | Articles                                          |        |
 | Capitalization                                    |        |
