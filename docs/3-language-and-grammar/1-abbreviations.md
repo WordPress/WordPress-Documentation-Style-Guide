@@ -49,7 +49,8 @@ Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use 
 
 ## Articles
 
+The article (*a* or *an*) that goes along with an abbreviation depends on its pronunciation. For example, *an* API, *a* URL  
 
 ## Capitalization
 
-Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. Similarly, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the "A-Z Word List" for more information.
+Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. On the contrary, the *DOT - Department of Transportation* includes an *of* in its abbreviation while also capitalizing it. Therefore, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the "A-Z Word List" for more information.
