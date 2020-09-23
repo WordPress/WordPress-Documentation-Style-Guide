@@ -48,10 +48,12 @@ Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use 
 
 ## Articles
 
-The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Examples include APIs, CMSs, IDEs. Also ensure that the possessive form of the word (an apostrophe (*'*) before the *s*) is not used.
+The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Examples include APIs, CMSs, IDEs. Also ensure that the possessive form of the word (an apostrophe *'* before the *s*) is not used.
 
 ## Capitalization
 
 Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. On the contrary, the *DOT - Department of Transportation* includes an *of* in its abbreviation while also capitalizing it. Therefore, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the "A-Z Word List" for more information.
 
 ## Periods
+
+Use periods at the end of shortened words. Don't use periods with acronyms and initialisms. Similarly, don't use periods with commons words that are abbreviations such as *app* or *demo*. Don't use a period with an abbreviation for the name of a country, US state, or the District of Columbia (DC).
