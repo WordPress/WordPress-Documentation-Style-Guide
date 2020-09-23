@@ -46,10 +46,9 @@ Avoid internet slang abbreviations such as *tbh (to be honest)*, *fwiw (for what
 
 Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use *and others*, *for example*, *namely* instead of these.
 
-
 ## Articles
 
-The article (*a* or *an*) that goes along with an abbreviation depends on its pronunciation. For example, *an* API, *a* URL  
+The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *a* URL, *a* CMS, *an* IDE.
 
 ## Capitalization
 
