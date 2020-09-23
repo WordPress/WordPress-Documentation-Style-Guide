@@ -10,7 +10,17 @@ Including articles in your writing is essential for overall simplicity of langua
 
 Examples of articles
 - A document
-- A link
 - An hour
+- A link
+- A project
 - An open source project
 - An issue
+- A new issue
+
+Using *a* or *an* depends on the pronunciation of the succeeding word. Basically, *a* is used before any consonant sound, and *an* is used before any vowel sound.
+
+Acronyms
+
+## Additional Resources
+
+[The Purdue Online Writing Lab - Using Articles](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html)
