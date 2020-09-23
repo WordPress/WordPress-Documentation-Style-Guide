@@ -18,8 +18,7 @@ Examples of articles
 - A new issue
 
 Using *a* or *an* depends on the pronunciation of the succeeding word. Basically, *a* is used before any consonant sound, and *an* is used before any vowel sound.
-
-Acronyms
+The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. Refer "Abbreviations" for more information.
 
 ## Additional Resources
 
