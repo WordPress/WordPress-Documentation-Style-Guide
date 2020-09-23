@@ -46,7 +46,10 @@ Avoid internet slang abbreviations such as *tbh (to be honest)*, *fwiw (for what
 
 Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use *and others*, *for example*, *namely* instead of these.
 
+
 ## Articles
 
 
 ## Capitalization
+
+Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. Similarly, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the "A-Z Word List" for more information.
