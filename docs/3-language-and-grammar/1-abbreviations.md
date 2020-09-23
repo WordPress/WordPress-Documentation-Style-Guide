@@ -48,7 +48,7 @@ Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use 
 
 ## Articles
 
-The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *a* URL, *a* CMS, *an* IDE.
+The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Also ensure that an apostrophe (*'*) is not added before the *s*.
 
 ## Capitalization
 
