@@ -42,7 +42,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |---------------------------------------------------|--------|
 | Abbreviations & acronyms                          |    ✔️ (⚠️ while publishing)    |
 | Affirmation & Negation                            |        |
-| Articles                                          |    🔄   |
+| Articles                                          |    ✔️ (⚠️ while publishing)   |
 | Capitalization                                    |        |
 | Clause                                            |        |
 | Direct/Indirect speech, First/Second/Third person |        |
