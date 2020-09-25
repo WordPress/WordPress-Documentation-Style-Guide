@@ -6,10 +6,10 @@ WordPress follows American English capitalization rules. In general, sentence ca
 
 - Capitalize the first word of a sentence, phrase, heading, title, or any element.
 - Always capitalize proper nouns. Proper nouns include, names, brand names, organizations, companies, software, products, services, and whatever the organizations deem to be capitalized. Use lowercase for everything else.
-- If an official name, term, or abbreviation begins with a lowercase, is all-uppercase, or a mix of both uppercase and lowercase, then don't alter it.
-- Rephrase the sentence so that it doesn't start with a lowercase term.
+- If an official name, term, abbreviation, or code snippet begins with a lowercase, is all-uppercase, or a mix of both uppercase and lowercase, then don't alter it.
+- Rephrase sentences that start with a lowercase term to avoid the lowercase term in the beginning.
 - Don't capitalize words unnecessarily. If in doubt, don't capitalize the term.
-- Don't use all-uppercase.
--  
+- Don't use all-uppercase for emphasizing text. Also, don't use all-lowercase as a design preference. In both instances, text is difficult to read and it becomes difficult to distinguish between sentences.
+-
 - Avoid camel case, except while representing code or official terminology.
 - Follow the capitalization guidelines for "Hyphens".
