@@ -40,10 +40,10 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Language & Grammar 🔄
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations & acronyms                          |    ✔️ (⚠️ while publishing)    |
+| Abbreviations & acronyms                          |    ✔️ (⚠️ while publishing)   |
 | Affirmation & Negation                            |        |
 | Articles                                          |    ✔️ (⚠️ while publishing)   |
-| Capitalization                                    |    🔄   |
+| Capitalization                                    |    🔄 (⚠️ while publishing)   |
 | Clause                                            |        |
 | Direct/Indirect speech, First/Second/Third person |        |
 | Genders                                           |        |
