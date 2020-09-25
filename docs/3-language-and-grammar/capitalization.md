@@ -9,4 +9,7 @@ WordPress follows American English capitalization rules. In general, sentence ca
 - If an official name, term, or abbreviation begins with a lowercase, is all-uppercase, or a mix of both uppercase and lowercase, then don't alter it.
 - Rephrase the sentence so that it doesn't start with a lowercase term.
 - Don't capitalize words unnecessarily. If in doubt, don't capitalize the term.
-- Avoid camel case, except while detailing code or official terminology.
+- Don't use all-uppercase.
+-  
+- Avoid camel case, except while representing code or official terminology.
+- Follow the capitalization guidelines for "Hyphens".
