@@ -33,10 +33,14 @@ Capitalize text after a colon if they are headings, titles, proper nouns, offici
 For example,
 - Directory structure: Home
 - Block Editor: Making a Block
--
+- Our founder: John D.
 
 ## Capitalization and hyphens
+
+Capitalize only the first element in a hyphenated word, unless a subsequent element is a proper noun or proper adjective.
+
 ## Capitalization and figures
+
 ## Capitalization and slashes
 ## Title case capitalization
 ## Additional Resources
