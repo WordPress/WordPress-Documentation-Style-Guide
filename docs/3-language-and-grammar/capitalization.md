@@ -11,10 +11,20 @@ WordPress follows American English capitalization rules. In general, sentence ca
 - Don't capitalize words unnecessarily. If in doubt, don't capitalize the term.
 - Don't use all-uppercase for emphasizing text. Also, don't use all-lowercase as a design preference. In both instances, text is difficult to read and it becomes difficult to distinguish between sentences.
 - Avoid camel case, except while representing code or official terminology.
+- While referencing or quoting external sources, use the original capitalization. Don't alter the capitalization even if it is incorrect.
 
 ## Capitalization in titles and headings
+
+Use sentence-case capitalization in titles and headings. Capitalize the first word in the title or heading, sub-heading, any proper nouns, and official terms. Don't end the title or heading with a period.
+
 ## Capitalization in indexes and glossaries
+
+
+
 ## Capitalization in tables and lists
+
+
+
 ## Capitalization and colons
 ## Capitalization and hyphens
 ## Capitalization and figures
