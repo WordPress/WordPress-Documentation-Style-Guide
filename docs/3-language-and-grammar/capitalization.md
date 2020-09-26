@@ -21,7 +21,7 @@ Lowercase all other words and terms. Don't end the title or heading with a perio
 
 ## Capitalization in indexes and glossaries
 
-
+Apart from proper nouns and official terminology, use lowercase for index and glossary terms. Use sentence case for glossary definitions.
 
 ## Capitalization in tables and lists
 
