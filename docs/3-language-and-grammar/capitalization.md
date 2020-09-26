@@ -15,7 +15,9 @@ WordPress follows American English capitalization rules. In general, sentence ca
 
 ## Capitalization in titles and headings
 
-Use sentence-case capitalization in titles and headings. Capitalize the first word in the title or heading, sub-heading, any proper nouns, and official terms. Don't end the title or heading with a period.
+Use sentence-case capitalization in titles and headings. Capitalize the first word in the title or heading, sub-heading, any proper nouns, and official terms. If a title or heading includes a colon, capitalize the following word.
+
+Lowercase all other words and terms. Don't end the title or heading with a period.
 
 ## Capitalization in indexes and glossaries
 
