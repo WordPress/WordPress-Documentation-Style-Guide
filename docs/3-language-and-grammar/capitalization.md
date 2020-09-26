@@ -17,7 +17,8 @@ WordPress follows American English capitalization rules. In general, sentence ca
 
 Use sentence-case capitalization in titles and headings. Capitalize the first word in the title or heading, sub-heading, any proper nouns, and official terms. If a title or heading includes a colon, capitalize the following word.
 
-Lowercase all other words and terms. Don't end the title or heading with a period.
+Lowercase all other words and terms. Don't end the title or heading with a period.  
+For example, *'Creating a block for the Gutenberg block editor'*.
 
 ## Capitalization in indexes and glossaries
 
@@ -52,14 +53,12 @@ For example,
 
 ## Title case capitalization
 
-Title case capitalization may be used at times, depending on the context.  Use sentence case capitalization typically.
+Title case capitalization may be used at times, depending on the context. Title case capitalization is sometimes used in article, book, or blog titles, research paper titles, and titles of people (such as *Managing Director*). In most cases, sentence case capitalization is used.
 The general rules for title case capitalization are:
 - Capitalize the first and last words.
-- Capitalize all words
+- Capitalize all words including nouns, verbs, adverbs, adjectives, and pronouns.
 - Don't capitalize articles (*a*, *an*, *the*) unless it's the first word.
 - Don't capitalize prepositions such as *of, to, on, in, for*, etc. as long as they are four or fewer lettered words. Don't capitalize *but, or, yet*, etc. unless it's the first or last word.
--
-
 
 ## Additional Resources
 
