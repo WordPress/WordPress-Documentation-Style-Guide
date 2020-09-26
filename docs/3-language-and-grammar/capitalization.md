@@ -46,6 +46,9 @@ Capitalize terms using sentence case. Capitalize labels, captions, and other sup
 ## Capitalization and slashes
 
 For words using a slash, capitalize the word after the slash if the word before it is capitalized.
+For example,
+- *Region/Location*
+- *Press the On/Off switch.*
 
 ## Title case capitalization
 ## Additional Resources
