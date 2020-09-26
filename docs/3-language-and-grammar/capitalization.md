@@ -25,10 +25,20 @@ Apart from proper nouns and official terminology, use lowercase for index and gl
 
 ## Capitalization in tables and lists
 
-
+Use sentence case for tables, lists and all their elements.
 
 ## Capitalization and colons
+
+Capitalize text after a colon if they are headings, titles, proper nouns, official terminology, and quotations. Use lowercase if the text following the colon is exclusive of this criteria.
+For example,
+- Directory structure: Home
+- Block Editor: Making a Block
+-
+
 ## Capitalization and hyphens
 ## Capitalization and figures
 ## Capitalization and slashes
 ## Title case capitalization
+## Additional Resources
+
+[Purdue Online Writing Lab - Capitals](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html)
