@@ -39,9 +39,14 @@ For example,
 
 Capitalize only the first element in a hyphenated word, unless a subsequent element is a proper noun or proper adjective.
 
-## Capitalization and figures
+## Capitalization and illustrations
+
+Capitalize terms using sentence case. Capitalize labels, captions, and other supplemental text in illustrations.
 
 ## Capitalization and slashes
+
+For words using a slash, capitalize the word after the slash if the word before it is capitalized.
+
 ## Title case capitalization
 ## Additional Resources
 
