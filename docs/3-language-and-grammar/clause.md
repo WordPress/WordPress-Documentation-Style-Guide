@@ -5,4 +5,14 @@ For example,
 - The console will show an error, if you use the old API.
 - If you use the old API, the console will show an error.
 
-In this particular example, the reader would have to read the entire sentence to interpret it. If the reader isn't using the *old API*, they can skip the instruction, if needed.
+In this particular example, the reader would have to read the entire sentence to interpret it. If the reader isn't using the *old API*, they can skip the instruction, if needed. Therefore, put conditional clauses before instructions (main clauses), rather than after them.
+
+Examples
+[warning] Not Recommended: [/warning]  
+[tip] Recommended: [/tip]
+
+[warning] Not Recommended: [/warning]  
+[tip] Recommended: [/tip]
+
+[warning] Not Recommended: [/warning]  
+[tip] Recommended: [/tip]
