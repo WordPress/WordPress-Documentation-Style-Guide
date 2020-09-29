@@ -29,7 +29,7 @@ Examples
 
 ## Double contractions
 
-Avoid double contractions. Double contractions contain two contractions as opposed to one.
+Avoid using double contractions. Double contractions contain two contractions as opposed to one.
 
 Examples:
 - *wouldn't've - would not have*.
@@ -38,7 +38,7 @@ Examples:
 - *mightn't've - might not have*.
 - *'tisn't - it is not*.
 
-
+Double contractions, including slang and archaic, are difficult to understand. Avoid using these in documentation.
 
 ## Additional Resources
 
