@@ -14,7 +14,7 @@ Examples
 - Use common contractions such as *they've, that's, you're, it's*, in your documentation.
 - Be wary of common mistakes such as confusing *you're* with *your*, and *it's* with *its*.
 - Use negation contractions such as *don't, can't, shouldn't,* and *isn't*.
-- Avoid unconventional and awkward contractions such as *where're, mightn't, mayn't, 'twas'*, and slang contractions like *gotta, imma, wanna*.
+- Avoid awkward and unconventional contractions such as *where're, mightn't, mayn't, 'twas'*, and slang contractions like *gotta, imma, wanna*.
 
 ## Noun and verb contractions
 
@@ -32,7 +32,13 @@ Examples
 Avoid double contractions. Double contractions contain two contractions as opposed to one.
 
 Examples:
-- 
+- *wouldn't've - would not have*.
+- *you'd've - you would have*.
+- *sha'n't - shall not (shall + n't)*.
+- *mightn't've - might not have*.
+- *'tisn't - it is not*.
+
+
 
 ## Additional Resources
 
