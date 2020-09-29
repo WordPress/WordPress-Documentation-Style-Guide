@@ -24,8 +24,8 @@ Examples
 [warning] Not Recommended: Gutenberg's using a new, refreshed UI.  [/warning]  
 [tip] Recommended: Gutenberg is using a new, refreshed UI. [/tip]
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]
+[warning] Not Recommended: These formats've proven to be highly beneficial. [/warning]  
+[tip] Recommended: These formats have proven to be highly beneficial. [/tip]
 
 ## Double contractions
 
