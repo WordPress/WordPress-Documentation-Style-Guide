@@ -4,10 +4,16 @@ A contraction is a shortened form of a word, syllable, or a combination of words
 
 As WordPress documentation makes use of a colloquial tone, you can utilize contractions in your content. Although, be watchful of some exceptions.
 
+Examples
+- *I'm - I am*.
+- *they've - they have*.
+- *don't - do not*.
+
 ## Common contractions
 
-Use common contractions such as *they're, that's, you're, it's*, in your documentation.
-Be wary of common mistakes such as confusing *you're* with *your*, and *it's* with *its*. 
+- Use common contractions such as *they've, that's, you're, it's*, in your documentation.
+- Be wary of common mistakes such as confusing *you're* with *your*, and *it's* with *its*.
+- Use negation contractions such as *don't, can't*.
 
 
 ## Additional Resources
