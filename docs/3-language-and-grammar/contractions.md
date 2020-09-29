@@ -16,7 +16,7 @@ Examples
 - Use negation contractions such as *don't, can't, shouldn't,* and *isn't*.
 - Avoid unconventional and awkward contractions such as *where're, mightn't, mayn't, 'twas'*, and slang contractions like *gotta, imma, wanna*.
 
-## Noun + verb contractions
+## Noun and verb contractions
 
 Don't use contractions formed with nouns and verbs. Contractions formed with nouns and verbs are generally complex and uncommon words.  
 
@@ -25,11 +25,14 @@ Examples
 [tip] Recommended: Gutenberg is using a new, refreshed UI. [/tip]
 
 [warning] Not Recommended: These formats've proven to be highly beneficial. [/warning]  
-[tip] Recommended: These formats have proven to be highly beneficial. [/tip]
+[tip] Recommended: These formats have proven to be highly beneficial. [/tip]  
 
 ## Double contractions
 
+Avoid double contractions. Double contractions contain two contractions as opposed to one.
 
+Examples:
+- 
 
 ## Additional Resources
 
