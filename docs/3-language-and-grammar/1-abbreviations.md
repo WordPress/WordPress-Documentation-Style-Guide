@@ -16,7 +16,7 @@ Abbreviations include acronyms, initialisms, contractions, and shortened phrases
   - *I'm - I am*.
   - *they've - they have*.
   - Additional information on "Contractions".
-- A shortened word or phrase is part of the word or phrase, but condensed; sometimes with a period at the end.
+- A shortened word or phrase which is part of the word or phrase, but condensed; sometimes with a period at the end.
   - *Dr. - Doctor*.
   - *Rd. - Road*.
   - *etc. - et cetera*.
