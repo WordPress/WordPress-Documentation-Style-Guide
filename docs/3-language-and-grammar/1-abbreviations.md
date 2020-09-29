@@ -15,6 +15,7 @@ Abbreviations include acronyms, initialisms, contractions, and shortened phrases
 - A contraction is a short form of a word or a combination of words that is often used instead of the full form in spoken English.
   - *I'm - I am*.
   - *they've - they have*.
+  - *wanna - want to*.
   - Additional information on "Contractions".
 - A shortened word or phrase which is part of the word or phrase, but condensed; sometimes with a period at the end.
   - *Dr. - Doctor*.
