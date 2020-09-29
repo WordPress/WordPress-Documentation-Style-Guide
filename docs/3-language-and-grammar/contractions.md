@@ -14,15 +14,15 @@ Examples
 - Use common contractions such as *they've, that's, you're, it's*, in your documentation.
 - Be wary of common mistakes such as confusing *you're* with *your*, and *it's* with *its*.
 - Use negation contractions such as *don't, can't, shouldn't,* and *isn't*.
-- Avoid unconventional contractions such as *where're, mightn't, mayn't, 'twas'* and slang contractions like *gotta, imma, wanna*.
+- Avoid unconventional and awkward contractions such as *where're, mightn't, mayn't, 'twas'*, and slang contractions like *gotta, imma, wanna*.
 
 ## Noun + verb contractions
 
 Don't use contractions formed with nouns and verbs. Contractions formed with nouns and verbs are generally complex and uncommon words.  
 
 Examples  
-[warning] Not Recommended:   [/warning]  
-[tip] Recommended:  [/tip]
+[warning] Not Recommended: Gutenberg's using a new, refreshed UI.  [/warning]  
+[tip] Recommended: Gutenberg is using a new, refreshed UI. [/tip]
 
 [warning] Not Recommended:  [/warning]  
 [tip] Recommended:  [/tip]
