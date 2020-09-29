@@ -45,6 +45,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Articles                                          |    ✔️ (⚠️ while publishing)   |
 | Capitalization                                    |    ✔️ (⚠️ while publishing)   |
 | Clause                                            |    ✔️    |
+| Contractions (New component)                      |    🔄    |
 | Direct/Indirect speech, First/Second/Third person |        |
 | Genders                                           |        |
 | Glossary                                          |        |
