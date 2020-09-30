@@ -24,5 +24,5 @@ Use first person (*I, we*) only when absolutely needed. First person may be used
 [warning] Not Recommended: We at WordPress are committed to being as inclusive and accessible as possible.  [/warning]  
 [tip] Recommended: The WordPress community is committed to being as inclusive and accessible as possible. [/tip]
 
-[warning] Not Recommended:   [/warning]  
-[tip] Recommended:  [/tip]
+[warning] Not Recommended: For additional details, refer our website.  [/warning]  
+[tip] Recommended: For additional details, refer WordPress.org  [/tip]
