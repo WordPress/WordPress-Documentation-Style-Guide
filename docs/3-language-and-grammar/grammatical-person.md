@@ -7,3 +7,7 @@ Briefly, the first person refers to the person speaking (*I, we*), the second pe
 ## Second person
 
 In general, use second person in your documentation. Second person depicts a friendly tone, with a perfect focus on the reader. In addition to this, directly addressing the reader helps avoid passive voice; thereby preventing unwanted confusion.  
+
+## First person
+
+Use first person (*I, we*) only when absolutely needed. First person may be used in quotes, direct references, and personifications. First person plurals such as *we* may intimidate the reader in some cases. Try to avoid first person plural, but be cautious if you're them.
