@@ -57,7 +57,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Direct/Indirect speech                            |        |
 | Genders                                           |        |
 | Glossary                                          |        |
-| Grammatical Person                                |   🔄   |
+| Grammatical Person                                |   ✔️   |
 | Nouns                                             |        |
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |        |
