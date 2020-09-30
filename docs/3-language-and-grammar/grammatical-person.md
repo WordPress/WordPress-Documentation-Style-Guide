@@ -26,3 +26,7 @@ Use first person (*I, we*) only when absolutely needed. First person may be used
 
 [warning] Not Recommended: For additional details, refer our website.  [/warning]  
 [tip] Recommended: For additional details, refer WordPress.org  [/tip]
+
+## Additional resources
+
+[Wikipedia - Grammatical Person](https://en.wikipedia.org/wiki/Grammatical_person)
