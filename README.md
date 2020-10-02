@@ -60,7 +60,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |        |
 | Prefixes & suffixes                               |        |
-| Prepositions                                      |   🔄   |
+| Prepositions                                      |   ✔️   |
 | Pronouns                                          |        |
 | Referencing                                       |        |
 | Slang & jargon                                    |        |
