@@ -11,3 +11,8 @@ Examples
 ## Prepositional phrases
 
 A prepositional phrase consists of a preposition and the words that follow it. In a prepositional phrase, the object (the following words), may be a noun, pronoun, gerund, or clause.
+
+Example
+- The preview shows how the page will look on the front end.
+
+Avoid making long prepositional phrases. Long prepositional phrases are difficult to read and interpret.
