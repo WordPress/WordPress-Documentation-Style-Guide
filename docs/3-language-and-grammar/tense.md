@@ -1,6 +1,6 @@
 # Tense
 
-In general, write in the present tense rather than future tense. Occasionally in some cases, future tense is needed while writing about the expected behavior of something in the future. Future tense can cautiously used for highlighting a future occurrence from the reader's perspective. For example, avoid sentences like, "After clicking **Run**, you will see the updated window in 10 seconds." Additionally, sentences using present tense are easier to read and interpret than sentences that use past or future tense. Therefore, adhere to present tense, avoid future tense (*will, would*, etc.) and use it only when absolutely needed.
+In general, write in present tense rather than future tense. Occasionally in some cases, future tense is needed while writing about the expected behavior of something in the future. Future tense can cautiously used for highlighting a future occurrence from the reader's perspective. For example, avoid sentences like, "After clicking **Run**, you will see the updated window in 10 seconds." Additionally, sentences using present tense are easier to read and interpret than sentences that use past or future tense. Therefore, adhere to present tense, avoid future tense (*will, would*, etc.) and use it only when absolutely needed.
 
 Don't document or attempt to predict WordPress' future features, products, or services unless explicitly specified. For more information, refer "Facts and Claims".
 
