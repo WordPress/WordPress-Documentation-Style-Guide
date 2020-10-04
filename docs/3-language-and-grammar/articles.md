@@ -8,7 +8,7 @@ For example, 'I watched *the* video.' Here, *the* particular video is being watc
 
 Including articles in your writing is essential for overall simplicity of language and ease of understanding.
 
-Examples of articles
+**Examples of articles**
 - A document
 - An hour
 - A link

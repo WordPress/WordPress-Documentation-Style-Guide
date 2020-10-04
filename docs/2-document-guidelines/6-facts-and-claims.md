@@ -8,4 +8,4 @@ If a particular fact is not verified or proven, don't go into ambiguities. Subst
 
 ## Documenting future features
 
-Don't document WordPress' future features, products, or services unless explicitly specified.
+Don't document or attempt to predict WordPress' future features, products, or services unless explicitly specified.
