@@ -12,7 +12,7 @@ In general, use second person in your documentation. Second person depicts a fri
 
 Use first person (*I, we*) only when absolutely needed. First person may be used in quotes, direct references, and personifications. First person plurals such as *we* and *our* may intimidate the reader in some cases. Try to avoid first person plurals, but be cautious if you're using them.
 
-## Examples
+**Examples**
 
 [warning] Not Recommended: Add an embed block to our page.  [/warning]  
 [tip] Recommended: Add an embed block to your page. [/tip]
