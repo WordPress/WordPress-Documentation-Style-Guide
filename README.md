@@ -68,7 +68,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Technical terms                                   |        |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |        |
-| Voice                                             |        |
+| Voice                                             |   🔄   |
 
 ### Punctuation
 | Component                    | Status |
