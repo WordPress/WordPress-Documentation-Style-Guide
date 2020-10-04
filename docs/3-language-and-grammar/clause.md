@@ -7,7 +7,7 @@ For example,
 
 In this particular example, the reader would have to read the entire sentence to interpret it. If the reader isn't using the *old API*, they can skip the instruction, if needed. Therefore, put conditional clauses before instructions (main clauses), rather than after them.
 
-Examples  
+**Examples**    
 [warning] Not Recommended: Click **Install** if you want to install the plugin.  [/warning]  
 [tip] Recommended: To install the plugin, click **Install**. [/tip]
 
