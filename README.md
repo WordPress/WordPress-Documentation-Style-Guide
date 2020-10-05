@@ -60,7 +60,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |        |
 | Plurals (New component)                           |        |
-| Possessives (New component)                       |   🔄   |
+| Possessives (New component)                       |   ✔️   |
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |        |
