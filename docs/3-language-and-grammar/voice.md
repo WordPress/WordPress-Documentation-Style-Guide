@@ -1,6 +1,10 @@
 # Voice
 
-In general, use active voice rather than passive voice. When the subject (person or thing) of a sentence is performing the action, the sentence uses active voice. When the subject (person or thing) of a sentence is being acted upon, then the sentence uses passive voice. Active voice is more effective than passive voice and reduces the word count of a sentence. In sentences using passive voice, it may be difficult inferring who or what the subject is.
+In general, use active voice rather than passive voice.
+- When the subject (person or thing) of a sentence is performing the action, the sentence uses active voice.
+- When the subject (person or thing) of a sentence is being acted upon, then the sentence uses passive voice. The subject is the receiver of the action.
+
+Active voice is more effective than passive voice and reduces the word count of a sentence. In sentences using passive voice, it may be difficult inferring who or what the subject is.
 
 **Examples**  
 
@@ -17,7 +21,7 @@ Passive voice can be used when:
 - If the sentence does not need a subject, or if the subject is not the focus of the sentence.
 - The system performs an action.
 - Active voice creates a cumbersome sentence structure.
-- You want to avoid blaming the user in cases like error messages.
+- You want to avoid blaming the user in cases like error messages and warnings.
 - You want to emphasize objects/actions in a heading or title.
 
 **Examples**  
@@ -28,3 +32,5 @@ Passive voice can be used when:
 [tip] Recommended: The file is saved. [/tip]
 
 [tip] Recommended: The backup was created.  [/tip]
+
+[tip] Recommended: Error 404 - Site not found. [/tip]
