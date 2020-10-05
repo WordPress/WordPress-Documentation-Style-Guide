@@ -14,7 +14,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | ❌      | Discarded   |
 | ⚠️      | Needs Changes |
 
-### Style Guide Introduction (New Section)
+### Style Guide Introduction (New Section) 🔄
 | Component                          | Status  |
 |------------------------------------|---------|
 | WordPress Style Guide              |   🔄 (⚠️ while publishing)   |
@@ -56,9 +56,11 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Contractions (New component)                      |    ✔️ (⚠️ while publishing)   |
 | Direct/Indirect speech                            |        |
 | Genders                                           |        |
-| Glossary                                          |        |
+| Glossary                                          |   (Moved to Word Usage Dictionary)  |
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |        |
+| Plurals (New component)                           |        |
+| Possessives (New component)                       |   🔄   |
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |        |
