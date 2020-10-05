@@ -6,16 +6,20 @@ To form a possessive of a singular or plural noun, add *'s* to the end of the wo
 **Examples**  
 
 Singular nouns
-- John's
-- Buzz's
-- application's
-- bus's
-- Chris's or Chris'
-- Mr. Williams's
+- John's car.
+- Buzz's laptop.
+- application's password.
+- bus's brakes.
+- business's manager.
+- Chris's key or Chris' key.
+- Mr. Williams's suitcase or Mr. Williams' suitcase.  
+
+Exception: If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.
 
 Plural nouns
-- computers'
-- buses'
-- scissors'
-- pants'
-- The Jones' family
+- computers' keyboards.
+- buses' parking.
+- scissors' handles.
+- business' earnings.
+- The Jones' family.
+- Williams' house.
