@@ -14,12 +14,22 @@ Singular nouns
 - Chris's key or Chris' key.
 - Mr. Williams's suitcase or Mr. Williams' suitcase.  
 
-Exception: If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.
+**Exception:** If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.
+**Exception:** The possessive of *it* is *its* and doesn't have an apostrophe. Be wary of common mistakes such as confusing *itss* with *it's* (which is a contraction for *it is*).
 
 Plural nouns
 - computers' keyboards.
 - buses' parking.
 - scissors' handles.
 - business' earnings.
-- The Jones' family.
+- Jones' cars.
 - Williams' house.
+
+## Company, product and brand names
+
+Add and apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
+
+[tip] The possessive of WordPress is ***WordPress'*** [/tip]
+
+[warning] Not Recommended: Yoast's features are numerous. [/warning]  
+[tip] Recommended: The features of Yoast are numerous. [/tip]
