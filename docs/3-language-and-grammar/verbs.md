@@ -1,3 +1,19 @@
 # Verbs
 
-Use precise verbs to write clear, succinct sentences. In general, use an indicative mood of verbs that convey a friendly, natural tone without being condescending towards the reader.
+Use precise verbs to write clear, succinct sentences.
+
+## Moods of verbs
+
+In general, use an indicative mood of verbs that convey a friendly, natural tone without being condescending towards the reader.
+
+**Types of verb moods**
+
+| **Mood**          | **Description**                                              | **Example**                                                                              |
+|-------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| **Indicative**    | Expresses factual statements, questions, and assertions.     | The dashboard displays a relevant overview and summary of your website.                  |
+| **Conditional**   | Expresses conditional statements; normally uses if/then.     | If you click the **Preview** button, you'll see a preview of your page on the front-end. |
+| **Imperative**    | Expresses a request, command, instructions, etc.             | Click **Preview**.                                                                       |
+| **Subjunctive**   | Expresses hypothetical, non-factual, or doubtful statements. | You might need to click **Preview**.                                                     |
+| **Interrogative** | Expresses uncertainty, asks a question.                      | Do you need to click **Preview**?                                                        |
+
+Avoid using subjunctive and interrogative moods while writing documentation. Any form of uncertainty, hypothesis is confusing for the reader.
