@@ -6,12 +6,12 @@ To form a possessive of a singular or plural noun, add *'s* to the end of the wo
 **Examples**  
 
 Singular nouns
-- John's car
+- John's software
 - Buzz's laptop
 - application's password
-- bus's brakes
+- bus's architecture
 - business's manager
-- class's timings
+- class's description
 - Chris's key or Chris' key
 - Mr. Williams's suitcase or Mr. Williams' suitcase  
 
@@ -20,12 +20,12 @@ Singular nouns
 
 Plural nouns
 - computers' keyboards
-- buses' parking
-- scissors' handles
+- buses' architecture
+- arrays' elements
 - business' earnings
-- classes' teacher
-- Jones' cars
-- Williams' house
+- classes' declaration
+- Jones' programs
+- Williams' websites
 
 ## Company, product, and brand names
 
