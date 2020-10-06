@@ -27,7 +27,7 @@ Plural nouns
 - Jones' cars
 - Williams' house
 
-## Company, product and brand names
+## Company, product, and brand names
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
 
