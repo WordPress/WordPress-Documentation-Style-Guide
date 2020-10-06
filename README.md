@@ -69,7 +69,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Spellings                                         |        |
 | Technical terms                                   |        |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
-| Verbs                                             |   🔄   |
+| Verbs                                             |   🔄 (⚠️ while publishing)  |
 | Voice                                             |   ✔️   |
 
 ### Punctuation
