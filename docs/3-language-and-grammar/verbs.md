@@ -1,10 +1,12 @@
 # Verbs
 
-Use precise verbs to write clear, succinct sentences.
+Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For additional information, refer "Voice".
+
+
 
 ## Moods of verbs
 
-In general, use an indicative mood of verbs that convey a friendly, natural tone without being condescending towards the reader.
+In general, use an indicative mood of verbs that convey a factual, friendly, and natural tone without being condescending towards the reader.
 
 **Types of verb moods**
 
@@ -16,4 +18,4 @@ In general, use an indicative mood of verbs that convey a friendly, natural tone
 | **Subjunctive**   | Expresses hypothetical, non-factual, or doubtful statements. | You might need to click **Preview**.                                                     |
 | **Interrogative** | Expresses uncertainty, asks a question.                      | Do you need to click **Preview**?                                                        |
 
-Avoid using subjunctive and interrogative moods while writing documentation. Any form of uncertainty, hypothesis is confusing for the reader.
+Avoid using subjunctive and interrogative moods while writing documentation. Any form of uncertainty, hypothesis is confusing for the reader. Don't change moods within a sentence.
