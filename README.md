@@ -56,7 +56,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Contractions (New component)                      |    ✔️ (⚠️ while publishing)   |
 | Direct/Indirect speech                            |        |
 | Genders                                           |   (Moved to Pronouns)     |
-| Glossary                                          |   (Moved to Word Usage Dictionary)  |
+| Glossary                                          |  (Moved to Word Usage Dictionary) |
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |        |
 | Plurals (New component)                           |        |
@@ -64,7 +64,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |        |
-| Referencing                                       |        |
+| Referencing                                       |   🔄   |
 | Slang & jargon                                    |        |
 | Spellings                                         |        |
 | Technical terms                                   |        |
