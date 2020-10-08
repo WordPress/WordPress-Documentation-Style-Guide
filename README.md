@@ -63,7 +63,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Possessives (New component)                       |   ✔️   |
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |   ✔️   |
-| Pronouns                                          |        |
+| Pronouns                                          |   🔄   |
 | Referencing                                       |   (Moved to Formatting)   |
 | Slang & jargon                                    |        |
 | Spellings                                         |        |
