@@ -64,7 +64,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Prefixes & suffixes                               |        |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |        |
-| Referencing                                       |   🔄   |
+| Referencing                                       |   (Moved to Formatting)   |
 | Slang & jargon                                    |        |
 | Spellings                                         |        |
 | Technical terms                                   |        |
@@ -106,6 +106,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Notes, Warnings, Tips                                             |        |
 | Numbers & Phone Numbers                                           |        |
 | Polyglots, Translation, Language Scripts                          |        |
+| Referencing                                                       |        |
 | Spacing                                                           |        |
 | Tables                                                            |        |
 | Text                                                              |        |
