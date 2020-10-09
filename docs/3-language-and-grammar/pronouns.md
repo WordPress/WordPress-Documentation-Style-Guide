@@ -11,8 +11,8 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 [warning] Not Recommended: Create a new post with the plugin. You can see it on the blog page. [/warning]  
 [tip] Recommended: Create a new post with the plugin, You can see the post on the blog page. [/tip]
 
-[warning] Not Recommended: The quick draft feature allows you to draft a new post.  [/warning]  
-[tip] Recommended: [/tip]
+[warning] Not Recommended: The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/.  [/warning]  
+[tip] Recommended: The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]
 
 ## Pronouns and gender
 
