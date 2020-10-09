@@ -4,7 +4,15 @@ A pronoun is a word that is used as a substitute for a noun or a noun phrase, wh
 
 ## Ambiguities using Pronouns
 
+Ensure that the pronoun you're using is referencing its antecedent (the noun that it's replacing) clearly.
 
+**Examples**
+
+[warning] Not Recommended: Create a new post with the plugin. You can see it on the blog page. [/warning]  
+[tip] Recommended: Create a new post with the plugin, You can see the post on the blog page. [/tip]
+
+[warning] Not Recommended: The quick draft feature allows you to draft a new post.  [/warning]  
+[tip] Recommended: [/tip]
 
 ## Pronouns and gender
 
