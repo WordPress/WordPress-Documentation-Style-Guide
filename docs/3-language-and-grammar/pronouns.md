@@ -1,5 +1,11 @@
 # Pronouns
 
+A pronoun is a word that is used as a substitute for a noun or a noun phrase, which are contextually understood. Pronouns are used so that a particular noun isn't repeatedly used.
+
+## Ambiguities using Pronouns
+
+
+
 ## Pronouns and gender
 
 Don't use gender-specific pronouns unless the person being referred actually uses that gender. If you're unsure which gender-specific pronoun to use, rewrite the sentence using second person (*you*).
