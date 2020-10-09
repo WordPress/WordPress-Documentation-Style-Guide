@@ -14,6 +14,9 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 [warning] Not Recommended: The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/.  [/warning]  
 [tip] Recommended: The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]
 
+[warning] Not Recommended: Toggle this to *on.* [/warning]  
+[tip] Recommended: Toggle this button to *on.* [/tip]
+
 ## Pronouns and gender
 
 Don't use gender-specific pronouns unless the person being referred actually uses that gender. If you're unsure which gender-specific pronoun to use, rewrite the sentence using second person (*you*).
