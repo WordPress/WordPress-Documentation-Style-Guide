@@ -35,3 +35,7 @@ Use gender-neutral pronouns while particularly avoiding binary pronouns such as 
 Instead, use *they* as a gender-neutral pronoun.
 
 For more guidelines about writing using gender-neutral pronouns, refer "Inclusivity".
+
+## Pronouns and collective nouns
+
+Avoid using pronouns like *they* for collective nouns. For example, *team* would take a singular pronoun. Rewrite the sentence using the appropriate pronouns.
