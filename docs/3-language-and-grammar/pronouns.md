@@ -7,9 +7,9 @@ A pronoun is a word that is used as a substitute for a noun or a noun phrase, wh
 Avoid using personal pronouns such as *I, we, us, our,* and *ours* except in the following contexts:  
 - Questions in FAQs.
 - A document whose author makes comments in the first person.
-- Using *we* to refer your organization or team, after using its name.
+- Using *we* to refer your organization or team, after using its name for the first time.
 
- 
+Use second person (*you*) instead of first-person pronouns.
 
 ## Pronouns and gender
 
@@ -19,6 +19,16 @@ Use gender-neutral pronouns while particularly avoiding binary pronouns such as 
 Instead, use *they* as a gender-neutral pronoun.
 
 For more guidelines about writing using gender-neutral pronouns, refer "Inclusivity".
+
+## Relative pronouns
+
+Be careful while using relative pronouns such as *who, that*, and *which*.
+*That* and *which* don't mean exactly the same thing and cannot be used interchangeably.
+
+**Example**
+[warning] The folder that is blue can be used. [/warning]
+
+[tip] The folder, which is blue can be used. [/tip]
 
 ## Pronouns and collective nouns
 
