@@ -26,9 +26,12 @@ Be careful while using relative pronouns such as *who, that*, and *which*.
 *That* and *which* don't mean exactly the same thing and cannot be used interchangeably.
 
 **Example**
+
 [warning] The folder that is blue can be used. [/warning]
+This sentence describes a specific blue folder that can be used.
 
 [tip] The folder, which is blue can be used. [/tip]
+This sentence describes a blue folder from a group of folders can be used.
 
 ## Pronouns and collective nouns
 
