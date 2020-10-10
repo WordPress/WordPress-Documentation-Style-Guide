@@ -33,6 +33,10 @@ This sentence describes a specific blue folder that can be used. *That* introduc
 [tip] The folder, which is blue can be used. [/tip]
 This sentence describes a blue folder from a group of folders can be used. *Which* introduces a non-restrictive clause and is preceded by a comma.
 
+Use *who* while referring to people instead of *that*.
+
+**Examples**
+
 
 ## Pronouns and collective nouns
 
