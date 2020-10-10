@@ -17,6 +17,16 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 [warning] Not Recommended: Toggle this to *on.* [/warning]  
 [tip] Recommended: Toggle this button to *on.* [/tip]
 
+Use optional pronouns, such as that and who, to avoid ambiguity and clarify meaning in sentences.
+
+**Examples**
+
+[warning] Not Recommended: Create the new post you want to see on the blog page. [/warning]  
+[tip] Recommended: Create the new post that you want to see on the blog page. [/tip]
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]
+
 ## Pronouns and gender
 
 Don't use gender-specific pronouns unless the person being referred actually uses that gender. If you're unsure which gender-specific pronoun to use, rewrite the sentence using second person (*you*).
