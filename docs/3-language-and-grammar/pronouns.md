@@ -24,8 +24,8 @@ Use optional pronouns, such as that and who, to avoid ambiguity and clarify mean
 [warning] Not Recommended: Create the new post you want to see on the blog page. [/warning]  
 [tip] Recommended: Create the new post that you want to see on the blog page. [/tip]
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]
+[warning] Not Recommended: Select the file you want to copy. [/warning]  
+[tip] Recommended: Select the file that you want to copy. [/tip]
 
 ## Pronouns and gender
 
