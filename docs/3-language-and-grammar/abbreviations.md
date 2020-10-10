@@ -47,6 +47,8 @@ Avoid internet slang abbreviations such as *tbh (to be honest)*, *fwiw (for what
 
 Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use *and others*, *for example*, *namely* instead of these.
 
+Don't add an *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm.
+
 ## Articles
 
 The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms.
