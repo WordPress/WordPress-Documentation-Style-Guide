@@ -27,16 +27,21 @@ Be careful while using relative pronouns such as *who, that*, and *which*.
 
 **Example**
 
-[warning] The folder that is blue can be used. [/warning]
+[warning] Not Recommended: The folder that is blue can be used. [/warning]
 This sentence describes a specific blue folder that can be used. *That* introduces a restrictive clause and isn't preceded by a comma.
 
-[tip] The folder, which is blue can be used. [/tip]
+[tip] Recommended: The folder, which is blue can be used. [/tip]
 This sentence describes a blue folder from a group of folders can be used. *Which* introduces a non-restrictive clause and is preceded by a comma.
 
-Use *who* while referring to people instead of *that*.
+Use *who* while referring to people instead of *that*. The possessive of *who*, *whose* can also be used for people, animals, and things.
 
 **Examples**
 
+[warning] Not Recommended: Contact the developer that fixed the error. [/warning]
+
+[tip] Recommended: Contact the developer who fixed the error. [/tip]
+
+[tip] Recommended: Refer the guide whose elements are cited. [/tip]
 
 ## Pronouns and collective nouns
 
