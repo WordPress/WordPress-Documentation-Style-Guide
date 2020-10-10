@@ -49,7 +49,7 @@ Use English terms over Latin abbreviations such as *et al.*, *eg.*, *viz.*; use 
 
 ## Articles
 
-The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Examples include APIs, CMSs, IDEs. Also ensure that the possessive form of the word (an apostrophe *'* before the *s*) is not used.
+The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms.
 
 ## Capitalization
 
@@ -58,3 +58,7 @@ Lowercase all the words in the spelled-out form except for the proper nouns. Wor
 ## Periods
 
 Use periods at the end of shortened words. Don't use periods with acronyms and initialisms. Similarly, don't use periods with commons words that are abbreviations such as *app* or *demo*. Don't use a period with an abbreviation for the name of a country, US state, or the District of Columbia (DC).
+
+## Plurals of abbreviations
+
+The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Examples include APIs, CMSs, IDEs. Also ensure that the possessive form of the word (an apostrophe *'* before the *s*) is not used.
