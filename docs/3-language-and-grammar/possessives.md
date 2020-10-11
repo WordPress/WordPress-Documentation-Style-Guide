@@ -31,6 +31,8 @@ Plural nouns
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
 
+**Examples**
+
 [tip] The possessive of WordPress is ***WordPress'*** [/tip]
 
 [warning] Not Recommended: Gutenberg's features are numerous. [/warning]  
