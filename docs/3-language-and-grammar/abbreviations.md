@@ -3,30 +3,30 @@
 Abbreviations include acronyms, initialisms, contractions, and shortened phrases and words.
 
 - An acronym is formed from the initial letters of words from a particular phrase. Acronyms are pronounced as words themselves.
-  - *Laser - Light amplification by stimulated emission of radiation*.
-  - *Radar - Radio detection and ranging*.
-  - *LAN - Local Area Network*.
-  - *CRUD - Create, Read, Update, Delete*.
+  - *Laser - Light amplification by stimulated emission of radiation*
+  - *Radar - Radio detection and ranging*
+  - *LAN - Local Area Network*
+  - *CRUD - Create, Read, Update, Delete*
 - An initialism is formed from the initial letters of words from a particular phrase, but each letter is pronounced separately.
-  - *HTML - Hyper Text Markup Language*.
-  - *PST - Pacific Standard Time*.
-  - *USB - Universal Serial Bus*.
-  - *IMO - In My Opinion*.
+  - *HTML - Hyper Text Markup Language*
+  - *PST - Pacific Standard Time*
+  - *USB - Universal Serial Bus*
+  - *IMO - In My Opinion*
 - A contraction is a short form of a word or a combination of words that is often used instead of the full form in spoken English.
-  - *I'm - I am*.
-  - *they've - they have*.
-  - *wanna - want to*.
+  - *I'm - I am*
+  - *they've - they have*
+  - *wanna - want to*
   - Additional information on "Contractions".
 - A shortened word or phrase which is part of the word or phrase, but condensed; sometimes with a period at the end.
-  - *Dr. - Doctor*.
-  - *Rd. - Road*.
-  - *etc. - et cetera*.
-  - *min - minutes*.
+  - *Dr. - Doctor*
+  - *Rd. - Road*
+  - *etc. - et cetera*
+  - *min - minutes*
 - Sometimes the long and short versions of a word are used interchangeably. These words don't need a period at the end.
-  - *max - Maximum*.
-  - *info - Information*.
-  - *app - Application*.
-  - *uni - University*.
+  - *max - Maximum*
+  - *info - Information*
+  - *app - Application*
+  - *uni - University*
 
 Some words often have concurrent characteristics of acronyms, initialisms, or shortened words. Words like GUI, GIF could be either spoken as an acronym or an initialism; subject to preference of the speaker.
 
