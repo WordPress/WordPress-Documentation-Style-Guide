@@ -1,18 +1,34 @@
 # Plurals
 
+If a singular noun ends without an *-s*, add an *s* at the end to get its plural form. If a singular noun ends with an *-s, -ss, -sh, -ch, -x, or -z*, add an *es* at the end to get its plural from. Additional information on plurals and their exceptions can be found [on Wikipedia](https://en.wikipedia.org/wiki/English_plurals).
+- computer - computers
+- page - pages
+- tax - taxes
+- bias - biases
+
+To pluralize a number, add an *-s* at the end. Don't add an *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm.
+- the 2000s
+- the '70s
+
+Don't use apostrophes to form plurals of abbreviations. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Also ensure that the possessive form of the word (an apostrophe *'* before the *s*) is not used.
+- APIs
+- CMSs
+- IDEs  
+
+For additional information, refer "Abbreviations".
+
 Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]
+**Examples**
 
-
-## Plurals and abbreviations
-
-Don't use apostrophes to form plurals of abbreviations. The plural of an abbreviation can be formed like any other regular term; if the abbreviation is for a singular noun, add a lowercase *s* to form its plural. If the abbreviation is for a plural noun, don't add an *s*. Examples include APIs, CMSs, IDEs. Also ensure that the possessive form of the word (an apostrophe *'* before the *s*) is not used. For additional information, refer "Abbreviations".
+[warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
+[tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
 ## Plurals in parentheses
 
 Don't put optional plurals in parentheses, rather use either the plural or singular form of the word. Determine a word form that is most appropriate for your documentation and stay consistent with its usage. If it is essential to indicate both, use *one or more*.
+
+**Examples**
 
 [warning] Not Recommended: To see your existing post(s), go to the Posts page. [/warning]  
 [tip] Recommended: To see your existing posts, go to the Posts page. [/tip]
