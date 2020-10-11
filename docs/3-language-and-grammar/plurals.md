@@ -12,3 +12,10 @@ Don't put optional plurals in parentheses, but rather use either the plural or s
 
 [warning] Not Recommended: To see your existing post(s), go to the Posts page. [/warning]  
 [tip] Recommended: To see your existing posts, go to the Posts page. [/tip]
+
+[warning] Not Recommended: You can categorize your post with tag(s). [/warning]  
+[tip] Recommended: You can categorize your post with one or more tags. [/tip]
+[tip] Recommended: You can categorize your post with multiple tags. [/tip]
+
+[warning] Not Recommended: Making changes to the code while running the server could cause error(s) in your database(s). [/warning]  
+[tip] Recommended: Making changes to the code while running the server could cause errors in your databases. [/tip]
