@@ -5,7 +5,7 @@ WordPress follows American English capitalization rules. In general, sentence ca
 ## General do's and don'ts
 
 - Capitalize the first word of a sentence, phrase, heading, title, or any element.
-- Always capitalize proper nouns. Proper nouns include, names, brand names, organizations, companies, software, products, services, and whatever the organizations deem to be capitalized. Use lowercase for everything else.
+- Always capitalize proper nouns. Proper nouns include, names, places, brand names, organizations, companies, software, products, services, and whatever the organizations deem to be capitalized. Use lowercase for everything else.
 - If an official name, term, abbreviation, or code snippet begins with a lowercase, is all-uppercase, or a mix of both uppercase and lowercase, then don't alter it.
 - Rephrase sentences that start with a lowercase term to avoid the lowercase term in the beginning.
 - Don't capitalize words unnecessarily. If in doubt, don't capitalize the term.
