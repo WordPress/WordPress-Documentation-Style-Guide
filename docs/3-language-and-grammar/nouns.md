@@ -4,7 +4,7 @@ A noun is a word used to identify people, places, or things (common noun), or pa
 
 ## Proper nouns
 
-Proper nouns are unique people, places, and things. Always capitalize proper nouns in sentences.
+Proper nouns are unique people, places, and things. Always capitalize proper nouns in sentences.  
 Proper nouns include:
 - Names and titles of individuals.
 - Names of places.
@@ -12,3 +12,11 @@ Proper nouns include:
 - Software, product, application, and service names.
 - Names and titles of works such as books, articles, songs, etc.
 - Trademarks.
+
+## Common nouns
+
+Don't capitalize common nouns unless they are at the beginning of a sentence, or if the sentence implements title case capitalization.
+Common nouns include:
+
+
+## Plural nouns
