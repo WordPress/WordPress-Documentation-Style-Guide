@@ -22,5 +22,5 @@ Common nouns include most product categories, devices, features, and technology 
 
 ## Additional resources
 
-Pronouns and collective nouns
-Pluralizing nouns
+Pronouns and collective nouns (Pronouns)
+Pluralizing nouns (Plurals)
