@@ -15,8 +15,7 @@ Proper nouns include:
 
 ## Common nouns
 
-Don't capitalize common nouns unless they are at the beginning of a sentence, or if the sentence implements title case capitalization.
-Common nouns include:
-
+If there is more than one thing, then it is a common noun. Don't capitalize common nouns unless they are at the beginning of a sentence, or if the sentence implements title case capitalization. For example, there are multiple websites, so *website* is a common noun. But, *WordPress* is a unique website out of all of them, therefore, it is a proper noun.
+Common nouns include most product categories, devices, features, and technology concepts such as *email, machine learning, website, and server*.
 
 ## Plural nouns
