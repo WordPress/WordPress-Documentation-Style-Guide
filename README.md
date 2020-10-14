@@ -66,7 +66,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Pronouns                                          |   ✔️ (⚠️ while publishing)  |
 | Referencing                                       |   (Moved to Formatting)   |
 | Slang & jargon                                    |        |
-| Spellings                                         |        |
+| Spellings                                         |   🔄   |
 | Technical terms                                   |        |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |   ✔️ (⚠️ while publishing)  |
