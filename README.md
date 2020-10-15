@@ -71,7 +71,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |   ✔️ (⚠️ while publishing)  |
 | Voice                                             |   ✔️   |
-| Word Choice                                       |   🔄 (⚠️ while publishing)   |
+| Word Choice (New component)                       |   🔄 (⚠️ while publishing)   |
 
 ### Punctuation
 | Component                    | Status |
