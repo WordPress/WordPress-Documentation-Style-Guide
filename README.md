@@ -65,12 +65,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️ (⚠️ while publishing)  |
 | Referencing                                       |   (Moved to Formatting)   |
-| Slang & jargon                                    |        |
-| Spellings                                         |   🔄   |
-| Technical terms                                   |        |
+| Slang & jargon                                    |   (Moved to Word Choice)     |
+| Spellings                                         |   (Moved to Word Choice)     |
+| Technical terms                                   |   (Moved to Word Choice)     |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |   ✔️ (⚠️ while publishing)  |
 | Voice                                             |   ✔️   |
+| Word Choice                                       |   🔄 (⚠️ while publishing)   |
 
 ### Punctuation
 | Component                    | Status |
