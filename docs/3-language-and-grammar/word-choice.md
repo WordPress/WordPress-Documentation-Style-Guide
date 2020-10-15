@@ -10,12 +10,14 @@ If you're doubtful of a particular word, first refer the "Word List"; if it's no
 
 **Examples**
 
-[warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, programme, realise. [/warning]  
-[tip] Recommended: US English: aluminum, analyze, center, color, program, realize. [/tip]
+[warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
+[tip] Recommended: US English: aluminum, analyze, center, color, license, program, realize. [/tip]
 
-For an extensive overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling)
+For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling)
 
-## Jargon
+## Avoid jargon and slang
+
+Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinders understanding more than simplifying it.
 
 ## Technical terms
 
