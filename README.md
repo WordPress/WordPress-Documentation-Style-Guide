@@ -55,16 +55,16 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Clause                                            |    ✔️    |
 | Contractions (New component)                      |    ✔️ (⚠️ while publishing)   |
 | Direct/Indirect speech                            |        |
-| Genders                                           |   (Moved to Pronouns)     |
+| Genders                                           |  (Moved to Pronouns)     |
 | Glossary                                          |  (Moved to Word Usage Dictionary) |
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |   ✔️ (⚠️ while publishing)   |
 | Plurals (New component)                           |   ✔️ (⚠️ while publishing)   |
 | Possessives (New component)                       |   ✔️   |
-| Prefixes & suffixes                               |        |
+| Prefixes & suffixes                               |         |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️ (⚠️ while publishing)  |
-| Referencing                                       |   (Moved to Formatting)   |
+| Referencing                                       |   (Moved to Formatting)      |
 | Slang & jargon                                    |   (Moved to Word Choice)     |
 | Spellings                                         |   (Moved to Word Choice)     |
 | Technical terms                                   |   (Moved to Word Choice)     |
