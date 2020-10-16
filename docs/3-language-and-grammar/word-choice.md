@@ -21,6 +21,9 @@ Technical terms can vary from everyday words like net, bit, cloud, virus to prop
 
 ### General do's and don'ts with technical terms
 
+- Use common and simple technical terms that can be understood by the majority of readers.
+- Don't create a new term if an existing term serves its exact purpose.
+- If it is essential to create a new term, only do so after thoroughly verifying that it isn't already being used to mean something else. Also verify if your new term is similar to existing terms with a similar meaning.
 - 
 
 ## Avoid jargon and slang
