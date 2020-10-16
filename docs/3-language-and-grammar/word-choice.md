@@ -19,13 +19,15 @@ For an overview of locale-wise English spellings, refer the [Spelling section of
 
 Technical terms can vary from everyday words like net, bit, cloud, virus to proprietary terms such as processor, URL, website, bandwidth, that are specific to technical concepts. Many technical terms are portmanteau words -  words that result from blending two or more words such as *WiFi, favicon, email, freeware,* and *webinar*. Some technical terms do become widely used and understood, but before that happens, they might be hard to understand for people who aren't familiar with them. In general, be watchful while using technical terms, so that they're only used while unmistakably communicating your message.
 
-### General do's and don'ts with technical terms
+### General do's and don'ts for technical terms
 
 - Use common and simple technical terms that can be understood by the majority of readers.
 - Don't create a new term if an existing term serves its exact purpose.
 - If it is essential to create a new term, only do so after thoroughly verifying that the new term isn't already being used to mean something else. Also verify if your new term is comparable to existing terms with a similar meaning.
 - Define technical terms in your documentation. Don't assume that readers will understand them.
-- If you're using a particular term, customarily use it across all your documentation, publication, websites, and concepts.
+- If you're using a particular term, customarily use it across all your documentation, publication, websites, and concepts with consistency.
+- Cater your vocabulary for specific audiences and readers. For example, technical terminology would apt for a developer demographic, but not for a non-technical, beginner, or business-minded audience.
+- Research new terminology to stay up-to-date with the latest technological terms and industry approaches. Refer the latest technical and industry publications for demonstrated uses of new terms.
 
 ## Avoid jargon and slang
 
@@ -33,8 +35,9 @@ Be thoughtful of word choice - particularly avoid jargon, slang and ableist lang
 
 Avoid using jargon if there is a better, comprehensible word for that specific term. Additionally, don't use jargon if the term is familiar to only a small portion of your reader demographic. Only use jargon if it is absolutely needed to explain technical or software-related concepts.
 
-If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical or industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
+If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical and industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
 
 ## Additional resources
 
-Additional information on "Contractions"
+Additional information on "Contractions".
+Additional information on "Accessibility".
