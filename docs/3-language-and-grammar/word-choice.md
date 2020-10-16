@@ -17,7 +17,8 @@ For an overview of locale-wise English spellings, refer the [Spelling section of
 
 ## Technical terms
 
-Technical terms can vary from everyday words like net, bit, cloud, virus to proprietary terms such as processor, URL, website, bandwidth, that are specific to technical concepts.  
+Technical terms can vary from everyday words like net, bit, cloud, virus to proprietary terms such as processor, URL, website, bandwidth, that are specific to technical concepts. Many technical terms are sometimes portmanteau words - a word that results from blending two or more words such as *WiFi, favicon, email, freeware,* and *webinar*. 
+
 
 ## Avoid jargon and slang
 
