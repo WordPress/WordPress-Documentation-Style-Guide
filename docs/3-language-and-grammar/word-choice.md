@@ -17,7 +17,9 @@ For an overview of locale-wise English spellings, refer the [Spelling section of
 
 ## Avoid jargon and slang
 
-Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinders understanding more than simplifying it.
+Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinders understanding more than simplifying it. Instead of using slang or jargon, use common and easy-to-understand terms.
+
+Avoid using jargon if there is a better, comprehensible word for that specific term.
 
 ## Technical terms
 
