@@ -24,7 +24,7 @@ Be thoughtful of word choice - particularly avoid jargon, slang and ableist lang
 
 Avoid using jargon if there is a better, comprehensible word for that specific term. Additionally, don't use jargon if the term is familiar to only a small portion of your reader demographic. Only use jargon if it is absolutely needed to explain technical or software-related concepts.
 
-If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List". If it isn't covered there, refer technical or general publications for demonstration of common use. If you, your colleague, or reviewer thinks that a particular term might, be jargon, it likely is jargon. 
+If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical or general publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
 
 ## Additional resources
 
