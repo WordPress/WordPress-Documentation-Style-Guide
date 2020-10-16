@@ -23,8 +23,9 @@ Technical terms can vary from everyday words like net, bit, cloud, virus to prop
 
 - Use common and simple technical terms that can be understood by the majority of readers.
 - Don't create a new term if an existing term serves its exact purpose.
-- If it is essential to create a new term, only do so after thoroughly verifying that it isn't already being used to mean something else. Also verify if your new term is similar to existing terms with a similar meaning.
-- 
+- If it is essential to create a new term, only do so after thoroughly verifying that the new term isn't already being used to mean something else. Also verify if your new term is comparable to existing terms with a similar meaning.
+- Define technical terms in your documentation. Don't assume that readers will understand them.
+- If you're using a particular term, customarily use it across all your documentation, publication, websites, and concepts.
 
 ## Avoid jargon and slang
 
