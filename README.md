@@ -27,7 +27,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |------------------------------------|---------|
 | Accessibility                      |   ✔️ (⚠️ while publishing)   |
 | Document Structure                 |   ✔️ (⚠️ while publishing)   |
-| Changes to the Guide (New Component)|   ✔️ (⚠️ while publishing)   |
+| Changes to the Guide (New Component)|  ✔️ (⚠️ while publishing)   |
 | Encoding                           |   ✔️   |
 | External Sources                   |   🔄   |
 | Facts                              |   ✔️   |
@@ -66,9 +66,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️ (⚠️ while publishing)  |
 | Referencing                                       |   (Moved to Formatting)      |
-| Slang & jargon                                    |   (Moved to Word Choice)     |
-| Spellings                                         |   (Moved to Word Choice)     |
-| Technical terms                                   |   (Moved to Word Choice)     |
+| Slang & jargon                                    |   ✔️ (Moved to Word Choice)     |
+| Spellings                                         |   ✔️ (Moved to Word Choice)     |
+| Technical terms                                   |   🔄 (Moved to Word Choice)     |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |   ✔️ (⚠️ while publishing)  |
 | Voice                                             |   ✔️   |
