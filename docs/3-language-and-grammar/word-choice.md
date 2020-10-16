@@ -15,18 +15,16 @@ If you're doubtful of a particular word, first refer the "Word List"; if it's no
 
 For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling)
 
+## Technical terms
+
+
 ## Avoid jargon and slang
 
 Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinders understanding more than simplifying it. Instead of using slang or jargon, use common and easy-to-understand terms.
 
 Avoid using jargon if there is a better, comprehensible word for that specific term. Additionally, don't use jargon if the term is familiar to only a small portion of your reader demographic. Only use jargon if it is absolutely needed to explain technical or software-related concepts.
 
-
-
-## Technical terms
-
-
-
+If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List". If it isn't covered there, refer technical or general publications for demonstration of common use. If you, your colleague, or reviewer thinks that a particular term might, be jargon, it likely is jargon. 
 
 ## Additional resources
 
