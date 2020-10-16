@@ -49,7 +49,7 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 
 ## Accessibility and disability
 - Research the terminology that the people with disability want to be identified with.
-- Don't refer to people without disabilities as normal, fit or healthy; terms that would demean people with disabilities. This includes terms that are judgmental and victimize people with disabilities as abnormal or sick.  
+- Don't refer to people without disabilities as *normal, fit or healthy*; terms that would demean people with disabilities. This includes terms that are judgmental and victimize people with disabilities as *abnormal* or *sick*.  
 
 ### Terminology
 
