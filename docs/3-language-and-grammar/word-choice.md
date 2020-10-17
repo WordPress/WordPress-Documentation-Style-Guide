@@ -1,6 +1,6 @@
 # Word Choice
 
-Choose words that enhance readability and increase simplicity in your documentation.
+Choose words that enhance readability and increase simplicity in your documentation.  
 For more information on writing simple, easy-to-understand documentation, refer "Style and Tone".
 
 ## Spelling
@@ -11,7 +11,7 @@ If you're doubtful of a particular word, first refer the "Word List"; if it's no
 **Examples**
 
 [warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
-[tip] Recommended: US English: aluminum, analyze, center, color, license, program, realize. [/tip]
+[tip] Recommended: American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
 
 For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling)
 
@@ -37,7 +37,11 @@ Avoid using jargon if there is a better, comprehensible word for that specific t
 
 If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical and industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
 
+## Using standard words in alternative ways
+
+
+
 ## Additional resources
 
-Additional information on "Contractions".
+Additional information on "Contractions".  
 Additional information on "Accessibility".
