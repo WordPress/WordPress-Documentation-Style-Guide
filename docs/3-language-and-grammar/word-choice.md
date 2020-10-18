@@ -41,15 +41,12 @@ If you're doubtful of whether a particular term is jargon or a technical term, r
 
 Common words are known for their standard definitions that are regularly used, and are familiar with most people. Use existing words in the most widely used meaning.
 
-Don't create new words for an existing word. For example, don't use
+Don't create new words for an existing word. For example, don't use *data unearthing* or *data excavating* as an alternative for data mining. Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
 
 Don't create new ways to describe an existing word.   
 **Example**  
 [warning] Not Recommended: The *Gutenberger* blocks are feature-packed.  [/warning]  
 [tip] Recommended: The blocks in Gutenberg are feature-packed. [/tip]
-
-
-
 
 ## Additional resources
 
