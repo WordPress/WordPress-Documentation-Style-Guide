@@ -68,11 +68,11 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Referencing                                       |   (Moved to Formatting)      |
 | Slang & jargon                                    |   ✔️ (Moved to Word Choice)     |
 | Spellings                                         |   ✔️ (Moved to Word Choice)     |
-| Technical terms                                   |   🔄 (Moved to Word Choice)     |
+| Technical terms                                   |   ✔️ (Moved to Word Choice)     |
 | Tense                                             |   ✔️ (⚠️ while publishing)  |
 | Verbs                                             |   ✔️ (⚠️ while publishing)  |
 | Voice                                             |   ✔️   |
-| Word Choice (New component)                       |   🔄 (⚠️ while publishing)   |
+| Word Choice (New component)                       |   ✔️ (⚠️ while publishing)   |
 
 ### Punctuation
 | Component                    | Status |
