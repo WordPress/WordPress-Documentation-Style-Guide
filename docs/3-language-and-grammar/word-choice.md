@@ -49,6 +49,7 @@ Don't create new ways to describe an existing word.
 [tip] Recommended: The blocks in Gutenberg are feature-packed. [/tip]
 
 Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
+If you have to use a word in a definition that is different from its widely used meaning, explain it with context.
 
 ## Additional resources
 
