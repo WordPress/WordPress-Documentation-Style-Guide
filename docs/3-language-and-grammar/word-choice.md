@@ -37,7 +37,17 @@ Avoid using jargon if there is a better, comprehensible word for that specific t
 
 If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical and industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
 
-## Using standard words in alternative ways
+## Avoid using common words in alternative ways
+
+Common words are known for their standard definitions that are regularly used, and are familiar with most people. Use existing words in the most widely used meaning.
+
+Don't create new words for an existing word. For example, don't use
+
+Don't create new ways to describe an existing word.   
+**Example**  
+[warning] Not Recommended: The *Gutenberger* blocks are feature-packed.  [/warning]  
+[tip] Recommended: The blocks in Gutenberg are feature-packed. [/tip]
+
 
 
 
