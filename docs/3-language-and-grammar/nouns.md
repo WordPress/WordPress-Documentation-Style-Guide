@@ -1,5 +1,5 @@
 # Nouns
-
+<!-- https://docs.microsoft.com/en-us/style-guide/word-choice/dont-use-common-words-in-new-ways -->
 A noun is a word used to identify people, places, or things (common noun), or particular person, place, or thing (proper noun).
 
 ## Proper nouns
