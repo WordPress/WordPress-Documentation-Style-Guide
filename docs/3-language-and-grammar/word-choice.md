@@ -13,7 +13,7 @@ If you're doubtful of a particular word, first refer the "Word List"; if it's no
 [warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
 [tip] Recommended: American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
 
-For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling)
+For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling).
 
 ## Technical terms
 
@@ -41,12 +41,14 @@ If you're doubtful of whether a particular term is jargon or a technical term, r
 
 Common words are known for their standard definitions that are regularly used, and are familiar with most people. Use existing words in the most widely used meaning.
 
-Don't create new words for an existing word. For example, don't use *data unearthing* or *data excavating* as an alternative for data mining. Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
-
 Don't create new ways to describe an existing word.   
-**Example**  
-[warning] Not Recommended: The *Gutenberger* blocks are feature-packed.  [/warning]  
+**Examples**  
+[warning] Not Recommended: Don't use *data unearthing* or *data excavating* as an alternative for data mining.  [/warning]  
+
+[warning] Not Recommended: The *Gutenberger* blocks are feature-packed. [/warning]  
 [tip] Recommended: The blocks in Gutenberg are feature-packed. [/tip]
+
+Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
 
 ## Additional resources
 
