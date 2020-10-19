@@ -11,4 +11,6 @@ Common prefixes
 
 ## General do's and don'ts
 
-- Some affixes can be complete words too. Make sure to use affixes along with words rather than using them separately as individual words.
+- Some affixes such as *under, less, able, super* can be complete words too. Apart from these, make sure to use affixes along with words rather than using them separately as individual words.
+-
+- If you're doubtful about using a hyphen, simply ask yourself if that would simplify or impede the reader. If it impedes understanding the word or context, don't use a hyphen. Typically, hyphens are used to make longer, complicated words easier to read.
