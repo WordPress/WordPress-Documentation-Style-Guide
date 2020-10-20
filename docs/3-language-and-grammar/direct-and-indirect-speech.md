@@ -1,6 +1,6 @@
 # Direct and indirect speech
 
-In documentation, often times you have to convey what someone has expressed from a previous conversation, to the reader. This can be done in two methods, direct speech or indirect speech. In general, use indirect speech so that readers don't have to distinguish between speakers and their quotes.
+In documentation, sometimes you have to convey what someone has expressed from a previous conversation, to the reader. This can be done in two methods, direct speech or indirect speech. In general, use indirect speech so that readers don't have to distinguish between speakers and their quotes.
 
 ## Direct speech
 
@@ -15,7 +15,7 @@ Avoid using direct speech by breaking up information about who is speaking. This
 
 ## Indirect or reported speech
 
-In indirect or reported speech, the speaker's words are reported by paraphrasing or summarizing. Unlike direct speech, the words not quoted directly and there is no additional punctuation to be used.
+In indirect or reported speech, the speaker's words are reported by paraphrasing or summarizing. Unlike direct speech, the words not quoted directly and there is no additional punctuation to be used. Verbs that better describe the person's action are used while paraphrasing in indirect speech, whereas while summarizing, standard verbs like *say, tell, talk, speak* are used.
 
 **Example**  
 Developer's expression: This API is the newest version.  
