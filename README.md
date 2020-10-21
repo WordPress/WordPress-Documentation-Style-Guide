@@ -33,7 +33,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Facts                              |   ✔️   |
 | Fonts                              |   (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
-| Inclusivity                        |   ✔️ (⚠️ while publishing)  |
+| Inclusivity                        |   ✔️ (⚠️ while publishing)   |
 | Legality                           |        |
 | Multi-platform Accessibility       |   ✔️   |
 | Non-ambiguous, No Excessive Claims |   ✔️   |
@@ -49,35 +49,35 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Language & Grammar ✔️
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations & acronyms                          |    ✔️ (⚠️ while publishing)   |
-| Affirmation & Negation                            |    ❌    |
-| Articles                                          |    ✔️ (⚠️ while publishing)   |
-| Capitalization                                    |    ✔️ (⚠️ while publishing)   |
-| Clause                                            |    ✔️    |
-| Contractions (New component)                      |    ✔️ (⚠️ while publishing)   |
-| Direct/Indirect speech                            |    ✔️    |
-| Genders                                           |  (Moved to Pronouns)     |
-| Glossary                                          |  (Moved to Word Usage Dictionary) |
+| Abbreviations & acronyms                          |   ✔️ (⚠️ while publishing)   |
+| Affirmation & Negation                            |   ❌   |
+| Articles                                          |   ✔️ (⚠️ while publishing)   |
+| Capitalization                                    |   ✔️ (⚠️ while publishing)   |
+| Clause                                            |   ✔️   |
+| Contractions (New component)                      |   ✔️ (⚠️ while publishing)   |
+| Direct/Indirect speech                            |   ✔️   |
+| Genders                                           |   (Moved to Pronouns)   |
+| Glossary                                          |   (Moved to Word Usage Dictionary)   |
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |   ✔️ (⚠️ while publishing)   |
 | Plurals (New component)                           |   ✔️ (⚠️ while publishing)   |
 | Possessives (New component)                       |   ✔️   |
 | Prefixes & suffixes                               |   ✔️ (⚠️ while publishing)   |
 | Prepositions                                      |   ✔️   |
-| Pronouns                                          |   ✔️ (⚠️ while publishing)  |
-| Referencing                                       |   (Moved to Formatting)      |
-| Slang & jargon                                    |   ✔️ (Moved to Word Choice)     |
-| Spellings                                         |   ✔️ (Moved to Word Choice)     |
-| Technical terms                                   |   ✔️ (Moved to Word Choice)     |
-| Tense                                             |   ✔️ (⚠️ while publishing)  |
-| Verbs                                             |   ✔️ (⚠️ while publishing)  |
+| Pronouns                                          |   ✔️ (⚠️ while publishing)   |
+| Referencing                                       |   (Moved to Formatting)   |
+| Slang & jargon                                    |   ✔️ (Moved to Word Choice)   |
+| Spellings                                         |   ✔️ (Moved to Word Choice)   |
+| Technical terms                                   |   ✔️ (Moved to Word Choice)   |
+| Tense                                             |   ✔️ (⚠️ while publishing)   |
+| Verbs                                             |   ✔️ (⚠️ while publishing)   |
 | Voice                                             |   ✔️   |
 | Word Choice (New component)                       |   ✔️ (⚠️ while publishing)   |
 
 ### Punctuation 🔄
 | Component                    | Status |
 |------------------------------|--------|
-| Apostrophes                  |    🔄    |
+| Apostrophes                  |   🔄 (⚠️ while publishing)   |
 | Colons & Semi Colons         |        |
 | Commas                       |        |
 | Ellipses                     |        |
