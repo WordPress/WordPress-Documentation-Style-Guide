@@ -46,11 +46,11 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Tone & Style                       |   ⚠️   |
 | Unbiased                           |   ✔️   |
 
-### Language & Grammar 🔄
+### Language & Grammar ✔️
 | Component                                         | Status |
 |---------------------------------------------------|--------|
 | Abbreviations & acronyms                          |    ✔️ (⚠️ while publishing)   |
-| Affirmation & Negation                            |        |
+| Affirmation & Negation                            |    ❌    |
 | Articles                                          |    ✔️ (⚠️ while publishing)   |
 | Capitalization                                    |    ✔️ (⚠️ while publishing)   |
 | Clause                                            |    ✔️    |
