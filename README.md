@@ -77,7 +77,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Punctuation 🔄
 | Component                    | Status |
 |------------------------------|--------|
-| ApostropheS                   |    🔄    |
+| Apostrophes                  |    🔄    |
 | Colons & Semi Colons         |        |
 | Commas                       |        |
 | Ellipses                     |        |
