@@ -4,8 +4,13 @@ Use curved apostrophes, the same character as a single quotation mark ('). Only 
 
 ## Apostrophes in contractions
 
-Use an apostrophe to indicate the missing letters in contractions.
+Use an apostrophe to indicate the letters omitted in contractions.
 
+**Examples**  
+
+- *I'm - I am*.
+- *they've - they have*.
+- *don't - do not*.
 
 Refer "Contractions" for additional information.
 
@@ -20,6 +25,7 @@ Refer "Plurals" for additional information.
 Use an apostrophe to form the possessive case of nouns. To form the possessive case of a singular noun, add an apostrophe and an *s*, even if the noun ends with an *-s, -x,* or *-z*. For plurals ending with an *-s*, add an apostrophe only.
 
 **Examples**  
+
 - John's software
 - Buzz's laptop
 - application's password
@@ -35,7 +41,9 @@ Use an apostrophe to form the possessive case of nouns. To form the possessive c
 **Exception:** The possessive of *it* is *its* and doesn't have an apostrophe. Be wary of common mistakes such as confusing *you're* (a contraction for *you are*) with *your*, and *its* with *it's* (a contraction for *it is*).
 
 Don't use an apostrophe with possessive pronouns.  
+
 **Example**  
+
 [warning] Not Recommended: The website is your's. [/warning]  
 [tip] Recommended: The website is yours. [/tip]
 
