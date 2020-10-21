@@ -12,7 +12,7 @@ To pluralize a number, add an *-s* at the end.
 - The 2000s.
 - Type five 7s.
 
-Don't add an *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm; not 50 mis or 10 mms.
+Don't add an *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm; not 50 mis, 50 mi's, 10 mms, or 10 mm's.
 
 ## Plurals and abbreviations
 
