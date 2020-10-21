@@ -47,6 +47,13 @@ Use *who* while referring to people instead of *that*. The possessive of *who*, 
 
 Avoid using pronouns like *they* for collective nouns. For example, *team* would take a singular pronoun. Rewrite the sentence using the appropriate pronouns.
 
+## Possessive pronouns
+
+Don't use an apostrophe with possessive pronouns.  
+**Example**  
+[warning] Not Recommended: The website is your's. [/warning]  
+[tip] Recommended: The website is yours. [/tip]
+
 ## Ambiguities using Pronouns
 
 Ensure that the pronoun you're using is referencing its antecedent (the noun that it's replacing) clearly.
