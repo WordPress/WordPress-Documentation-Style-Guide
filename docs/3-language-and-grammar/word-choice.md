@@ -42,7 +42,9 @@ If you're doubtful of whether a particular term is jargon or a technical term, r
 Common words are known for their standard definitions that are regularly used, and are familiar with most people. Use existing words in the most widely used meaning.
 
 Don't create new ways to describe an existing word.   
+
 **Examples**  
+
 [warning] Not Recommended: Don't use *data unearthing* or *data excavating* as an alternative for data mining.  [/warning]  
 
 [warning] Not Recommended: The *Gutenberger* blocks are feature-packed. [/warning]  

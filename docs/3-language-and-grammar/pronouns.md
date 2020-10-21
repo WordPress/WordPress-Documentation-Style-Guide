@@ -25,7 +25,7 @@ For more guidelines about writing using gender-neutral pronouns, refer "Inclusiv
 Be careful while using relative pronouns such as *who, that*, and *which*.
 *That* and *which* don't mean exactly the same thing and cannot be used interchangeably.
 
-**Example**
+**Example**  
 
 [warning] Not Recommended: The folder that is blue can be used. [/warning]
 This sentence describes a specific blue folder that can be used. *That* introduces a restrictive clause and isn't preceded by a comma.
@@ -50,7 +50,9 @@ Avoid using pronouns like *they* for collective nouns. For example, *team* would
 ## Possessive pronouns
 
 Don't use an apostrophe with possessive pronouns.  
+
 **Example**  
+
 [warning] Not Recommended: The website is your's. [/warning]  
 [tip] Recommended: The website is yours. [/tip]
 

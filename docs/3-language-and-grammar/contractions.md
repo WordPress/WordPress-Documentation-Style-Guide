@@ -4,7 +4,7 @@ A contraction is a shortened form of a word, syllable, or a combination of words
 
 As WordPress documentation makes use of a colloquial tone, you can utilize contractions in your content. Although, be watchful of some exceptions.  
 
-**Examples**
+**Examples**  
 
 - *I'm - I am*.
 - *they've - they have*.
@@ -33,7 +33,7 @@ Don't use contractions formed with nouns and verbs. Contractions formed with nou
 
 Avoid using double contractions. Double contractions contain two contractions as opposed to one.
 
-**Examples**
+**Examples**  
 
 - *wouldn't've - would not have*.
 - *you'd've - you would have*.
