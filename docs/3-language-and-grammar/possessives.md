@@ -12,6 +12,7 @@ Singular nouns
 - bus's architecture
 - business's manager
 - class's description
+- CSS's file
 - Chris's key or Chris' key
 - Mr. Williams's suitcase or Mr. Williams' suitcase  
 
