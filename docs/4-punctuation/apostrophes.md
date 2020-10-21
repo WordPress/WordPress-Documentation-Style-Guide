@@ -16,7 +16,28 @@ Refer "Contractions" for additional information.
 
 ## Apostrophes in plurals
 
+Don't use apostrophes to form plurals of nouns and abbreviations.
 
+**Examples**
+
+[warning] Not Recommended: *page's, FAQ's.*  [/warning]  
+[tip] Recommended: *pages, FAQs.* [/tip]  
+
+To pluralize a number, add an *-s* at the end without any apostrophe.
+
+**Example**  
+
+- The 2000s.
+- Type five 7s.
+
+Don't add an apostrophe and *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm; not 50 mis, 50 mi's, 10 mms, or 10 mm's.
+
+Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
+
+**Example**
+
+[warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
+[tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
 Refer "Plurals" for additional information.
 
