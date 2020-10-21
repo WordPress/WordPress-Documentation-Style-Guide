@@ -13,6 +13,7 @@ Singular nouns
 - business's manager
 - class's description
 - CSS's file
+- OEM's product
 - Chris's key or Chris' key
 - Mr. Williams's suitcase or Mr. Williams' suitcase  
 
@@ -25,6 +26,7 @@ Plural nouns
 - arrays' elements
 - business' earnings
 - classes' declaration
+- OEMs' products
 - Jones' programs
 - Williams' websites
 
