@@ -9,7 +9,8 @@ If a singular noun ends without an *-s*, add an *s* at the end to get its plural
 ## Plurals and numbers
 
 To pluralize a number, add an *-s* at the end.
-- the 2000s
+- The 2000s.
+- Type five 7s.
 
 Don't add an *s* in abbreviations of measurements to indicate plurality. For example, 50 mi or 10 mm; not 50 mis or 10 mms.
 
