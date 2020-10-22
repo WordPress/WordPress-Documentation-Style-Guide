@@ -19,13 +19,19 @@ Recommended: The settings that can be changed are as follows:
 - WordPress Address (URL)
 [/tip]
 
-## Colons within sentences
-
+Refer "Lists" to learn more.
 
 ## Colons in titles and headings
+
+
+
+## Colons within sentences
 
 
 ## Bold text preceding colon
 
 
 ## Code text preceding colon
+
+Don't include a colon in text preceding code, code back-ticks (```), or a `<code>` tag unless it is part of the code.
+Refer "Code Samples/Code Blocks" for more information on code formatting.
