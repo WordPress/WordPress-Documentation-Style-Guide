@@ -30,8 +30,20 @@ When you use a colon in a title or heading, capitalize the word following it.
 [warning] Not Recommended: Getting started with WordPress hooks: introduction [/warning]  
 [tip] Recommended: Getting started with WordPress hooks: Introduction [/tip]
 
+[warning] Not Recommended: Recommended settings for benchmarking: new updates this month [/warning]  
+[tip] Recommended: Recommended settings for benchmarking: New updates this month [/tip]
+
 ## Colons within sentences
 
+In general, when you use a colon in a sentence, lowercase the following word.  To learn more, refer "Capitalization".
+
+**Exceptions**  
+
+- Capitalize the word after the colon if it is a proper noun.  
+ **Example**  
+
+- Capitalize the word after the colon if it is a quote.  
+ **Example**  
 
 ## Bold text preceding colon
 
