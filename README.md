@@ -78,7 +78,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Component                    | Status |
 |------------------------------|--------|
 | Apostrophes                  |   ✔️ (⚠️ while publishing)   |
-| Colons & Semi Colons         |        |
+| Colons & Semi Colons         |   🔄   |
 | Commas                       |        |
 | Ellipses                     |        |
 | Exclamation Marks            |        |
@@ -86,7 +86,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Parentheses                  |        |
 | Periods                      |        |
 | Question Marks               |        |
-| Quotation Marks (split from Apostrophe)|      |
+| Quotation Marks (split from Apostrophes)|      |
 | Slashes                      |        |
 
 ### Formatting
