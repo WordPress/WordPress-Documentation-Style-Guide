@@ -46,9 +46,11 @@ In general, when you use a colon in a sentence, lowercase the following word. To
 
 - Capitalize the word after the colon if it is a proper noun.  
  **Example**  
- 
+ You can install WordPress on one of the following operating systems: Windows, macOS, or Linux.
+
 - Capitalize the word after the colon if it is a quote.  
  **Example**  
+ What does it mean if I see a message saying: "Error Code 345. Do you want to continue?"
 
 ## Bold text preceding colon
 
