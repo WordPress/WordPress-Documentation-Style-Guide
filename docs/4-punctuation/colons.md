@@ -60,3 +60,9 @@ If non-italic text preceding a colon is bold, then make the colon bold too.
 
 Don't include a colon in text preceding code, code back-ticks (``` ` ```), or a `<code>` tag unless it is part of the code.
 Refer "Code Samples/Code Blocks" for more information on code formatting.
+
+## Additional Resources
+
+For more information about when it's better to use colons than dashes, refer "Dashes".
+For more information on code snippets, refer "Code Blocks".
+More information on "Lists".
