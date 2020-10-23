@@ -37,6 +37,12 @@ When you use a colon in a title or heading, capitalize the word following it.
 
 In general, when you use a colon in a sentence, lowercase the following word.  To learn more, refer "Capitalization".
 
+**Examples**  
+
+[tip] Recommended:  [/tip]  
+[tip] Recommended:  [/tip]
+
+
 **Exceptions**  
 
 - Capitalize the word after the colon if it is a proper noun.  
