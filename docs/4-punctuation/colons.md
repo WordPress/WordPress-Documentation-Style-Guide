@@ -35,19 +35,18 @@ When you use a colon in a title or heading, capitalize the word following it.
 
 ## Colons within sentences
 
-In general, when you use a colon in a sentence, lowercase the following word.  To learn more, refer "Capitalization".
+In general, when you use a colon in a sentence, lowercase the following word. To learn more, refer "Capitalization".
 
 **Examples**  
 
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]
-
+[tip] Recommended: Things that are encouraged: overall simplicity of the document; brief and concise sentences; and using conditional phrases. [/tip]  
+[tip] Recommended: You have three options: copy the file, move it or delete it.  [/tip]
 
 **Exceptions**  
 
 - Capitalize the word after the colon if it is a proper noun.  
  **Example**  
-
+ 
 - Capitalize the word after the colon if it is a quote.  
  **Example**  
 
