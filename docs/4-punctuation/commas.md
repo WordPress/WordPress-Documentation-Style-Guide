@@ -28,8 +28,18 @@ Use a comma to join two independent clauses which are separated by a conjunction
 [tip] Recommended: Copy the file and continue. [/tip]
 
 [warning] Not Recommended: Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
-[tip] Recommended: Either download a theme suiting your needs, or use one from the preinstalled themes. [/tip]
+[tip] Recommended: Either download a theme suiting your needs, or use one that is preinstalled. [/tip]
 
 ## Commas separating independent from dependent clauses
+
+When an independent and dependent clause are separated by a coordinating conjunction, insert a comma *only if* the sentence could be misunderstood without one.
+
+**Examples**
+
+[warning] Not Recommended: Pages can be password protected and can only be modified by administrators. [/warning]  
+[tip] Recommended: Pages can be password protected, and can only be modified by administrators. [/tip]
+
+[warning] Not Recommended: Permalinks are permanent URLs, and their structure can be changed. [/warning]  
+[tip] Recommended: Permalinks are permanent URLs and their structure can be changed. [/tip]
 
 ## Additional resources
