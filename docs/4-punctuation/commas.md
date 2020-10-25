@@ -51,7 +51,13 @@ Use a comma to separate two or more adjectives that precede a noun that is being
 [tip] Recommended: Gutenberg is a new, intuitive block-editor. [/tip]  
 
 [warning] Not Recommended: This is an enhanced, mobile UI. [/warning]  
-[tip] Recommended: This is an enhanced mobile UI.  [/tip]
+[tip] Recommended: This is an enhanced mobile UI. [/tip]
 
+Rewrite sentences for a conversational style and tone if possible.
+
+**Examples**
+
+[tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]
+[tip] Recommended: Write documentation that is accessible and inclusive of all readers. [/tip]  
 
 ## Additional resources
