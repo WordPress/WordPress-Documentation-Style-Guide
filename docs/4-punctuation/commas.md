@@ -44,6 +44,14 @@ When an independent and dependent clause are separated by a coordinating conjunc
 
 ## Commas separating two or more adjectives in series
 
-Use a comma to separate two or more adjectives that precede a noun that is being described.  
+Use a comma to separate two or more adjectives that precede a noun that is being described. Only insert a comma if the meaning of the adjectives doesn't change by separating the adjectives with *and* or reversing the order of them.
+
+**Examples**
+
+[tip] Recommended: Gutenberg is a new, intuitive block-editor. [/tip]  
+
+[warning] Not Recommended: This is an enhanced, mobile UI. [/warning]  
+[tip] Recommended: This is an enhanced mobile UI.  [/tip]
+
 
 ## Additional resources
