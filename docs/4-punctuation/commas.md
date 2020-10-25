@@ -30,6 +30,13 @@ Use a comma to join two independent clauses which are separated by a conjunction
 [warning] Not Recommended: Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
 [tip] Recommended: Either download a theme suiting your needs, or use one that is preinstalled. [/tip]
 
+**Note:** Don't use a comma to join independent clauses when you don't use a conjunction. Use a semicolon instead.
+
+**Examples**
+
+[warning] Not Recommended: Copy the file, then continue. [/warning]  
+[tip] Recommended: Copy the file; then continue. [/tip]
+
 ## Commas separating independent from dependent clauses
 
 When an independent and dependent clause are separated by a coordinating conjunction, insert a comma *only if* the sentence could be misunderstood without one.
