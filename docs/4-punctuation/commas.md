@@ -20,7 +20,7 @@ Use a comma after an introductory word or phrase.
 
 ## Commas separating two independent clauses
 
-Use a comma to join two independent clauses which are separated by a conjunction such as *and, or, nor, but, for, so, yet.* Insert the comma after the first clause, that is before the conjunction. Don't insert a comma if both the clauses are very short.
+Use a comma to join two independent clauses which are separated by a conjunction such as *and, or, nor, but, for, so, yet.* Insert the comma after the first clause, that is before the conjunction. Don't insert a comma if both the clauses are very short. Likewise, consider rewriting the sentence if it is long and complex.
 
 **Examples**
 
@@ -41,5 +41,9 @@ When an independent and dependent clause are separated by a coordinating conjunc
 
 [warning] Not Recommended: Permalinks are permanent URLs, and their structure can be changed. [/warning]  
 [tip] Recommended: Permalinks are permanent URLs and their structure can be changed. [/tip]
+
+## Commas separating two or more adjectives in series
+
+Use a comma to separate two or more adjectives that precede a noun that is being described.  
 
 ## Additional resources
