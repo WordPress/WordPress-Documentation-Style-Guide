@@ -60,4 +60,15 @@ Rewrite sentences for a conversational style and tone if possible.
 [tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]
 [tip] Recommended: Write documentation that is accessible and inclusive of all readers. [/tip]  
 
+## Commas with numbers
+
+Use a comma to separate the year when writing a complete date.
+
+**Examples**
+
+[warning] Not Recommended: This article was updated on September 13 2020 by the author. [/warning]  
+[tip] Recommended: This article was updated on September 13, 2020, by the author.  [/tip]  
+
+For more information about using commas with numbers, refer "Numbers".
+
 ## Additional resources
