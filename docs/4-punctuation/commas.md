@@ -58,13 +58,13 @@ Use a comma to separate two or more adjectives that precede a noun that is being
 [tip] Recommended: Gutenberg is a new, intuitive block-editor. [/tip]  
 
 [warning] Not Recommended: This is an enhanced, mobile UI. [/warning]  
-[tip] Recommended: This is an enhanced mobile UI. [/tip]
+[tip] Recommended: This is an enhanced mobile UI. [/tip]  
 
 Rewrite sentences for a conversational style and tone if possible.
 
 **Examples**
 
-[tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]
+[tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]  
 [tip] Recommended: Write documentation that is accessible and inclusive of all readers. [/tip]  
 
 ## Commas and other clauses
@@ -99,4 +99,13 @@ Use a comma to separate the year when writing a complete date. Don't insert a co
 
 For more information about punctuating numbers, refer "Numbers".
 
-## Additional resources
+## Commas with verbs in a compound predicate
+
+Don't insert a comma between verbs in a compound predicate. A compound predicate is when two or more verbs pertain to a single subject.
+In general, rewrite a compound predicate in two sentences, or add a subject for the second verb.
+
+**Examples**
+
+[warning] Not Recommended: The application parses the data, and displays it in the terminal. [/warning]  
+[tip] Sometimes okay: The application parses the data and displays it in the terminal. [/tip]  
+[tip] Recommended: The application parses the data and displays it in the terminal. [/tip]  
