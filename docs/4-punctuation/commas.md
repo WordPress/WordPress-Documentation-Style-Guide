@@ -67,6 +67,12 @@ Rewrite sentences for a conversational style and tone if possible.
 [tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]
 [tip] Recommended: Write documentation that is accessible and inclusive of all readers. [/tip]  
 
+## Commas and other clauses
+
+Generally, it is beneficial to use commas for setting off specific kinds of clauses for better comprehension.
+- Use a comma before the word *which* at the beginning of a nonrestrictive clause. See "Pronouns - Relative pronouns" for additional details.
+- 
+
 ## Commas and numbers
 
 Use a comma to separate the year when writing a complete date. Don't insert a comma between the month and year when a specific date isn't mentioned.
