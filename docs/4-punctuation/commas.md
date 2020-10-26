@@ -74,6 +74,17 @@ Generally, it is beneficial to use commas for setting off specific kinds of clau
 - Put a semicolon, period, or a dash before a conjunctive adverb such as *therefore, hence, besides, however*, and insert a comma after the adverb.
 - Don't use a comma before the causal conjunction *because* unless it is being used at the start of a nonrestrictive clause.
 
+**Examples**
+
+[warning] Not Recommended: Click the button which has a dropdown menu. [/warning]  
+[tip] Recommended: Click the button, which has a dropdown menu. [/tip]  
+
+[warning] Not Recommended: Input the data in the field otherwise the program won't work. [/warning]  
+[tip] Recommended: Input the data in the field; otherwise, the program won't work. [/tip]  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
+
 ## Commas and numbers
 
 Use a comma to separate the year when writing a complete date. Don't insert a comma between the month and year when a specific date isn't mentioned.
