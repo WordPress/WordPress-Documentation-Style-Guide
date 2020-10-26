@@ -71,7 +71,8 @@ Rewrite sentences for a conversational style and tone if possible.
 
 Generally, it is beneficial to use commas for setting off specific kinds of clauses for better comprehension.
 - Use a comma before the word *which* at the beginning of a nonrestrictive clause. See "Pronouns - Relative pronouns" for additional details.
-- 
+- Put a semicolon, period, or a dash before a conjunctive adverb such as *therefore, hence, besides, however*, and insert a comma after the adverb.
+- Don't use a comma before the causal conjunction *because* unless it is being used at the start of a nonrestrictive clause.
 
 ## Commas and numbers
 
