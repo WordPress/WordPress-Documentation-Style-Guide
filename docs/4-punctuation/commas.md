@@ -82,8 +82,8 @@ Generally, it is beneficial to use commas for setting off specific kinds of clau
 [warning] Not Recommended: Input the data in the field otherwise the program won't work. [/warning]  
 [tip] Recommended: Input the data in the field; otherwise, the program won't work. [/tip]  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: The command won't function, because it has been deprecated. [/warning]  
+[tip] Recommended: The command won't function because it has been deprecated. [/tip]  
 
 ## Commas and numbers
 
