@@ -107,5 +107,5 @@ In general, rewrite a compound predicate in two sentences, or add a subject for 
 **Examples**
 
 [warning] Not Recommended: The application parses the data, and displays it in the terminal. [/warning]  
-[tip] Sometimes okay: The application parses the data and displays it in the terminal. [/tip]  
-[tip] Recommended: The application parses the data and displays it in the terminal. [/tip]  
+[tip] Recommended: The application parses the data. Then it displays the data in the terminal. [/tip]  
+[tip] Recommended: The application parses the data, and then it displays the data in the terminal. [/tip]  
