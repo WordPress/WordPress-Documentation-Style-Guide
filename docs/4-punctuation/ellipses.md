@@ -9,3 +9,11 @@ When ellipses are used to connote hesitation, a pause, or an unfinished thought,
 **Example**  
 
 [warning] Not Recommended: The package installation might not run ... but we'll see. [/warning]  
+
+## Using ellipses
+
+### Punctuation and spacing
+
+### In a user interface
+
+### In text
