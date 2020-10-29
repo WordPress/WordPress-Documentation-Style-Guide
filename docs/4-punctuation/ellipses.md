@@ -16,6 +16,11 @@ When ellipses are used to connote hesitation, a pause, or an unfinished thought,
 
 Use three contiguous periods in a row while writing an ellipsis. Avoid using the ellipsis character and make use of periods in general. Insert one space before and after the ellipsis unless a punctuation mark immediately follows the ellipsis; in this case, don't insert a space after the ellipsis.
 
+**Examples**
+
+[warning] Not Recommended: You need to wait for the post to save...and then publish the post. [/warning]  
+[tip] Recommended: You need to wait for the post to save ... and then publish the post. [/tip]
+
 ### In a user interface
 
 ### In text
