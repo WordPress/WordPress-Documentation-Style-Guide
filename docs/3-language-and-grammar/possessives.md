@@ -32,7 +32,7 @@ Plural nouns
 
 Don't use an apostrophe with possessive pronouns.  
 
-**Example**  
+**Examples**  
 
 [warning] Not Recommended: The website is your's. [/warning]  
 [tip] Recommended: The website is yours. [/tip]

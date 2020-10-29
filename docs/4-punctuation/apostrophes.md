@@ -25,7 +25,7 @@ Don't use apostrophes to form plurals of nouns and abbreviations.
 
 To pluralize a number, add an *-s* at the end without any apostrophe.
 
-**Example**  
+**Examples**  
 
 - The 2000s.
 - Type five 7s.
@@ -34,7 +34,7 @@ Don't add an apostrophe and *s* in abbreviations of measurements to indicate plu
 
 Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
 
-**Example**
+**Examples**
 
 [warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
 [tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
@@ -63,7 +63,7 @@ Use an apostrophe to form the possessive case of nouns. To form the possessive c
 
 Don't use an apostrophe with possessive pronouns.  
 
-**Example**  
+**Examples**  
 
 [warning] Not Recommended: The website is your's. [/warning]  
 [tip] Recommended: The website is yours. [/tip]

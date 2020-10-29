@@ -8,7 +8,7 @@ Also, write in present tense rather than future tense. For additional informatio
 For writing reference documentation to explain a procedure, phrase the procedure in terms of what the action does, not what the user/developer would do. These forms of verbs are also used in glossaries and word usage dictionaries.
 Usually, the only difference between the two verb forms is an *-s* at the end of the verb. An example of the verb without *-s* would be how most developers write git commits: *Add new file.*
 
-**Example**
+**Examples**
 
 [warning] Not Recommended: `do_action( 'activate_header' )` : Fire before the Site Activation page is loaded. [/warning]  
 [tip] Recommended: `do_action( 'activate_header' )` : Fires before the Site Activation page is loaded. [/tip]

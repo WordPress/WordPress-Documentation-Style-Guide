@@ -27,7 +27,7 @@ For additional information, refer "Abbreviations".
 
 Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
 
-**Example**
+**Examples**
 
 [warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
 [tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
