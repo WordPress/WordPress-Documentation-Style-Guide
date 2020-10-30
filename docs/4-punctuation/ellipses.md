@@ -10,7 +10,7 @@ An *ellipsis* (plural: *ellipses*) is a set of three contiguous dots that are us
 
 Use three contiguous periods in a row while writing an ellipsis. Avoid using the ellipsis character and make use of periods in general. Insert one space before and after the ellipsis unless a punctuation mark immediately follows the ellipsis; in this case, don't insert a space after the ellipsis.
 
-**Examples**
+**Examples**  
 
 [warning] Not Recommended: You need to wait for the post to save...and then publish the post. [/warning]  
 [tip] Recommended: You need to wait for the post to save ... and then publish the post. [/tip]
@@ -19,22 +19,22 @@ Use three contiguous periods in a row while writing an ellipsis. Avoid using the
 
 Don't use ellipses in your documentation. If you have to use ellipses in your documentation, rewrite your content excluding all unnecessary information while including the necessary information.  Using ellipses in quoted text is acceptable, unless they appear at the beginning or the end of the text.
 
-**Examples**
+**Examples**  
 
 [warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...." [/warning]  
 [warning] Not Recommended: The WordPress Documentation handbook states: " ... and only a WordPress.org user account is required to create a page." [/warning]  
-[tip] Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress, ... And only a WordPress.org user account is required to create a page." [/tip]
+[tip] Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress, ... And only a WordPress.org user account is required to create a page." [/tip]  
 
 #### Ending a sentence with an ellipsis
 
 When a sentence ends with an ellipsis, insert a period right after the three dots of the ellipsis, without any intervening space. This applies for ellipses both in quoted and unquoted text.
 
-**Examples**
-
-[warning] Not Recommended: The Codex is a community-created repository for WordPress ... . [/warning]  
-[tip] Recommended: The Codex is a community-created repository for WordPress .... [/tip]
+**Examples**  
 
 [warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...". [/warning]  
+
+[warning] Not Recommended: The Codex is a community-created repository for WordPress ... . [/warning]  
+[tip] Recommended: The Codex is a community-created repository for WordPress .... [/tip]  
 
 ### In a user interface
 
