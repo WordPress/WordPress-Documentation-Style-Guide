@@ -17,7 +17,16 @@ Use three contiguous periods in a row while writing an ellipsis. Avoid using the
 
 ### In text
 
-Don't use ellipses in your documentation. If you have to use ellipses in your documentation, rewrite your content excluding all unnecessary information while including the necessary information.
+Don't use ellipses in your documentation. If you have to use ellipses in your documentation, rewrite your content excluding all unnecessary information while including the necessary information.  Using ellipses in quoted text is acceptable, unless they appear at the beginning or the end of the text.
+
+**Examples**
+
+[warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...." [/warning]  
+[warning] Not Recommended: The WordPress Documentation handbook states: " ... and only a WordPress.org user account is required to create a page." [/warning]  
+[tip] Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress, ... And only a WordPress.org user account is required to create a page." [/tip]
+
+#### Ending a sentence with an ellipsis
+
 
 ### In a user interface
 
