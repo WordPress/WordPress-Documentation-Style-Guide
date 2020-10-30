@@ -27,6 +27,10 @@ Don't use ellipses in your documentation. If you have to use ellipses in your do
 
 #### Ending a sentence with an ellipsis
 
+When a sentence ends with an ellipsis, insert a period right after the three dots of the ellipsis. This applies for ellipses both in quoted and unquoted text. 
+
+**Examples**
+
 
 ### In a user interface
 
