@@ -25,7 +25,7 @@ Use three contiguous periods in a row while writing an ellipsis. Avoid using the
 
 ### In a user interface
 
-Only use ellipses in user interfaces if it is absolutely needed to indicate a pause in conversational UI messages. For example, the text in a UI message might read *"Searching the database..."*.
-When UI elements have text with ellipses in them, exclude them from the documentation describing that UI element unless it could cause confusion.
+Only use ellipses in user interfaces if it is absolutely needed to indicate a pause in conversational UI messages. For example, the text in a UI message might read "*Searching the database ...*".
+When UI elements have text with ellipses in them, exclude them from the documentation describing that UI element, unless it could cause confusion. For example, if the text in the user interface reads "*Publish ...*", document the text as "click **Publish**".
 
 ### In text
