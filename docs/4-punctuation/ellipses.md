@@ -41,6 +41,22 @@ When a sentence ends with an ellipsis, insert a period right after the three dot
 Only use ellipses in user interfaces if it is absolutely needed to indicate a pause in conversational UI messages. For example, the text in a UI message might read "*Searching the database ...*".
 When UI elements have text with ellipses in them, exclude them from the documentation describing that UI element, unless it could cause confusion. For example, if the text in the user interface reads "*Publish ...*", document the text as "click **Publish**".
 
+### In illustrations
+
+If required, you can use ellipses in multiple-part callouts, such as in images, illustrations, screenshots, and graphics. Insert a space and then an ellipsis at the end of a phrase that continues later. Insert an ellipsis followed by a space at the beginning of a phrase that's continued from a previous phrase.
+
+If the callout ends with additional punctuation, such as a period or comma, insert a space between the punctuation mark and the ellipsis.
+
+**Example**  
+
+[tip] Recommended:  
+
+Read the instructions in the figure ...  
+
+[*image*]  
+
+... and proceed to the next step. [/tip]  
+
 ## Suspension points
 
 When ellipses are used to connote hesitation, a pause, or an unfinished thought, they are known as suspension points. Generally, suspension points indicate an informal, spoken language tone.  Avoid using suspension points in your documentation.
