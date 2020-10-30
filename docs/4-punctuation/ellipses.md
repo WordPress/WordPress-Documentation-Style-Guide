@@ -27,10 +27,14 @@ Don't use ellipses in your documentation. If you have to use ellipses in your do
 
 #### Ending a sentence with an ellipsis
 
-When a sentence ends with an ellipsis, insert a period right after the three dots of the ellipsis. This applies for ellipses both in quoted and unquoted text. 
+When a sentence ends with an ellipsis, insert a period right after the three dots of the ellipsis, without any intervening space. This applies for ellipses both in quoted and unquoted text.
 
 **Examples**
 
+[warning] Not Recommended: The Codex is a community-created repository for WordPress ... . [/warning]  
+[tip] Recommended: The Codex is a community-created repository for WordPress .... [/tip]
+
+[warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...". [/warning]  
 
 ### In a user interface
 
