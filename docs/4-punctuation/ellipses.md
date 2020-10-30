@@ -43,9 +43,7 @@ When UI elements have text with ellipses in them, exclude them from the document
 
 ### In illustrations
 
-If required, you can use ellipses in multiple-part callouts, such as in images, illustrations, screenshots, and graphics. Insert a space and then an ellipsis at the end of a phrase that continues later. Insert an ellipsis followed by a space at the beginning of a phrase that's continued from a previous phrase.
-
-If the callout ends with additional punctuation, such as a period or comma, insert a space between the punctuation mark and the ellipsis.
+If required, you can use ellipses in multiple-part callouts, such as in images, illustrations, screenshots, and graphics. Insert a space before the ellipsis at the end of a phrase that continues later; and insert an ellipsis followed by a space at the beginning of a phrase that's continued from a previous phrase. If the callout ends with additional punctuation, such as a period or comma, insert a space between the punctuation mark and the ellipsis.
 
 **Example**  
 
