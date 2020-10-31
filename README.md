@@ -82,7 +82,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Colons                       |   ✔️ (⚠️ while publishing)   |
 | Commas                       |   ✔️ (⚠️ while publishing)   |
 | Ellipses                     |   ✔️   |
-| Exclamation Marks            |   🔄   |
+| Exclamation Marks            |   ✔️ (⚠️ while publishing)   |
 | Hyphens & Dashes             |        |
 | Parentheses                  |        |
 | Periods                      |        |
