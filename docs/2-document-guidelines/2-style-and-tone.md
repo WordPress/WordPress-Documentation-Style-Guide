@@ -1,6 +1,6 @@
 # Style and Tone
 
-<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/ 
+<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/
 https://make.wordpress.org/docs/handbook/documentation-team-handbook/handbooks-style-and-formatting-guide/
 (make additions)-->
 
@@ -18,7 +18,7 @@ Even if a conversational tone helps, don't overplay the humor part. Keep the emp
 - Being overly pretentious/conspicuous.
 - Dictating/ordering procedures (such as *You must click "Publish"* or *You need to click "Publish"*).
 - Being overly polite (such as *Please click "Publish"*).
-- Using exclamation marks unless absolutely needed.
+- Using exclamation points unless absolutely needed.
 - Capitalizing words where it is unnecessary.
 - Excess use of the same phrases and pronouns.
 - Ableist language or figures of speech.
