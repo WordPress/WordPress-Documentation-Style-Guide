@@ -2,7 +2,7 @@
 
 ## Em dashes
 
-Use an em dash (—) also known as a long dash, to set off a break in the flow of a sentence. Em dashes are also used to provide emphasis for parenthetical phrases more than parentheses themselves. Don't add spaces before and after the em dash.
+Use an em dash (—) also known as a long dash, to set off a break in the flow of a sentence. Em dashes are also used to provide emphasis for parenthetical phrases more than parentheses themselves. Don't add spaces before and after the em dash. Don’t capitalize the first word after an em dash unless the word is a proper noun.
 
 Use one em dash on each side of the phrase that is to be embedded.
 
@@ -16,6 +16,8 @@ You can also use one em dash to initiate a phrase at the end of a sentence.
 **Examples**  
 
 [tip] Recommended: If you're stuck on a particular step, visit the FAQs page—it has a comprehensive list of common errors, problems, and  their solutions. [/tip]
+
+Don't use an em dash as a bullet in a list. See "Lists" for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
 ### Typing em dashes
 
