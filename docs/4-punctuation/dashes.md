@@ -39,7 +39,7 @@ Don't use an en dash (the shorter dash) or a hyphen in place of an em dash. The 
 
 ## En dashes
 
-En dashes are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for ranges.
+En dashes are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
 
 Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash.
 
@@ -47,8 +47,16 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 
 [warning] Not Recommended: The program was under active development from 2012 – 2017.  [/warning]  
 [tip] Recommended: The program was under active development from 2012–2017. [/tip]
-[tip] Recommended: Select a range from 10–60. [/tip]
+[tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]
 
+Use an en dash to indicate negative numbers and the minus sign. While writing an equation with a minus sign, insert spaces before and after the minus (en dash). Contrarily, while writing a negative sign (en dash), don't insert a space after it but do insert one before the sign. 
 
+**Examples**  
+
+[warning] Not Recommended: Enter the CAPTCHA: 20–6=14.  [/warning]  
+[tip] Recommended: Enter the CAPTCHA: 20 – 6 = 14. [/tip]
+
+[warning] Not Recommended: The value of the variable must be– 3.  [/warning]  
+[tip] Recommended: The value of the variable must be –3. [/tip]
 
 For additional information, see "Range of numbers".
