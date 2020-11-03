@@ -38,3 +38,8 @@ Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0151<
 Don't use an en dash (the shorter dash) or a hyphen in place of an em dash. The use of an en dash with spaces around it in place of an em dash is gradually becoming more common, but it's still not very widespread in the US in professional publishing; so far (as of early 2016), it's mostly used in Canada and a couple of other places. For now, just use the em dash.
 
 ## En dashes
+
+En dashes are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for ranges.
+
+
+For additional information, see "Range of numbers".
