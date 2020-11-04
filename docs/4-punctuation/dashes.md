@@ -49,7 +49,7 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 [tip] Recommended: The program was under active development from 2012–2017. [/tip]
 [tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]
 
-Use an en dash to indicate negative numbers and the minus sign. While writing an equation with a minus sign, insert spaces before and after the minus (en dash). Contrarily, while writing a negative sign (en dash), don't insert a space after it but do insert one before the sign. 
+Use an en dash to indicate negative numbers and the minus sign. While writing an equation with a minus sign, insert spaces before and after the minus (en dash). Contrarily, while writing a negative sign (en dash), don't insert a space after it but do insert one before the sign.
 
 **Examples**  
 
@@ -60,3 +60,7 @@ Use an en dash to indicate negative numbers and the minus sign. While writing an
 [tip] Recommended: The value of the variable must be –3. [/tip]
 
 For additional information, see "Range of numbers".
+
+Don't use an en dash as a bullet in a list. See "Lists" for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
+
+Don't use an en dash to indicate a range of times. Use the word *to* instead of the en dash.
