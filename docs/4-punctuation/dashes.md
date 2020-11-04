@@ -63,13 +63,13 @@ For additional information, see "Range of numbers".
 
 Don't use an en dash as a bullet in a list. See "Lists" for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
-Don't use an en dash to indicate a range of times. Use the word *to* instead of the en dash.
+Don't use an en dash to indicate a range of times. Use the word *to* instead of the en dash. Use an en dash with no surrounding spaces for a schedule or listing.
 
 **Examples**  
 
-[warning] Not Recommended: The meeting is scheduled from 15:00–16:00 UTC. [/warning]  
-[tip] Recommended: The meeting is scheduled from 15:00 to 16:00 UTC. [/tip]
+[tip] Recommended: The server was down from 3:00 AM to 5:00 AM. [/tip]  
+[tip] Recommended: The meeting is scheduled from 15:00–16:00 UTC. [/tip]  
 
 ### Typing en dashes
 
-`&#8209;`
+`&ndash;`
