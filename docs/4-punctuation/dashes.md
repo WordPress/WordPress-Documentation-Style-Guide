@@ -30,7 +30,7 @@ Press <kbd>Option+Shift+hyphen</kbd>.
 **Linux desktop environment**  
 Enable the <kbd>Compose</kbd> key. (Instructions for doing that vary depending on your Linux distribution.) After the Compose key is enabled, you can create an em dash by typing the <kbd>Compose</kbd> key followed by three hyphens.  
 
-Alternatively, press <kbd>Control+Shift+u</kbd>, then let go of those keys, then type <kbd>2014</kbd>, then press <kbd>Return</kbd>.
+Alternatively, press <kbd>Control+Shift+U</kbd>, then let go of those keys, then type <kbd>2014</kbd>, then press either the <kbd>Return</kbd> key or the <kbd>Ctrl/Shift</kbd> keys.
 
 Note: These Linux options don't work if you're signed in to the Linux command line from a remote system using ssh or the like; you have to be in a Linux desktop environment.  
 
@@ -83,3 +83,13 @@ For additional information, refer "Date and Time".
 
 **HTML**  
 `&ndash;`
+
+**macOS**  
+Press <kbd>Option+hyphen</kbd>.  
+
+**Linux desktop environment**  
+Enable the <kbd>Compose</kbd> key. (Instructions for doing that vary depending on your Linux distribution.) After the Compose key is enabled, you can create an em dash by typing the <kbd>Compose</kbd> key followed by two hyphens.  
+
+Alternatively, press <kbd>Control+Shift+U</kbd>, then let go of those keys, then type <kbd>2013</kbd>, then press either the <kbd>Return</kbd> key or the <kbd>Ctrl/Shift</kbd> keys.
+
+Note: These Linux options don't work if you're signed in to the Linux command line from a remote system using ssh or the like; you have to be in a Linux desktop environment.  
