@@ -99,4 +99,12 @@ Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0150<
 
 ## Colons instead of dashes in lists
 
-Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or description lists for separating them.
+Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or "description lists" for separating them.
+
+**Examples**  
+
+[warning] Not Recommended: Getting started with WordPress hooks - Introduction  [/warning]  
+[tip] Recommended: Getting started with WordPress hooks: Introduction [/tip]
+
+[warning] Not Recommended: You can install WordPress on one of the following operating systems – Windows, macOS, or Linux.  [/warning]  
+[tip] Recommended: You can install WordPress on one of the following operating systems: Windows, macOS, or Linux. [/tip]
