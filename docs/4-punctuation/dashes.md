@@ -70,6 +70,15 @@ Don't use an en dash to indicate a range of times. Use the word *to* instead of 
 [tip] Recommended: The server was down from 3:00 AM to 5:00 AM. [/tip]  
 [tip] Recommended: The meeting is scheduled from 15:00–16:00 UTC. [/tip]  
 
+Don't use an en dash in a range of times. Rather, use an en dash for a schedule or listing.
+
+**Examples**  
+
+[tip] Recommended: 7:30 AM–9:15 AM 05/11/2020 (time range on a single day) [/tip]  
+[tip] Recommended: The meeting is scheduled from 15:00–16:00 UTC. [/tip]  
+
+For additional information, refer "Date and Time"
+
 ### Typing en dashes
 
 `&ndash;`
