@@ -93,3 +93,10 @@ Enable the <kbd>Compose</kbd> key. (Instructions for doing that vary depending o
 Alternatively, press <kbd>Control+Shift+U</kbd>, then let go of those keys, then type <kbd>2013</kbd>, then press either the <kbd>Return</kbd> key or the <kbd>Ctrl/Shift</kbd> keys.
 
 Note: These Linux options don't work if you're signed in to the Linux command line from a remote system using ssh or the like; you have to be in a Linux desktop environment.  
+
+**Windows**  
+Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0150</kbd> on the numeric keypad.
+
+## Colons instead of dashes in lists
+
+Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or description lists for separating them.
