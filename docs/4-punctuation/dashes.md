@@ -28,14 +28,14 @@ Don't use an em dash as a bullet in a list. See "Lists" for additional informati
 Press <kbd>Option+Shift+hyphen</kbd>.  
 
 **Linux desktop environment**  
-Enable the Compose key. (Instructions for doing that vary depending on your flavor of Linux; for examples, see Linux Keyboard Shortcuts For Text Symbols.) After the Compose key is enabled, you can create an em dash by typing the Compose key followed by three hyphens.  
-Alternatively, press <kbd>Control+Shift+u</kbd>, then let go of those keys, then type <kbd>2014</kbd>, then press <kbd>Return</kbd>.  
+Enable the <kbd>Compose</kbd> key. (Instructions for doing that vary depending on your Linux distribution.) After the Compose key is enabled, you can create an em dash by typing the <kbd>Compose</kbd> key followed by three hyphens.  
+
+Alternatively, press <kbd>Control+Shift+u</kbd>, then let go of those keys, then type <kbd>2014</kbd>, then press <kbd>Return</kbd>.
+
 Note: These Linux options don't work if you're signed in to the Linux command line from a remote system using ssh or the like; you have to be in a Linux desktop environment.  
 
 **Windows**  
 Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0151</kbd> on the numeric keypad.  
-
-Don't use an en dash (the shorter dash) or a hyphen in place of an em dash. The use of an en dash with spaces around it in place of an em dash is gradually becoming more common, but it's still not very widespread in the US in professional publishing; so far (as of early 2016), it's mostly used in Canada and a couple of other places. For now, just use the em dash.
 
 ## En dashes
 
@@ -81,4 +81,5 @@ For additional information, refer "Date and Time".
 
 ### Typing en dashes
 
+**HTML**  
 `&ndash;`
