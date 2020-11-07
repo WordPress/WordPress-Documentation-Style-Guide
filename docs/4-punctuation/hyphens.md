@@ -14,7 +14,15 @@ Don't hyphenate a predicate adjective unless specifically mentioned in the "A-Z 
 
 ## Compound modifiers
 
-Use hyphenated compound modifiers before a noun. A compound modifier (also known as a noun modifier) precede and modify the noun as a unit. Don't hyphenate a compound modifier when you use it after a noun.
+Use hyphenated compound modifiers before a noun. A compound modifier (also known as a noun modifier) precede and modify the noun as a unit. Only hyphenate two or more words that precede and modify the noun as a unit of it doesn't result in undue confusion. Don't hyphenate a compound modifier when you use it after a noun.
+
+**Examples**  
+
+[warning] Not Recommended: Don't use the recently deprecated tool. [/warning]  
+[tip] Recommended: Don't use the recently-deprecated tool. [/tip]
+
+[warning] Not Recommended: The high capacity website hosting is impressive. [/warning]  
+[tip] Recommended: The high-capacity website hosting is impressive. [/tip]
 
 ## Compound words
 
