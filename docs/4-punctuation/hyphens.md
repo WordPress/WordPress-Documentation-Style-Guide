@@ -9,10 +9,12 @@ Don't hyphenate a predicate adjective unless specifically mentioned in the "A-Z 
 [warning] Not Recommended: The image needs to be high-resolution. [/warning]  
 [tip] Recommended: The image needs to be high resolution. [/tip]
 
-[warning] Not Recommended: The document is up-to-date.  [/warning]  
+[warning] Not Recommended: The document is up-to-date. [/warning]  
 [tip] Recommended: The document is up to date. [/tip]
 
 ## Compound modifiers
+
+Use hyphenated compound modifiers before a noun. A compound modifier (also known as a noun modifier) precede and modify the noun as a unit. Don't hyphenate a compound modifier when you use it after a noun.
 
 ## Compound words
 
