@@ -24,13 +24,21 @@ Use hyphenated compound modifiers before a noun. A compound modifier (also known
 [warning] Not Recommended: The high capacity website hosting is impressive. [/warning]  
 [tip] Recommended: The high-capacity website hosting is impressive. [/tip]
 
-Hyphenate two or more words if one of the words is a past or present participle (a verb ending in *-ing* or *-ed* being used as an adjective or noun).  
+Hyphenate two or more words that precede and modify the noun:
+- If one of the words is a past or present participle (a verb ending in *-ing* or *-ed* being used as an adjective or noun).  
+ **Examples**  
 
-**Examples**  
+ - well-formatted text
+ - mind-stimulating blog
+ - left-aligned paragraph  
 
-- well-formatted text
-- seat-gripping book
-- left-aligned paragraph
+
+- If the compound modifier is a number or a single letter with a noun or participle.  
+ **Examples**  
+
+ - three-pronged approach
+ - Cartesian x-axis 
+ - 4-sided quadrilateral
 
 ## Compound words
 
