@@ -41,14 +41,16 @@ Hyphenate two or more words that precede and modify the noun:
  - 4-sided quadrilateral
 
 In compound words that precede and modify a noun as a unit, don't hyphenate:
-- The word *very* when it precedes another modifier.
+- The word *very* when it precedes another modifier.  
  **Examples**  
 
  - very high capacity  
+ - very fast storage
 
 
-- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the "Word List"; if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
-**Examples**  
+- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the "Word List"; if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).   
+
+ **Examples**  
 
  - highly intensive processing
  - readily available source code
