@@ -6,7 +6,7 @@ For more information on writing simple, easy-to-understand documentation, refer 
 ## Spelling
 
 In general, use American (US) English. When the spelling of English words differ by locale, use the US spelling.
-If you're doubtful of a particular word, first refer the "Word List"; if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
+If you're doubtful of a particular word, first refer the "Word List"; if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 **Examples**
 
