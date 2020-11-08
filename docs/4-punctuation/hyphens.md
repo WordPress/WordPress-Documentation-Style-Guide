@@ -37,8 +37,17 @@ Hyphenate two or more words that precede and modify the noun:
  **Examples**  
 
  - three-pronged approach
- - Cartesian x-axis 
+ - Cartesian x-axis
  - 4-sided quadrilateral
+
+In compound words that precede and modify a noun as a unit, don't hyphenate:
+- The word *very* when it precedes another modifier.
+ **Examples**  
+
+ - very high capacity  
+
+
+
 
 ## Compound words
 
