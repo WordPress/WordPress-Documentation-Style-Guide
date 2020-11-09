@@ -67,12 +67,13 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
 
 ## Suspended hyphens
 
-Don't use suspended compound modifiers that have a common base. You can either spell out the entire phrase, or leave a space after hyphen leaving out the base.
+Don't use suspended compound modifiers that have a common base. You can either spell out the entire phrase, or leave a space after hyphen and leave out the base.
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: You can use either left, right, or center-aligned text formatting. [/warning]  
+[tip] Recommended: You can use either left-aligned, right-aligned, or center-aligned text formatting. [/tip]  
+[tip] Recommended: You can use either left-, right-, or center-aligned text formatting. [/tip]  
 
 ## Additional resources
 
