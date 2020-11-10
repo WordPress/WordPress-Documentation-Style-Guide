@@ -61,6 +61,8 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
 
 ## Space around hyphens
 
+Don't insert a space on either side of a hyphen, except when using a suspended hyphen, in which case insert a space after (but not before) the hyphen.
+
 ## When to hyphenate
 
 ## When not to hyphenate
