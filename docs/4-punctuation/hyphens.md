@@ -59,6 +59,13 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
 
 ## Numbers and fractions
 
+Hyphenate compound numerals and fractions.  
+
+**Examples**  
+- Jump to the thirty-second page in the user manual.
+- Split the columns into one-thirds using the column block.  
+
+
 En dashes are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
 
 Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen.
