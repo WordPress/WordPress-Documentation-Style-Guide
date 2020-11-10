@@ -19,14 +19,14 @@ The WordPress community and the open source WordPress project is committed to be
 - Use concise and simple sentences.
 - Avoid camel case and all caps text; follow capitalization guidelines.
 - Don't format fonts unnecessarily. More information on "Fonts".
-- Use proper heading hierarchy. The H1 is the main heading representing the page title on every core page. For subsections, use a reasonable HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
+- Use proper heading hierarchy. The H1 is the main heading representing the page title on every page or post (article). For subsections, use a correct HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
   - Use H2 through H6 to give internal structure to the page.
   - Don’t skip heading levels.
   - Don’t add extra functionality inside a heading, like links or buttons.
-- Don't used colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
+- Don't use colored or shaded backgrounds, images, or watermarks behind text. Low contrast hinders screen readers.
 - Avoid a screen full of continued text; rather break up your content in paragraphs and make use of headings, lists, bullet points, etc.
 - Define and spell out symbols, abbreviations or acronyms.
-- Don't limit the reader to forcefully open links in a new tab. If the links do open in a new tab, indicate it using text or an icon.
+- Don't limit the reader to forcefully open links in a new tab. When a link opens in a new tab, the user may lose the ability to go back in the browser. If the links do open in a new tab, indicate it using text or an icon.
 
 ## Media Accessibility
 
@@ -42,7 +42,7 @@ The WordPress community and the open source WordPress project is committed to be
 ## UI Accessibility
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
--  Clearly state error descriptions and fixing them.
+-  Clearly state error descriptions and ways to fix them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
 - Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on "aria-label".
 
