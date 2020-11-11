@@ -64,7 +64,7 @@ When two or more words are joined to form a new word, it is called a compound wo
 - e-learning
 - e-commerce
 
-
+To determine if a particular word can be hyphenated or not, refer the "Word List". If you're doubtful of a particular word, and if it's not covered in the "Word List", refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 ## Numbers and fractions
 
