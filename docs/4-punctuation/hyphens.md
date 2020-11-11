@@ -78,6 +78,10 @@ Hyphenate compound numerals and fractions.
 
 For more information, see "En dashes" and "Units of Measurement".
 
+## Prefixes
+
+Avoid creating new words by adding prefixes to existing words. Rewrite the word to avoid creating a new word, so as to circumvent any confusion.
+
 ## Space around hyphens
 
 Don't insert a space on either side of a hyphen, except when using a suspended hyphen, in which case insert a space after (but not before) the hyphen.
