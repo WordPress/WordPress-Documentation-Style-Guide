@@ -84,10 +84,11 @@ Avoid creating new words by adding "prefixes or suffixes" to existing words. Rew
 
 Don't hyphenate a word that has a prefix or suffix, in the following situations:
 - After these prefixes: *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-* unless excluding it could cause confusion.
-Hyphenate the word that has a prefix or suffix, in the following situations:
+
+Hyphenate a word that has a prefix or suffix, in the following situations:
 - When the prefix is *self-*; for example, *self-diagnosis, self-exclusion*.
-
-
+- When the prefix is followed by a word that is already hyphenated.
+- When the prefix is followed by a compound word that contains a space. In this case, the space is replaced with a hyphen; for example,  *world wide web* but *post-world-wide-web media*.
 
 ## Space around hyphens
 
