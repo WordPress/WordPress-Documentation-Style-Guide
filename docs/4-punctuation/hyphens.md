@@ -78,12 +78,16 @@ Hyphenate compound numerals and fractions.
 
 For more information, see "En dashes" and "Units of Measurement".
 
-## Prefixes
+## Prefixes and suffixes
 
-Avoid creating new words by adding "prefixes" to existing words. Rewrite the word to avoid creating a new word, so as to prevent any confusion.
+Avoid creating new words by adding "prefixes or suffixes" to existing words. Rewrite the word to avoid creating a new word, so as to prevent any confusion.
 
-Don't insert a hyphen after these prefixes unless not doing so could cause confusion:
-- *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-*
+Don't hyphenate a word that has a prefix or suffix, in the following situations:
+- After these prefixes: *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-* unless excluding it could cause confusion.
+Hyphenate the word that has a prefix or suffix, in the following situations:
+- When the prefix is *self-*; for example, *self-diagnosis, self-exclusion*.
+
+
 
 ## Space around hyphens
 
