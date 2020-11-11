@@ -80,7 +80,10 @@ For more information, see "En dashes" and "Units of Measurement".
 
 ## Prefixes
 
-Avoid creating new words by adding prefixes to existing words. Rewrite the word to avoid creating a new word, so as to circumvent any confusion.
+Avoid creating new words by adding "prefixes" to existing words. Rewrite the word to avoid creating a new word, so as to prevent any confusion.
+
+Don't insert a hyphen after these prefixes unless not doing so could cause confusion:
+- *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-*
 
 ## Space around hyphens
 
