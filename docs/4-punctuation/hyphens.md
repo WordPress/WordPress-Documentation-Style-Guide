@@ -57,6 +57,15 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
 
 ## Compound words
 
+When two or more words are joined to form a new word, it is called a compound word. Hyphenate compound nouns when one of the words is abbreviated.  
+
+**Examples**  
+
+- e-learning
+- e-commerce
+
+
+
 ## Numbers and fractions
 
 Hyphenate compound numerals and fractions.  
