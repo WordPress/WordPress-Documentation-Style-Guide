@@ -86,12 +86,12 @@ Don't hyphenate a word that has a prefix or suffix, in the following situations:
 - After these prefixes: *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-* unless excluding it could cause confusion.
 
 Hyphenate a word that has a prefix or suffix, in the following situations:
-- Where not doing so could cause confusion; for example, re-count, re-mark.
+- Where not hyphenating results in a confusing word; for example, *re-count, re-mark*.
 - When a number or a capital letter follows the prefix; for example, *non-English, pre-2000*.
 - When the prefix is *self-*; for example, *self-diagnosis, self-exclusion*.
 - When the prefix is followed by a word that is already hyphenated.
 - When the prefix ends in a vowel, and the word it precedes starts with the same vowel; for example, *co-op, anti-immune*.
-- When the prefix is followed by a compound word that contains a space. In this case, the space is replaced with a hyphen; for example,  *world wide web* but *post-world-wide-web media*.
+- When the prefix is followed by a compound word that contains a space. In this case, the space is replaced with a hyphen; for example,  *world wide web* but *pre-world-wide-web media*.
 
 ## Space around hyphens
 
