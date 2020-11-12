@@ -107,6 +107,15 @@ Don't use suspended compound modifiers that have a common base. You can either s
 [tip] Recommended: You can use either left-aligned, right-aligned, or center-aligned text formatting. [/tip]  
 [tip] Recommended: You can use either left-, right-, or center-aligned text formatting. [/tip]  
 
+## Capitalization in hyphenated compound words
+
+Capitalize any part of a hyphenated compound word even if it isn't capitalized without a hyphen.
+
+**Examples**  
+
+[warning] Not Recommended: well-formatted text is a vital element to enhance readability. [/warning]  
+[tip] Recommended:  [/tip]  
+
 ## Additional resources
 
 "Dashes"
