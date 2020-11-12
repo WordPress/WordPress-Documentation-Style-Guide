@@ -114,7 +114,7 @@ Capitalize any part of a hyphenated compound word even if it isn't capitalized w
 **Examples**  
 
 [warning] Not Recommended: well-formatted text is a vital element to enhance readability. [/warning]  
-[tip] Recommended:  [/tip]  
+[tip] Recommended: Well-formatted text is a vital element to enhance readability. [/tip]  
 
 ## Additional resources
 
