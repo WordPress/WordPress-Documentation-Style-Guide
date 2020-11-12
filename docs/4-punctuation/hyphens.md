@@ -93,6 +93,8 @@ Hyphenate a word that has a prefix or suffix, in the following situations:
 - When the prefix ends in a vowel, and the word it precedes starts with the same vowel; for example, *co-operate, anti-immune, re-establish*. [review]
 - When the prefix is followed by a compound word that contains a space. In this case, the space is replaced with a hyphen; for example,  *world wide web* but *pre-world-wide-web media*.
 
+Refer "Prefixes and Suffixes" for additional information.
+
 ## Space around hyphens
 
 Don't insert a space on either side of a hyphen, except when using a suspended hyphen, in which case insert a space after (but not before) the hyphen.
@@ -118,4 +120,4 @@ Capitalize any part of a hyphenated compound word even if it isn't capitalized w
 
 ## Additional resources
 
-"Dashes"
+Don't use hyphens and dashes interchangeably. See "Dashes" for more information.
