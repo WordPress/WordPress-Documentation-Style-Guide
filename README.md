@@ -1,7 +1,7 @@
 # WordPress Documentation Style Guide
 
 The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020.  
-**The Style Guide is currently under development.**
+**⚠️ The Style Guide is currently under development.**
 
 - Technical writer: Atharva Dhekne [@tacitonic](https://github.com/tacitonic)
 - Mentors: Felipe Elia [@felipeelia](https://github.com/felipeelia) and Milana Cap [@zzap](https://github.com/zzap)
@@ -84,7 +84,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Dashes (split from Hyphens)  |   ✔️ (⚠️ while publishing)   |
 | Ellipses                     |   ✔️   |
 | Exclamation Marks            |   ✔️ (⚠️ while publishing)   |
-| Hyphens                      |   🔄 (⚠️ while publishing)   |
+| Hyphens                      |   ✔️ (⚠️ while publishing)   |
 | Parentheses                  |        |
 | Periods                      |        |
 | Question Marks               |        |
