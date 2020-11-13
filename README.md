@@ -85,7 +85,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Ellipses                     |   ✔️   |
 | Exclamation Marks            |   ✔️ (⚠️ while publishing)   |
 | Hyphens                      |   ✔️ (⚠️ while publishing)   |
-| Parentheses                  |   🔄 (⚠️ while publishing)   |
+| Parentheses                  |   ✔️ (⚠️ while publishing)   |
 | Periods                      |        |
 | Question Marks               |        |
 | Quotation Marks (split from Apostrophes)|      |
