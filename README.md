@@ -89,7 +89,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Periods                      |        |
 | Question Marks               |        |
 | Quotation Marks (split from Apostrophes)|      |
-| Semicolons (split from colons)|        |
+| Semicolons (split from colons)|   🔄   |
 | Slashes                      |        |
 
 ### Formatting
