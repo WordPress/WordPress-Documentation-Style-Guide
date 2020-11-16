@@ -18,10 +18,17 @@ Use a semicolon before an independent clause that is set off with phrases such a
 **Examples**
 
 [tip] Recommended: The preview shows how the page will look on the front end; that is, the final published website.  [/tip]  
-[tip] Recommended: Making changes to the code while running the server could cause errors in your databases; namely, corrupted tables or duplicate values. [/tip]
+[tip] Recommended: Making changes to the code while running the server could cause errors in your databases; specifically, corrupted tables or duplicate values. [/tip]
 
 ## Semicolons before a conjunctive adverb
 
 ## Semicolons between contrasting statements
+
+Use a semicolon between two contrasting statements that aren't joined by a conjunction.
+
+**Examples**
+
+[tip] Recommended:  [/tip]  
+[tip] Recommended:  [/tip]
 
 ## Semicolons in a series
