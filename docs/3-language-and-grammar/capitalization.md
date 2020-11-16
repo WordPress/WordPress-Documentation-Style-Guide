@@ -17,8 +17,7 @@ WordPress follows American English capitalization rules. In general, sentence ca
 
 Use sentence-case capitalization in titles and headings. Capitalize the first word in the title or heading, sub-heading, any proper nouns, and official terms. If a title or heading includes a colon, capitalize the following word.
 
-Lowercase all other words and terms. Don't end the title or heading with a period.  
-For example, *'Creating a block for the Gutenberg block editor'*.
+Lowercase all other words and terms. Don't end the title or heading with a period. For example, *'Creating a block for the Gutenberg block editor'*.
 
 ## Capitalization in indexes and glossaries
 
@@ -30,8 +29,9 @@ Use sentence case for tables, lists and all their elements.
 
 ## Capitalization and colons
 
-Capitalize text after a colon if they are headings, titles, proper nouns, official terminology, and quotations. Use lowercase if the text following the colon is exclusive of this criteria.
-For example,
+Capitalize text after a colon if they are headings, titles, proper nouns, official terminology, and quotations. Use lowercase if the text following the colon is exclusive of this criteria.  
+
+**Examples**  
 - Directory structure: Home
 - Block Editor: Making a Block
 - Our founder: John D.
@@ -46,8 +46,9 @@ Capitalize terms using sentence case. Capitalize labels, captions, and other sup
 
 ## Capitalization and slashes
 
-For words using a slash, capitalize the word after the slash if the word before it is capitalized.
-For example,
+For words using a slash, capitalize the word after the slash if the word before it is capitalized.  
+
+**Examples**  
 - *Region/Location*
 - *Press the On/Off switch.*
 
