@@ -15,6 +15,11 @@ Use a semicolon between two closely associated independent clauses that aren't j
 
 Use a semicolon before an independent clause that is set off with phrases such as *for example, that is, in particular*, or *to illustrate*.
 
+**Examples**
+
+[tip] Recommended: The preview shows how the page will look on the front end; that is, the final published website.  [/tip]  
+[tip] Recommended: Making changes to the code while running the server could cause errors in your databases; namely, corrupted tables or duplicate values. [/tip]
+
 ## Semicolons before a conjunctive adverb
 
 ## Semicolons between contrasting statements
