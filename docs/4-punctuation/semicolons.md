@@ -13,6 +13,8 @@ Use a semicolon between two closely associated independent clauses that aren't j
 
 ## Semicolons before an independent clause
 
+Use a semicolon before an independent clause that is set off with phrases such as *for example, that is, in particular*, or *to illustrate*.
+
 ## Semicolons before a conjunctive adverb
 
 ## Semicolons between contrasting statements
