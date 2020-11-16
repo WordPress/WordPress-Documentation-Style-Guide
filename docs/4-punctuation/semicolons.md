@@ -26,9 +26,8 @@ Use a semicolon before an independent clause that is set off with phrases such a
 
 Use a semicolon between two contrasting statements that aren't joined by a conjunction.
 
-**Examples**
+**Example**
 
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]
+[tip] Recommended: You don't need top specs to run WordPress locally; a simple configuration would be totally adequate. [/tip]  
 
 ## Semicolons in a series
