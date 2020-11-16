@@ -56,7 +56,7 @@ Don't use an apostrophe with possessive pronouns.
 [warning] Not Recommended: The website is your's. [/warning]  
 [tip] Recommended: The website is yours. [/tip]
 
-## Ambiguities using Pronouns
+## Ambiguities using pronouns
 
 Ensure that the pronoun you're using is referencing its antecedent (the noun that it's replacing) clearly.
 
