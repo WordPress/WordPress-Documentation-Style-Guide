@@ -24,6 +24,11 @@ Use a semicolon before an independent clause that is set off with phrases such a
 
 Insert a semicolon before conjunctive adverbs that join two independent clauses. Examples of commonly used conjunctive adverbs include *accordingly, additionally, also, besides, consequently, finally, furthermore, hence, however, indeed, in fact, likewise, similarly, therefore*, and *thus*.
 
+**Examples**
+
+[tip] Recommended: You can drag and drop the block if you select it; similarly, you can also use the **Move Up** and **Move Down** buttons to move the block. [/tip]  
+[tip] Recommended: After you re-run the application, the page gets updated; however, you'll need to refresh the page in the browser too. [/tip]
+
 ## Semicolons between contrasting statements
 
 Use a semicolon between two contrasting statements that aren't joined by a conjunction.
