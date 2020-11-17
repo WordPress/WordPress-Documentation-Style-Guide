@@ -33,3 +33,12 @@ Use a semicolon between two contrasting statements that aren't joined by a conju
 ## Semicolons in a series
 
 When you have separate items in a series that contain their own punctuation such as commas or periods, use semicolons to separate out the complex series. You can also segregate the series into a list.
+
+**Examples**
+
+[tip] Recommended:
+Here’s the quick version of the instructions for those who are already comfortable with performing such installations: Download and unzip the WordPress package if you haven’t already; Create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it; (Optional) Find and rename `wp-config-sample.php` to `wp-config.php`, then edit the file and add your database information; Upload the WordPress files to the desired location on your web server; Run the WordPress installation script by accessing the URL in a web browser.  
+[/tip]  
+[tip] Recommended:
+
+ [/tip]
