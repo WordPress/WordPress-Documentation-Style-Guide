@@ -31,3 +31,5 @@ Use a semicolon between two contrasting statements that aren't joined by a conju
 [tip] Recommended: You don't need top specs to run WordPress locally; a simple configuration would be totally adequate. [/tip]  
 
 ## Semicolons in a series
+
+When you have separate items in a series that contain their own punctuation such as commas or periods, use semicolons to separate out the complex series. You can also segregate the series into a list.
