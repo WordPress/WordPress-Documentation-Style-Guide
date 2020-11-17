@@ -22,6 +22,8 @@ Use a semicolon before an independent clause that is set off with phrases such a
 
 ## Semicolons before a conjunctive adverb
 
+Insert a semicolon before conjunctive adverbs that join two independent clauses. Examples of commonly used conjunctive adverbs include *accordingly, additionally, also, besides, consequently, finally, furthermore, hence, however, indeed, in fact, likewise, similarly, therefore*, and *thus*.
+
 ## Semicolons between contrasting statements
 
 Use a semicolon between two contrasting statements that aren't joined by a conjunction.
@@ -46,5 +48,6 @@ Here’s the quick version of the instructions for those who are already comfort
 - Download and unzip the WordPress package if you haven’t already.
 - Create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it.
 - (Optional) Find and rename `wp-config-sample.php` to `wp-config.php`, then edit the file and add your database information.
-- Upload the WordPress files to the desired location on your web server; Run the WordPress installation script by accessing the URL in a web browser.  
- [/tip]
+- Upload the WordPress files to the desired location on your web server.
+- Run the WordPress installation script by accessing the URL in a web browser.  
+[/tip]
