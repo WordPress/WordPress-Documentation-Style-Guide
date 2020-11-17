@@ -36,9 +36,15 @@ When you have separate items in a series that contain their own punctuation such
 
 **Examples**
 
-[tip] Recommended:
-Here’s the quick version of the instructions for those who are already comfortable with performing such installations: Download and unzip the WordPress package if you haven’t already; Create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it; (Optional) Find and rename `wp-config-sample.php` to `wp-config.php`, then edit the file and add your database information; Upload the WordPress files to the desired location on your web server; Run the WordPress installation script by accessing the URL in a web browser.  
-[/tip]  
-[tip] Recommended:
+[tip] Recommended:  
 
+Here’s the quick version of the instructions for those who are already comfortable with performing such installations: download and unzip the WordPress package if you haven’t already; create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it; (optional) find and rename `wp-config-sample.php` to `wp-config.php`, then edit the file and add your database information; upload the WordPress files to the desired location on your web server; run the WordPress installation script by accessing the URL in a web browser.  
+[/tip]  
+[tip] Recommended:  
+
+Here’s the quick version of the instructions for those who are already comfortable with performing such installations:
+- Download and unzip the WordPress package if you haven’t already.
+- Create a database for WordPress on your web server, as well as a MySQL (or MariaDB) user who has all privileges for accessing and modifying it.
+- (Optional) Find and rename `wp-config-sample.php` to `wp-config.php`, then edit the file and add your database information.
+- Upload the WordPress files to the desired location on your web server; Run the WordPress installation script by accessing the URL in a web browser.  
  [/tip]
