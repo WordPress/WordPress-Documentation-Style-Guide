@@ -45,6 +45,10 @@ Be cautious while using slashes between the numerator and denominator in mathema
 
 ## Slashes with abbreviations
 
+Don't use abbreviations utilizing slashes. Instead, spell the abbreviation out.  
+
+
+
 ## Slashes with dates
 
 Don't use date formats with slashes.
