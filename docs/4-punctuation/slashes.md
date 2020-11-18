@@ -8,6 +8,13 @@ In general, try to avoid slashes in your documentation, except in code examples,
 
 ## Slashes with URLs
 
+Use slashes in URLs, local, and internet addresses.
+
+**Examples**
+
+[tip] Recommended: Navigate to http://localhost/wordpress to start the WordPress install. [/tip]  
+[tip] Recommended: Visit https://make.wordpress.org/docs/style-guide/ for additional information.[/tip]  
+
 ## Slashes with file paths and names
 
 Use forward slashes in computer, server, folder, and file names and paths. For Microsoft Windows file paths and names, use backslashes.
@@ -15,7 +22,7 @@ Use forward slashes in computer, server, folder, and file names and paths. For M
 **Examples**
 
 [tip] Recommended: Download the zip file, and extract it into the web directory for your WAMP (Windows) installation: `C:\wamp\www`. [/tip]  
-[tip] Recommended: Open the WordPress configuration file: `/var/www/wordpress/wp-config.php` [/tip]
+[tip] Recommended: Open the WordPress configuration file: `/var/www/wordpress/wp-config.php`. [/tip]
 
 ## Slashes with mathematical equations
 
