@@ -15,3 +15,7 @@ In general, try to avoid slashes in your documentation, except in code examples,
 ## Slashes with abbreviations
 
 ## Slashes with dates
+
+Don't use date formats with slashes.
+
+See "Dates and Times" for additional information.
