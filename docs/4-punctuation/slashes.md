@@ -8,12 +8,13 @@ In general, try to avoid slashes in your documentation, except in code examples,
 
 ## Slashes with URLs
 
-Use slashes in URLs, local, and internet addresses.
+Use slashes in URLs, local, and internet addresses. Use two slashes after the protocol name.
 
 **Examples**
 
 [tip] Recommended: Navigate to http://localhost/wordpress to start the WordPress install. [/tip]  
 [tip] Recommended: Visit https://make.wordpress.org/docs/style-guide/ for additional information.[/tip]  
+[tip] Recommended: The uploaded file can be found on ftp://example.com/uploads. [/tip]  
 
 ## Slashes with file paths and names
 
