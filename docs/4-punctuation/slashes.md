@@ -47,7 +47,10 @@ Be cautious while using slashes between the numerator and denominator in mathema
 
 Don't use abbreviations utilizing slashes. Instead, spell the abbreviation out.  
 
+**Examples**  
 
+[warning] Not Recommended: *b/c, w/o, w/, c/o, a/c* [/warning]  
+[tip] Recommended: because, without, with, care of, account [/tip]  
 
 ## Slashes with dates
 
