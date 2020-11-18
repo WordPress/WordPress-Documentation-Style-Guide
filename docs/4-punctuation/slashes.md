@@ -27,15 +27,21 @@ Use forward slashes in computer, server, folder, and file names and paths. For M
 
 ## Slashes with fractions and mathematical equations
 
-Don't use slashes with fractions, as they may be difficult to comprehend. They could be misunderstood as alternatives or combinations.
+Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations.
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]
+[warning] Not Recommended: 3/4 [/warning]  
+[tip] Recommended: ¾ [/tip]  
+[tip] Recommended: 0.75 [/tip]  
+[tip] Recommended: 75% [/tip]  
 
-Be cautious while using slashes between the numerator and denominator in mathematical equations.
-[tip] Sometimes okay:  [/tip]  
+Be cautious while using slashes between the numerator and denominator in mathematical equations.  
+
+**Examples**  
+
+[tip] Sometimes okay: x/2 = 4 [/tip]  
+[tip] Sometimes okay: (x+2)/8 = 2/3 [/tip]  
 
 ## Slashes with abbreviations
 
