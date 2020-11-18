@@ -25,7 +25,9 @@ Use forward slashes in computer, server, folder, and file names and paths. For M
 [tip] Recommended: Download the zip file, and extract it into the web directory for your WAMP (Windows) installation: `C:\wamp\www`. [/tip]  
 [tip] Recommended: Open the WordPress configuration file: `/var/www/wordpress/wp-config.php`. [/tip]
 
-## Slashes with mathematical equations
+## Slashes with fractions
+
+Don't use slashes with fractions, as they may be difficult to comprehend. They could be misunderstood as alternatives or combinations.
 
 ## Slashes with abbreviations
 
