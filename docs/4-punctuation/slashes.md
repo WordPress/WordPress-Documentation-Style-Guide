@@ -8,7 +8,14 @@ In general, try to avoid slashes in your documentation, except in code examples,
 
 ## Slashes with URLs
 
-## Slashes with file paths
+## Slashes with file paths and names
+
+Use forward slashes in computer, server, folder, and file names and paths. For Microsoft Windows file paths and names, use backslashes.
+
+**Examples**
+
+[tip] Recommended: Download the zip file, and extract it into the web directory for your WAMP installation; `C:\wamp\www`. [/tip]  
+[tip] Recommended:  [/tip]
 
 ## Slashes with mathematical equations
 
