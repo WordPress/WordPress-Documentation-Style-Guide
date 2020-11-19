@@ -1,6 +1,16 @@
 # Periods
 
-End all independent sentences with a period, and insert a space after the period.
+End all independent sentences with a period, and insert one space after the period.
+
+## Periods with parentheses
+
+## Periods with abbreviations
+
+## Periods with numbers
+
+Use a period to represent a decimal point.
+
+For more information about numbers, see "Numbers".
 
 ## Periods with headings
 
