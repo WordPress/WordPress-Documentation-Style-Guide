@@ -24,7 +24,13 @@ Don't use slashes to separate alternatives. Don't substitute a slash for the wor
 [warning] Not Recommended: You can install the plugin by uploading/searching in the directory. [/warning]  
 [tip] Recommended: You can install the plugin by uploading it, or searching it in the directory. [/tip]  
 
+[warning] Not Recommended: The user must have administrator/editor access to publish the post. [/warning]  
+[tip] Recommended: The user must have administrator or editor access to publish the post. [/tip]  
+[tip] Recommended: The user must have administrator and editor access to publish the post. [/tip]  
 
+[warning] Not Recommended: Repeat the process 2/3 times until you get a favorable result. [/warning]  
+[tip] Recommended: Repeat the process 2 or 3 times until you get a favorable result. [/tip]  
+[tip] Recommended: Repeat the process 2 to 3 times until you get a favorable result. [/tip]  
 
 ## Slashes with URLs
 
