@@ -2,7 +2,6 @@
 
 In general, try to avoid slashes in your documentation, except in code examples, file paths, and URLs.
 
-## Slashes with alternatives
 
 ## Slashes with combinations
 
@@ -15,6 +14,16 @@ Use a slash to indicate a combination. Capitalize the second word if the first w
 
 [tip] Recommended: The UI/UX for the plugin was recently updated. [/tip]  
 [tip] Recommended: The website can be developed with HTML/CSS as well. [/tip]  
+
+## Slashes with alternatives
+
+Don't use slashes to separate alternatives. Don't substitute a slash for the words *and* or *or*.
+
+**Examples**  
+
+[warning] Not Recommended: You can install the plugin by uploading/searching in the directory. [/warning]  
+[tip] Recommended: You can install the plugin by uploading it, or searching it in the directory. [/tip]  
+
 
 
 ## Slashes with URLs
