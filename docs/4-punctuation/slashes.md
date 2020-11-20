@@ -6,6 +6,8 @@ In general, try to avoid slashes in your documentation, except in code examples,
 
 ## Slashes with combinations
 
+Use a slash to indicate a combination. Capitalize the second word if the first word in the combination is capitalized.
+
 ## Slashes with URLs
 
 Use slashes in URLs, local, and internet addresses. Use two slashes after the protocol name.
