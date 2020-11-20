@@ -4,6 +4,8 @@ End all independent sentences with a period, and insert one space after the peri
 
 ## Periods with parentheses
 
+If the last part of a sentence ends within parentheses, insert the period after the closing parenthesis. If a complete, independent sentence is enclosed within parentheses, include the period inside the parentheses.
+
 ## Periods with abbreviations
 
 ## Periods with numbers
