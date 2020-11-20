@@ -8,6 +8,15 @@ In general, try to avoid slashes in your documentation, except in code examples,
 
 Use a slash to indicate a combination. Capitalize the second word if the first word in the combination is capitalized.
 
+**Examples**
+
+[tip] Recommended: Toggle the on/off switch on the dashboard. [/tip]  
+[tip] Recommended: Toggle the On/Off switch on the dashboard. [/tip]  
+
+[tip] Recommended: The UI/UX for the plugin was recently updated. [/tip]  
+[tip] Recommended: The website can be developed with HTML/CSS as well. [/tip]  
+
+
 ## Slashes with URLs
 
 Use slashes in URLs, local, and internet addresses. Use two slashes after the protocol name.
