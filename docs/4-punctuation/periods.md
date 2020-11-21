@@ -1,6 +1,6 @@
 # Periods
 
-End all independent sentences with a period, and insert one space after the period.
+End all independent sentences with a period, and insert one space after the period. If the sentence or phrase ends with punctuation other than a period, such as a question mark or exclamation point, don't use a period.
 
 ## Periods with lists
 
@@ -45,7 +45,7 @@ If the last part of a sentence ends within parentheses, insert the period after 
 
 ## Periods with quotation marks
 
-If a sentence or phrase ends with content inside quotation marks, place the period inside the quotation marks, even if it doesn't belong in the quoted content. If the sentence or phrase inside the quotation marks ends with punctuation other than periods, such as a question mark or exclamation point, don't use a period.
+If a sentence or phrase ends with content inside quotation marks, place the period inside the quotation marks, even if it doesn't belong in the quoted content. If the sentence or phrase inside the quotation marks ends with punctuation other than a period, such as a question mark or exclamation point, don't use a period.
 
 **Examples**  
 
