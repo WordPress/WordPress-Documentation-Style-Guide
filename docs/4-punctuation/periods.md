@@ -13,6 +13,10 @@ If the last part of a sentence ends within parentheses, insert the period after 
 
 ## Periods with abbreviations
 
+Use periods at the end of shortened words. Don't use periods with acronyms and initialisms. Similarly, don't use periods with commons words that are abbreviations such as *app* or *demo*.
+
+Refer "Abbreviations" for additional information.
+
 ## Periods with numbers
 
 Use a period to represent a decimal point.
