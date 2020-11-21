@@ -88,7 +88,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Parentheses                  |   ✔️ (⚠️ while publishing)   |
 | Periods                      |   ✔️ (⚠️ while publishing)   |
 | Question Marks               |   ✔️   |
-| Quotation Marks (split from Apostrophes)|      |
+| Quotation Marks (split from Apostrophes)|   🔄   |
 | Semicolons (split from colons)|   ✔️   |
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
