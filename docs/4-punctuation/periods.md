@@ -14,11 +14,18 @@ Don't insert a period at the end of a term, and insert a period at the end of a 
 
 ### Bulleted and numbered lists
 
-In general, use a period at the end of each item in a bulleted list.
+In general, use a period at the end of each item in bulleted and numbered lists.
 **Exceptions:** Single-word items, items entirely in code font, and items with no verbs.
-For additional information, see "Capitalization and end punctuation".
+For additional information, see "Capitalization and end punctuation in Lists".
 
 ## Periods with URLs
+
+Ending a URL or file path immediately with a period may confuse readers and even alter the URL.
+
+If the period isn't part of the URL, you can differentiate it by highlighting it different than normal text. In most browsers, a link is highlighted blue by default which helps to differentiate it from the period.
+
+
+
 
 ## Periods with parentheses
 
