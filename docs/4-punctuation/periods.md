@@ -22,14 +22,17 @@ Don't insert a period at the end of a term, and insert a period at the end of a 
 
 Ending a URL or file path immediately with a period may confuse readers and even alter the URL.
 
-If the period isn't part of the URL, you can differentiate it by highlighting it different than normal text. In most browsers, a link is highlighted blue by default, which helps to differentiate it from the period.
+If the period isn't part of the URL, you can differentiate it by highlighting it different than normal text. In most browsers, a link is highlighted blue by default, which helps to differentiate it from the period. When you put a period after a URL, don't leave any space between the last character of the URL and the period.
 
 To indicate that the period ending a sentence is not a part of the URL, you can rewrite the sentence so that the URL isn't at the end. Another alternative is to exclude the period by putting the URL on a separate line other than the text.
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/. [/warning]  
+[warning] Not Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/ . [/warning]  
+[tip] Recommended: For more information on accessibility, refer:
+ https://wordpress.org/about/accessibility/ [/tip]  
+[tip] Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/ and related resources. [/tip]  
 
 ## Periods with parentheses
 
