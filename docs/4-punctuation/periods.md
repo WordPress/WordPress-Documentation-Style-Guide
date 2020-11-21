@@ -2,6 +2,20 @@
 
 End all independent sentences with a period, and insert one space after the period.
 
+## Periods with lists
+
+Ending a list item with a period depends on several factors including the kind of list the item appears in.
+
+For more information about lists, see "Lists".
+
+### Description lists
+
+Don't insert a period at the end of a term, and insert a period at the end of a description.
+
+
+
+## Periods with URLs
+
 ## Periods with parentheses
 
 If the last part of a sentence ends within parentheses, insert the period after the closing parenthesis. If a complete, independent sentence is enclosed within parentheses, include the period inside the parentheses.
