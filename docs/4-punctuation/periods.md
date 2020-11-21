@@ -12,7 +12,11 @@ For more information about lists, see "Lists".
 
 Don't insert a period at the end of a term, and insert a period at the end of a description.
 
+### Bulleted and numbered lists
 
+In general, use a period at the end of each item in a bulleted list.
+**Exceptions:** Single-word items, items entirely in code font, and items with no verbs.
+For additional information, see "Capitalization and end punctuation".
 
 ## Periods with URLs
 
