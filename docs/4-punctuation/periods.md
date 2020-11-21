@@ -6,6 +6,11 @@ End all independent sentences with a period, and insert one space after the peri
 
 If the last part of a sentence ends within parentheses, insert the period after the closing parenthesis. If a complete, independent sentence is enclosed within parentheses, include the period inside the parentheses.
 
+**Examples**  
+
+[tip] Recommended: You can categorize your post with multiple tags (the default tag is uncategorized). [/tip]  
+[tip] Recommended: Making changes to the code while running the server could cause errors in your databases. (Specifically, it can cause corrupted tables or duplicate values.) [/tip]  
+
 ## Periods with abbreviations
 
 ## Periods with numbers
