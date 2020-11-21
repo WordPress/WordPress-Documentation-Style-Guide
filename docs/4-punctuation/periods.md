@@ -8,24 +8,28 @@ Ending a list item with a period depends on several factors including the kind o
 
 For more information about lists, see "Lists".
 
-### Description lists
-
-Don't insert a period at the end of a term, and insert a period at the end of a description.
-
 ### Bulleted and numbered lists
 
 In general, use a period at the end of each item in bulleted and numbered lists.
 **Exceptions:** Single-word items, items entirely in code font, and items with no verbs.
 For additional information, see "Capitalization and end punctuation in Lists".
 
+### Description lists
+
+Don't insert a period at the end of a term, and insert a period at the end of a description.
+
 ## Periods with URLs
 
 Ending a URL or file path immediately with a period may confuse readers and even alter the URL.
 
-If the period isn't part of the URL, you can differentiate it by highlighting it different than normal text. In most browsers, a link is highlighted blue by default which helps to differentiate it from the period.
+If the period isn't part of the URL, you can differentiate it by highlighting it different than normal text. In most browsers, a link is highlighted blue by default, which helps to differentiate it from the period.
 
+To indicate that the period ending a sentence is not a part of the URL, you can rewrite the sentence so that the URL isn't at the end. Another alternative is to exclude the period by putting the URL on a separate line other than the text.
 
+**Examples**  
 
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
 
 ## Periods with parentheses
 
