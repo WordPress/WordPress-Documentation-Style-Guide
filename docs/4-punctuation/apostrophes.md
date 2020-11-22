@@ -1,6 +1,7 @@
 # Apostrophes
 
 Use curved apostrophes, the same character as a single quotation mark ('). Only use straight apostrophes in code snippets.
+[review]
 
 ## Apostrophes in contractions
 
