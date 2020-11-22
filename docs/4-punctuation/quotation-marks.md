@@ -4,9 +4,24 @@ Use straight double quotation marks and apostrophes.
 
 ## Quotation marks with commas and periods
 
-Place commas and periods and other punctuation inside quotation marks; in the American (US) English style.
+Place commas and periods inside quotation marks; in the American (US) English style.
 
-**Examples**
+**Examples**  
 
-[warning] British English: Further research is published on the homepage under the dropdown named "Recent Findings".  [/warning]  
-[tip] American (US) English: Further research is published on the homepage under the dropdown named "Recent Findings." [/tip]  
+[warning] British English: Further research is published on the homepage under the dropdown titled "Recent Findings".  [/warning]  
+[tip] American (US) English: Further research is published on the homepage under the dropdown titled "Recent Findings." [/tip]  
+
+If punctuation is part of the quoted material, include it inside the quotation marks.
+
+**Examples**  
+
+[tip] Recommended: What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
+[tip] Recommended: Learn how one of the biggest nuisances online - "spam comments," are filtered out on blogs. [/tip]  
+
+When you put a specific string, term, or phrase in quotation marks, put any punctuation outside the quotation marks. Don't add or remove anything from the string or term. Altering it may cause unforeseen issues or difficulties.
+
+**Examples**  
+
+[warning] Not Recommended: If you change the input field titled "password," the file needs to be updated.  [/warning]  
+[tip] Better: If you change the input field titled "password", the file needs to be updated. [/tip]  
+[tip] Recommended: If you change the input field titled `password`, the file needs to be updated. [/tip]  
