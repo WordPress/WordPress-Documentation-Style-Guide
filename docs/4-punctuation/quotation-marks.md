@@ -42,3 +42,10 @@ Hence, in general, use straight quotation marks (" ").
 Use single quotation marks only in the following cases:
 - In code, where single quotation marks are used.
 - When you have to nest a quotation inside quotation marks.
+
+While nesting a quotation inside another quotation, use the American (US) English style, which is to use double quotation marks for the outer quotation, and single quotation marks for the inner one.
+
+**Examples**  
+
+[warning] British English:  [/warning]  
+[tip] American (US) English:  [/tip]  
