@@ -47,5 +47,5 @@ While nesting a quotation inside another quotation, use the American (US) Englis
 
 **Examples**  
 
-[warning] British English:  [/warning]  
-[tip] American (US) English:  [/tip]  
+[warning] British English: He said, 'My colleague asked, "What does this error mean?" as he hurriedly tried to fix it.' [/warning]  
+[tip] American (US) English: He said, "My colleague asked, 'What does this error mean?' as he hurriedly tried to fix it." [/tip]  
