@@ -30,3 +30,8 @@ Express fractions as decimal numbers, whenever possible. Don't use slashes with 
 [tip] Recommended: 0.75 [/tip]  
 [tip] Recommended: 75% [/tip]  
 [tip] Recommended: three-fourths [/tip]  
+
+[warning] Not Recommended: 4 1/2 [/warning]  
+[tip] Recommended: 4½ [/tip]  
+[tip] Recommended: 4.5 [/tip]  
+[tip] Recommended: four one-halves [/tip]  
