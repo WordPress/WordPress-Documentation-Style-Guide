@@ -57,3 +57,13 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 [warning] Not Recommended: The program was under active development from 2012 – 2017.  [/warning]  
 [tip] Recommended: The program was under active development from 2012–2017. [/tip]
 [tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]
+
+For additional information, see [En dashes](), [Hyphens](), and [Units of Measurement]().
+
+## Suspended hyphens
+
+Use [suspended hyphens]() for two or more suspended compound modifiers that start with numbers.
+
+**Examples**  
+
+[tip] Recommended: You can choose from either a five-, six-, or seven-sided polygon. [/tip]
