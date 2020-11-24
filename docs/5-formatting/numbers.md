@@ -18,3 +18,15 @@ Write all ordinal numbers as fully-spelled words.
 Avoid using Roman numerals. Instead use standard Arabic numerals in your documentation.
 
 You can use Roman numerals to denote "steps or sub-steps in procedures."
+
+## Fractions
+
+Express fractions as decimal numbers, whenever possible. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
+
+**Examples**  
+
+[warning] Not Recommended: 3/4 [/warning]  
+[tip] Recommended: ¾ [/tip]  
+[tip] Recommended: 0.75 [/tip]  
+[tip] Recommended: 75% [/tip]  
+[tip] Recommended: three-fourths [/tip]  
