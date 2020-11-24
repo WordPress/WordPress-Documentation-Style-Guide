@@ -39,4 +39,9 @@ Express fractions as decimal numbers, whenever possible. Don't use slashes with 
 ## Percentages
 
 Denote percentages with the numeral and a percent sign (%) after it, without a space between them.  
-**Exception:** If the percentage starts the sentence, then spell out both the number and the word percent.
+**Exception:** If the percentage starts the sentence, then spell out both the number and the word *percent*.
+
+**Examples**  
+
+[tip] Recommended: 99 percent completed. [/tip]  
+[tip] Recommended: The progress bar is at 99%. [/tip]  
