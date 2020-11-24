@@ -49,3 +49,11 @@ Denote percentages with the numeral and a percent sign (%) after it, without a s
 ## Range of numbers
 
 "En dashes" are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
+
+Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen.
+
+**Examples**  
+
+[warning] Not Recommended: The program was under active development from 2012 – 2017.  [/warning]  
+[tip] Recommended: The program was under active development from 2012–2017. [/tip]
+[tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]
