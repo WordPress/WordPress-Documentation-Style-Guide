@@ -10,8 +10,8 @@ Write all ordinal numbers as fully-spelled words.
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: 1st, 2nd, 3rd, 7th, 18th, 99th [/warning]  
+[tip] Recommended: First, second, third, seventh, eighteenth, ninety-ninth [/tip]  
 
 ## Numbers as Roman numerals
 
