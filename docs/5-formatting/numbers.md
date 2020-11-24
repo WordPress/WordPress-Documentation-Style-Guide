@@ -35,3 +35,8 @@ Express fractions as decimal numbers, whenever possible. Don't use slashes with 
 [tip] Recommended: 4½ [/tip]  
 [tip] Recommended: 4.5 [/tip]  
 [tip] Recommended: four one-halves [/tip]  
+
+## Percentages
+
+Denote percentages with the numeral and a percent sign (%) after it, without a space between them.  
+**Exception:** If the percentage starts the sentence, then spell out both the number and the word percent.
