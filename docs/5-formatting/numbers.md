@@ -45,3 +45,7 @@ Denote percentages with the numeral and a percent sign (%) after it, without a s
 
 [tip] Recommended: 99 percent completed. [/tip]  
 [tip] Recommended: The progress bar is at 99%. [/tip]  
+
+## Range of numbers
+
+"En dashes" are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
