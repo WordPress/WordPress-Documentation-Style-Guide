@@ -64,7 +64,8 @@ For US dollars, use the dollar sign at the beginning ($) of the currency. Use a 
 
 **Examples**  
 
-
+[warning] Not Recommended: You have $15.39,512 in usable credits. [/warning]  
+[tip] Recommended: You have $15.39512 in usable credits. [/tip]  
 
 [tip] Recommended: Monthly hosting plans start from $3.95 per website. [/tip]  
 
