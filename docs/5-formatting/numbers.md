@@ -29,7 +29,12 @@
   **Examples**  
   [tip] Recommended: Millions of users use WordPress. [/tip]  
   [tip] Recommended: You can choose from tens of thousands of plugins from the Plugin Directory. [/tip]  
-
+- Spell out zero through nine and use numerals for 10 or greater for days, weeks, and other units of time.  
+  **Examples**  
+  - 24 hours
+  - 15 days  
+  - four years
+  
 ## Numbers as numerals
 
 ## Ordinal numbers
