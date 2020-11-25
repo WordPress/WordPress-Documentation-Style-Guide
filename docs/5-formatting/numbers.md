@@ -1,8 +1,14 @@
 # Numbers
 
-Spell out whole numbers from zero through nine.
-
 ## Numbers as words
+
+- Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals]().
+- Use the spelled-out number when it starts a sentence. You can rewrite the sentence so that the number doesn't start the sentence.  
+
+  **Examples**  
+
+  [warning] Not Recommended:  [/warning]  
+  [tip] Recommended:  [/tip]  
 
 ## Numbers as numerals
 
@@ -20,6 +26,8 @@ Write all ordinal numbers as fully-spelled words.
 Avoid using Roman numerals. Instead use standard Arabic numerals in your documentation.
 
 You can use Roman numerals to denote "steps or sub-steps in procedures."
+
+## Commas and decimal points in numbers
 
 ## Fractions
 
@@ -52,6 +60,12 @@ Denote percentages with the numeral and a percent sign (%) after it, without a s
 
 Mention to the reader distinctly what country's currency that you're referring to. For example, the dollar sign ($) can be mistaken for US dollars, Canadian dollars, Australian dollars, and multiple other currencies. Use [ISO defined country or region codes](https://en.wikipedia.org/wiki/ISO_4217#Active_codes) to depict international currencies, if possible.
 
+When you're referencing specific amounts of money, use the currency code, followed by the amount, with no space.
+
+**Examples**  
+
+[tip] Recommended: The non-profit organization was endowed with a USD1.5 million grant.  [/tip]  
+
 Capitalize the country or region, but lowercase the name of currencies.
 
 **Examples**  
@@ -72,6 +86,8 @@ For US dollars, use the dollar sign at the beginning ($) of the currency. Use a 
 [warning] Not Recommended: The total cost may exceed $17000. [/warning]  
 [warning] Not Recommended: The total cost may exceed $17 000. [/warning]  
 [tip] Recommended: The total cost may exceed $17,000. [/tip]  
+
+If it's clear which currency you're referring to, it's acceptable to only use the symbol rather than the word or country code itself.
 
 ## Range of numbers
 
