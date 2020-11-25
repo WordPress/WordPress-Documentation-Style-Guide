@@ -2,7 +2,12 @@
 
 ## Numbers as words
 
-- Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals]().
+- Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals]().  
+  **Examples**  
+  - three databases
+  - zero percent
+  - 17 documents
+  - 15,493 entries
 - Use the spelled-out number when it starts a sentence.   
   **Examples**  
   [tip] Recommended: Twenty files were copied. [/tip]  
@@ -11,7 +16,14 @@
   **Examples**  
   [warning] Not Recommended: 1500 records were cleared from the old directories. [/warning]  
   [tip] Recommended: Freeing up some space in the old directories, almost 1500 records were cleared. [/tip]  
-- When a number is followed by another numeral, use a numeral for one and spell out the other.
+- When a number is followed by another numeral, use a numeral for one and spell out the other.  
+  **Examples**  
+
+- If one item requires a numeral, use numerals for all the other items of that type.  
+  **Examples**  
+
+- Spell-out indefinite, casual, and ambiguous numbers.  
+  **Examples**  
 
 ## Numbers as numerals
 
