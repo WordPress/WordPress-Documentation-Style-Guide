@@ -60,7 +60,7 @@ Capitalize the country or region, but lowercase the name of currencies.
 - Indian rupee
 - Japanese yen
 
-For US dollars, use a comma to delineate the thousands place of whole currency; that is, use a comma in amounts that have four or more digits.
+For US dollars, use the dollar sign at the beginning ($) of the currency. Use a comma to delineate the thousands place of whole currency; that is, use a comma in amounts that have four or more digits. Use a period to delineate whole currency and fractions of currency. Don't use any punctuation or spaces to the right of the decimal.
 
 ## Range of numbers
 
