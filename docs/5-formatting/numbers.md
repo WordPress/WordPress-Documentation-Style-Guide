@@ -4,6 +4,8 @@ Spell out whole numbers from zero through nine.
 
 ## Numbers as words
 
+## Numbers as numerals
+
 ## Ordinal numbers
 
 Write all ordinal numbers as fully-spelled words.
@@ -45,6 +47,10 @@ Denote percentages with the numeral and a percent sign (%) after it, without a s
 
 [tip] Recommended: 99 percent completed. [/tip]  
 [tip] Recommended: The progress bar is at 99%. [/tip]  
+
+## Currency
+
+Mention distinctly what country's currency that you are describing. Use [ISO stated country codes](https://en.wikipedia.org/wiki/ISO_4217#Active_codes) to depict international currencies, if possible.
 
 ## Range of numbers
 
