@@ -3,12 +3,15 @@
 ## Numbers as words
 
 - Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals]().
-- Use the spelled-out number when it starts a sentence. You can rewrite the sentence so that the number doesn't start the sentence.  
-
+- Use the spelled-out number when it starts a sentence.   
   **Examples**  
+  [tip] Recommended: Twenty files were copied. [/tip]  
 
-  [warning] Not Recommended:  [/warning]  
-  [tip] Recommended:  [/tip]  
+  You can rewrite the sentence so that the number doesn't start the sentence.  
+  **Examples**  
+  [warning] Not Recommended: 1500 records were cleared from the old directories. [/warning]  
+  [tip] Recommended: Freeing up some space in the old directories, almost 1500 records were cleared. [/tip]  
+- When a number is followed by another numeral, use a numeral for one and spell out the other.
 
 ## Numbers as numerals
 
