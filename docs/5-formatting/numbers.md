@@ -18,12 +18,17 @@
   [tip] Recommended: Freeing up some space in the old directories, almost 1500 records were cleared. [/tip]  
 - When a number is followed by another numeral, use a numeral for one and spell out the other.  
   **Examples**  
+  [tip] Recommended: The folder contains three 256-bit AES encrypted files. [/tip]  
+  [tip] Recommended: The folder contains 3 of the 256-bit AES encrypted files. [/tip]  
 
 - If one item requires a numeral, use numerals for all the other items of that type.  
   **Examples**  
+  [tip] Recommended: One instance of the application runs on 2 cores, one on 4 cores, and the third one on 6 cores. [/tip]  
 
 - Spell-out indefinite, casual, and ambiguous numbers.  
   **Examples**  
+  [tip] Recommended: Millions of users use WordPress. [/tip]  
+  [tip] Recommended: You can choose from tens of thousands of plugins from the Plugin Directory. [/tip]  
 
 ## Numbers as numerals
 
@@ -113,8 +118,8 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 **Examples**  
 
 [warning] Not Recommended: The program was under active development from 2012 – 2017.  [/warning]  
-[tip] Recommended: The program was under active development from 2012–2017. [/tip]
-[tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]
+[tip] Recommended: The program was under active development from 2012–2017. [/tip]  
+[tip] Recommended: Select a range from 10–60 px as the width of the button. [/tip]  
 
 For additional information, see [En dashes](), [Hyphens](), and [Units of Measurement]().
 
