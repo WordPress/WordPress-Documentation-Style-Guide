@@ -62,9 +62,19 @@ Capitalize the country or region, but lowercase the name of currencies.
 
 For US dollars, use the dollar sign at the beginning ($) of the currency. Use a comma to delineate the thousands place of whole currency; that is, use a comma in amounts that have four or more digits. Use a period to delineate whole currency and fractions of currency. Don't use any punctuation or spaces to the right of the decimal.
 
+**Examples**  
+
+
+
+[tip] Recommended: Monthly hosting plans start from $3.95 per website. [/tip]  
+
+[warning] Not Recommended: The total cost may exceed $17000. [/warning]  
+[warning] Not Recommended: The total cost may exceed $17 000. [/warning]  
+[tip] Recommended: The total cost may exceed $17,000. [/tip]  
+
 ## Range of numbers
 
-"En dashes" are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
+[En dashes]() are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
 
 Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen.
 
