@@ -25,7 +25,7 @@
   **Examples**  
   [tip] Recommended: One instance of the application runs on 2 cores, one on 4 cores, and the third one on 6 cores. [/tip]  
 
-- Spell-out indefinite, casual, and ambiguous numbers.  
+- Spell out indefinite, casual, and ambiguous numbers.  
   **Examples**  
   [tip] Recommended: Millions of users use WordPress. [/tip]  
   [tip] Recommended: You can choose from tens of thousands of plugins from the Plugin Directory. [/tip]  
@@ -34,8 +34,15 @@
   - 24 hours
   - 15 days  
   - four years
-  
+
 ## Numbers as numerals
+
+- Use numerals for numbers 10 and greater.
+  **Examples**  
+  - three databases
+  - zero percent
+- Use numerals for measurements.
+- When you write [numbers in a range](), use numerals.
 
 ## Ordinal numbers
 
