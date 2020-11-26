@@ -167,6 +167,10 @@ Use a lowercase *x* between the numerals in the dimensions, with no space betwee
 
 Write exponents using [standard mathematical notation](https://en.wikipedia.org/wiki/Exponentiation) *b<sup>n</sup>*, where the base is *b* and the exponent or power is *n*.
 
+**Examples**  
+
+[tip] Recommended: 3<sup>4</sup> [/tip]  
+
 ## Range of numbers
 
 [En dashes]() are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
