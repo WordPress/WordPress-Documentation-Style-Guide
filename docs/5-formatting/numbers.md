@@ -69,6 +69,7 @@
   **Examples**  
   [tip] Recommended: Enter **3** as the value. [/tip]  
 - When you write [numbers in a range](), use numerals.
+- While indicating the [time of day](), use numerals.
 - Use numerals for [percentages]().
 - Use numerals for [fractions]().
 
@@ -163,6 +164,8 @@ Use a lowercase *x* between the numerals in the dimensions, with no space betwee
 [tip] Recommended: 3840 x 2160 [/tip]  
 
 ## Exponents
+
+Write exponents using [standard mathematical notation](https://en.wikipedia.org/wiki/Exponentiation) *b<sup>n</sup>*, where the base is *b* and the exponent or power is *n*.
 
 ## Range of numbers
 
