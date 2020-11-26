@@ -25,7 +25,7 @@
   **Examples**  
   [tip] Recommended: One instance of the application runs on 2 cores, one on 4 cores, and the third one on 6 cores. [/tip]  
 
-- Spell out indefinite, casual, and ambiguous numbers.  
+- Spell out indefinite, casual, ambiguous, and rounded numbers.  
   **Examples**  
   [tip] Recommended: Millions of users use WordPress. [/tip]  
   [tip] Recommended: You can choose from tens of thousands of plugins from the Plugin Directory. [/tip]  
@@ -38,7 +38,7 @@
 ## Numbers as numerals
 
 - Use numerals for numbers 10 and greater.  
-  **Examples**  
+  **Example**  
   [tip] Recommended: There are a total of 70 users currently online. [/tip]  
   **Exceptions:** Use numerals for the following instances in all cases, even when they're less than 10:  
   - Page numbers.
@@ -60,14 +60,17 @@
   **Examples**  
   [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
 - Use numerals while referring to decimals. For decimals less than 1, put a zero in before the decimal point.  
-  **Examples**  
+  **Example**  
   - 0.54 square miles
 - Use numerals while referring to negative numbers.  
+  **Examples**  
+  [tip] Recommended: The error occurred due to the count being changed to -2.  [/tip]  
 - If you direct the user or reader to enter a number, use numerals.  
   **Examples**  
   [tip] Recommended: Enter **3** as the value. [/tip]  
 - When you write [numbers in a range](), use numerals.
-
+- Use numerals for [percentages]().
+- Use numerals for [fractions]().
 
 ## Ordinal numbers
 
