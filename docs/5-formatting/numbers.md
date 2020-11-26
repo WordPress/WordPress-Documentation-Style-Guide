@@ -37,10 +37,15 @@
 
 ## Numbers as numerals
 
-- Use numerals for numbers 10 and greater.
+- Use numerals for numbers 10 and greater.  
   **Examples**  
-  - three databases
-  - zero percent
+  [tip] Recommended: There are a total of 70 users currently online. [/tip]  
+  **Exceptions:** Use numerals for the following instances in all cases, even when they're less than 10:  
+  - Page numbers.
+  - Chapter numbers, sections, volumes.
+  - Rows and columns in tables.
+  - Version numbers.
+  - 
 - Use numerals for measurements.
 - When you write [numbers in a range](), use numerals.
 
