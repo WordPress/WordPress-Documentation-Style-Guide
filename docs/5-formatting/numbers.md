@@ -42,11 +42,22 @@
   [tip] Recommended: There are a total of 70 users currently online. [/tip]  
   **Exceptions:** Use numerals for the following instances in all cases, even when they're less than 10:  
   - Page numbers.
-  - Chapter numbers, sections, volumes.
-  - Rows and columns in tables.
+  - Chapter, section, volumes, part, and step numbers.
+  - Rows and columns in tables and lists.
+  - Technical quantities such as memory, disk space, lines of code, etc.
   - Version numbers.
-  - 
-- Use numerals for measurements.
+  - Prices of goods and services.
+  - Numbers without units.
+- Use numerals for measurements of distance, size, weight, temperature, pixels, length, and so on—even if the number is less than 10.  
+  **Examples**  
+
+- When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
+  **Examples**  
+  [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
+- If you direct the user or reader to enter a number, use numerals.  
+  **Examples**  
+  [tip] Recommended: Enter **3** as the value. [/tip]  
+
 - When you write [numbers in a range](), use numerals.
 
 ## Ordinal numbers
