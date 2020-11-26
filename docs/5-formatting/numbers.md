@@ -50,7 +50,11 @@
   - Numbers without units.
 - Use numerals for measurements of distance, size, weight, temperature, pixels, length, and so on—even if the number is less than 10.  
   **Examples**  
-
+  - 50 px
+  - 7 miles
+  - 2 feet, 2 inches
+  - 39 lb
+  - 55 square meters
 - When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
   **Examples**  
   [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
