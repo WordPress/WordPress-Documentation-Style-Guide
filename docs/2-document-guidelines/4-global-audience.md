@@ -1,6 +1,6 @@
 # Writing documentation for an international audience
 
-WordPress is a global project, with its developer community and users spanning the globe. Both developers and users speak a variety of languages Approaching documentation from a global perspective helps the understanding of readers around the globe; while also increasing its reach.
+WordPress is a global project, with its developer community and users spanning the globe. Both developers and users speak a variety of languages. Approaching documentation from a global perspective helps the understanding of readers around the globe; while also increasing its reach.
 
 Both developer and end-user WordPress documentation is written in US English. Just about [half of WordPress installs](https://wordpress.org/about/stats/) are in non-English locales. It is presumable that your documentation would be read by developers and users whose primary language is not English. Hence, writing documentation considering internationalization, localization, and translation is essential.
 
@@ -8,9 +8,9 @@ Both developer and end-user WordPress documentation is written in US English. Ju
 
 Internationalization and localization (commonly abbreviated as *i18n* and *l10n* respectively) are terms used to describe the effort to make WordPress (and other such projects) available in languages other than the source, or original, language for people from different locales, who have different dialects and local preferences.
 
-The process of localizing software has two steps. The first step is when the developers provide a mechanism and method for the eventual translation of the product and its interface to suit local preferences and languages for users worldwide. It process includes designing the product and documentation such that, localization requires minimum effort. This process is called as internationalization (*i18n*). WordPress developers have done this already, so in theory, WordPress can be used in any language.
+The process of localizing software has two steps. The first step is when developers provide a mechanism and method for the eventual translation of the product and its interface to suit local preferences and languages for users worldwide. Its process includes designing the product and documentation such that localization requires minimum effort. This process is called internationalization (*i18n*). WordPress developers have done this already, so in theory, WordPress can be used in any language.
 
-The second step is the actual localization (*l10n*). It is the process by which the a product/service is translated and adapted to another language and culture along with its documentation. The framework prescribed by the developers of the software is used for this purpose. Localization is done by people who are familiar with the local language and culture. For example, the *l10n* process involves adapting to the laws, currency and political requirements of a specific locale (market). WordPress has already been localized into many languages (see WordPress' [list of teams](https://make.wordpress.org/polyglots/teams/) for more information).
+The second step is the actual localization (*l10n*). It is the process by which a product/service is translated and adapted to another language and culture along with its documentation. The framework prescribed by developers of the software is used for this purpose. Localization is done by people who are familiar with the local language and culture. For example, the *l10n* process involves adapting to the laws, currency and political requirements of a specific locale (market). WordPress has already been localized into many languages (see WordPress' [list of teams](https://make.wordpress.org/polyglots/teams/) for more information).
 
 Translation is simply changing the language of the content to another language. Translation can be done by both editors from the community as well as machine-aided translation.
 
@@ -18,10 +18,10 @@ Translation is simply changing the language of the content to another language. 
 
 - If you write for international audiences, research, read, and learn more about them.
 - Don't be specific in terms of culture and religion in your documentation.
-- Use diverse examples that would cater to an international audience. These include, diverse and inclusive names, email addresses, locations, and professions in examples.
-- Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
-- Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons,  etc.
-- Express data using the standard international conventions. Measurement units, character encoding, currencies, text layouts, date and time formats, phone numbers, etc. are different all over the world. Don't assume that US standards are familiar to everyone.
+- Use diverse examples that would cater to an international audience. These include diverse and inclusive names, email addresses, locations and professions in examples.
+- Avoid colloquialisms, popular culture references, slang and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
+- Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons  etc.
+- Express data using the standard international conventions. Measurement units, character encoding, currencies, text layouts, date and time formats, phone numbers etc. are different all over the world. Don't assume that everyone is familiar with US standards.
 
 ## Language guidelines
 
