@@ -55,14 +55,19 @@
   - 2 feet, 2 inches
   - 39 lb
   - 55 square meters
+- Use numerals for describing [dimensions]().
 - When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
   **Examples**  
   [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
+- Use numerals while referring to decimals. For decimals less than 1, put a zero in before the decimal point.  
+  **Examples**  
+  - 0.54 square miles
+- Use numerals while referring to negative numbers.  
 - If you direct the user or reader to enter a number, use numerals.  
   **Examples**  
   [tip] Recommended: Enter **3** as the value. [/tip]  
-
 - When you write [numbers in a range](), use numerals.
+
 
 ## Ordinal numbers
 
@@ -140,6 +145,21 @@ For US dollars, use the dollar sign at the beginning ($) of the currency. Use a 
 [tip] Recommended: The total cost may exceed $17,000. [/tip]  
 
 If it's clear which currency you're referring to, it's acceptable to only use the symbol rather than the word or country code itself.
+
+## Dimensions
+
+Use numerals for dimensions.
+
+Use a lowercase *x* between the numerals in the dimensions, with no space between the numerals and the *x*. You can also use the multiplication sign (×). Use a space before and after the multiplication sign.
+
+**Examples**  
+
+[warning] Not Recommended: 144 x 144 px  [/warning]  
+[tip] Recommended: 144x144 pixels [/tip]  
+[tip] Recommended: 50-foot fiber optic cable [/tip]  
+[tip] Recommended: 3840 x 2160 [/tip]  
+
+## Exponents
 
 ## Range of numbers
 
