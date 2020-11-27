@@ -59,7 +59,7 @@
 - When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
   **Example**  
   [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
-- Use numerals while referring to decimals. For decimals less than 1, put a zero in before the decimal point.  
+- Use numerals while referring to decimals. For decimals less than 1, put a zero before the decimal point.  
   **Example**  
   - 0.54 square miles
 - Use numerals while referring to negative numbers.  
@@ -106,10 +106,17 @@ Use a period to denote a decimal point.
 [warning] Not Recommended: Your account will be credited 0.079 635 credits every two hours. [/warning]  
 [tip] Recommended: Your account will be credited 0.079635 credits every two hours. [/tip]  
 
+For decimals less than 1, put a zero before the decimal point.  
+
+**Example**  
+
+[tip] Recommended: 0.54 square miles [/tip]  
+
+When expressing measurements where the unit of measurement is spelled out, use the plural form when the quantity is a decimal fraction. Use the singular form of the unit only when the quantity is 1.
 
 ## Fractions
 
-Express fractions as decimal numbers whenever possible, but expressing them as words or symbols as is acceptable as well. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
+Express fractions as decimal numbers whenever possible, but expressing them as words or symbols as is acceptable. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
 
 **Examples**  
 
