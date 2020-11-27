@@ -90,11 +90,25 @@ You can use Roman numerals to denote "steps or sub-steps in procedures."
 
 ## Commas and decimal points in numbers
 
-Use commas and decimal points as per American number formatting. Use commas in numbers having four or more digits, setting off groups of three digits left of the decimal point. 
+Use commas and decimal points as per American number formatting. Use commas in numbers having four or more digits, setting off groups of three digits left of the decimal point. Don't use spaces, commas, or any separators to the right of the decimal point.
+
+Use a period to denote a decimal point.
+
+**Examples**  
+
+[warning] Not Recommended: You can carry out a maximum of 1500000 transactions per month. [/warning]  
+[tip] Recommended: You can carry out a maximum of 1,500,000 transactions per month. [/tip]  
+
+[warning] Not Recommended: The total cost may exceed $17000. [/warning]  
+[warning] Not Recommended: The total cost may exceed $17 000. [/warning]  
+[tip] Recommended: The total cost may exceed $17,000. [/tip]  
+
+[warning] Not Recommended: Your account will be credited 0.079 635 credits every two hours. [/warning]  
+[tip] Recommended: Your account will be credited 0.079635 credits every two hours. [/tip]  
 
 ## Fractions
 
-Express fractions as decimal numbers, whenever possible. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
+Express fractions as decimal numbers whenever possible, but expressing them as words or symbols as is acceptable as well. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
 
 **Examples**  
 
