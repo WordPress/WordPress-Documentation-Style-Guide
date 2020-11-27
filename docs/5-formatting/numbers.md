@@ -112,7 +112,16 @@ For decimals less than 1, put a zero before the decimal point.
 
 [tip] Recommended: 0.54 square miles [/tip]  
 
-When expressing measurements where the unit of measurement is spelled out, use the plural form when the quantity is a decimal fraction. Use the singular form of the unit only when the quantity is 1.
+When expressing measurements where the unit of measurement is spelled out, use the plural form when the quantity is a decimal fraction. Use the singular form of the unit only when the quantity is 1.  
+
+**Examples**  
+
+- 0 inches
+- 0.77 inches
+- 1 inch
+- 70 inches
+
+## Abbreviations
 
 ## Fractions
 
