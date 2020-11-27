@@ -9,7 +9,7 @@
   - 17 documents
   - 15,493 entries
 - Use the spelled-out number when it starts a sentence.   
-  **Examples**  
+  **Example**  
   [tip] Recommended: Twenty files were copied. [/tip]  
 
   You can rewrite the sentence so that the number doesn't start the sentence.  
@@ -22,7 +22,7 @@
   [tip] Recommended: The folder contains 3 of the 256-bit AES encrypted files. [/tip]  
 
 - If one item requires a numeral, use numerals for all the other items of that type.  
-  **Examples**  
+  **Example**  
   [tip] Recommended: One instance of the application runs on 2 cores, one on 4 cores, and the third one on 6 cores. [/tip]  
 
 - Spell out indefinite, casual, ambiguous, and rounded numbers.  
@@ -57,13 +57,13 @@
   - 55 square meters
 - Use numerals for describing [dimensions]().
 - When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
-  **Examples**  
+  **Example**  
   [tip] Recommended: Of the 22 users online, 8 have registered accounts. [/tip]  
 - Use numerals while referring to decimals. For decimals less than 1, put a zero in before the decimal point.  
   **Example**  
   - 0.54 square miles
 - Use numerals while referring to negative numbers.  
-  **Examples**  
+  **Example**  
   [tip] Recommended: The error occurred due to the count being changed to -2.  [/tip]  
 - If you direct the user or reader to enter a number, use numerals.  
   **Examples**  
@@ -89,6 +89,8 @@ Avoid using Roman numerals. Instead use standard Arabic numerals in your documen
 You can use Roman numerals to denote "steps or sub-steps in procedures."
 
 ## Commas and decimal points in numbers
+
+Use commas and decimal points as per American number formatting. Use commas in numbers having four or more digits, setting off groups of three digits left of the decimal point. 
 
 ## Fractions
 
@@ -123,7 +125,7 @@ Mention to the reader distinctly what country's currency that you're referring t
 
 When you're referencing specific amounts of money, use the currency code, followed by the amount, with no space.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended: The non-profit organization was endowed with a USD1.5 million grant.  [/tip]  
 
@@ -161,13 +163,13 @@ Use a lowercase *x* between the numerals in the dimensions, with no space betwee
 [warning] Not Recommended: 144 x 144 px  [/warning]  
 [tip] Recommended: 144x144 pixels [/tip]  
 [tip] Recommended: 50-foot fiber optic cable [/tip]  
-[tip] Recommended: 3840 x 2160 [/tip]  
+[tip] Recommended: 3840x2160 [/tip]  
 
 ## Exponents
 
 Write exponents using [standard mathematical notation](https://en.wikipedia.org/wiki/Exponentiation) *b<sup>n</sup>*, where the base is *b* and the exponent or power is *n*.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended: 3<sup>4</sup> [/tip]  
 
@@ -189,6 +191,6 @@ For additional information, see [En dashes](), [Hyphens](), and [Units of Measur
 
 Use [suspended hyphens]() for two or more suspended compound modifiers that start with numbers.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended: You can choose from either a five-, six-, or seven-sided polygon. [/tip]
