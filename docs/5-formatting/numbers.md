@@ -106,6 +106,7 @@ Use a period to denote a decimal point.
 [warning] Not Recommended: Your account will be credited 0.079 635 credits every two hours. [/warning]  
 [tip] Recommended: Your account will be credited 0.079635 credits every two hours. [/tip]  
 
+
 ## Fractions
 
 Express fractions as decimal numbers whenever possible, but expressing them as words or symbols as is acceptable as well. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
