@@ -227,3 +227,9 @@ Use [suspended hyphens]() for two or more suspended compound modifiers that star
 ## Abbreviations
 
 In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *mn* and *bn*. Spell out the word or denote the entire number.
+
+**Examples**  
+
+[warning] Not Recommended: The non-profit organization was endowed with a $1.5M grant. [/warning]  
+[warning] Not Recommended: The non-profit organization was endowed with a $1.5 mn grant. [/warning]  
+[tip] Recommended: The non-profit organization was endowed with a $1.5 million grant.  [/tip]  
