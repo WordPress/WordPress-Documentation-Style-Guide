@@ -226,7 +226,7 @@ Use [suspended hyphens]() for two or more suspended compound modifiers that star
 
 ## Abbreviations
 
-In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *mn* and *bn*. Spell out the word or denote the entire number.
+In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. Spell out the word or denote the entire number. Using these abbreviations makes it difficult to comprehend for readers and translating content.
 
 **Examples**  
 
