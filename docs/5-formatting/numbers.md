@@ -121,8 +121,6 @@ When expressing measurements where the unit of measurement is spelled out, use t
 - 1 inch
 - 70 inches
 
-## Abbreviations
-
 ## Fractions
 
 Express fractions as decimal numbers whenever possible, but expressing them as words or symbols as is acceptable. Don't use slashes with fractions, as they may be difficult to comprehend. Using slashes with fractions could be misunderstood as alternatives or combinations. When expressing fractions as words, use a hyphen to link the numerator with the denominator, unless one of them is already hyphenated.
@@ -225,3 +223,7 @@ Use [suspended hyphens]() for two or more suspended compound modifiers that star
 **Example**  
 
 [tip] Recommended: You can choose from either a five-, six-, or seven-sided polygon. [/tip]
+
+## Abbreviations
+
+In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *mn* and *bn*. Spell out the word or denote the entire number.
