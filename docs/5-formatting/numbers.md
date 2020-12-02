@@ -233,3 +233,8 @@ In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *
 [warning] Not Recommended: The non-profit organization was endowed with a $1.5M grant. [/warning]  
 [warning] Not Recommended: The non-profit organization was endowed with a $1.5 mn grant. [/warning]  
 [tip] Recommended: The non-profit organization was endowed with a $1.5 million grant.  [/tip]  
+
+In some contexts, using the abbreviations may be more relevant or suited. If you use them, follow these guidelines:
+- Don't put a space between the number and the abbreviation.
+- Add a noun to indicate what the number measures and to avoid confusion between *kilo, or mega* for example.
+- 
