@@ -222,11 +222,11 @@ Use [suspended hyphens]() for two or more suspended compound modifiers that star
 
 **Example**  
 
-[tip] Recommended: You can choose from either a five-, six-, or seven-sided polygon. [/tip]
+[tip] Recommended: You can choose from either a five-, six-, or seven-sided polygon. [/tip]  
 
 ## Abbreviations
 
-In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. Spell out the word or denote the entire number. Using these abbreviations makes it difficult to comprehend for readers and translating content.
+In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *k, mn* and *bn*. Spell out the word or denote the entire number. Using these abbreviations makes it difficult to comprehend for readers and translating content.
 
 **Examples**  
 
@@ -236,5 +236,10 @@ In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *
 
 In some contexts, using the abbreviations may be more relevant or suited. If you use abbreviations, follow these guidelines:
 - Don't put a space between the number and the abbreviation.
+- Capitalize K, M, and B. [review]
 - Add a noun to indicate what the number measures and to avoid confusion between *kilo, or mega* for example.
 - Use the decimal form of a number only if it saves space. For example, 3.67K uses the same number of characters and space as 3,670.
+
+**Example**  
+
+[tip] Recommended: The server handles 90k transactions per hour. [/tip]
