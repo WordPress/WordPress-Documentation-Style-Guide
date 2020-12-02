@@ -2,6 +2,7 @@
 
 ## Spaces in units of measurement
 
+Insert a nonbreaking space between the number and a unit for most units of measurement. Refer [Abbreviations]() for more information on when to spell out units. 
 
 ## Ranges of numbers with units
 
