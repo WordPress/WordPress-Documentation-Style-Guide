@@ -9,6 +9,14 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 
 ## Rates
 
+Use the word *per* instead of the division slash (/) while indicating rates. It's acceptable to use the division slash where space is too limited.
+
+Shorten *per* to *p* only for well-established abbreviations such as *Gbps* for *Gigabits per second*.
+
+**Examples**  
+
+[warning] Not Recommended: The server handles 90k transactions/hour. [/warning]  
+[tip] Recommended: The server handles 90k transactions per hour. [/tip]  
 
 ## Currency
 
@@ -18,4 +26,4 @@ See [Currency in Numbers]() for additional information.
 
 ## Using abbreviations to denote numbers
 
-In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. For more information, see [Numbers - Abbreviations]().
+In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. In some contexts, using the abbreviations may be more relevant or suited. If you use abbreviations, see [Numbers - Abbreviations]() for more information.
