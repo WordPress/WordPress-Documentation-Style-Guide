@@ -20,6 +20,9 @@ Don't use a space when the unit of measure is a percentage, money, or degrees of
 
 ## Ranges of numbers with units
 
+For a range of numbers that have units, repeat the unit for each number in the range. Units include abbreviations (such as *GB* for *Gigabytes*) and symbols (such as the degree symbol (°)), but not nouns like *file*. 
+
+
 
 ## Rates
 
