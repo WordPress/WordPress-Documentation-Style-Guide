@@ -10,6 +10,14 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 [tip] Recommended: 16`&nbsp;`ft [/tip]  
 [tip] Recommended: 75`&nbsp;`kg [/tip]  
 
+Don't use a space when the unit of measure is a percentage, money, or degrees of an angle.
+
+**Examples**  
+
+[tip] Recommended:  [/tip]  
+[tip] Recommended:  [/tip]  
+[tip] Recommended:  [/tip]  
+
 ## Ranges of numbers with units
 
 
