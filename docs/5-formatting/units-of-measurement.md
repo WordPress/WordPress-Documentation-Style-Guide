@@ -9,6 +9,7 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 [warning] Not Recommended: 16ft [/warning]  
 [tip] Recommended: 16`&nbsp;`ft [/tip]  
 [tip] Recommended: 75`&nbsp;`kg [/tip]  
+[tip] Recommended: 10`&nbsp;`GB [/tip]  
 
 Don't use a space when the unit of measure is a percentage, money, or degrees of an angle.
 
@@ -20,8 +21,15 @@ Don't use a space when the unit of measure is a percentage, money, or degrees of
 
 ## Ranges of numbers with units
 
-For a range of numbers that have units, repeat the unit for each number in the range. Units include abbreviations (such as *GB* for *Gigabytes*) and symbols (such as the degree symbol (°)), but not nouns like *file*. 
+For a range of numbers that have units, repeat the unit for each number in the range. Units include abbreviations (such as *GB* for *Gigabytes*) and symbols (such as the degree symbol (°)), but not nouns like *file*.
 
+**Examples**  
+
+[warning] Not Recommended: -10-33 °C  [/warning]  
+[tip] Recommended: -10 °C to 33 °C [/tip]  
+
+[warning] Not Recommended: The recommended file size is 50 - 100 MB. [/warning]  
+[tip] Recommended: The recommended file size is 50 MB to 100 MB. [/tip]  
 
 
 ## Rates
