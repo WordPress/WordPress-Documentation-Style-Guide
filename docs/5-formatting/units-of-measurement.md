@@ -14,9 +14,9 @@ Don't use a space when the unit of measure is a percentage, money, or degrees of
 
 **Examples**  
 
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]  
+[tip] Recommended: 55% [/tip]  
+[tip] Recommended: $3000 [/tip]  
+[tip] Recommended: 130° [/tip]  
 
 ## Ranges of numbers with units
 
