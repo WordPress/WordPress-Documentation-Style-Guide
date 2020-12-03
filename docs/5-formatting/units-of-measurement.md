@@ -4,6 +4,12 @@
 
 Insert a nonbreaking space between the number and a unit for most units of measurement. Refer [Abbreviations]() for more information on when to spell out units.
 
+**Examples**  
+
+[warning] Not Recommended: 16ft [/warning]  
+[tip] Recommended: 16`&nbsp;`ft [/tip]  
+[tip] Recommended: 75`&nbsp;`kg [/tip]  
+
 ## Ranges of numbers with units
 
 
