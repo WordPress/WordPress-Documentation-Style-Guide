@@ -109,7 +109,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Links & URLs                                                      |        |
 | Lists, Bullet Points, Numbering                                   |        |
 | Media (Images, Videos) & Illustrations                            |        |
-| Notes, Warnings, Tips                                             |   🔄   |
+| Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
