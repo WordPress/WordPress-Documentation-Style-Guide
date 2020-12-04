@@ -31,7 +31,6 @@ For a range of numbers that have units, repeat the unit for each number in the r
 [warning] Not Recommended: The recommended file size is 50 - 100 MB. [/warning]  
 [tip] Recommended: The recommended file size is 50 MB to 100 MB. [/tip]  
 
-
 ## Rates
 
 Use the word *per* instead of the division slash (/) while indicating rates. It's acceptable to use the division slash where space is too limited.
