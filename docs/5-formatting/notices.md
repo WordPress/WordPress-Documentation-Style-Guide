@@ -30,4 +30,9 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   [warning] [/warning]  
 
--
+- **Tutorial** or **Step**  
+  Use this notice type to indicate a step or procedure in a tutorial with the `[tutorial][/tutorial]` short code.
+
+  **Example**  
+
+  [tutorial] [/tutorial]  
