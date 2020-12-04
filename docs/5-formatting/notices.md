@@ -7,7 +7,7 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   **Example**  
 
-  [info]  [/info]  
+  [info] **Note:**  [/info]  
 
 - **Tip**  
   Use this notice type to highlight tips and recommended actions with the `[tip][/tip]` short code.
@@ -21,21 +21,21 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   **Example**  
 
-  [alert] [/alert]  
+  [alert] **Caution:** [/alert]  
 
 - **Warning**  
   When something is particularly precarious use this notice type with the `[warning][/warning]` short code. A warning is generally stricter and more rigid than a caution.
 
   **Example**  
 
-  [warning] [/warning]  
+  [warning] **Warning:** Making changes to the code while running the server could cause errors in your databases; specifically, corrupted tables or duplicate values. [/warning]  
 
 - **Tutorial** or **Step**  
   Use this notice type to indicate a step or procedure in a tutorial with the `[tutorial][/tutorial]` short code.
 
   **Example**  
 
-  [tutorial] [/tutorial]  
+  [tutorial] **Step:** Move the file to this folder. [/tutorial]  
 
 ## Other formatting style for notices
 
