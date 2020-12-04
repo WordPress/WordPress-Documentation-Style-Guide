@@ -36,3 +36,7 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
   **Example**  
 
   [tutorial] [/tutorial]  
+
+## Other formatting style for notices
+
+If your website or page uses a different standardized formatting style for notices, you can supersede the above formatting style for notices.
