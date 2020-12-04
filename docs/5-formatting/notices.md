@@ -7,21 +7,21 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   **Example**  
 
-  [info] **Note:**  [/info]  
+  [info] **Note:** “Wide width” and “Full width” alignment need to be enabled by the theme of your site. [/info]  
 
 - **Tip**  
   Use this notice type to highlight tips and recommended actions with the `[tip][/tip]` short code.
 
   **Example**  
 
-  [tip] [/tip]  
+  [tip] **Tip:** You can use the slash command to insert a new block. [/tip]  
 
 - **Caution** or **Alert**  
   Use this notice type to suggest readers to proceed with caution and alert them to important messages with the `[alert][/alert]` short code.
 
   **Example**  
 
-  [alert] **Caution:** [/alert]  
+  [alert] **Caution:** Using a deprecated version may cause  [/alert]  
 
 - **Warning**  
   When something is particularly precarious use this notice type with the `[warning][/warning]` short code. A warning is generally stricter and more rigid than a caution.
@@ -35,8 +35,12 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   **Example**  
 
-  [tutorial] **Step:** Move the file to this folder. [/tutorial]  
+  [tutorial] **Step:** Move the selected file to this folder. [/tutorial]  
+
+Avoid grouping two or more notices together. Consider rewriting or rearranging the content to avoid confusion.  
+
+For additional information on short codes and code samples, see [Code Samples]() and [Syntax Highlighting short codes](https://plugins.trac.wordpress.org/browser/syntaxhighlighter/trunk/syntaxhighlighter.php#L173).
 
 ## Other formatting style for notices
 
-If your website or page uses a different standardized formatting style for notices, you can supersede the above formatting style for notices.
+If your website or page uses a different standardized formatting style for notices, you can supersede the aforementioned formatting style.
