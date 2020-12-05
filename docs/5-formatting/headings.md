@@ -15,6 +15,27 @@ In general, use consistent and descriptive headings and titles in any type of co
 
 - Tag headings using heading elements. For HTML use `<h1>`, `<h2>`, and so on. In markdown use `#`, `##`, and so on.
 - Use proper heading hierarchy.
+  - Use a level-1 heading for the page title or heading of the main content. A level-1 heading is built into heading styles in many web pages and site themes.
+  - Don't skip the heading levels of the heading hierarchy.  
+  **Examples**  
+
+  [warning] Not Recommended:  
+  ```md
+  # Design Decisions
+  This page lists a number of important design decisions that come up frequently.
+  ### Absolute versus relative URLs
+  ```
+  [/warning]  
+
+  [tip] Recommended:  
+  ```md
+  # Design Decisions
+  This page lists a number of important design decisions that come up frequently.
+  ## Absolute versus relative URLs
+  ```
+  [/tip]  
+
+
 - Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting.
 - Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Code in text - Keywords]().
 - Break two-line headings carefully. In a non-responsive design, when the heading exceeds one line, break it so that the text is appropriately balanced. In responsive designs, the content is dynamically fit to the screen.
