@@ -14,12 +14,14 @@ In general, use consistent and descriptive headings and titles in any type of co
   [tip] Sometimes okay: Still have questions? [/tip]  
 
 - Tag headings using heading elements. For HTML use `<h1>`, `<h2>`, and so on. In markdown use `#`, `##`, and so on.
+- Use proper heading hierarchy.
 - Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting.
 - Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Code in text - Keywords]().
 - Break two-line headings carefully. In a non-responsive design, when the heading exceeds one line, break it so that the text is appropriately balanced. In responsive designs, the content is dynamically fit to the screen.
   - Break the line at the end of a phrase, if possible.
   - Break the line after punctuation.
-  - Keep prepositions and adjectives along with the words they modify.
+  - Keep prepositions and adjectives on the same line, along with the words they modify.
+  - Keep hyphenated words and multiple-word proper nouns (such as *Sunset Beach*) on the same line.
   - If none of these alternatives work, rewrite or rephrase the headline to the proper specifications.
 - Ensure that your headings stand out with vertical spacing. Heading typically have more vertical space and less space below them. This helps distinguish the heading and associate it with the following text or content. Heading spacing is built into heading styles in most web pages and site themes; use those styles to control the spacing in a consistent manner.
 - Don't use extra line breaks or other formatting to increase heading spacing. Doing so may cause difficulties while viewing responsive webpages, specifically on mobile devices - where the layout is adjusted to the screen size automatically.
