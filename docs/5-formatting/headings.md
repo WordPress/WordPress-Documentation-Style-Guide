@@ -17,24 +17,41 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Use proper heading hierarchy.
   - Use a level-1 heading for the page title or heading of the main content. A level-1 heading is built into heading styles in many web pages and site themes.
   - Don't skip the heading levels of the heading hierarchy.  
-  **Examples**  
+    **Examples**  
 
-  [warning] Not Recommended:  
-  ```md
-  # Design Decisions
-  This page lists a number of important design decisions that come up frequently.
-  ### Absolute versus relative URLs
-  ```
-  [/warning]  
+    [warning] Not Recommended:  
+    ```md
+    # Design Decisions
+    This page lists a number of important design decisions that come up frequently.
+    ### Absolute versus relative URLs
+    ```
+    [/warning]  
 
-  [tip] Recommended:  
-  ```md
-  # Design Decisions
-  This page lists a number of important design decisions that come up frequently.
-  ## Absolute versus relative URLs
-  ```
-  [/tip]  
+    [tip] Recommended:  
+    ```md
+    # Design Decisions
+    This page lists a number of important design decisions that come up frequently.
+    ## Absolute versus relative URLs
+    ```
+    [/tip]  
 
+  - Don't use empty headings with no associated content.  
+    **Examples**  
+
+    [warning] Not Recommended:  
+    ```md
+    # Design Decisions
+    ## Absolute versus relative URLs
+    ```
+    [/warning]  
+
+    [tip] Recommended:  
+    ```md
+    # Design Decisions
+    This page lists a number of important design decisions that come up frequently.
+    ## Absolute versus relative URLs
+    ```
+    [/tip]  
 
 - Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting.
 - Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Code in text - Keywords]().
@@ -46,8 +63,5 @@ In general, use consistent and descriptive headings and titles in any type of co
   - If none of these alternatives work, rewrite or rephrase the headline to the proper specifications.
 - Ensure that your headings stand out with vertical spacing. Heading typically have more vertical space and less space below them. This helps distinguish the heading and associate it with the following text or content. Heading spacing is built into heading styles in most web pages and site themes; use those styles to control the spacing in a consistent manner.
 - Don't use extra line breaks or other formatting to increase heading spacing. Doing so may cause difficulties while viewing responsive webpages, specifically on mobile devices - where the layout is adjusted to the screen size automatically.
-
-
-
 
 ## Writing headings
