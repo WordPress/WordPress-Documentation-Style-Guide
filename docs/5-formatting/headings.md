@@ -6,9 +6,9 @@ In general, use consistent and descriptive headings and titles in any type of co
 
 ## Formatting headings
 
-Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings](/docs/3-language-and-grammar/capitalization.md#capitalization-in-titles-and-headings)
+- Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings](/docs/3-language-and-grammar/capitalization.md#capitalization-in-titles-and-headings).
+- When using abbreviations in headings, spell out and declare the abbreviation in the succeeding body text. For more information, see [Abbreviations](/docs/3-language-and-grammar/abbreviations.md).
+-
 
-[test](#writing-headings) 
 
 ## Writing headings
-asdasd
