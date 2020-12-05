@@ -8,7 +8,7 @@ In general, use consistent and descriptive headings and titles in any type of co
 
 Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings](/docs/3-language-and-grammar/capitalization.md#capitalization-in-titles-and-headings)
 
-[test](#writing-headings)
+[test](#writing-headings) 
 
 ## Writing headings
 asdasd
