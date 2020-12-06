@@ -74,3 +74,7 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Be specific with your headings. You can write more specific headings as you move further down the heading hierarchy.
 - Consider using phrases in gerund form in headings. Examples of such phrases include *Writing about genders* and *Using diverse examples*.
 - Avoid using hyphens (-), ampersands (&), and other symbols in headings.
+
+## Referring to subsections
+
+While referring to subheadings or subsections in a document or a page, use phrases such as *in the following section* or *in the aforementioned section*. Don't use ambiguous phrases such as *in these sections* or *in this section*.
