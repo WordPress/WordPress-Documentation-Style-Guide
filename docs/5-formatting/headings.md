@@ -68,5 +68,8 @@ In general, use consistent and descriptive headings and titles in any type of co
 
 - Consider headings as an outline of its succeeding content. If the readers don't read the headings, they probably won't read the accompanying content.
 - Level-1 headings are supposed to convey the principal essence of the topic being discussed in the following body content.
-- Write short and succinct headings and put the most important idea at the beginning.
-- Be specific with your headings. You can write more specific headings as you move further down the heading hierarchy. 
+- If there is a lot of content to include in the primary heading, consider using secondary-level headings to break up content.
+- Ensure that every new heading introduces a different and specific topic than earlier headings in a heading hierarchy.
+- Write short and succinct headings and put the most important idea at the beginning. Focus on the information that the readers need to know.
+- Be specific with your headings. You can write more specific headings as you move further down the heading hierarchy.
+-
