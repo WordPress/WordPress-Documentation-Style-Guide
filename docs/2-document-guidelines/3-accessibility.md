@@ -19,7 +19,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Use concise and simple sentences.
 - Avoid camel case and all caps text; follow [capitalization]() guidelines.
 - Don't format fonts unnecessarily. More information on "Fonts".
-- Use proper heading hierarchy. The H1 is the main heading representing the page title on every page or post (article). For subsections, use a correct HTML heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
+- Use proper heading hierarchy. The H1 is the main heading representing the page title on every page or post (article). For subsections, use a correct HTML, Markdown, or relevant heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
   - Use H2 through H6 to give internal structure to the page.
   - Don’t skip heading levels.
   - Don’t add extra functionality inside a heading, like links or buttons.
