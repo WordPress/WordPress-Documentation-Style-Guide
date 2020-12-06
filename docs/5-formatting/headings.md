@@ -53,8 +53,9 @@ In general, use consistent and descriptive headings and titles in any type of co
     ```
     [/tip]  
 
-- Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting.
+- Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting. Ensure that heading markup is not used for presentational purposes.
 - Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Code in text - Keywords]().
+- Don’t add extra functionality inside a heading, like links or buttons.
 - Break two-line headings carefully. In a non-responsive design, when the heading exceeds one line, break it so that the text is appropriately balanced. In responsive designs, the content is dynamically fit to the screen.
   - Break the line at the end of a phrase, if possible.
   - Break the line after punctuation.
