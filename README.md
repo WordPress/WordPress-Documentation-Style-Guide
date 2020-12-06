@@ -102,7 +102,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Date & Time, Time Zones, Places, Currencies                       |        |
 | File Names                                                        |        |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
-| Headings & Titles                                                 |   🔄   |
+| Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
 | Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |        |
 | Indentation                                                       |        |
 | Index                                                             |        |
