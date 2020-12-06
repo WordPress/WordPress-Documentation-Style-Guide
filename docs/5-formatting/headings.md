@@ -35,7 +35,7 @@ In general, use consistent and descriptive headings and titles in any type of co
     ```
     [/tip]  
 
-  - Don't use empty headings with no associated content.  
+  - Don't use empty headings or headings with no associated content.  
     **Examples**  
 
     [warning] Not Recommended:  
@@ -65,3 +65,8 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Don't use extra line breaks or other formatting to increase heading spacing. Doing so may cause difficulties while viewing responsive webpages, specifically on mobile devices - where the layout is adjusted to the screen size automatically.
 
 ## Writing headings
+
+- Consider headings as an outline of its succeeding content. If the readers don't read the headings, they probably won't read the accompanying content.
+- Level-1 headings are supposed to convey the principal essence of the topic being discussed in the following body content.
+- Write short and succinct headings and put the most important idea at the beginning.
+- Be specific with your headings. You can write more specific headings as you move further down the heading hierarchy. 
