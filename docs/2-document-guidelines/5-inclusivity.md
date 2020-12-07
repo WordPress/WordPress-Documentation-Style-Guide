@@ -15,18 +15,22 @@ While writing unbiased documentation:
  - Don't write prejudiced and discriminatory content against minority communities.
  - Avoid terms related to historical events.
 
+### Replacing established terms
 
-
+Various words that are deemed to be non-inclusive are often used in documentation. If replacing those terms causes confusion for readers, you can refer to the non-inclusive term in parentheses in the first use, and subsequently use the inclusive term throughout the rest of the document.
 
 **Examples**  
 
+[warning] Not Recommended: [/warning]  
+[tip] Recommended:  [/tip]
+
 | Recommended | Not Recommended |
 |-----------|-----------|
-| blocklist | blacklist |
-| allowlist | whitelist |
+| blocklist, disallowed | blacklist |
+| allowlist, allowed | whitelist |
 | main | master |
 | primary/subordinate | master/slave |
-| site admin | webmaster |
+| site admin, website author, web developer | webmaster |
 | built-in, core | native |
 
 ## Avoid ableist and profane language
@@ -35,11 +39,11 @@ Be thoughtful of word choice - particularly slang and ableist language. Don't us
 
 **Examples**  
 
-[warning] Not Recommended: Gutenberg is damn useful stuff.[/warning]  
-[tip] Recommended: Gutenberg is a versatile editor.[/tip]
+[warning] Not Recommended: Gutenberg is damn useful stuff. [/warning]  
+[tip] Recommended: Gutenberg is a versatile editor. [/tip]  
 
 [warning] Not Recommended: Only morons use this API. [/warning]  
-[tip] Recommended: Using this API is not advised.[/tip]
+[tip] Recommended: Using this API is not advised. [/tip]
 
 ## Writing about genders
 
