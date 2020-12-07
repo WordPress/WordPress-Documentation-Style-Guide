@@ -21,6 +21,7 @@ While writing unbiased documentation:
 - whitelist
 - master
 - webmaster
+- native
 
 [/warning]  
 
@@ -29,6 +30,7 @@ While writing unbiased documentation:
 - allowlist
 - main
 - site admin
+- built-in
 
 [/tip]
 
@@ -57,6 +59,13 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 | manufactured | manmade |
 | chairperson | chairman |
 | everyone, folks, people | guys, gals, girls, boys |
+
+Don't use *he, him, his, she, her, or hers* while refencing people. Only use these pronouns if a particular individual prefers to be identified with them. To write around pronouns, you can:
+- Use a plural pronoun such as *they, their*, or *them*, even if it references a single individual.
+- Rewrite the sentence to have a plural noun and pronoun.
+- Rewrite using the second person (*you*).
+- Use the words *person* or *individual*.
+-
 
 ## Using diverse examples
 
