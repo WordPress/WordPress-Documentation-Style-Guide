@@ -9,7 +9,7 @@ Write documentation that is unbiased towards the reader and any kind of person i
 While writing unbiased documentation:
  - Be inclusive of gender identity, race, culture, ability, age, sexual orientation, and socioeconomic class. Include a wide variety of professions, educational settings, locales, and economic settings in examples.
  - Avoid politicized content. In case political content is to be included, remain neutral.
- - Follow [Accessibility](/docs/2-document-guidelines/accessibility.md) guidelines.
+ - Follow [Accessibility](/docs/2-document-guidelines/3-accessibility.md) guidelines.
  - Avoid content that would insult or cause harm to people.
  - Don't make any generalizations about people, countries, and cultures, not even positive or neutral generalizations.
  - Don't write prejudiced and discriminatory content against minority communities.
@@ -23,6 +23,7 @@ Various words that are deemed to be non-inclusive are often used in documentatio
 
 [tip] Recommended: If `disallowed_keys` (sometimes called as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
 [tip] Recommended: If `disallowed_keys` (previously known as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
+
 [tip] Recommended: The comment blocklist (sometimes called a *blacklist*) shows blocked and spam comments. Comments that are not on the blocklist are published. [/tip]  
 
 | Recommended | Not Recommended |
@@ -94,4 +95,4 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 | cognitive or developmental disabilities | mentally-challenged, slow-learner |
 | person with limited mobility, person with a physical disability | crippled, handicapped |
 
-See [Accessibility](/docs/2-document-guidelines/accessibility.md) for more information.
+See [Accessibility](/docs/2-document-guidelines/3-accessibility.md) for more information.
