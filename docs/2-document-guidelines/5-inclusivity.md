@@ -50,19 +50,13 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 
 **Examples**  
 
-[warning] Not Recommended:  
-- manpower
-- mankind
-- chairman
-
-[/warning]  
-
-[tip] Recommended:
-- human-power
-- humankind/humanity
-- chairperson
-
-[/tip]
+| Recommended          | Not Recommended |
+|----------------------|-----------------|
+| human-power, staff, personnel, workforce | manpower |
+| humankind, humanity, people | man, mankind |
+| manufactured | manmade |
+| chairperson | chairman |
+| everyone, folks, people | guys, gals, girls, boys |
 
 ## Using diverse examples
 
@@ -80,7 +74,7 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 - Research the terminology that the people with disability want to be identified with.
 - Don't refer to people without disabilities as *normal, fit or healthy*; terms that would demean people with disabilities. This includes terms that are judgmental and victimize people with disabilities as *abnormal* or *sick*.  
 
-### Terminology
+### Accessibility terminology
 
 | Recommended          | Not Recommended |
 |----------------------|-----------------|
