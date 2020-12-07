@@ -11,8 +11,12 @@ While writing unbiased documentation:
  - Avoid politicized content. In case political content is to be included, remain neutral.
  - Follow [Accessibility](/docs/2-document-guidelines/accessibility.md) guidelines.
  - Avoid content that would insult or cause harm to people.
+ - Don't make any generalizations about people, countries, and cultures, not even positive or neutral generalizations.
  - Don't write prejudiced and discriminatory content against minority communities.
  - Avoid terms related to historical events.
+
+
+
 
 **Examples**  
 
@@ -21,8 +25,9 @@ While writing unbiased documentation:
 | blocklist | blacklist |
 | allowlist | whitelist |
 | main | master |
+| primary/subordinate | master/slave |
 | site admin | webmaster |
-| built-in | native |
+| built-in, core | native |
 
 ## Avoid ableist and profane language
 
@@ -46,6 +51,7 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 |----------------------|-----------------|
 | human-power, staff, personnel, workforce | manpower |
 | humankind, humanity, people | man, mankind |
+| operates, controls, utilizes | mans |
 | manufactured | manmade |
 | chairperson | chairman |
 | everyone, folks, people | guys, gals, girls, boys |
@@ -61,14 +67,9 @@ When writing about a person, use the pronouns that the person prefers. Only use 
 
 ## Using diverse examples
 
-Represent diverse perspectives and scenarios in text and media. Make use of inclusive and a diverse range of names, ages, locations, professions, and cultures while depicting people.
+Represent diverse perspectives and scenarios in text and media. Make use of inclusive and a diverse range of names, ages, gender identities, locations, professions, and cultures while depicting people.
 - Avoid making generalizations about people, religions, cultures, regions, and countries.
-- Avoid unintentional racial and cultural bias while writing documentation.  
-
-**Examples**  
-
-[warning] Not Recommended: master/slave [/warning]  
-[tip] Recommended: primary/subordinate [/tip]  
+- Avoid unintentional racial and cultural bias while writing examples.  
 
 ## Accessibility and disability
 
@@ -87,3 +88,5 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 | blind, low-vision | vision-impaired, visually-challenged |
 | cognitive or developmental disabilities | mentally-challenged, slow-learner |
 | person with limited mobility, person with a physical disability | crippled, handicapped |
+
+See [Accessibility](/docs/2-document-guidelines/accessibility.md) for more information.
