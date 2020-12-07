@@ -18,7 +18,7 @@ Don't use gender-specific pronouns unless the person being referred actually use
 Use gender-neutral pronouns while particularly avoiding binary pronouns such as *he, him, she, her, or renditions like s/he, he/she, or (s)he*.
 Instead, use *they* as a gender-neutral pronoun.
 
-For more guidelines about writing using gender-neutral pronouns, refer "Inclusivity".
+For more guidelines about writing using gender-neutral pronouns, refer [Inclusivity](/docs/2-document-guidelines/inclusivity.md#writing-about-genders).
 
 ## Relative pronouns
 
