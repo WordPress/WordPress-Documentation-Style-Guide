@@ -12,24 +12,25 @@ While writing unbiased documentation:
  - Follow [Accessibility](/docs/2-document-guidelines/accessibility.md) guidelines.
  - Avoid content that would insult or cause harm to people.
  - Don't write prejudiced and discriminatory content against minority communities.
- - Avoid terms related to historical events.  
+ - Avoid terms related to historical events.
 
+**Examples**  
 
- **Examples**  
+[warning] Not Recommended:  
+- blacklist
+- whitelist
+- master
+- webmaster
 
- [warning] Not Recommended:  
- - blacklist
- - whitelist
- - master
- - webmaster
- [/warning]  
+[/warning]  
 
- [tip] Recommended:
- - blocklist
- - allowlist
- - main
- - site admin
- [/tip]
+[tip] Recommended:
+- blocklist
+- allowlist
+- main
+- site admin
+
+[/tip]
 
 ## Avoid ableist and profane language
 
@@ -53,6 +54,7 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 - manpower
 - mankind
 - chairman
+
 [/warning]  
 
 [tip] Recommended:
