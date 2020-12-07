@@ -16,23 +16,13 @@ While writing unbiased documentation:
 
 **Examples**  
 
-[warning] Not Recommended:  
-- blacklist
-- whitelist
-- master
-- webmaster
-- native
-
-[/warning]  
-
-[tip] Recommended:
-- blocklist
-- allowlist
-- main
-- site admin
-- built-in
-
-[/tip]
+| Recommended | Not Recommended |
+|-----------|-----------|
+| blocklist | blacklist |
+| allowlist | whitelist |
+| main | master |
+| site admin | webmaster |
+| built-in | native |
 
 ## Avoid ableist and profane language
 
