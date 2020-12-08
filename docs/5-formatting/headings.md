@@ -73,7 +73,7 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Ensure that every new heading introduces a different and specific topic than earlier headings in a heading hierarchy.
 - Write short and succinct headings and put the most important idea at the beginning. Focus on the information that the readers need to know.
 - Be specific with your headings. You can write more specific headings as you move further down the heading hierarchy.
-- Consider using phrases in gerund form in headings. Examples of such phrases include *Writing about genders* and *Using diverse examples*.
+- Consider using phrases in action + object form and gerund form in headings. Examples of such phrases include *Write about genders, Writing about genders, Use diverse examples*, and *Using diverse examples*.
 - Avoid using hyphens (-), ampersands (&), and other symbols in headings.
 
 ## Referring to subsections
