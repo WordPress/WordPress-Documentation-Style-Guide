@@ -99,7 +99,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Brand Names, Product Names                                        |        |
 | Captions                                                          |        |
 | Code Snippets, Code Blocks                                        |        |
-| Date & Time, Time Zones, Places, Currencies                       |        |
+| Currencies                                                        |   (Moved to Numbers)   |
+| Date & Time, Time Zones, Places,                                  |   🔄   |
 | File Names                                                        |        |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
 | Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
