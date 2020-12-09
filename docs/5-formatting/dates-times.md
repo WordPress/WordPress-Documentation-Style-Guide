@@ -25,10 +25,19 @@ Use the following guidelines to express time:
 
   [tip] Recommended: 7:30 AM–9:15 AM 05/11/2020 (time range on a single day) [/tip]  
   [tip] Recommended: 7:30 AM 04/11/2020 – 9:15 AM 05/11/2020 (date and time range) [/tip]  
+- It is acceptable to remove the minutes from round hours.  
+  **Examples**  
 
+  [tip] Recommended: 4 PM. [/tip]  
+- Use *noon* and *midnight* but not when paired with time in the numeral format.
+  **Examples**  
+
+  [warning] Not Recommended: *12:00 noon, 12:00 midnight*.  [/warning]  
 
 ### Time zones
 
 
+
+Include
 
 ## Expressing dates
