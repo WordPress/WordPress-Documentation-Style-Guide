@@ -37,22 +37,22 @@ Use the following guidelines to express time:
 ### Time zones
 
 Generally, include the time zone if your documentation influences a global audience. Otherwise, avoid using time zones unless absolutely necessary, where excluding them would cause confusion. Use the following guidelines to express time zones:
-- Capitalize time zones.
+- Capitalize time zones. Don't abbreviate them unless absolutely needed.
 - Specify the spelled-out time zone region and then the UTC or GMT offset in parentheses. Don't insert spaces around the hyphen (-) or plus sign (+).  
   **Examples**  
 
   [tip] Recommended: US Eastern Time (UTC-05:00) [/tip]  
   [tip] Recommended: Indian Standard Time (UTC+05:30) [/tip]  
-- Don't abbreviate time zones.
 - If the time is the reader's local time, indicate it accordingly.  
   **Examples**  
 
   [tip] Recommended: The weekly team meeting will start at 7:30 PM your local time. [/tip]  
-- Use Coordinated Universal Time (UTC) over Greenwich Mean Time (GMT), in general. Don't write *Universal Time Coordinate* or *Universal Time Coordinated* as alternatives to Coordinated Universal Time.
-- For time zones without names, use the Coordinated Universal Time (UTC) offset.  
+- Use Coordinated Universal Time (UTC) over Greenwich Mean Time (GMT), in general. Don't write *Universal Time Coordinate* or *Universal Time Coordinated* as alternatives to Coordinated Universal Time. Only use GMT unless absolutely needed.
+- For time zones without names, use the Coordinated Universal Time (UTC) offset. If you're writing about a particular geographic area, specify the country or region if UTC is unavailable.  
   **Examples**  
 
   [tip] Recommended: UTC+7 [/tip]  
-- Don't
+  [tip] Recommended: Standard Time (Fiji) [/tip]    
+- Don't specify *standard time* or *daylight saving time* unless specifically writing about them. When the time doesn't change for daylight saving time, use the specific time zone without reference to UTC.
 
 ## Expressing dates
