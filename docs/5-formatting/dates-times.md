@@ -29,15 +29,17 @@ Use the following guidelines to express time:
   **Examples**  
 
   [tip] Recommended: 4 PM. [/tip]  
-- Use *noon* and *midnight* but not when paired with time in the numeral format.
+- Using *noon* and *midnight* is acceptable, but not when paired with time in the numeral format.  
   **Examples**  
 
-  [warning] Not Recommended: *12:00 noon, 12:00 midnight*.  [/warning]  
+  [warning] Not Recommended: *12:00 noon, 12:00 midnight*. [/warning]  
 
 ### Time zones
 
+Generally, include the time zone if your documentation influences a global audience. Use the following guidelines to express time zones:
+- Specify the spelled-out time zone region and then the UTC or GMT offset in parentheses.  
+  **Examples**  
 
-
-Include
+  [tip] Recommended: [/tip]  
 
 ## Expressing dates
