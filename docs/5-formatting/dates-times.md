@@ -57,9 +57,22 @@ Generally, include the time zone if your documentation influences a global audie
 
 ## Expressing dates
 
-Spell out the names of months and days of the week. Write the full four-digit year, rather than a two-digit abbreviation. If including the day of the week, add it before the month and insert a comma after it. Use the *day of week, month dd, year* format.  
+Spell out the names of months and days of the week. Write the full four-digit year, rather than a two-digit abbreviation. If including the day of the week, add it before the month and insert a comma after it. Capitalize the days of the week. Use the *day of week, month dd, year* format.  
+
+Don't use ordinal numbers to indicate a date.
 
 **Examples**  
 
+[warning] Not Recommended: August 16th 2020 [/warning]  
 [tip] Recommended: August 16, 2020 [/tip]  
 [tip] Recommended: Sunday, August 16, 2020 [/tip]  
+
+### Abbreviated and partial dates
+
+While indicating only the month and year, don't use a comma.
+
+**Examples**  
+
+[tip] Recommended: The latest version was released in May 2020. [/tip]  
+
+Don't abbreviate the days of the week or the month unless absolutely necessary, although abbreviating is acceptable in UI, tables, or headings where space is limited. 
