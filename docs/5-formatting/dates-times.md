@@ -75,4 +75,8 @@ While indicating only the month and year, don't use a comma.
 
 [tip] Recommended: The latest version was released in May 2020. [/tip]  
 
-Don't abbreviate the days of the week or the month unless absolutely necessary, although abbreviating is acceptable in UI, tables, or headings where space is limited. 
+Don't abbreviate the days of the week or the month unless absolutely necessary, although abbreviating is acceptable in UI, tables, or headings where space is limited. Abbreviate the days of the week to three-letter abbreviations like *Sun, Mon, Tue, Wed, Thu, Fri*, and *Sat* and the month to three-letter abbreviations such as *Jan, May*, and *Sep*. Capitalize the first letter and don't insert a period at the end of the abbreviation.
+
+If you abbreviate, do so for the entire date. Don't combine written-our forms with abbreviated forms in the same date.
+
+Be consistent with your abbreviations throughout your documentation. For example, if you abbreviate in UI or tables, ensure that all subsequent instances of UI or tables are abbreviated similarly.
