@@ -1,6 +1,6 @@
 # Dates and times
 
-In general, spell out months and days whenever possible. Use the *Day of week, month dd, year* date format. For example, use *Sunday, August 16, 2020*. Express time in the 12-hour format, capitalize AM and PM, and include the time zone.
+In general, spell out months and days whenever possible. Use the *day of week, month dd, year* date format. For example, use *Sunday, August 16, 2020*. Express time in the 12-hour format, capitalize AM and PM, and include the time zone.
 
 Expressing dates and times in a clearly defined manner reduces confusion and improves translation support for a [global audience](/2-document-guidelines/4-global-audience.md).
 
@@ -56,3 +56,10 @@ Generally, include the time zone if your documentation influences a global audie
 - Don't specify *standard time* or *daylight saving time* unless specifically writing about them. When the time doesn't change for daylight saving time, use the specific time zone without reference to UTC.
 
 ## Expressing dates
+
+Spell out the names of months and days of the week. Write the full four-digit year, rather than a two-digit abbreviation. If including the day of the week, add it before the month and insert a comma after it. Use the *day of week, month dd, year* format.  
+
+**Examples**  
+
+[tip] Recommended: August 16, 2020 [/tip]  
+[tip] Recommended: Sunday, August 16, 2020 [/tip]  
