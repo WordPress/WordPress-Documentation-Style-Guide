@@ -10,7 +10,7 @@ Use the following guidelines to express time:
 - Express time in the 12-hour format. Use the 24-hour format only when absolutely needed. If a particular UI, statement or code example uses the 24-hour format, then use that format throughout the page for consistency. [review]
 - Use numerals to express times of the day.
 - Always include *AM* and *PM*. Insert a space between the time and *AM* or *PM* and ensure that it is capitalized.  
-  **Examples**  
+  **Example**  
 
   [tip] Recommended: 4:32 PM, 12:00 PM, 7:15 AM. [/tip]  
 
@@ -26,11 +26,11 @@ Use the following guidelines to express time:
   [tip] Recommended: 7:30 AM–9:15 AM 05/11/2020 (time range on a single day) [/tip]  
   [tip] Recommended: 7:30 AM 04/11/2020 – 9:15 AM 05/11/2020 (date and time range) [/tip]  
 - It is acceptable to remove the minutes from round hours.  
-  **Examples**  
+  **Example**  
 
   [tip] Recommended: 4 PM. [/tip]  
 - Using *noon* and *midnight* is acceptable, but not when paired with time in the numeral format.  
-  **Examples**  
+  **Example**  
 
   [warning] Not Recommended: *12:00 noon, 12:00 midnight*. [/warning]  
 
@@ -44,7 +44,7 @@ Generally, include the time zone if your documentation influences a global audie
   [tip] Recommended: US Eastern Time (UTC-05:00) [/tip]  
   [tip] Recommended: Indian Standard Time (UTC+05:30) [/tip]  
 - If the time is the reader's local time, indicate it accordingly.  
-  **Examples**  
+  **Example**  
 
   [tip] Recommended: The weekly team meeting will start at 7:30 PM your local time. [/tip]  
 - Use Coordinated Universal Time (UTC) over Greenwich Mean Time (GMT), in general. Don't write *Universal Time Coordinate* or *Universal Time Coordinated* as alternatives to Coordinated Universal Time. Only use GMT unless absolutely needed.
@@ -71,7 +71,7 @@ Don't use ordinal numbers to indicate a date.
 
 While indicating only the month and year in a date, don't use a comma.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended: The latest version was released in May 2020. [/tip]  
 
@@ -88,4 +88,11 @@ Be consistent with your abbreviations throughout your documentation. For example
 
 ### Dates in the middle of a sentence
 
-When indicating dates in the *month dd, year* format in the middle of a sentence, insert a comma after the year. However, if the date in the middle of the sentence consists of only the month and year, then don't insert a comma. 
+When indicating dates in the *month dd, year* format in the middle of a sentence, insert a comma after the year. However, if the date in the middle of the sentence consists of only the month and year, then don't insert a comma after the year.
+
+**Examples**  
+
+[tip] Recommended: It was only until May 4, 2020, that the latest version was released. [/tip]  
+[tip] Recommended: It was only until May 2020 that the latest version was released. [/tip]  
+
+### Things to avoid while expressing dates
