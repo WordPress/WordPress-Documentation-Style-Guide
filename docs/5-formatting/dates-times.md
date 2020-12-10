@@ -37,9 +37,16 @@ Use the following guidelines to express time:
 ### Time zones
 
 Generally, include the time zone if your documentation influences a global audience. Use the following guidelines to express time zones:
-- Specify the spelled-out time zone region and then the UTC or GMT offset in parentheses.  
+- Capitalize time zones.
+- Specify the spelled-out time zone region and then the UTC or GMT offset in parentheses. Don't insert spaces around the hyphen (-) or plus sign (+).  
   **Examples**  
 
-  [tip] Recommended: [/tip]  
+  [tip] Recommended: US Eastern Time (UTC-05:00) [/tip]  
+  [tip] Recommended: Indian Standard Time (UTC+05:30) [/tip]  
+- Don't abbreviate time zones.
+- If the time is the reader's local time, indicate it accordingly.  
+  **Examples**  
+
+  [tip] Recommended: The weekly team meeting will start at 7:30 PM  [/tip]  
 
 ## Expressing dates
