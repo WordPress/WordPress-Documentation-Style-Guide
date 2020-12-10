@@ -57,7 +57,7 @@ Generally, include the time zone if your documentation influences a global audie
 
 ## Expressing dates
 
-Spell out the names of months and days of the week. Write the full four-digit year, rather than a two-digit abbreviation. If including the day of the week, add it before the month and insert a comma after it. Capitalize the days of the week. Use the *day of week, month dd, year* format.  
+Spell out the names of months and days of the week. Write the full four-digit year, rather than a two-digit abbreviation. If including the day of the week, add it before the month and insert a comma after it. Capitalize the first letter of the days of the week and months. Use the *day of week, month dd, year* format.  
 
 Don't use ordinal numbers to indicate a date.
 
@@ -69,7 +69,7 @@ Don't use ordinal numbers to indicate a date.
 
 ### Abbreviated and partial dates
 
-While indicating only the month and year, don't use a comma.
+While indicating only the month and year in a date, don't use a comma.
 
 **Examples**  
 
@@ -79,4 +79,13 @@ Don't abbreviate the days of the week or the month unless absolutely necessary, 
 
 If you abbreviate, do so for the entire date. Don't combine written-our forms with abbreviated forms in the same date.
 
-Be consistent with your abbreviations throughout your documentation. For example, if you abbreviate in UI or tables, ensure that all subsequent instances of UI or tables are abbreviated similarly.
+Be consistent with your abbreviations throughout your documentation. For example, if you abbreviate dates in UI or tables, ensure that all subsequent instances of dates in UI or tables are abbreviated similarly.
+
+**Examples**  
+
+[warning] Not Recommended: Mon, November 24, 2020 [/warning]  
+[tip] Recommended: Mon, Nov 24, 2020 [/tip]  
+
+### Dates in the middle of a sentence
+
+When indicating dates in the *month dd, year* format in the middle of a sentence, insert a comma after the year. However, if the date in the middle of the sentence consists of only the month and year, then don't insert a comma. 
