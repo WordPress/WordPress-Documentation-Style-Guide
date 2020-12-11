@@ -103,4 +103,7 @@ Additionally, if you have a choice of what date to write (such as in a fictional
 
 ### Things to avoid while expressing dates
 
-Generally, don't express months as numerals as the date format is varied in different parts of the world. 
+Generally, don't express months as numerals as the date format is varied in different parts of the world.
+For example, the date 01/02/20 is interpreted differently in different regions:
+- In the British date format, 01/02/20 means 1 February, 2020. Here, the order is *day, month, year*.
+- In the American date format, 01/02/2020 means 2 January 2020. Here, the order is *month, day, year*.
