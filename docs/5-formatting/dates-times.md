@@ -95,4 +95,10 @@ When indicating dates in the *month dd, year* format in the middle of a sentence
 [tip] Recommended: It was only until May 4, 2020, that the latest version was released. [/tip]  
 [tip] Recommended: It was only until May 2020 that the latest version was released. [/tip]  
 
+### Numerical dates
+
+When indicating dates in a numerical date format, use the [ISO international standard](https://wikipedia.org/wiki/ISO_8601) date format *YYYY-MM-DD*. Separate the year, month and day using hyphens.
+
+Additionally, if you have a choice of what date to write (such as in a fictional example), then choose a calendar day greater than 12 to differentiate it from the month.
+
 ### Things to avoid while expressing dates
