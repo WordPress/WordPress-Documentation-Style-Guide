@@ -105,8 +105,16 @@ Additionally, if you have a choice of what date to write (such as in a fictional
 
 Generally, don't express months as numerals as the date format is varied in different parts of the world.
 For example, the date 01/02/20 is interpreted differently in different regions:
-- In the British date format, 01/02/20 means 1 February, 2020. Here, the order is *day, month, year*.
-- In the American date format, 01/02/20 means 2 January 2020. Here, the order is *month, day, year*.
-- In date formats of some other regions, 01/02/20 means 20 February, 2001. Here, the order is *year, months, day*.
+- In the British date format, 01/02/20 means February 1, 2020. Here, the order is *day, month, year*.
+- In the American date format, 01/02/20 means January 2, 2020. Here, the order is *month, day, year*.
+- In date formats of some other regions, 01/02/20 means 20 February, 2001. Here, the order is *year, month, day*.
 
-Hence, dates in the numerical format may be confusing for a global audience. To avoid confusion, generally express dates in words.
+Hence, expressing dates in the numerical format may be confusing for a global audience. To avoid confusion, generally express dates in words.
+
+**Examples**  
+
+[warning] Not Recommended: 01/02/20 or 01/02/2020 [/warning]  
+[warning] Not Recommended: 01.02.20 or 01.02.2020 [/warning]  
+[warning] Not Recommended: 01-02-20 or 01-02-2020 [/warning]  
+[tip] Recommended: January 2, 2020 [/tip]  
+[tip] Recommended: Thursday, January 2, 2020 [/tip]  
