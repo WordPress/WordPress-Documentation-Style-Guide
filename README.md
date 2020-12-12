@@ -98,7 +98,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Abstracts, Introduction, Prefaces                                 |        |
 | Brand Names, Product Names                                        |        |
 | Captions                                                          |        |
-| Code Snippets, Code Blocks                                        |        |
+| Code Snippets, Code Blocks                                        |   (Moved to Code)   |
 | Currencies                                                        |   (Moved to Numbers)   |
 | Date & Time, Time Zones, Places                                   |   🔄 (⚠️ while publishing)   |
 | File Names                                                        |        |
@@ -142,6 +142,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Code
 | Component   | Status |
 |-------------|--------|
+| Code Snippets, Code Blocks |      |
 | CSS         |        |
 | HTML        |        |
 | JS          |        |
