@@ -130,5 +130,5 @@ Avoid referring to seasons, as all regions around the world don't have similar s
 [warning] Not Recommended: During winter, you may encounter delays in responses due to staff holidays.  [/warning]  
 [tip] Recommended: During December, you may encounter delays in responses due to staff holidays. [/tip]  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended: [/tip]  
+[warning] Not Recommended: All major versions are released in the fall of each year. [/warning]  
+[tip] Recommended: All major versions are released in October of each year. [/tip]  
