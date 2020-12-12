@@ -36,7 +36,9 @@ Use the following guidelines to express time:
 
 ### Time zones
 
-Generally, include the time zone if your documentation influences a global audience. Otherwise, avoid using time zones unless absolutely necessary, where excluding them would cause confusion. Use the following guidelines to express time zones:
+Generally, include the time zone if your documentation influences a global audience. Otherwise, avoid using time zones unless absolutely necessary, where excluding them would cause confusion. You don't need to include the time zone where the reader's local time is shown automatically.
+
+Use the following guidelines to express time zones:
 - Capitalize time zones. Don't abbreviate them unless absolutely needed.
 - Specify the spelled-out time zone region and then the UTC or GMT offset in parentheses. Don't insert spaces around the hyphen (-) or plus sign (+).  
   **Examples**  
@@ -103,7 +105,7 @@ Additionally, if you have a choice of what date to write (such as in a fictional
 
 ### Things to avoid while expressing dates
 
-Generally, don't express months as numerals as the date format is varied in different parts of the world.
+Generally, don't express months as numerals, as the numerical date format is varied in different parts of the world.
 For example, the date 01/02/20 is interpreted differently in different regions:
 - In the British date format, 01/02/20 means February 1, 2020. Here, the order is *day, month, year*.
 - In the American date format, 01/02/20 means January 2, 2020. Here, the order is *month, day, year*.
@@ -118,3 +120,5 @@ Hence, expressing dates in the numerical format may be confusing for a global au
 [warning] Not Recommended: 01-02-20 or 01-02-2020 [/warning]  
 [tip] Recommended: January 2, 2020 [/tip]  
 [tip] Recommended: Thursday, January 2, 2020 [/tip]  
+
+## Seasons and divisions of the year
