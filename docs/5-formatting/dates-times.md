@@ -122,3 +122,13 @@ Hence, expressing dates in the numerical format may be confusing for a global au
 [tip] Recommended: Thursday, January 2, 2020 [/tip]  
 
 ## Seasons and divisions of the year
+
+Avoid referring to seasons, as all regions around the world don't have similar seasons and global audiences may find it difficult to correspond them to calendar months. For example, winter in the northern hemisphere is summer in the southern hemisphere. Instead of seasons, use months or calendar quarters.
+
+**Examples**  
+
+[warning] Not Recommended: During winter, you may encounter delays in responses due to staff holidays.  [/warning]  
+[tip] Recommended: During December, you may encounter delays in responses due to staff holidays. [/tip]  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended: [/tip]  
