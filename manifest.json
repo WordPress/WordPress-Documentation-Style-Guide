@@ -36,6 +36,12 @@
 		"slug": "global-audience",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/4-global-audience.md"
 	},
+	"document-guidelines/inclusivity": {
+		"title": "Inclusivity",
+		"parent": "document-guidelines",
+		"slug": "inclusivity",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/5-inclusivity.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
