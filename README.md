@@ -57,7 +57,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Clause                                            |   ✔️   |
 | Contractions (New component)                      |   ✔️ (⚠️ while publishing)   |
 | Direct/Indirect speech                            |   ✔️   |
-| Genders                                           |   (Moved to Pronouns)   |
+| Genders                                           |   ✔️ (Moved to Pronouns)   |
 | Glossary                                          |   (Moved to Word Usage Dictionary)   |
 | Grammatical Person                                |   ✔️   |
 | Nouns                                             |   ✔️ (⚠️ while publishing)   |
@@ -99,7 +99,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Brand Names, Product Names                                        |        |
 | Captions                                                          |        |
 | Code Snippets, Code Blocks                                        |   (Moved to Code)   |
-| Currencies                                                        |   (Moved to Numbers)   |
+| Currencies                                                        |   ✔️ (Moved to Numbers)   |
 | Date & Time, Time Zones, Places                                   |   ✔️ (⚠️ while publishing)   |
 | File Names                                                        |        |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
@@ -112,7 +112,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Media (Images, Videos) & Illustrations                            |        |
 | Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
-| Phone Numbers                                                     |   🔄   |
+| Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
 | Spacing                                                           |        |
