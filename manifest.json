@@ -5,6 +5,13 @@
 		"parent": null,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
 	},
+	"document-guidelines": {
+		"title": "Document Guidelines",
+		"slug": "document-guidelines",
+		"parent": null,
+		"order": 1,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/README.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
