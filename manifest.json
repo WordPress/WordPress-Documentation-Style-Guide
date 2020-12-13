@@ -12,6 +12,12 @@
 		"order": 1,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/README.md"
 	},
+	"document-guidelines/document-structure": {
+		"title": "Document Structure",
+		"parent": "document-guidelines",
+		"slug": "document-structure",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/1-document-structure.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
