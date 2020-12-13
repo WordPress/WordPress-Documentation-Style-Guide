@@ -1,0 +1,52 @@
+{
+	"index": {
+		"title": "Documentation Style Guide",
+		"slug": "index",
+		"parent": null,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
+	},
+	"document-guidelines": {
+		"title": "Document guidelines",
+		"slug": "document-guidelines",
+		"parent": null,
+		"order": 1,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/README.md"
+	},
+	"document-guidelines/document-structure": {
+		"title": "Document structure",
+		"parent": "document-guidelines",
+		"slug": "document-structure",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/1-document-structure.md"
+	},
+	"document-guidelines/style-and-tone": {
+		"title": "Style and tone",
+		"parent": "document-guidelines",
+		"slug": "style-and-tone",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/2-style-and-tone.md"
+	},
+	"document-guidelines/accessibility": {
+		"title": "Accessibility guidelines",
+		"parent": "document-guidelines",
+		"slug": "accessibility",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/3-accessibility.md"
+	},
+	"document-guidelines/global-audience": {
+		"title": "Global audience",
+		"parent": "document-guidelines",
+		"slug": "global-audience",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/4-global-audience.md"
+	},
+	"document-guidelines/inclusivity": {
+		"title": "Inclusivity",
+		"parent": "document-guidelines",
+		"slug": "inclusivity",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/5-inclusivity.md"
+	},
+	"changelog": {
+		"title": "Changelog",
+		"slug": "changelog",
+		"parent": null,
+		"order": 10,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/4-changelog.md"
+	}
+}
