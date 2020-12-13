@@ -18,6 +18,12 @@
 		"slug": "document-structure",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/1-document-structure.md"
 	},
+	"document-guidelines/style-and-tone": {
+		"title": "Style and Tone",
+		"parent": "document-guidelines",
+		"slug": "style-and-tone",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/2-style-and-tone.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
