@@ -1,0 +1,15 @@
+{
+	"index": {
+		"title": "Documentation Style Guide",
+		"slug": "index",
+		"parent": null,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
+	},
+	"changelog": {
+		"title": "Changelog",
+		"slug": "changelog",
+		"parent": null,
+		"order": 10,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/4-changelog.md"
+	}
+}
