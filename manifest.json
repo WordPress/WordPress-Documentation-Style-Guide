@@ -24,6 +24,12 @@
 		"slug": "style-and-tone",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/2-style-and-tone.md"
 	},
+	"document-guidelines/accessibility": {
+		"title": "Accessibility Guidelines",
+		"parent": "document-guidelines",
+		"slug": "accessibility",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/3-accessibility.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
