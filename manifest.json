@@ -248,6 +248,12 @@
 		"slug": "semicolons",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/semicolons.md"
 	},
+	"punctuation/slashes": {
+		"title": "Slashes",
+		"parent": "punctuation",
+		"slug": "slashes",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/slashes.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
