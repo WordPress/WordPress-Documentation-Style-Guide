@@ -182,6 +182,12 @@
 		"slug": "apostrophes",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/apostrophes.md"
 	},
+	"punctuation/colons": {
+		"title": "Colons",
+		"parent": "punctuation",
+		"slug": "colons",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/colons.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
