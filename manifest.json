@@ -121,6 +121,12 @@
 		"slug": "plurals",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/plurals.md"
 	},
+	"language-and-grammar/possessives": {
+		"title": "Possessives",
+		"parent": "language-and-grammar",
+		"slug": "possessives",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/possessives.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
