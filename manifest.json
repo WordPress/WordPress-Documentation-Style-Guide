@@ -133,6 +133,12 @@
  	 "slug": "prefixes-suffixes",
  	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prefixes-suffixes.md"
   },
+	"language-and-grammar/prepositions": {
+		"title": "Prepositions",
+		"parent": "language-and-grammar",
+		"slug": "prepositions",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prepositions.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
