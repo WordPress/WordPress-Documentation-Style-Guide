@@ -145,6 +145,12 @@
 		"slug": "pronouns",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/pronouns.md"
 	},
+	"language-and-grammar/tense": {
+		"title": "Tense",
+		"parent": "language-and-grammar",
+		"slug": "tense",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/tense.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
