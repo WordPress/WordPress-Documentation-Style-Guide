@@ -242,7 +242,12 @@
 		"slug": "quotation-marks",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/quotation-marks.md"
 	},
-
+	"punctuation/semicolons": {
+		"title": "Semicolons",
+		"parent": "punctuation",
+		"slug": "semicolons",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/semicolons.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
