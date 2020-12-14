@@ -236,6 +236,13 @@
 		"slug": "question-marks",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/question-marks.md"
 	},
+	"punctuation/quotation-marks": {
+		"title": "Quotation marks",
+		"parent": "punctuation",
+		"slug": "quotation-marks",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/quotation-marks.md"
+	},
+
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
