@@ -127,6 +127,12 @@
 		"slug": "possessives",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/possessives.md"
 	},
+	"language-and-grammar/prefixes-suffixes": {
+ 	 "title": "Prefixes and Suffixes",
+ 	 "parent": "language-and-grammar",
+ 	 "slug": "prefixes-suffixes",
+ 	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prefixes-suffixes.md"
+  },
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
