@@ -139,6 +139,12 @@
 		"slug": "prepositions",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prepositions.md"
 	},
+	"language-and-grammar/pronouns": {
+		"title": "Pronouns",
+		"parent": "language-and-grammar",
+		"slug": "pronouns",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/pronouns.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
