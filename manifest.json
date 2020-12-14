@@ -103,6 +103,12 @@
 		"slug": "direct-indirect-speech",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/direct-indirect-speech.md"
 	},
+	"language-and-grammar/grammatical-person": {
+		"title": "Grammatical person",
+		"parent": "language-and-grammar",
+		"slug": "grammatical-person",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/grammatical-person.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
