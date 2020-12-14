@@ -48,6 +48,12 @@
 		"slug": "facts-and-claims",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/6-facts-and-claims.md"
 	},
+	"document-guidelines/external-sources": {
+		"title": "External sources",
+		"parent": "document-guidelines",
+		"slug": "external-sources",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/7-external-sources.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
