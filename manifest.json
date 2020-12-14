@@ -109,6 +109,12 @@
 		"slug": "grammatical-person",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/grammatical-person.md"
 	},
+	"language-and-grammar/nouns": {
+		"title": "Nouns",
+		"parent": "language-and-grammar",
+		"slug": "nouns",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/nouns.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
