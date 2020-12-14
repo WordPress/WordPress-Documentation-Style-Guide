@@ -91,6 +91,12 @@
 		"slug": "clause",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/clause.md"
 	},
+	"language-and-grammar/contractions": {
+		"title": "Contractions",
+		"parent": "language-and-grammar",
+		"slug": "contractions",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/contractions.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
