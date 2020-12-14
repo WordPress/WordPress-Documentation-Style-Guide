@@ -97,6 +97,12 @@
 		"slug": "contractions",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/contractions.md"
 	},
+	"language-and-grammar/direct-indirect-speech": {
+		"title": "Direct and indirect speech",
+		"parent": "language-and-grammar",
+		"slug": "direct-indirect-speech",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/direct-indirect-speech.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
