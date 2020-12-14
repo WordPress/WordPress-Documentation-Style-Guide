@@ -60,6 +60,13 @@
 		"slug": "contributing-to-style-guide",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/8-contributing-to-style-guide.md"
 	},
+	"language-and-grammar": {
+		"title": "Language and grammar",
+		"slug": "language-and-grammar",
+		"parent": null,
+		"order": 2,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/README.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
