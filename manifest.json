@@ -73,6 +73,12 @@
 		"slug": "abbreviations",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/abbreviations.md"
 	},
+	"language-and-grammar/articles": {
+		"title": "Articles",
+		"parent": "language-and-grammar",
+		"slug": "articles",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/articles.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
