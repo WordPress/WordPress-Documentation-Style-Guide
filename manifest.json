@@ -224,7 +224,12 @@
 		"slug": "parentheses",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/parentheses.md"
 	},
-	
+	"punctuation/periods": {
+		"title": "Periods",
+		"parent": "punctuation",
+		"slug": "preiods",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/periods.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
