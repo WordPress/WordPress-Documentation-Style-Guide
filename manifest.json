@@ -169,6 +169,13 @@
 		"slug": "word-choice",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/word-choice.md"
 	},
+	"punctuation": {
+		"title": "Punctuation",
+		"slug": "punctuation",
+		"parent": null,
+		"order": 3,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/README.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
