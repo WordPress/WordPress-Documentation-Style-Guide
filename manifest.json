@@ -54,6 +54,12 @@
 		"slug": "external-sources",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/7-external-sources.md"
 	},
+	"document-guidelines/contributing-to-style-guide": {
+		"title": "Contributing to the Style Guide",
+		"parent": "document-guidelines",
+		"slug": "contributing-to-style-guide",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/8-contributing-to-style-guide.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
