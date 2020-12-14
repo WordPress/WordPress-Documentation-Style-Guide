@@ -85,6 +85,12 @@
 		"slug": "capitalization",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/capitalization.md"
 	},
+	"language-and-grammar/clause": {
+		"title": "Clause",
+		"parent": "language-and-grammar",
+		"slug": "clause",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/clause.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
