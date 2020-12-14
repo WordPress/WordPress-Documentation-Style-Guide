@@ -151,6 +151,12 @@
 		"slug": "tense",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/tense.md"
 	},
+	"language-and-grammar/verbs": {
+		"title": "Verbs",
+		"parent": "language-and-grammar",
+		"slug": "verbs",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/verbs.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
