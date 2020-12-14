@@ -115,6 +115,12 @@
 		"slug": "nouns",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/nouns.md"
 	},
+	"language-and-grammar/plurals": {
+		"title": "Plurals",
+		"parent": "language-and-grammar",
+		"slug": "plurals",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/plurals.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
