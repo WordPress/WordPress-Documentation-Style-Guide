@@ -194,6 +194,12 @@
 		"slug": "commas",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/commas.md"
 	},
+	"punctuation/dashes": {
+		"title": "Dashes",
+		"parent": "punctuation",
+		"slug": "dashes",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/dashes.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
