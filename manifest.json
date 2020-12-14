@@ -188,6 +188,12 @@
 		"slug": "colons",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/colons.md"
 	},
+	"punctuation/commas": {
+		"title": "Commas",
+		"parent": "punctuation",
+		"slug": "commas",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/commas.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
