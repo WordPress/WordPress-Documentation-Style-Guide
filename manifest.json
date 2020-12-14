@@ -230,6 +230,12 @@
 		"slug": "preiods",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/periods.md"
 	},
+	"punctuation/question-marks": {
+		"title": "Question marks",
+		"parent": "punctuation",
+		"slug": "question-marks",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/question-marks.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
