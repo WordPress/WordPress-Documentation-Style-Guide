@@ -218,6 +218,13 @@
 		"slug": "hyphens",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/hyphens.md"
 	},
+	"punctuation/parentheses": {
+		"title": "Parentheses",
+		"parent": "punctuation",
+		"slug": "parentheses",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/parentheses.md"
+	},
+	
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
