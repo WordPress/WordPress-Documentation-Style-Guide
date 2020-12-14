@@ -79,6 +79,12 @@
 		"slug": "articles",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/articles.md"
 	},
+	"language-and-grammar/capitalization": {
+		"title": "Capitalization",
+		"parent": "language-and-grammar",
+		"slug": "capitalization",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/capitalization.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
