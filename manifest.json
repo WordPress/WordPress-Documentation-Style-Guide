@@ -200,6 +200,18 @@
 		"slug": "dashes",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/dashes.md"
 	},
+	"punctuation/ellipses": {
+		"title": "Ellipses",
+		"parent": "punctuation",
+		"slug": "ellipses",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/ellipses.md"
+	},
+	"punctuation/exclamation-points": {
+		"title": "Exclamation points",
+		"parent": "punctuation",
+		"slug": "exclamation-points",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/exclamation-points.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
