@@ -128,7 +128,7 @@
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/possessives.md"
 	},
 	"language-and-grammar/prefixes-suffixes": {
- 	 "title": "Prefixes and Suffixes",
+ 	 "title": "Prefixes and suffixes",
  	 "parent": "language-and-grammar",
  	 "slug": "prefixes-suffixes",
  	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prefixes-suffixes.md"
@@ -156,6 +156,18 @@
 		"parent": "language-and-grammar",
 		"slug": "verbs",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/verbs.md"
+	},
+	"language-and-grammar/voice": {
+		"title": "Voice",
+		"parent": "language-and-grammar",
+		"slug": "voice",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/voice.md"
+	},
+	"language-and-grammar/word-choice": {
+		"title": "Word choice",
+		"parent": "language-and-grammar",
+		"slug": "word-choice",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/word-choice.md"
 	},
 	"changelog": {
 		"title": "Changelog",
