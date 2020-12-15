@@ -254,6 +254,13 @@
 		"slug": "slashes",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/slashes.md"
 	},
+	"formatting": {
+		"title": "Formatting",
+		"slug": "formatting",
+		"parent": null,
+		"order": 4,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/README.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
