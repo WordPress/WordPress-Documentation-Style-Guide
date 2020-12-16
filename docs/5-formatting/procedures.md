@@ -13,5 +13,8 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 **Examples**  
 
 [warning] Not Recommended: To change the settings: [/warning]  
-[tip] Recommended: To change the settings, follow these steps: [/tip]
-[tip] Recommended: To change the settings: [/tip]
+[tip] Recommended: To change the settings, follow these steps: [/tip]  
+[tip] Recommended: To change the settings: [/tip]  
+
+[warning] Not Recommended: The settings are: [/warning]  
+[tip] Recommended: The settings that can be changed are as follows: [/tip]  
