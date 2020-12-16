@@ -21,4 +21,12 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 ## Single-step procedures
 
-When a procedure consists of a single step or instruction, consolidate it into the introductory sentence. 
+When a procedure consists of a single step or instruction, consolidate it into the introductory sentence.
+
+[warning] Not Recommended: To save the modified file, follow this step:
+1. Click **Save Changes**.
+[/warning]  
+[warning] Not Recommended: To save the modified file, follow this step:
+- Click **Save Changes**.
+[/warning]  
+[tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
