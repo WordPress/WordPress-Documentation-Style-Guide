@@ -18,3 +18,7 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 [warning] Not Recommended: The settings are: [/warning]  
 [tip] Recommended: The settings that can be changed are as follows: [/tip]  
+
+## Single-step procedures
+
+When a procedure consists of a single step or instruction, consolidate it into the introductory sentence. 
