@@ -19,7 +19,7 @@ Recommended: The settings that can be changed are as follows:
 - WordPress Address (URL)
 [/tip]
 
-Refer "Lists" to learn more.
+Refer [Lists]() to learn more.
 
 ## Colons in titles and headings
 
@@ -35,7 +35,7 @@ When you use a colon in a title or heading, capitalize the word following it.
 
 ## Colons within sentences
 
-In general, when you use a colon in a sentence, lowercase the following word. To learn more, refer "Capitalization".
+In general, when you use a colon in a sentence, lowercase the following word. To learn more, refer [Capitalization]().
 
 **Examples**  
 
@@ -59,10 +59,10 @@ If non-italic text preceding a colon is bold, then make the colon bold too.
 ## Code text preceding colon
 
 Don't include a colon in text preceding code, code back-ticks (``` ` ```), or a `<code>` tag unless it is part of the code.
-Refer "Code Samples/Code Blocks" for more information on code formatting.
+Refer [Code Samples/Code Blocks]() for more information on code formatting.
 
 ## Additional Resources
 
-For more information about when it's better to use colons than dashes, refer "Dashes".
-For more information on code snippets, refer "Code Blocks".
-More information on "Lists".
+For more information about when it's better to use colons than dashes, refer [Dashes]().
+For more information on code snippets, refer [Code Blocks]().
+More information on [Lists]().
