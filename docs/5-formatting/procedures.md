@@ -52,6 +52,16 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
       ii. Quit and restart the terminal.  
       ```sh
       nvm install --lts
+      ```  
+   b. Set up your WordPress environment:    
+      i. Download, install, and start Docker Desktop following the instructions for your OS.  
+      ii. Install the WordPress environment tool.
+      ```sh
+      nvm install --lts
+      ```  
+      iii. Start the environment from an existing plugin or theme directory, or a new working directory:
+      ```sh
+      wp-env start
       ```
-2. Install WordPress environment tool
+   c. Set up your code editor.  
 [/tip]  
