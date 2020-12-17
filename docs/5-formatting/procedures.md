@@ -26,11 +26,13 @@ When a procedure consists of a single step or instruction, consolidate it into t
 **Examples**  
 
 [warning] Not Recommended: To save the modified file, follow this step:
-1. Click **Save Changes**.
+1. Click **Save Changes**.  
 [/warning]  
+
 [warning] Not Recommended: To save the modified file, follow this step:
-- Click **Save Changes**.
+- Click **Save Changes**.  
 [/warning]  
+
 [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
 
 ## Sub-steps in numbered procedures
@@ -72,9 +74,25 @@ In general, use one step per action. However, you can combine multiple small act
 
 **Examples**  
 
-[tip] Recommended: Select **Settings** > **Media**. [/tip]  
-[tip] Recommended: Select **Edit** > **Text** > **Encoding**. [/tip]  
+[tip] Recommended: 1. Select **Settings** > **Media**. [/tip]  
+[tip] Recommended: 1. Select **Edit** > **Text** > **Encoding**. [/tip]  
 
 [alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings** > **Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
 
 Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated.
+
+## General guidelines for writing procedures
+
+- Write concise steps without writing repetitive instructions with bold UI elements.
+  **Examples**  
+
+  [warning] Not Recommended:
+  1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.
+  2. Under the **Settings** option, select **Media**.  
+
+  [/warning]  
+  [tip] Recommended:  
+  1. Click **Menu**.  
+  2. Under the **Settings** option that appears, select **Media**.  
+
+  [/tip]  
