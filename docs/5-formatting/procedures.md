@@ -68,13 +68,13 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
 
 ## Instructions with multiple actions
 
-In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences.
+In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences. Insert spaces around each bracket, and don't make the brackets bold.
 
 **Examples**  
 
-[tip] Recommended: Select **Settings > Media**. [/tip]  
-[tip] Recommended: Select **Edit > Text > Encoding**. [/tip]  
+[tip] Recommended: Select **Settings** > **Media**. [/tip]  
+[tip] Recommended: Select **Edit** > **Text** > **Encoding**. [/tip]  
 
-[alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings > Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
+[alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings** > **Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
 
-Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated to read.
+Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated.
