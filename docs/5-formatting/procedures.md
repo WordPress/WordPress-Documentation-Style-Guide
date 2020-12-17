@@ -30,3 +30,9 @@ When a procedure consists of a single step or instruction, consolidate it into t
 - Click **Save Changes**.
 [/warning]  
 [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
+
+## Sub-steps in numbered procedures
+
+In numbered procedures, label sub-steps with lowercase letters, and sub-sub-steps with lowercase Roman numerals.
+
+When a step has sub-steps, write the step as an [introductory statement](#introductory-sentences) to the sub-steps.
