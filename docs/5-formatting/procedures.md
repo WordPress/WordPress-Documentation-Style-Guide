@@ -23,6 +23,8 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 When a procedure consists of a single step or instruction, consolidate it into the introductory sentence.
 
+**Examples**  
+
 [warning] Not Recommended: To save the modified file, follow this step:
 1. Click **Save Changes**.
 [/warning]  
@@ -36,3 +38,20 @@ When a procedure consists of a single step or instruction, consolidate it into t
 In numbered procedures, label sub-steps with lowercase letters, and sub-sub-steps with lowercase Roman numerals.
 
 When a step has sub-steps, write the step as an [introductory statement](#introductory-sentences) to the sub-steps.
+
+**Examples**  
+
+[tip] Recommended:
+1. To set up your development environment, follow these steps:  
+   a. Install Node development tools as follows:  
+      i. Download and install Node Version Manager (nvm).  
+      ```sh
+      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+      ```
+
+      ii. Quit and restart the terminal.  
+      ```sh
+      nvm install --lts
+      ```
+2. Install WordPress environment tool
+[/tip]  
