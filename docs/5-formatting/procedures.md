@@ -74,3 +74,7 @@ In general, use one step per action. However, you can combine multiple small act
 
 [tip] Recommended: Select **Settings > Media**. [/tip]  
 [tip] Recommended: Select **Edit > Text > Encoding**. [/tip]  
+
+[alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings > Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
+
+Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated to read.
