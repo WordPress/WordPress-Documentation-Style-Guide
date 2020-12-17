@@ -39,7 +39,7 @@ In numbered procedures, label sub-steps with lowercase letters, and sub-sub-step
 
 When a step has sub-steps, write the step as an [introductory statement](#introductory-sentences) to the sub-steps.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended:
 1. To set up your development environment, follow these steps:  
@@ -65,3 +65,7 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
       ```
    c. Set up your code editor.  
 [/tip]  
+
+## Instructions with multiple actions
+
+In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences.
