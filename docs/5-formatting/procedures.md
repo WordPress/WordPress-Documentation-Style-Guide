@@ -84,6 +84,7 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 ## General guidelines for writing procedures
 
 - Format procedures consistently so that readers know where to find them easily by scanning content.
+- In general, use headings for procedures so that readers find the exact instructions quickly. 
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
 - Write complete sentences with a consistent sentence structure.
 - Use [imperative verb forms]() in procedures.
