@@ -145,6 +145,13 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
 
-  [tip] Recommended: Navigate to the lower-right part of the page and select the **Encoding** tab. [/tip]  
+  [tip] Recommended: Navigate to the menu bar and select the **Encoding** tab. [/tip]  
 
+- In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
+  **Examples**  
+
+  [warning] Not Recommended:  [/warning]  
+  [tip] Recommended:  [/tip]  
+  
+- Don't include keyboard shortcuts in instructions.
 - Most of the time, end procedures with a definite action or result that helps the reader achieve that particular task.
