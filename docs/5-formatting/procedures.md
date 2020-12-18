@@ -93,6 +93,12 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 - Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
 - Use [imperative verb forms]() in procedures.
 - Individually [number each step](#sub-steps-in-numbered-procedures) in a procedure. It is acceptable to combine short steps that occur in the same place in the UI.
+- State the purpose of the actions before stating the action.  
+  **Examples**  
+
+  [warning] Not Recommended: Click **Save Changes** to save the modified file. [/warning]  
+  [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
+
 - Write concise steps without writing repetitive instructions with bold UI elements.  
   **Examples**  
 
@@ -107,14 +113,22 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 
   [/tip]  
 
-- Avoid repeating procedures. Instead, reference those pictures and link to them.
+- Avoid repeating procedures. Instead, reference those pictures and link to them.  
   **Examples**  
 
   [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
   [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
-- It is acceptable to not provide context such as UI element position, if the instruction appears in the same UI where the action occurs.
+
+- Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
+  **Examples**  
+
+  [warning] Not Recommended: Select **Settings** > **Media** after navigating to the task menu bar. [/warning]  
+  [tip] Recommended: Navigate to task menu bar, and select **Settings** > **Media**. [/tip]  
+  
+- It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
 
   [tip] Recommended: Navigate to the lower-right part of the page and select the **Encoding** tab. [/tip]  
-- Most of the time, end procedures with a definite action or result that help the reader achieve that particular task.
+
+- Most of the time, end procedures with a definite action or result that helps the reader achieve that particular task.
