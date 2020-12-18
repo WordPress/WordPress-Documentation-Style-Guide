@@ -6,7 +6,7 @@ For more information about lists of items that aren't part of a procedure, see [
 
 ## Introductory sentences
 
-Introduce a procedure with an introductory sentence that initiates the following procedure. If the heading of the content explains what the procedure is, and no additional context is required, then don't include an introductory statement. You can introduce a procedure with an imperative statement.
+Introduce a procedure with an introductory sentence that initiates procedure that follows. If the heading of the content explains what the procedure is, and no additional context is required, then don't include an introductory statement. You can introduce a procedure with an imperative statement.
 
 The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the procedure. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a procedure with a partial statement.
 
@@ -81,6 +81,29 @@ In general, use one step per action. However, you can combine multiple small act
 
 Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated.
 
+## Repetitive procedures
+
+Write concise steps without writing repetitive instructions with bold UI elements.  
+**Examples**  
+
+[warning] Not Recommended:  
+1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.  
+2. Under the **Settings** option, select **Media**.  
+
+[/warning]  
+[tip] Recommended:  
+1. Click **Menu**.  
+2. Under the **Settings** option that appears, select **Media**.  
+
+[/tip]  
+
+Avoid repeating procedures. Instead, reference those pictures and link to them.  
+**Examples**  
+
+[tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
+[tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
+
+
 ## General guidelines for writing procedures
 
 - Format procedures consistently so that readers know where to find them easily by scanning content.
@@ -92,6 +115,7 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
 - Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
 - Use [imperative verb forms]() in procedures.
+- Don't use *please* in instructions.
 - Individually [number each step](#sub-steps-in-numbered-procedures) in a procedure. It is acceptable to combine short steps that occur in the same place in the UI.
 - State the purpose of the actions before stating the action.  
   **Examples**  
@@ -99,32 +123,13 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
   [warning] Not Recommended: Click **Save Changes** to save the modified file. [/warning]  
   [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
 
-- Write concise steps without writing repetitive instructions with bold UI elements.  
-  **Examples**  
-
-  [warning] Not Recommended:  
-   1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.  
-   2. Under the **Settings** option, select **Media**.  
-
-  [/warning]  
-  [tip] Recommended:  
-   1. Click **Menu**.  
-   2. Under the **Settings** option that appears, select **Media**.  
-
-  [/tip]  
-
-- Avoid repeating procedures. Instead, reference those pictures and link to them.  
-  **Examples**  
-
-  [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
-  [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
-
+-
 - Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
   **Examples**  
 
   [warning] Not Recommended: Select **Settings** > **Media** after navigating to the task menu bar. [/warning]  
-  [tip] Recommended: Navigate to task menu bar, and select **Settings** > **Media**. [/tip]  
-  
+  [tip] Recommended: Navigate to task menu bar, then select **Settings** > **Media**. [/tip]  
+
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
