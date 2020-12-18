@@ -147,11 +147,12 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 
   [tip] Recommended: Navigate to the menu bar and select the **Encoding** tab. [/tip]  
 
-- In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
+- When there is more than one way to achieve a particular task, give the best way to do so. Multiple alternative procedures can confuse readers.
+- In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
   **Examples**  
 
-  [warning] Not Recommended:  [/warning]  
-  [tip] Recommended:  [/tip]  
-  
+  [warning] Not Recommended: On the upper-right part of the page, select the checkmark icon. [/warning]  
+  [tip] Recommended: Select **Publish ✓**. [/tip]  
+
 - Don't include keyboard shortcuts in instructions.
 - Most of the time, end procedures with a definite action or result that helps the reader achieve that particular task.
