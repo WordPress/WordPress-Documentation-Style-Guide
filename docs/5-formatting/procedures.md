@@ -84,6 +84,7 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 ## Repetitive procedures
 
 Write concise steps without writing repetitive instructions with bold UI elements.  
+
 **Examples**  
 
 [warning] Not Recommended:  
@@ -97,12 +98,12 @@ Write concise steps without writing repetitive instructions with bold UI element
 
 [/tip]  
 
-Avoid repeating procedures. Instead, reference those pictures and link to them.  
+Avoid repeating procedures. Instead, reference those procedures and link to them.  
+
 **Examples**  
 
 [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
 [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
-
 
 ## General guidelines for writing procedures
 
@@ -112,6 +113,7 @@ Avoid repeating procedures. Instead, reference those pictures and link to them.
 
   [tip] Recommended: Create a new page [/tip]  
   [tip] Recommended: Edit your post [/tip]  
+
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
 - Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
 - Use [imperative verb forms]() in procedures.
@@ -123,7 +125,6 @@ Avoid repeating procedures. Instead, reference those pictures and link to them.
   [warning] Not Recommended: Click **Save Changes** to save the modified file. [/warning]  
   [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
 
--
 - Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
   **Examples**  
 
@@ -131,6 +132,16 @@ Avoid repeating procedures. Instead, reference those pictures and link to them.
   [tip] Recommended: Navigate to task menu bar, then select **Settings** > **Media**. [/tip]  
 
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
+- If a particular step is optional in a procedure, indicate it by mentioning "Optional" at the beginning of the step.  
+  **Examples**  
+
+  [tip] Recommended: Optional: If docker is not running, try to restart the service using:
+  ```sh
+  sudo systemctl daemon-reload
+  sudo systemctl restart docker.service
+  ```
+  [/tip]  
+
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
 
