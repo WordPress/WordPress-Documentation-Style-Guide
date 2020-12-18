@@ -83,6 +83,10 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 
 ## General guidelines for writing procedures
 
+- Format procedures consistently so that readers know where to find them easily by scanning content.
+- Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
+- Write complete sentences with a consistent sentence structure.
+- Use [imperative verb forms]() in procedures.
 - Write concise steps without writing repetitive instructions with bold UI elements.  
   **Examples**  
 
@@ -102,9 +106,9 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 
   [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
   [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
-- It is acceptable to not provide context such as element position, if the instruction appears in the same UI where the action occurs.
-- If you think that a specific step might confuse the reader, provide an introductory step.  
+- It is acceptable to not provide context such as UI element position, if the instruction appears in the same UI where the action occurs.
+- If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Examples**  
 
   [tip] Recommended: Navigate to the lower-right part of the page and select the **Encoding** tab. [/tip]  
-- 
+-
