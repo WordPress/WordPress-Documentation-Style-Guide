@@ -91,7 +91,8 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
    2. Under the **Settings** option, select **Media**.  
 
   [/warning]  
-  [tip] Recommended: 1. Click **Menu**.  
+  [tip] Recommended:  
+   1. Click **Menu**.  
    2. Under the **Settings** option that appears, select **Media**.  
 
   [/tip]  
@@ -99,4 +100,5 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 - Avoid repeating procedures. Instead, reference those pictures and link to them.
   **Examples**  
 
-  [tip] Recommended: 1. Select **Settings** > **Media**. [/tip]  
+  [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
+  [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]
