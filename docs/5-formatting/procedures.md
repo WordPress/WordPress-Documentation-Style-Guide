@@ -83,7 +83,7 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 
 ## General guidelines for writing procedures
 
-- Write concise steps without writing repetitive instructions with bold UI elements.
+- Write concise steps without writing repetitive instructions with bold UI elements.  
   **Examples**  
 
   [warning] Not Recommended:  
@@ -101,4 +101,10 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
   **Examples**  
 
   [tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
-  [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]
+  [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
+- It is acceptable to not provide context such as element position, if the instruction appears in the same UI where the action occurs.
+- If you think that a specific step might confuse the reader, provide an introductory step.  
+  **Examples**  
+
+  [tip] Recommended: Navigate to the lower-right part of the page and select the **Encoding** tab. [/tip]  
+- 
