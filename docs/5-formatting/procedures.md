@@ -84,10 +84,15 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 ## General guidelines for writing procedures
 
 - Format procedures consistently so that readers know where to find them easily by scanning content.
-- In general, use headings for procedures so that readers find the exact instructions quickly. 
+- In general, use headings for procedures so that readers find the exact instructions quickly. Write the heading such that it describes what the instructions will help the readers do.  
+  **Examples**  
+
+  [tip] Recommended: Create a new page [/tip]  
+  [tip] Recommended: Edit your post [/tip]  
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
-- Write complete sentences with a consistent sentence structure.
+- Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
 - Use [imperative verb forms]() in procedures.
+- Individually [number each step](#sub-steps-in-numbered-procedures) in a procedure. It is acceptable to combine short steps that occur in the same place in the UI.
 - Write concise steps without writing repetitive instructions with bold UI elements.  
   **Examples**  
 
@@ -109,7 +114,7 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
   [tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
 - It is acceptable to not provide context such as UI element position, if the instruction appears in the same UI where the action occurs.
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
-  **Examples**  
+  **Example**  
 
   [tip] Recommended: Navigate to the lower-right part of the page and select the **Encoding** tab. [/tip]  
--
+- Most of the time, end procedures with a definite action or result that help the reader achieve that particular task.
