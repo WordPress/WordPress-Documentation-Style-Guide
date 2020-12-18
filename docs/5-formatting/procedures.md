@@ -86,13 +86,17 @@ Avoid making long sequential steps. Consider rewriting them by splitting them in
 - Write concise steps without writing repetitive instructions with bold UI elements.
   **Examples**  
 
-  [warning] Not Recommended:
-  1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.
-  2. Under the **Settings** option, select **Media**.  
+  [warning] Not Recommended:  
+   1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.  
+   2. Under the **Settings** option, select **Media**.  
 
   [/warning]  
-  [tip] Recommended:  
-  1. Click **Menu**.  
-  2. Under the **Settings** option that appears, select **Media**.  
+  [tip] Recommended: 1. Click **Menu**.  
+   2. Under the **Settings** option that appears, select **Media**.  
 
   [/tip]  
+
+- Avoid repeating procedures. Instead, reference those pictures and link to them.
+  **Examples**  
+
+  [tip] Recommended: 1. Select **Settings** > **Media**. [/tip]  
