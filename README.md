@@ -35,7 +35,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Fonts                              |   (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)   |
-| Legality, Licensing, Trademarks    |        |
+| Legality, Licensing, Trademarks    |   ✔️ (Moved to Formatting)   |
 | Multi-platform Accessibility       |   ✔️   |
 | Non-ambiguous, No Excessive Claims |   ✔️   |
 | Page Layout                        |   ✔️   |
@@ -105,7 +105,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
 | Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
 | Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |        |
-| Indentation                                                       |        |
+| Indentation                                                       |   ❌   |
 | Index                                                             |        |
 | Links & URLs                                                      |        |
 | Lists, Bullet Points, Numbering                                   |        |
@@ -115,10 +115,10 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
-| Spacing                                                           |        |
+| Spacing                                                           |   ❌   |
 | Tables                                                            |        |
 | Text                                                              |        |
-| Trademarks, Copyrights, Patents, Citations                        |   🔄 (⚠️ while publishing)   |
+| Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
 | Typography & Fonts                                                |        |
 | UI elements                                                       |   (Moved to User Interface)   |
