@@ -1,5 +1,9 @@
 # Trademarks
 
+For trademark marking or attribution in documentation, follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks.
+
+For additional information about WordPress trademarks, see the [Trademark Policy for WordPress](https://wordpressfoundation.org/trademark-policy/).
+
 ## Using trademarks
 
 Always use trademarked terms as adjectives. Don't use trademarked terms in verb or noun forms.
