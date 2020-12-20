@@ -12,6 +12,6 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
+[tip] Recommended: `new-cache.php` [/tip]  
+[tip] Sometimes okay: `new_cache.php` [/tip]  
