@@ -15,3 +15,7 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 [warning] Not Recommended: `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
 [tip] Recommended: `new-cache.php` [/tip]  
 [tip] Sometimes okay: `new_cache.php` [/tip]  
+
+[warning] Not Recommended: `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
+[tip] Recommended: `wp-settings-1.php` [/tip]  
+[tip] Sometimes okay: `wp_settings_1.php` [/tip]  
