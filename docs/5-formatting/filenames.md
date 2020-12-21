@@ -30,6 +30,11 @@ While referring to a file, follow these guidelines:
 
 - Use [code font]().
 - Use the exact name of the file, even if it doesn't follow the [file naming guidelines](#naming-files).
+- If content from the file is included in the page, follow the [code sample]() guidelines and precede the code sample or content with an introductory statement that states the filename.
+
+**Examples**  
+
+[tip] Recommended: In the following `styles.css` file, set the `opacity` to 0.75: [/tip]  
 
 ### File interactions
 
