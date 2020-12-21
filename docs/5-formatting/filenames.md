@@ -20,4 +20,17 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 [tip] Recommended: `wp-settings-1.php` [/tip]  
 [tip] Sometimes okay: `wp_settings_1.php` [/tip]  
 
-It's acceptable to have some inconsistency in file and folder names if it can't otherwise be avoided. There might be predefined design and style guidelines or undocumented guidelines that are already in use. Sometimes, file naming can also be automated by the product. In those cases, it's okay to make exceptions for those files. 
+It's acceptable to have some inconsistency in file and folder names if it can't be avoided otherwise. There might be predefined design and style guidelines or undocumented guidelines that are already in use. Sometimes, file naming can also be automated by the product. In those cases, it's okay to make exceptions for those files.
+
+## Referring to files
+
+### Referring to filenames
+
+While referring to a file, follow these guidelines:
+
+- Use [code font]().
+- Use the exact name of the file, even if it doesn't follow the [file naming guidelines](#naming-files).
+
+### File interactions
+
+### Referring to file types
