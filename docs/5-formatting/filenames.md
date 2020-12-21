@@ -74,7 +74,9 @@ The following table lists filename extensions and the corresponding file type na
 | `.jpg`, `.jpeg` | JPEG file       |
 | `.js`           | JavaScript file |
 | `.json`         | JSON file       |
-| `.md`           | markdown file   |
+| `.md`           | Markdown file   |
+| `.mp3`          | MP3 file        |
+| `.mp4`          | MP4 file/MPEG4 file |
 | `.pdf`          | PDF file        |
 | `.php`          | PHP file        |
 | `.png`          | PNG file        |
@@ -86,5 +88,7 @@ The following table lists filename extensions and the corresponding file type na
 | `.svg`          | SVG file        |
 | `.tar`          | tar file        |
 | `.txt`          | text file       |
+| `.wav`          | WAV file        |
+| `.xml`          | XML file        |
 | `.yaml`, `.yml` | YAML file       |
 | `.zip`          | zip file        |
