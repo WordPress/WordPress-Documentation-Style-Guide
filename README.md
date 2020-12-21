@@ -95,9 +95,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 ### Formatting 🔄
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
-| Abstracts, Introduction, Prefaces                                 |        |
-| Brand Names, Product Names                                        |        |
-| Captions                                                          |        |
+| Abstracts, Introduction, Prefaces                                 |   ❌   |
+| Brand Names, Product Names                                        |   ✔️   |
+| Captions                                                          |   ❌   |
 | Code Snippets, Code Blocks                                        |   (Moved to Code)   |
 | Currencies                                                        |   ✔️ (Moved to Numbers)   |
 | Date & Time, Time Zones, Places                                   |   ✔️ (⚠️ while publishing)   |
@@ -106,9 +106,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
 | Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |        |
 | Indentation                                                       |   ❌   |
-| Index                                                             |        |
+| Index                                                             |   ❌   |
 | Links & URLs                                                      |        |
-| Lists, Bullet Points, Numbering                                   |        |
+| Lists, Bullet Points, Numbering                                   |   🔄   |
 | Media (Images, Videos) & Illustrations                            |        |
 | Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
