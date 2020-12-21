@@ -76,7 +76,7 @@ The following table lists filename extensions and the corresponding file type na
 | `.json`         | JSON file       |
 | `.md`           | Markdown file   |
 | `.mp3`          | MP3 file        |
-| `.mp4`          | MP4 file/MPEG4 file |
+| `.mp4`          | MP4 file/MPEG-4 file |
 | `.pdf`          | PDF file        |
 | `.php`          | PHP file        |
 | `.png`          | PNG file        |
