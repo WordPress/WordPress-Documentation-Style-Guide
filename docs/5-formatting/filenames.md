@@ -72,19 +72,19 @@ The following table lists filename extensions and the corresponding file type na
 | `.jar`          | JAR file        |
 | `.java`         | Java file       |
 | `.jpg`, `.jpeg` | JPEG file       |
-| .js             | JavaScript file |
-| .json       | JSON file       |
-| .md         | markdown file   |
-| .pdf        | PDF file        |
-| .php        | PHP file        |
-| .png        | PNG file        |
-| .ps         | PowerShell file |
-| .py         | Python file     |
-| .rar        | RAR file        |
-| .sh         | Bash file       |
-| .sql        | SQL file        |
-| .svg        | SVG file        |
-| .tar        | tar file        |
-| .txt        | text file       |
-| .yaml, .yml | YAML file       |
-| .zip        | zip file        |
+| `.js`           | JavaScript file |
+| `.json`         | JSON file       |
+| `.md`           | markdown file   |
+| `.pdf`          | PDF file        |
+| `.php`          | PHP file        |
+| `.png`          | PNG file        |
+| `.ps`           | PowerShell file |
+| `.py`           | Python file     |
+| `.rar`          | RAR file        |
+| `.sh`           | Bash file       |
+| `.sql`          | SQL file        |
+| `.svg`          | SVG file        |
+| `.tar`          | tar file        |
+| `.txt`          | text file       |
+| `.yaml`, `.yml` | YAML file       |
+| `.zip`          | zip file        |
