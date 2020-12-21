@@ -47,3 +47,13 @@ While writing about file interactions, don't use the file types as a verb.
 [tip] Recommended: Extract the zip file. [/tip]  
 
 ### Referring to file types
+
+Use the formal file type instead of the file extension while referring to file types. Many file types are expressed in uppercase, as they are acronyms or initialisms.
+
+**Examples**  
+
+[warning] Not Recommended: a `.css` file [/warning]  
+[tip] Recommended: a CSS file [/tip]  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
