@@ -38,4 +38,12 @@ While referring to a file, follow these guidelines:
 
 ### File interactions
 
+While writing about file interactions, don't use the file types as a verb.
+
+**Examples**  
+
+[warning] Not Recommended: Unzip the file. [/warning]  
+[warning] Not Recommended: Unzip the zip file. [/warning]  
+[tip] Recommended: Extract the zip file. [/tip]  
+
 ### Referring to file types
