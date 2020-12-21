@@ -55,5 +55,7 @@ Use the formal file type instead of the file extension while referring to file t
 [warning] Not Recommended: a `.css` file [/warning]  
 [tip] Recommended: a CSS file [/tip]  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: a `.py` file [/warning]  
+[tip] Recommended: a Python file [/tip]  
+
+The following table lists filename extensions and the corresponding file type names to use:
