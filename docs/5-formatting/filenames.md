@@ -19,3 +19,5 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 [warning] Not Recommended: `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
 [tip] Recommended: `wp-settings-1.php` [/tip]  
 [tip] Sometimes okay: `wp_settings_1.php` [/tip]  
+
+It's acceptable to have some inconsistency in file and folder names if it can't otherwise be avoided. There might be predefined design and style guidelines or undocumented guidelines that are already in use. Sometimes, file naming can also be automated by the product. In those cases, it's okay to make exceptions for those files. 
