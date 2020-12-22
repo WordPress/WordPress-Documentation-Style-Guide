@@ -61,16 +61,27 @@ Use a description list for listing down items with their descriptions, definitio
 
 [tip] Recommended:  
 
-**Backlink**
+**Backlink**  
 Incoming links to a web page.
 
-**bbPress**
+**bbPress**  
 Free, open-source software built on top of WordPress for easily creating forums on sites.
 
-**CLI**
+**CLI**  
 Command Line Interface. Terminal (Bash) in Mac, Command Prompt in Windows, or WP-CLI for WordPress.
 
-**DNS**
+**DNS**  
 Domain Name System – how you assign a human readable address to a website’s exact numeric coded location.
+
+[/tip]  
+
+### Bulleted description list
+
+Use a bulleted description list for listing down items with their descriptions, definitions, or explanations where space is limited.
+
+**Example**  
+
+[tip] Recommended:  
+
 
 [/tip]  
