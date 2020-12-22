@@ -1,6 +1,6 @@
 # Lists
 
-Lists are useful to present lengthy and complex content in a well structured format that is easy to read and scan for readers.
+Lists are useful to present lengthy and complex content in a well structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
 
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures]().
 
@@ -88,3 +88,7 @@ Use a bulleted description list for listing down items with their descriptions, 
 - **DNS.** Domain Name System – how you assign a human readable address to a website’s exact numeric coded location.
 
 [/tip]  
+
+## Introductory sentences
+
+In most cases, introduce a list with an introductory sentence that initiates the list that follows. If the heading of the content explains what the list is about, and no additional context is required, then don't include an introductory statement. You can introduce a list with an imperative statement.
