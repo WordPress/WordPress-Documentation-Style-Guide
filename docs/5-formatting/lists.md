@@ -45,7 +45,10 @@ Use a lettered list to denote options to choose among. In many instances, a lett
 **Example**  
 
 [tip] Recommended:  
-
-
+Select a theme to install:
+A. Twenty Twenty-One
+B. Twenty Twenty
+C. Twenty Nineteen
+D. Twenty Eighteen
 
 [/tip]  
