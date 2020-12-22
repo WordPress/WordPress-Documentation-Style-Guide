@@ -28,10 +28,24 @@ Use a numbered list for sequential items in order (such as a sequence of steps) 
 
 [tip] Recommended:  
 To set up your development environment, follow these steps:  
-1. Download and install Node Version Manager (nvm).  
-2. Download, install, and start Docker Desktop following the instructions for your OS.  
+1. Download and install Node Version Manager (nvm).
+2. Download, install, and start Docker Desktop following the instructions for your OS.
 3. Install the WordPress environment tool.
 4. Start the environment from an existing plugin or theme directory, or a new working directory.
-5. Set up your code editor.  
+5. Set up your code editor.
+
+[/tip]  
+
+For more information on nested procedures, see [Sub-steps in numbered procedures]().
+
+### Lettered list
+
+Use a lettered list to denote options to choose among. In many instances, a lettered list has mutually exclusive options.
+
+**Example**  
+
+[tip] Recommended:  
+
+
 
 [/tip]  
