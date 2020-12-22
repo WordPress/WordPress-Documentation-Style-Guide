@@ -12,7 +12,13 @@ Use a bulleted list for items that don't need to appear in order or sequence and
 
 **Examples**  
 
-[tip] Recommended:   [/tip]  
+[tip] Recommended:  
+With this theme, you can do the following:
+- Customize the header and footer.
+- Modify the post format.
+- Add a custom site logo.
+
+[/tip]  
 
 
 
