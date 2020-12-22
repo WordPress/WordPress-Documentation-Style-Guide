@@ -10,7 +10,7 @@ For more information about procedural steps that provide instructions to achieve
 
 Use a bulleted list for items that don't need to appear in order or sequence and items that aren't options.
 
-**Examples**  
+**Example**  
 
 [tip] Recommended:  
 With this theme, you can do the following:
@@ -24,9 +24,14 @@ With this theme, you can do the following:
 
 Use a numbered list for sequential items in order (such as a sequence of steps) or prioritized items (such as a countdown list).
 
-**Examples**  
+**Example**  
 
 [tip] Recommended:  
-
+To set up your development environment, follow these steps:  
+1. Download and install Node Version Manager (nvm).  
+2. Download, install, and start Docker Desktop following the instructions for your OS.  
+3. Install the WordPress environment tool.
+4. Start the environment from an existing plugin or theme directory, or a new working directory.
+5. Set up your code editor.  
 
 [/tip]  
