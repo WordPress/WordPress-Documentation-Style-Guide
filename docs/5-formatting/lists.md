@@ -92,3 +92,13 @@ Use a bulleted description list for listing down items with their descriptions, 
 ## Introductory sentences
 
 In most cases, introduce a list with an introductory sentence that initiates the list that follows. If the heading of the content explains what the list is about, and no additional context is required, then don't include an introductory statement. You can introduce a list with an imperative statement.
+
+The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the list. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a list with a partial statement.
+
+For information regarding punctuation and capitalization of lists, see [Capitalization and end punctuation]().
+
+**Examples**  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
+[tip] Recommended:  [/tip]  
