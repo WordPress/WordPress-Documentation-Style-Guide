@@ -20,6 +20,13 @@ With this theme, you can do the following:
 
 [/tip]  
 
-
-
 ### Numbered lists
+
+Use a numbered list for sequential items in order (such as a sequence of steps) or prioritized items (such as a countdown list).
+
+**Examples**  
+
+[tip] Recommended:  
+
+
+[/tip]  
