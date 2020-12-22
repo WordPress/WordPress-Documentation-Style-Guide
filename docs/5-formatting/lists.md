@@ -52,3 +52,7 @@ C. Twenty Nineteen
 D. Twenty Eighteen
 
 [/tip]  
+
+### Description list
+
+Use a description list for listing down items with their descriptions, definitions, or explanations. A description list is generally used to emphasize multiple items with their descriptions (such as a glossary).  
