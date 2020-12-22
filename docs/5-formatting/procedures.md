@@ -7,7 +7,7 @@ For more information on expressing UI elements, see [UI elements and interaction
 
 ## Introductory sentences
 
-In most cases, introduce a procedure with an introductory sentence that initiates procedure that follows. If the heading of the content explains what the procedure is, and no additional context is required, then don't include an introductory statement. You can introduce a procedure with an imperative statement.
+In most cases, introduce a procedure with an introductory sentence that initiates the procedure that follows. If the heading of the content explains what the procedure is about, and no additional context is required, then don't include an introductory statement. You can introduce a procedure with an imperative statement.
 
 The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the procedure. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a procedure with a partial statement.
 
