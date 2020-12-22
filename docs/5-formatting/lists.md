@@ -8,4 +8,12 @@ For more information about procedural steps that provide instructions to achieve
 
 ### Bulleted lists
 
+Use a bulleted list for items that don't need to appear in order or sequence and items that aren't options.
+
+**Examples**  
+
+[tip] Recommended:   [/tip]  
+
+
+
 ### Numbered lists
