@@ -99,6 +99,10 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: To set up your development environment: [/warning]  
+[tip] Recommended: To set up your development environment, follow these steps: [/tip]  
+[tip] Recommended: Set up your development environment: [/tip]  
+
+
+[warning] Not Recommended: The settings are: [/warning]  
+[tip] Recommended: The settings that can be changed are as follows: [/tip]  
