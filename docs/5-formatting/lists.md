@@ -111,8 +111,12 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 ### Bulleted, numbered, and lettered lists
 
-In most contexts, capitalize each list item.
+In most contexts, capitalize each list item. End each list item with a period or corresponding sentence-ending punctuation.
 
-End each list item with a period or corresponding sentence-ending punctuation except in the following cases:
-- If the item consists of a single word, don't add end punctuation.
-- If the item doesn't include a verb, don't add end punctuation.
+Don't add end punctuation in the following cases:
+- If the item consists of a single word.
+- If the item doesn't include a verb.
+- If the item is entirely link text or a title.
+- If the item is entirely in code font.
+
+[info] These exceptions apply to individual list items, so it may happen that a list might have some items with end punctuation, and some without end punctuation. To avoid this, use a parallel syntax for all items such that all items either have or don't have end punctuation. [/info]
