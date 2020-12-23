@@ -119,16 +119,16 @@ Don't add end punctuation in the following cases:
 - If the item is entirely link text or a title.
 - If the item is entirely in code font.
 
-[info] These exceptions apply to individual list items, so it may happen that a list might have some items with end punctuation, and some without end punctuation. To avoid this, use a parallel syntax for all items such that all items either have or don't have end punctuation. [/info]  
+[info] **Note:** These exceptions apply to individual list items, so it may happen that a list might have some items with end punctuation, and some without end punctuation. To avoid this, use a parallel syntax for all items such that all items either have or don't have end punctuation. [/info]  
 
 **Examples**  
 
 [tip] Recommended:  
 With this theme you can modify the following header values:
-- Color
 - Length
 - Width
-- Transparency
+- Color
+- Transparency and opacity
 - Font
 
 [/tip]  
@@ -139,3 +139,7 @@ With this theme, you can do the following:
 - Add a custom site logo.
 
 [/tip]  
+
+### Description lists
+
+### Bulleted description lists
