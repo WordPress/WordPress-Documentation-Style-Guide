@@ -106,3 +106,13 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 [warning] Not Recommended: The settings are: [/warning]  
 [tip] Recommended: The settings that can be changed are as follows: [/tip]  
+
+## Capitalization and end punctuation
+
+### Bulleted, numbered, and lettered lists
+
+In most contexts, capitalize each list item.
+
+End each list item with a period or corresponding sentence-ending punctuation except in the following cases:
+- If the item consists of a single word, don't add end punctuation.
+- If the item doesn't include a verb, don't add end punctuation.
