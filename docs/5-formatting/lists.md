@@ -75,9 +75,9 @@ Domain Name System – how you assign a human readable address to a website’s 
 
 [/tip]  
 
-### Bulleted description list
+### Description lists that use run-in headings
 
-Use a bulleted description list for listing down items with their descriptions, definitions, or explanations where space is limited.
+Use a bulleted description list with run-in headings for listing down items with their descriptions, definitions, or explanations where space is limited.
 
 **Example**  
 
@@ -172,6 +172,8 @@ Domain Name System – how you assign a human readable address to a website’s 
 
 [/tip]  
 
-### Bulleted description lists
+### Description lists that use run-in headings
 
 In most contexts, capitalize each list item. For the item descriptions, write text that follows a colon in lowercase and capitalize text that follows a period.
+
+End the introductory term or phrase with a period or colon. If a description follows a period, end the description with a period
