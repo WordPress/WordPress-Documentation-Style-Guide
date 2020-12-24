@@ -192,6 +192,14 @@ Abbreviation glossary:
 
 [/tip]  
 [tip] Recommended:  
+There are two ways of getting files onto your site, and once there, changing them:  
+- **By using the file manager provided in your host’s control panel.** Popular file managers include cPanel, DirectAdmin, Plesk and....
+- **By using an FTP or SFTP client.** File Transfer Protocol has been the most widely used transfer protocol....
 
+[/tip]  
+[tip] Recommended:  
+The user-level privileges are as follows:  
+- **Can modify:** posts, pages, media, user settings
+- **Cannot modify:** password, email, username, user accounts, site settings
 
 [/tip]  
