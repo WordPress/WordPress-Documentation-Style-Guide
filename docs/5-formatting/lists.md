@@ -100,10 +100,10 @@ A list item can contain more than one paragraph.
 
 [tip] Recommended:  
 To transfer files onto your site, you can do the following:  
-- Use the file manager provided in your host’s control panel.
-- Use an FTP client.
+- Use the file manager provided in your host’s control panel.  
+- Use an FTP client.  
   FTP or “File Transfer Protocol” has been the most widely used transfer protocol for over thirty years.
-- Use an SFTP client.
+- Use an SFTP client.  
 [/tip]  
 
 ## Introductory sentences
@@ -123,6 +123,10 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 [warning] Not Recommended: The settings are: [/warning]  
 [tip] Recommended: The settings that can be changed are as follows: [/tip]  
+
+## Sub-steps in numbered procedures
+
+For additional information about sub-steps in numbered procedures, refer [Procedures]().
 
 ## Capitalization and end punctuation
 
