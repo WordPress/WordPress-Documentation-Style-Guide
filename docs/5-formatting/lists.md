@@ -149,6 +149,7 @@ Don't end the term with a period or other end punctuation, but do end the descri
 **Examples**  
 
 [warning] Not Recommended:  
+Word reference:  
 - **Backlink**  
 - **bbPress** - Free, open-source software built on top of WordPress for easily creating forums on sites.  
 - **CLI**  
@@ -156,7 +157,7 @@ Don't end the term with a period or other end punctuation, but do end the descri
 
 [/warning]  
 [tip] Recommended:  
-
+Word reference:  
 **Backlink**  
 Incoming links to a web page.
 
@@ -172,3 +173,5 @@ Domain Name System – how you assign a human readable address to a website’s 
 [/tip]  
 
 ### Bulleted description lists
+
+In most contexts, capitalize each list item. For the item descriptions, write text that follows a colon in lowercase and capitalize text that follows a period.
