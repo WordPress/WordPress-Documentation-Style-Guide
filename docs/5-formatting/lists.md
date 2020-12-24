@@ -174,6 +174,18 @@ Domain Name System – how you assign a human readable address to a website’s 
 
 ### Description lists that use run-in headings
 
+End the introductory term or phrase with a period or colon. If a description follows a period, end the description with a period. If it follows a colon; then don't include a period if it's a list of items, phrases without verbs, or a list of items.
+
 In most contexts, capitalize each list item. For the item descriptions, write text that follows a colon in lowercase and capitalize text that follows a period.
 
-End the introductory term or phrase with a period or colon. If a description follows a period, end the description with a period
+Don't use a dash or hyphen to set off an item description in a description list. For additional information, see [Colons instead of dashes in lists]().
+
+**Examples**  
+
+[tip] Recommended:  
+
+[/tip]  
+[tip] Recommended:  
+
+
+[/tip]  
