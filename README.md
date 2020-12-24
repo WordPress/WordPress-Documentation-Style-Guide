@@ -108,7 +108,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Links & URLs                                                      |        |
-| Lists, Bullet Points, Numbering                                   |   🔄 (⚠️ while publishing)   |
+| Lists, Bullet Points, Numbering                                   |   ✔️ (⚠️ while publishing)   |
 | Media (Images, Videos) & Illustrations                            |        |
 | Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
