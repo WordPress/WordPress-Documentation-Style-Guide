@@ -142,8 +142,19 @@ With this theme, you can do the following:
 
 ### Description lists
 
-In some cases, an explanation for a list item may be useful, but this can affect the punctuation. Either write the descriptions, definitions, or explanations for all items in the list or for none of them. In most contexts, capitalize each list item.
+In some cases, an explanation for a list item may be useful, but this can affect the punctuation. Rather than writing the descriptions, definitions, or explanations for a singular item, use a description list and write the descriptions for all the items in the list. In most contexts, capitalize each list item.
 
-Don't end the term with a period or other end punctuation.
+Don't end the term with a period or other end punctuation, but do end the description with a period or relevant end punctuation.
+
+**Examples**  
+
+[tip] Recommended:  
+
+
+[/tip]  
+[tip] Recommended:  
+
+
+[/tip]  
 
 ### Bulleted description lists
