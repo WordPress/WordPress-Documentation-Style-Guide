@@ -92,6 +92,16 @@ Use a bulleted description list with run-in headings for listing down items with
 
 [/tip]  
 
+## Multiple paragraph list items
+
+A list item can contain more than one paragraph.  
+
+**Example**  
+
+[tip] Recommended:  
+
+[/tip]  
+
 ## Introductory sentences
 
 In most cases, introduce a list with an introductory sentence that initiates the list that follows. If the heading of the content explains what the list is about, and no additional context is required, then don't include an introductory statement. You can introduce a list with an imperative statement.
@@ -117,10 +127,10 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 In most contexts, capitalize each list item. End each list item with a period or corresponding sentence-ending punctuation.
 
 Don't add end punctuation in the following cases:
-- If the item consists of a single word.
+- If the item consists of a single word or fewer than three words.
 - If the item doesn't include a verb.
-- If the item is entirely link text or a title.
-- If the item is entirely in code font.
+- If the item is entirely link text, a title, heading, subheading, or a string.
+- If the item is entirely in code font or a UI label.
 
 [info] **Note:** These exceptions apply to individual list items, so it may happen that a list might have some items with end punctuation, and some without end punctuation. To avoid this, use a parallel syntax for all items such that all items either have or don't have end punctuation. [/info]  
 
