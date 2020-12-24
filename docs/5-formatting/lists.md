@@ -183,6 +183,12 @@ Don't use a dash or hyphen to set off an item description in a description list.
 **Examples**  
 
 [tip] Recommended:  
+Abbreviation glossary:
+- **API:** Application Programming Interface
+- **FTP:** File Transfer Protocol
+- **CGI:** Common Gateway Interface
+- **URI:** Uniform Resource Identifier
+- **XML:** Extensible Markup Language
 
 [/tip]  
 [tip] Recommended:  
