@@ -4,6 +4,9 @@ Lists are useful to present lengthy and complex content in a well structured for
 
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures]().
 
+[info] **Note:** Don't use a list to express just one item; a single item isn't really a list. If you want to distinguish a single item from other text, use a different type of formatting.  
+For additional information on whether lists or tables are ideal, see [Choosing a list or table](). [/info]
+
 ## Types of lists
 
 ### Bulleted lists
