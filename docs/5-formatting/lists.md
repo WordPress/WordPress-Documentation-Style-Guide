@@ -99,7 +99,11 @@ A list item can contain more than one paragraph.
 **Example**  
 
 [tip] Recommended:  
-
+To transfer files onto your site, you can do the following:  
+- Use the file manager provided in your host’s control panel.
+- Use an FTP client.
+  FTP or “File Transfer Protocol” has been the most widely used transfer protocol for over thirty years.
+- Use an SFTP client.
 [/tip]  
 
 ## Introductory sentences
