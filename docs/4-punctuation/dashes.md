@@ -17,7 +17,7 @@ You can also use one em dash to initiate a phrase at the end of a sentence.
 
 [tip] Recommended: If you're stuck on a particular step, visit the FAQs page—it has a comprehensive list of common errors, problems, and  their solutions. [/tip]
 
-Don't use an em dash as a bullet in a list. See "Lists" for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
+Don't use an em dash as a bullet in a list. See [Lists]() for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
 ### Typing em dashes
 
@@ -99,7 +99,7 @@ Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0150<
 
 ## Colons instead of dashes in lists
 
-Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or "description lists" for separating them.
+Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or [description lists]() for separating them.
 
 **Examples**  
 
@@ -112,4 +112,4 @@ Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in l
 
 ## Additional resources
 
-"Hyphens"
+[Hyphens]()
