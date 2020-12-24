@@ -148,12 +148,26 @@ Don't end the term with a period or other end punctuation, but do end the descri
 
 **Examples**  
 
+[warning] Not Recommended:  
+- **Backlink**  
+- **bbPress** - Free, open-source software built on top of WordPress for easily creating forums on sites.  
+- **CLI**  
+- **DNS**  
+
+[/warning]  
 [tip] Recommended:  
 
+**Backlink**  
+Incoming links to a web page.
 
-[/tip]  
-[tip] Recommended:  
+**bbPress**  
+Free, open-source software built on top of WordPress for easily creating forums on sites.
 
+**CLI**  
+Command Line Interface. Terminal (Bash) in Mac, Command Prompt in Windows, or WP-CLI for WordPress.
+
+**DNS**  
+Domain Name System – how you assign a human readable address to a website’s exact numeric coded location.
 
 [/tip]  
 
