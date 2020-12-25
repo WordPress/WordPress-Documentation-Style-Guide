@@ -19,7 +19,7 @@ Use a bulleted list for items that don't need to appear in order or sequence and
 With this theme, you can do the following:
 - Customize the header and footer.
 - Modify the post format.
-- Add a custom site logo.
+- Add a custom site logo.  
 
 [/tip]  
 
