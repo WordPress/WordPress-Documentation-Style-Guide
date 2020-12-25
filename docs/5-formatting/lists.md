@@ -1,6 +1,6 @@
 # Lists
 
-Lists are useful to present lengthy and complex content in a well structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
+Lists are useful to present lengthy and complex content in a well-structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
 
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures]().
 
