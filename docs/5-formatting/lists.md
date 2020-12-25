@@ -1,11 +1,11 @@
 # Lists
 
-Lists are useful to present lengthy and complex content in a well structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
+Lists are useful to present lengthy and complex content in a clear, well-structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
 
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures]().
 
 [info] **Note:** Don't use a list to express just one item; a single item isn't really a list. If you want to distinguish a single item from other text, use a different type of formatting.  
-For additional information on whether lists or tables are ideal, see [Choosing a list or table](). [/info]
+For additional information on whether lists or tables are ideal, see [Choosing between a list or table](). [/info]
 
 ## Types of lists
 
