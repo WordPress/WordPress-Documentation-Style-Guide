@@ -9,4 +9,5 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 | Item type | Example | List or table |
 |-----------|---------|---------------|
 | Each item is a single unit. | A procedure with instructions. | Use a [bulleted list](), [numbered list](), or [lettered list](). |
-| Each item consists of a two related pieces of data. | A glossary with term and description pairs. | Use a [description list](). | 
+| Each item consists of a two related pieces of data. | A glossary with term and description pairs. | Use a [description list](). |
+| Each item consists of three or more related pieces of data. | A set of parameters with multiple values, data, categories, and descriptions. | Use a table. | 
