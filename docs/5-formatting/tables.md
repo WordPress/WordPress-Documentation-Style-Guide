@@ -47,3 +47,7 @@ Use sentence case capitalization for the table title and each column heading. Fo
 For text inside table cells, use periods or other end punctuation only if the sentences contain complete sentences or a combination of phrases and sentences.
 
 ## Table column headings
+
+## Linking to tables
+
+Avoid linking to tables whenever possible. Instead refer to them by table number, or link to its parent heading or subheading link targets.
