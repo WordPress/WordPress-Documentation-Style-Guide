@@ -54,6 +54,11 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 ## Table formatting
 
+- Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
+- Don't merge cells with each other.
+- Don't use the `rowspan` and `colspan` attributes.
+
+
 ## Table column headings
 
 ## Linking to tables
