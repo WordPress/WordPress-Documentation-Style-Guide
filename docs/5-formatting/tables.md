@@ -46,6 +46,14 @@ Use sentence case capitalization for the table title and each column heading. Fo
 
 For text inside table cells, use periods or other end punctuation only if the sentences contain complete sentences or a combination of phrases and sentences.
 
+## Table placement
+
+- When introducing a table, use a complete sentence while referring to the table's position, such as *the following table*, or *the preceding table*.
+- Don't insert a table in the middle of a sentence.
+- If your table has any references such as footnotes, insert them immediately following the table.
+
+## Table formatting
+
 ## Table column headings
 
 ## Linking to tables
