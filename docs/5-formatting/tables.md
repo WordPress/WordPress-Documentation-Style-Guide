@@ -25,11 +25,11 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 
 A table cell can contain more than one paragraph.
 
-To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification]() for more information on which uses of `<br>` are correct and which ones aren't.
+To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element) for more information on which uses of `<br>` are correct and which ones aren't.
 
 **Example**  
 
 | Function | Type | Default value | Description |
 |----------|------|---------------|-------------|
-| `anchor` | boolean | false | Lets you link directly to a specific block on a page.  |
-| a
+| `anchor` | boolean | false | Lets you link directly to a specific block on a page. This property adds a field to define an id for the block and a button to copy the direct link. |
+| `defaultStylePicker` | boolean | true | When the style picker is shown, a dropdown is displayed so the user can select a default style for this block type. <p> If you prefer not to show the dropdown, set this property to false. |
