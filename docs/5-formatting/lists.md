@@ -130,7 +130,7 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 For additional information about sub-steps in numbered procedures, refer [Procedures]().
 
-## Capitalization and end punctuation
+## Capitalization and punctuation
 
 ### Bulleted, numbered, and lettered lists
 
