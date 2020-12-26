@@ -52,12 +52,14 @@ For text inside table cells, use periods or other end punctuation only if the se
 - Don't insert a table in the middle of a sentence.
 - If your table has any references such as footnotes, insert them immediately following the table.
 
+## Table captions
+
 ## Table formatting
 
 - Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
 - Don't merge cells with each other.
 - Don't use the `rowspan` and `colspan` attributes.
-
+- Don't add any form of styling to the table element apart from the default styling of your site.
 
 ## Table column headings
 
