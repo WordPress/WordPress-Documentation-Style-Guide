@@ -20,3 +20,16 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 - Don't split tables with long columns in half and present one half next to another.
 - Don't use a table to present code examples.
 - Avoid tables in the middle of a numbered procedure.
+
+## Multiple paragraph table cells
+
+A table cell can contain more than one paragraph.
+
+To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification]() for more information on which uses of `<br>` are correct and which ones aren't.
+
+**Example**  
+
+| Function | Type | Default value | Description |
+|----------|------|---------------|-------------|
+| `anchor` | boolean | false | Lets you link directly to a specific block on a page.  |
+| a
