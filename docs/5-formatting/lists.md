@@ -96,6 +96,8 @@ Use a bulleted description list with run-in headings for listing down items with
 
 A list item can contain more than one paragraph.  
 
+To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element) for more information on which uses of `<br>` are correct and which ones aren't.
+
 **Example**  
 
 [tip] Recommended:  
