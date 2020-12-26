@@ -43,3 +43,7 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 ## Capitalization and punctuation
 
 Use sentence case capitalization for the table title and each column heading. For text inside table cells, use sentence case capitalization; with exceptions. For example, some values, keywords, or strings are written in lowercase.
+
+For text inside table cells, use periods or other end punctuation only if the sentences contain complete sentences or a combination of phrases and sentences.
+
+## Table column headings
