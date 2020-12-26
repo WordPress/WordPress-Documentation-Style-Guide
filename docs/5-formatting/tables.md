@@ -39,3 +39,7 @@ To create multiple paragraphs, use the `<p>` element rather than using the `<br>
 In most cases, introduce a table with an introductory sentence that initiates the table that follows. If the heading of the content explains what the table is about, and no additional context is required, then don't include an introductory statement. You can introduce a table with an imperative statement.
 
 The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the table. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a table with a partial statement.
+
+## Capitalization and punctuation
+
+Use sentence case capitalization for the table title and each column heading. For text inside table cells, use sentence case capitalization; with exceptions. For example, some values, keywords, or strings are written in lowercase.
