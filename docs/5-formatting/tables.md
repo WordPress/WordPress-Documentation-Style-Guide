@@ -56,12 +56,15 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 If your document or article contains only one table, the table doesn't need a caption. However, ensure that the table succeeds the [introductory statement](#introductory-sentences).
 
+But if your document or article contains more than one table in close proximity to each other, include a caption for each table.
+
 ## Table formatting
 
 - Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
 - Don't merge cells with each other.
 - Don't use the `rowspan` and `colspan` attributes.
 - Don't add any form of styling to the table element apart from the default styling of your site.
+- Align text in columns consistently. Don't combine multiple alignments in a table; for example, don't align text to the left for one column, and to the right for the other.
 
 ## Table column headings
 
