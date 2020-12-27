@@ -116,7 +116,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
 | Spacing                                                           |   ❌   |
-| Tables                                                            |   🔄 (⚠️ while publishing)   |
+| Tables                                                            |   ✔️ (⚠️ while publishing)   |
 | Text                                                              |        |
 | Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
