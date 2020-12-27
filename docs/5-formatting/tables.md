@@ -54,7 +54,7 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 ## Table captions
 
-If your document or article contains only one table, the table doesn't need a caption. However, ensure that the table succeeds the [introductory statement](#introductory-sentences).
+If your document or article contains only one table, the table doesn't need a caption. However, ensure that the table succeeds an [introductory statement](#introductory-sentences).
 
 But if your document or article contains more than one table in close proximity to each other, include a caption for each table. Write the caption in the form: "Table *number*. *Description*". Use sentence case capitalization and don't insert a period at the end.
 
@@ -63,6 +63,17 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 **Example**  
 
 [tip] Recommended: Table 3. Block API reference [/tip]  
+
+For HTML tables, insert a caption using the [`<caption>` element](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element) as the first child of the `<table>` element.  
+
+**Example**  
+
+```html
+<table>
+  <caption><b>Table 3.</b> Block API reference</caption>
+  ...
+</table>
+```
 
 ## Table formatting and content
 
@@ -74,7 +85,7 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 - Don't leave a cell blank or use a hyphen or dash to indicate that there's no entry for that cell. Instead use *Not applicable* or *None*.
 - Maintain a parallel syntax for all tables and its cells. For example, begin all descriptions within a column with a verb, or a noun.
 - Ensure that the tables are formatted considering responsive design that adapts to different viewport sizes.
-
+- If possible, balance row height by increasing the width of text-heavy columns and reducing the width of columns with minimal text.
 
 ## Table column headings
 
