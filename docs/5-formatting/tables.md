@@ -64,13 +64,16 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 
 [tip] Recommended: Table 3. Block API reference [/tip]  
 
-## Table formatting
+## Table formatting and content
 
 - Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
 - Don't merge cells with each other.
 - Don't use the `rowspan` and `colspan` attributes.
 - Don't add any form of styling to the table element apart from the default styling of your site.
 - Align text in columns consistently. Don't combine multiple alignments in a table; for example, don't align text to the left for one column, and to the right for the other.
+- Don't leave a cell blank or use a hyphen or dash to indicate that there's no entry for that cell. Instead use *Not applicable* or *None*.
+- Maintain a parallel syntax for all tables and its cells. For example, begin all descriptions within a column with a verb, or a noun.
+- Ensure that the tables are formatted considering responsive design that adapts to different viewport sizes.
 
 ## Table column headings
 
