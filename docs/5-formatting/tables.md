@@ -56,7 +56,9 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 If your document or article contains only one table, the table doesn't need a caption. However, ensure that the table succeeds the [introductory statement](#introductory-sentences).
 
-But if your document or article contains more than one table in close proximity to each other, include a caption for each table.
+But if your document or article contains more than one table in close proximity to each other, include a caption for each table. Write the caption in the form: "Table *number*. *Description*". Use sentence case capitalization and don't insert a period at the end.
+
+While referring to a table, refer to it by its number. For example, *Enter the values as shown in table 3.* Don't capitalize *table* unless it starts a sentence.
 
 ## Table formatting
 
