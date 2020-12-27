@@ -54,6 +54,8 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 ## Table captions
 
+If your document or article contains only one table, the table doesn't need a caption. However, ensure that the table succeeds the [introductory statement](#introductory-sentences).
+
 ## Table formatting
 
 - Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
