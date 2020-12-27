@@ -63,7 +63,12 @@ For text inside table cells, use periods or other end punctuation only if the se
 
 ## Table column headings
 
-Use column headings in the first row of your table, also known as the header row. Distinguish the header row from the rest of the text in the table. For example, highlight the text in the header row such as making it bolder, larger, and changing the background color.
+Use column headings in the first row of your table, also known as the header row.  
+- Distinguish the header row from the rest of the text in the table. For example, highlight the text in the header row such as making it bolder, larger, and changing the background color.
+- Use sentence case capitalization for column headings.
+- Don't end column headings with punctuation such as a period, colon, semicolon, or an ellipsis.
+- Write concise headings and omit articles (*a, an, the*).
+- Don't write partial column headings such that the sentence or phrase in the column heading continues from the cell text.
 
 
 
