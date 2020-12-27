@@ -68,9 +68,9 @@ Use column headings in the first row of your table, also known as the header row
 - Use sentence case capitalization for column headings.
 - Don't end column headings with punctuation such as a period, colon, semicolon, or an ellipsis.
 - Write concise headings and omit articles (*a, an, the*).
-- Don't write partial column headings such that the sentence or phrase in the column heading continues from the cell text.
-
-
+- Don't write partial column headings such that the sentence or phrase in the column heading continues from the cell text. Discontinuous content proves to be difficult for accessibility and for localization. Instead, write complete column headings.
+- Use table headings for the first column and the first row only. Use the [`th` element](https://www.w3.org/TR/2014/REC-html5-20141028/tabular-data.html#the-th-element).
+- Include the [`scope` attribute](https://www.w3.org/TR/WCAG20-TECHS/H63.html) as appropriate, for accessibility.
 
 ## Linking to tables
 
