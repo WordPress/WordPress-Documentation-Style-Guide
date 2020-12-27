@@ -60,6 +60,10 @@ But if your document or article contains more than one table in close proximity 
 
 While referring to a table, refer to it by its number. For example, *Enter the values as shown in table 3.* Don't capitalize *table* unless it starts a sentence.
 
+**Example**  
+
+[tip] Recommended: Table 3. Block API reference [/tip]  
+
 ## Table formatting
 
 - Arrange the rows in a logical order; if there is no logical order, arrange them alphabetically.
