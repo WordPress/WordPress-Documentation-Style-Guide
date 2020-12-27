@@ -2,7 +2,7 @@
 
 Tables are useful to present lengthy and complex pieces of data that are related, in a well-structured format that is easy to read and scan for readers. Generally a table consists of two or more rows and two or more columns in addition to the header row.
 
-## Choosing between a list or table
+## Choosing between a list or a table
 
 Sometimes to represent data, it could be confusing as to what would be ideal - a list or a table. Refer the following table to select between a list or a table:
 
@@ -74,6 +74,7 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 - Don't leave a cell blank or use a hyphen or dash to indicate that there's no entry for that cell. Instead use *Not applicable* or *None*.
 - Maintain a parallel syntax for all tables and its cells. For example, begin all descriptions within a column with a verb, or a noun.
 - Ensure that the tables are formatted considering responsive design that adapts to different viewport sizes.
+
 
 ## Table column headings
 
