@@ -116,9 +116,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
-| Spacing                                                           |   🔄   |
+| Spacing                                                           |   (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
-| Text                                                              |        |
+| Text formatting                                                   |   🔄   |
 | Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
 | Typography & Fonts                                                |        |
