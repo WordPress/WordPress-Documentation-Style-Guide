@@ -118,7 +118,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Referencing                                                       |        |
 | Spacing                                                           |   🔄 (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
-| Text formatting                                                   |   🔄   |
+| Text formatting                                                   |   🔄 (⚠️ while publishing)   |
 | Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
 | Typography & Fonts                                                |   🔄   |
