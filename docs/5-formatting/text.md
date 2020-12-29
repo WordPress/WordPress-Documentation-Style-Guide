@@ -25,7 +25,7 @@ See also
 
 | Text element | Convention | Example |
 |--------------|------------|---------|
-| Database names | Bold. The capitalization of database names varies. | **Contoso** database |
+| Database names | Bold. The capitalization of database names varies. | **MySQL** database |
 | Emphasis | It's OK to use italic formatting sparingly for emphasis. | Cybercriminals might call you and claim to be from Microsoft. Be aware that Microsoft will *never* call you to charge for security or software fixes. |
 | Error messages | Sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | We can't find a scanner. <br />  Hmm … looks like that's a broken link. <br /> If you see the error message, "Check scanner status and try again," use Windows Update to check for the latest drivers for your device. |
 | File attributes | All lowercase. | hidden<br />system<br />read-only<br />To remove the hidden attribute from all files in a folder .... |
@@ -34,12 +34,12 @@ See also
 | Folder and directory names | Sentence-style capitalization. It's OK to use internal capital letters in folder and directory names for readability. | Vacation and sick pay<br />MyFiles\Accounting\Payroll\VacPay |
 | Macros | Usually all uppercase. Use bold formatting if predefined. Might be monospace if user defined. Treatment varies. | **LOWORD**<br />`MASKROP` |
 | Markup language elements (tags) | Bold. Capitalization varies. | **\<img>**<br />**\<input type=text>**<br />**\<!DOCTYPE html>** |
-|  Mathematical constants and variables | Italic. | *a2 + b2  = c2* |
-| New terms | Italicize the first mention of a new term if you're going to define it immediately in text. | Microsoft Exchange consists of both *server* and *client* components |
+|  Mathematical constants and variables | Use italics. | *a2 + b2  = c2* |
+| New terms | Italicize the first mention of a new term if you're going to define it immediately in text. See [Key terms]() | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Ports | All uppercase. |  LPT1 |
-| Products, services, apps, and trademarks | Usually title-style capitalization. Check the [Microsoft trademark list](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx) for capitalization of trademarked names. |                        Microsoft Arc Touch Mouse<br />Microsoft Word<br />Surface Pro <br />Notepad <br />Network Connections |
+| Products, services, apps, and trademarks | Usually title-style capitalization. Check the [Microsoft trademark list](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/en-us.aspx) for capitalization of trademarked names. | Microsoft Arc Touch Mouse<br />Microsoft Word<br />Surface Pro <br />Notepad <br />Network Connections |
 | UI text or strings | Sentence-style capitalization. | Find on page <br /> Read aloud <br /> Hide selected items |
-| URLs | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />**See also** [URLs and web addresses](../urls-web-addresses.md) |  www<span></span>.microsoft.com<br />msdn.microsoft.com/downloads |
+| URLs | All lowercase for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses]() |  wordpress.org |
 
 ## Spaces between sentences
 
