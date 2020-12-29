@@ -6,7 +6,12 @@ Formatting text uniformly by utilizing distinct design and structures such as th
 
 ## Using type
 
-Clear, legible, as well as aesthetically pleasing typography is one of the primary features in visually appealing content. 
+Clear, legible, as well as aesthetically pleasing typography is one of the primary features in visually appealing content.
+
+- In general, use sentence-case capitalization and avoid other forms of capitalization such as all-uppercase, all-lowercase, or title case.
+  For more information, see [Capitalization]().
+- Use left alignment for text. This ensures an even left margin with a irregular right margin- improving document structure.
+- Avoid center-aligned text.
 
 ## Spaces between sentences
 
