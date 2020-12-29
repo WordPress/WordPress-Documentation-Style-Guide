@@ -14,6 +14,12 @@ Clear, legible, as well as aesthetically pleasing typography is one of the prima
 - Avoid center-aligned text.
 - Ensure adequate and consistent line spacing - which is the amount of vertical space between two lines of text in a text body. If your site's design determines the line spacing, don't change it. Don't reduce line spacing to fit more text or content; rewrite or edit the text instead.
 
+See also
+[Capitalization]()
+[Headings]()
+[Procedures]()
+[Code examples]()
+
 ## Spaces between sentences
 
 Leave only one space between sentences; that is, leave only one space between the sentence-ending punctuation and the first character of the next sentence.
