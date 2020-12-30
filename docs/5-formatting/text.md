@@ -25,15 +25,15 @@ See also
 
 | Text element | Convention | Example |
 |--------------|------------|---------|
-| Company-, product-, brand-names, and trademarks | Usually title-style capitalization. See [Trademarks]() | WordPress<br /><br />WordCamp Central  |
-| Database names | Bold. The capitalization of database names varies. | **MySQL** database |
+| Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. See [Trademarks]() | WordPress<br /><br />WordCamp Central  |
+| Database names | Use bold text. Capitalization varies. | **MySQL** database |
 | Emphasis | It's OK to use italic formatting sparingly for emphasis. | Cybercriminals might call you and claim to be from MS. Be aware that MS will *never* call you to charge for security or software fixes. |
-| Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "Check scanner status and try again," use Windows Update to check for the latest drivers for your device. |
+| Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "" quit and restart the terminal. |
 | Filename extensions | All lowercase. See also [Filenames]() | `.css`<br />`.php` |
 | Filenames | All lowercase. See also [Filenames]() | `new-cache.php`<br />`wp-settings-1.php` |
-| Markup language elements (tags) | Bold. Capitalization varies. | **\<img>**<br />**\<input type=text>**<br />**\<!DOCTYPE html>** |
-| Mathematical constants and variables | Use italics. | *a2 + b2  = c2* |
-| New terms | Italicize the first mention of a new term. See [Key terms]() | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
+| Key terms | Italicize the first mention of a new term. See [Key terms]() | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
+| Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
+| Mathematical constants and variables | Use italics. | *x/y + z = 4* |
 | UI elements or strings | Use sentence-case capitalization. | Find on page <br /> Read aloud <br /> Hide selected items |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses]() |  wordpress.org |
 
