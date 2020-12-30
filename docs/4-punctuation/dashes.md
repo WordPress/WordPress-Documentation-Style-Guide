@@ -59,9 +59,9 @@ Use an en dash to indicate negative numbers and the minus sign. While writing an
 [warning] Not Recommended: The value of the variable must be– 3.  [/warning]  
 [tip] Recommended: The value of the variable must be –3. [/tip]
 
-For additional information, see "Range of numbers".
+For additional information, see [Range of numbers]().
 
-Don't use an en dash as a bullet in a list. See "Lists" for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
+Don't use an en dash as a bullet in a list. See [Lists]() for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
 Don't use an en dash to indicate a range of times. Use the word *to* instead of the en dash. Use an en dash with no surrounding spaces for a schedule or listing.
 

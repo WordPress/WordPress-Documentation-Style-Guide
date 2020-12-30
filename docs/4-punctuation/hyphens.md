@@ -2,7 +2,7 @@
 
 ## Predicate adjectives
 
-Don't hyphenate a predicate adjective unless specifically mentioned in the "A-Z word list/glossary" or otherwise. An adjective predicate is an adjective that modifies the subject of the sentence. The adjective and the subject are connected by a linking verb.
+Don't hyphenate a predicate adjective unless specifically mentioned in the [A-Z word list/glossary]() or otherwise. An adjective predicate is an adjective that modifies the subject of the sentence. The adjective and the subject are connected by a linking verb.
 
 **Examples**  
 
@@ -48,7 +48,7 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
  - very fast storage
 
 
-- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the "Word List"; if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).   
+- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the [Word List](); if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).   
 
  **Examples**  
 
@@ -64,7 +64,7 @@ When two or more words are joined to form a new word, it is called a compound wo
 - e-learning
 - e-commerce
 
-To determine if a particular word can be hyphenated or not, refer the "Word List". If you're doubtful of a particular word, and if it's not covered in the "Word List", refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
+To determine if a particular word can be hyphenated or not, refer the [Word List](). If you're doubtful of a particular word, and if it's not covered in the [Word List](), refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 ## Numbers and fractions
 
@@ -74,13 +74,13 @@ Hyphenate compound numerals and fractions.
 - Jump to the thirty-second page in the user manual.
 - Split the columns into one-thirds using the column block.  
 
-"En dashes" (–) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges. Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen. Use an en dash instead of a hyphen in a compound adjective when the compound adjective includes an open compound.  
+[En dashes]() (–) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges. Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen. Use an en dash instead of a hyphen in a compound adjective when the compound adjective includes an open compound.  
 
-For more information, see "En dashes" and "Units of Measurement".
+For more information, see [En dashes]() and [Units of Measurement]().
 
 ## Prefixes and suffixes
 
-Avoid creating new words by adding "prefixes or suffixes" to existing words. Rewrite the word to avoid creating a new word, so as to prevent any confusion.
+Avoid creating new words by adding [prefixes or suffixes]() to existing words. Rewrite the word to avoid creating a new word, so as to prevent any confusion.
 
 Don't hyphenate a word that has a prefix or suffix, in the following situations:
 - After these prefixes: *auto-, co-, cyber-, exa-, giga-, kilo-, mega-, micro-, non-, pre-,	re-, sub-, tera-, un-* unless excluding it could cause confusion.
@@ -93,7 +93,7 @@ Hyphenate a word that has a prefix or suffix, in the following situations:
 - When the prefix ends in a vowel, and the word it precedes starts with the same vowel; for example, *co-operate, anti-immune, re-establish*. [review]
 - When the prefix is followed by a compound word that contains a space. In this case, the space is replaced with a hyphen; for example,  *world wide web* but *pre-world-wide-web media*.
 
-Refer "Prefixes and Suffixes" for additional information.
+Refer [Prefixes and Suffixes]() for additional information.
 
 ## Space around hyphens
 
@@ -120,4 +120,4 @@ Capitalize any part of a hyphenated compound word even if it isn't capitalized w
 
 ## Additional resources
 
-Don't use hyphens and dashes interchangeably. See "Dashes" for more information.
+Don't use hyphens and dashes interchangeably. See [Dashes]() for more information.

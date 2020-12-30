@@ -6,13 +6,13 @@ End all independent sentences with a period, and insert one space after the peri
 
 Ending a list item with a period depends on several factors including the kind of list the item appears in.
 
-For more information about lists, see "Lists".
+For more information about lists, see [Lists]().
 
 ### Bulleted and numbered lists
 
 In general, use a period at the end of each item in bulleted and numbered lists.
 **Exceptions:** Single-word items, items entirely in code font, and items with no verbs.
-For additional information, see "Capitalization and end punctuation in Lists".
+For additional information, see [Capitalization and end punctuation in Lists]().
 
 ### Description lists
 
@@ -58,22 +58,22 @@ For more information about quotation marks, see Quotation Marks.
 
 Use periods at the end of shortened words. Don't use periods with acronyms and initialisms. Similarly, don't use periods with commons words that are abbreviations such as *app* or *demo*.
 
-Refer "Abbreviations" for additional information.
+Refer [Abbreviations]() for additional information.
 
 ## Periods with numbers
 
 Use a period to represent a decimal point.
 
-For more information about numbers, see "Numbers".
+For more information about numbers, see [Numbers]().
 
 ## Periods with headings
 
 Don't end headings, subheadings, or titles with periods.
 
-For additional information about headings, see "Headings"
+For additional information about headings, see [Headings]()
 
 ## Periods with captions
 
 In general, don't use periods with captions.
 
-For more information, see "Figures".
+For more information, see [Figures]().
