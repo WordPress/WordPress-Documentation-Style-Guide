@@ -4,7 +4,7 @@ WordPress is a global project, with its developer community and users spanning t
 
 Both developer and end-user WordPress documentation is written in US English. Just about [half of WordPress installs](https://wordpress.org/about/stats/) are in non-English locales. It is presumable that your documentation would be read by developers and users whose primary language is not English. Hence, writing documentation considering internationalization, localization, and translation is essential.
 
-## What is Internationalization, Localization and Translation?
+## What is internationalization, localization and translation?
 
 Internationalization and localization (commonly abbreviated as *i18n* and *l10n* respectively) are terms used to describe the effort to make WordPress (and other such projects) available in languages other than the source, or original, language for people from different locales, who have different dialects and local preferences.
 
@@ -20,7 +20,7 @@ Translation is simply changing the language of the content to another language. 
 - Don't be specific in terms of culture and religion in your documentation.
 - Use diverse examples that would cater to an international audience. These include diverse and inclusive names, email addresses, locations, and professions in examples.
 - Avoid colloquialisms, popular culture references, slang, and idioms in your documentation. Phrases like *you got it*, *that's sick!*, *cool* are hard to translate and perceive by global audiences.
-- Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons  etc.
+- Avoid culturally-specific humor and references to cultural practices, traditions, holidays, seasons, etc.
 - Express data using the standard international conventions. Measurement units, character encoding, currencies, text layouts, date and time formats, phone numbers etc. are different all over the world. Don't assume that everyone is familiar with US standards.
 
 ## Language guidelines
@@ -32,7 +32,7 @@ Translation is simply changing the language of the content to another language. 
 - Make abundant use of articles such as *a*, *an*, *the* and helper words such as *if*, *then*, etc.
 - Avoid shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Ensure overall consistency in language - particularly names, terminology, punctuation and capitalization.
-- Use consistent text and media formatting. Additional information on "Text Formatting".
+- Use consistent text and media formatting. See additional information on [Text Formatting]().
 - Deviate from conventional standards only when there's a genuinely compelling purpose in implementing an unconventional style.
 
 ## Additional resources
