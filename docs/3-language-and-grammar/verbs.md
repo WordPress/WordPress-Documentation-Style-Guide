@@ -1,7 +1,7 @@
 # Verbs
 <!-- https://docs.microsoft.com/en-us/style-guide/word-choice/dont-use-common-words-in-new-ways -->
-Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For additional information, refer "Voice".  
-Also, write in present tense rather than future tense. For additional information, refer "Tense".
+Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For additional information, refer [Voice]().  
+Also, write in present tense rather than future tense. For additional information, refer [Tense]().
 
 ## Verb forms in reference documentation
 

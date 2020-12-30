@@ -1,12 +1,12 @@
 # Word Choice
 
 Choose words that enhance readability and increase simplicity in your documentation.  
-For more information on writing simple, easy-to-understand documentation, refer "Style and Tone".
+For more information on writing simple, easy-to-understand documentation, refer [Style and Tone]().
 
 ## Spelling
 
 In general, use American (US) English. When the spelling of English words differ by locale, use the US spelling.
-If you're doubtful of a particular word, first refer the "Word List"; if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
+If you're doubtful of a particular word, first refer the [Word List](); if it's not covered there, refer [The American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 **Examples**
 
@@ -35,7 +35,7 @@ Be thoughtful of word choice - particularly avoid jargon, slang and ableist lang
 
 Avoid using jargon if there is a better, comprehensible word for that specific term. Additionally, don't use jargon if the term is familiar to only a small portion of your reader demographic. Only use jargon if it is absolutely needed to explain technical or software-related concepts.
 
-If you're doubtful of whether a particular term is jargon or a technical term, refer the "Word List"; if it isn't covered there, refer technical and industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an "abbreviation" and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
+If you're doubtful of whether a particular term is jargon or a technical term, refer the [Word List](); if it isn't covered there, refer technical and industry publications for demonstration of common use. A particular term likely is jargon if you, your colleague, or reviewer thinks that it might be jargon. If the term is an [abbreviation]() and you're sure that your reader demographic is expected to understand the term, then you don't need to spell it out. Otherwise spell out abbreviations.
 
 ## Avoid using common words in alternative ways
 
@@ -55,5 +55,5 @@ If you have to use a word in a definition that is different from its widely used
 
 ## Additional resources
 
-Additional information on "Contractions".  
-Additional information on "Accessibility".
+Additional information on [Contractions]().  
+Additional information on [Accessibility]().

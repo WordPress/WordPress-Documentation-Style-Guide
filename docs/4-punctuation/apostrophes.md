@@ -13,7 +13,7 @@ Use an apostrophe to indicate the letters omitted in contractions.
 - *they've - they have*.
 - *don't - do not*.
 
-Refer "Contractions" for additional information.
+Refer [Contractions]() for additional information.
 
 ## Apostrophes in plurals
 
@@ -40,7 +40,7 @@ Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe
 [warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
 [tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
-Refer "Plurals" for additional information.
+Refer [Plurals]() for additional information.
 
 ## Apostrophes in possessives
 
@@ -70,4 +70,4 @@ Don't use an apostrophe with possessive pronouns.
 [tip] Recommended: The website is yours. [/tip]
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
-Refer "possessives" for additional information.
+Refer [Possessives]() for additional information.
