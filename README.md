@@ -104,7 +104,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Filenames                                                         |   ✔️ (⚠️ while publishing)   |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
 | Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
-| Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |        |
+| Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |   🔄   |
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Key terms (New component)                                         |   ✔️   |
