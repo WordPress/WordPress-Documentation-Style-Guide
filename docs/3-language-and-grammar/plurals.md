@@ -21,7 +21,7 @@ Don't use apostrophes to form plurals of abbreviations. The plural of an abbrevi
 - CMSs
 - IDEs  
 
-For additional information, refer "Abbreviations".
+For additional information, refer [Abbreviations]().
 
 ## Plurals and symbols
 

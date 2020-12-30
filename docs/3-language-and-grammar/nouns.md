@@ -13,7 +13,7 @@ Proper nouns include:
 - Names and titles of works such as books, articles, songs, etc.
 - Trademarks and standards.
 
-For additional information on capitalizing words and proper nouns, refer "Capitalization".
+For additional information on capitalizing words and proper nouns, refer [Capitalization]().
 
 ## Common nouns
 
