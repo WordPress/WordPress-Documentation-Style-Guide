@@ -32,7 +32,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Encoding                           |   ✔️   |
 | External Sources                   |   🔄   |
 | Facts                              |   ✔️   |
-| Fonts                              |   (Moved to Formatting)   |
+| Fonts                              |   ✔️ (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)   |
 | Legality, Licensing, Trademarks    |   ✔️ (Moved to Formatting)   |
@@ -40,8 +40,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Non-ambiguous, No Excessive Claims |   ✔️   |
 | Page Layout                        |   ✔️   |
 | Political Correctness              |   ✔️   |
-| Protocols                          |        |
-| Security                           |        |
+| Protocols                          |         |
+| Security                           |         |
 | Sentence Structure                 |   ✔️   |
 | Succinct Writing                   |   ✔️   |
 | Tone & Style                       |   ⚠️   |
@@ -104,7 +104,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Filenames                                                         |   ✔️ (⚠️ while publishing)   |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
 | Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
-| Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |   🔄   |
+| Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |   ✔️ (Moved to text formatting)   |
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Key terms (New component)                                         |   ✔️   |
@@ -116,12 +116,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |        |
 | Referencing                                                       |        |
-| Spacing                                                           |   🔄 (Moved to text formatting)   |
+| Spacing                                                           |   ✔️ (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
-| Text formatting                                                   |   🔄 (⚠️ while publishing)   |
+| Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
 | Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
-| Typography & Fonts                                                |   🔄   |
+| Typography & Fonts                                                |   ✔️ (Moved to text formatting)   |
 | UI elements                                                       |   (Moved to User Interface)   |
 | Units of Measurement                                              |   ✔️ (⚠️ while publishing)   |
 
