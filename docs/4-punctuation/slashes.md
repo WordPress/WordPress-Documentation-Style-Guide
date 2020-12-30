@@ -82,4 +82,4 @@ Don't use abbreviations utilizing slashes. Instead, spell the abbreviation out.
 
 Don't use date formats with slashes.
 
-See "Dates and Times" for additional information.
+See [Dates and Times]() for additional information.

@@ -86,7 +86,7 @@ Write all ordinal numbers as fully-spelled words.
 
 Avoid using Roman numerals. Instead use standard Arabic numerals in your documentation.
 
-You can use Roman numerals to denote "steps or sub-steps in procedures."
+You can use Roman numerals to denote [steps or sub-steps in procedures]().
 
 ## Commas and decimal points in numbers
 
