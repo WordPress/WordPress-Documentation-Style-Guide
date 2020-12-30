@@ -2,11 +2,11 @@
 
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
-## General dos and don'ts
+## General guidelines
 
 - Emphasize the reader rather than underlining their inconveniences.
   - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
-  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about "Inclusivity".
+  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about [Inclusivity]().
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Consider multi-platform accessibility for all types of devices and operating systems.
 - Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc.
@@ -18,7 +18,7 @@ The WordPress community and the open source WordPress project is committed to be
 
 - Use concise and simple sentences.
 - Avoid camel case and all caps text; follow [capitalization]() guidelines.
-- Don't format fonts unnecessarily. More information on "Fonts".
+- Don't format fonts unnecessarily. More information on [Text Formatting]().
 - Use proper heading hierarchy. The H1 is the main heading representing the page title on every page or post (article). For subsections, use a correct HTML, Markdown, or relevant heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
   - Use H2 through H6 to give internal structure to the page.
   - Don’t skip heading levels.
@@ -44,7 +44,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and ways to fix them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on "aria-label".
+- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on [aria-label]().
 
 ## Document Rendering
 
