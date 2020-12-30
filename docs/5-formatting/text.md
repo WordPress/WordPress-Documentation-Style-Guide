@@ -14,28 +14,22 @@ Clear, legible, as well as aesthetically pleasing typography is one of the prima
 - Avoid center-aligned text.
 - Ensure adequate and consistent line spacing - which is the amount of vertical space between two lines of text in a text body. If your site's design determines the line spacing, don't change it. Don't reduce line spacing to fit more text or content; rewrite or edit the text instead.
 
-See also
-[Capitalization]()
-[Headings]()
-[Procedures]()
-[Code examples]()
-[UI elements]()
+See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI elements]() for additional information.
 
 ### Formatting common text elements
 
 | Text element | Convention | Example |
 |--------------|------------|---------|
-| Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. See [Trademarks]() | WordPress<br /><br />WordCamp Central  |
-| Database names | Use bold text. Capitalization varies. | **MySQL** database |
-| Emphasis | It's OK to use italic formatting sparingly for emphasis. | Cybercriminals might call you and claim to be from MS. Be aware that MS will *never* call you to charge for security or software fixes. |
-| Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "" quit and restart the terminal. |
+| Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. Refer [Trademarks](). | WordPress<br /><br />WordCamp Central  |
+| Emphasis | Sometimes it's acceptable to use italic text for emphasis. | Use the 24-hour format only when *absolutely* needed. |
+| Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "Executable not found." quit and restart the terminal. |
 | Filename extensions | All lowercase. See also [Filenames]() | `.css`<br />`.php` |
-| Filenames | All lowercase. See also [Filenames]() | `new-cache.php`<br />`wp-settings-1.php` |
-| Key terms | Italicize the first mention of a new term. See [Key terms]() | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
+| Filenames | All lowercase. Refer [Filenames](). | `new-cache.php`<br />`wp-settings-1.php` |
+| Key terms | Italicize the first mention of a new term. Refer [Key terms](). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
 | Mathematical constants and variables | Use italics. | *x/y + z = 4* |
-| UI elements or strings | Use sentence-case capitalization. | Find on page <br /> Read aloud <br /> Hide selected items |
-| URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses]() |  wordpress.org |
+| UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
+| URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses](). |  wordpress.org |
 
 ## Spaces between sentences
 
