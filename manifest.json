@@ -45,8 +45,8 @@
 	"document-guidelines/facts-and-claims": {
 		"title": "Facts and claims",
 		"parent": "document-guidelines",
-		"slug": "facts-and-claims",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/6-facts-and-claims.md"
+		"slug": "facts-claims",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/6-facts-claims.md"
 	},
 	"document-guidelines/external-sources": {
 		"title": "External sources",
