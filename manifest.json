@@ -42,7 +42,7 @@
 		"slug": "inclusivity",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-document-guidelines/5-inclusivity.md"
 	},
-	"document-guidelines/facts-and-claims": {
+	"document-guidelines/facts-claims": {
 		"title": "Facts and claims",
 		"parent": "document-guidelines",
 		"slug": "facts-claims",
