@@ -4,6 +4,8 @@ Providing examples in documentation helps the reader visualize concepts. Be thou
 
 ## Example domain names
 
+While writing a generic domain name in an example, use example.com, example.org, or example.net.
+
 ## Example email addresses
 
 ## Example phone numbers
