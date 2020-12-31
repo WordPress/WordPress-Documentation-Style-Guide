@@ -14,6 +14,13 @@ For example email addresses, use one of the domains listed in [Example domain na
 
 [tip] Recommended: name@example.com [/tip]  
 
+## Example person names
+
+
+## Example organization names
+
+When you need an organization name in an example, use *Example Organization*. If you need multiple organization names or need to differentiate between two fictional companies, add a description to the organization names. For example, you can use *Example Tech Organization* and *Example Education Organization*.  
+
 ## Example phone numbers
 
 Don't use real phone numbers in examples.
@@ -27,10 +34,11 @@ For international phone number examples, use a US number from the same range and
 [tip] Recommended: (800) 555-0139 [/tip]  
 [tip] Recommended: +1 800 555 0139 [/tip]  
 
-## Example organizations
+## Example IP addresses
 
-When you need an organization name in an example, use *Example Organization*. If you need multiple organization names or need to differentiate between two fictional companies, add a description to the organization names. For example, you can use *Example Tech Organization* and *Example Education Organization*.  
-
-## Example person names
+For IPv4 examples, use one of the [RFC 5737](https://tools.ietf.org/html/rfc5737) addresses reserved for documentation purposes. These addresses are not used on the internet. The three reserved IPv4 addresses are as follows:
+- `192.0.2.1`
+- `198.51.100.1`
+- `203.0.113.1`
 
 ## Example street addresses
