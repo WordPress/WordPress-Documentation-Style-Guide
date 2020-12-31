@@ -22,6 +22,10 @@ For phone number examples according to the [North American Numbering Plan](//pho
 
 For international phone number examples, use a US number from the same range and include the country and area codes. For additional information regarding phone number formatting, see [Phone numbers]().
 
+**Examples**  
+
+[tip] Recommended: (800) 555-0139 [/tip]  
+[tip] Recommended: +1 800 555 0139 [/tip]  
 
 ## Example person names
 
