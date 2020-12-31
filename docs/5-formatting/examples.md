@@ -27,6 +27,10 @@ For international phone number examples, use a US number from the same range and
 [tip] Recommended: (800) 555-0139 [/tip]  
 [tip] Recommended: +1 800 555 0139 [/tip]  
 
+## Example organizations
+
+When you need an organization name in an example, use *Example Organization*. If you need multiple organization names or need to differentiate between two fictional companies, add a description to the organization names. For example, you can use *Example Tech Organization* and *Example Education Organization*.  
+
 ## Example person names
 
 ## Example street addresses
