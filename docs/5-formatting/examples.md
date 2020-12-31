@@ -1,6 +1,6 @@
 # Examples and scenarios
 
-Providing examples in documentation helps the reader visualize concepts. Be thoughtful while writing and coming up with fictitious examples and scenarios; sometimes they may be unintentionally biased. As well as writing diverse and inclusive documentation, don't reveal personally identifiable information such as real names, addresses, phone numbers, email addresses, or financial information. In addition to fictitious examples and scenarios, you can also use
+Providing examples in documentation helps the reader visualize concepts. Be thoughtful while writing and coming up with fictitious examples and scenarios; sometimes they may be unintentionally biased. As well as writing diverse and inclusive documentation, don't reveal personally identifiable information such as real names, addresses, phone numbers, email addresses, or financial information. In addition to fictitious examples and scenarios, you can also use [placeholder variables]() like *`EMAIL_ADDRESS`* or *`PHONE_NUMBER`*. 
 
 ## Example domain names
 
@@ -15,6 +15,8 @@ For example email addresses, use one of the domains listed in [Example domain na
 [tip] Recommended: name@example.com [/tip]  
 
 ## Example phone numbers
+
+
 
 ## Example person names
 
