@@ -16,6 +16,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | ⚠️      | Needs Changes |
 
 ### Style Guide Introduction (New Section) 🔄
+
 | Component                          | Status  |
 |------------------------------------|---------|
 | WordPress Style Guide              |   🔄 (⚠️ while publishing)   |
@@ -24,6 +25,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Changelog                          |   ✔️   |
 
 ### Document Guidelines 🔄
+
 | Component                          | Status  |
 |------------------------------------|---------|
 | Accessibility                      |   ✔️ (⚠️ while publishing)   |
@@ -48,6 +50,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Unbiased                           |   ✔️   |
 
 ### Language & Grammar ✔️
+
 | Component                                         | Status |
 |---------------------------------------------------|--------|
 | Abbreviations & acronyms                          |   ✔️ (⚠️ while publishing)   |
@@ -76,6 +79,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Word Choice (New component)                       |   ✔️ (⚠️ while publishing)   |
 
 ### Punctuation ✔️
+
 | Component                    | Status |
 |------------------------------|--------|
 | Apostrophes                  |   ✔️ (⚠️ while publishing)   |
@@ -93,6 +97,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
 ### Formatting 🔄
+
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
 | Abstracts, Introduction, Prefaces                                 |   ❌   |
@@ -127,6 +132,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Units of Measurement                                              |   ✔️ (⚠️ while publishing)   |
 
 ### User Interface
+
 | Component                  | Status |
 |----------------------------|--------|
 | Activities                 |        |
@@ -141,7 +147,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | UI elements                |        |
 | Windows                    |        |
 
-### Code
+### Developer content
+
 | Component   | Status |
 |-------------|--------|
 | Code Snippets, Code Blocks |      |
@@ -158,6 +165,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | XML         |        |
 
 ### Word Usage Dictionary/Glossary
+
 | Component | Status |
 |-----------|--------|
 | A-Z       |        |
