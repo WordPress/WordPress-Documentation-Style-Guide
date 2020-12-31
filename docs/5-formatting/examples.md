@@ -36,9 +36,25 @@ For international phone number examples, use a US number from the same range and
 
 ## Example IP addresses
 
-For IPv4 examples, use one of the [RFC 5737](https://tools.ietf.org/html/rfc5737) addresses reserved for documentation purposes. These addresses are not used on the internet. The three reserved IPv4 addresses are as follows:
+For IPv4 examples, use one of the [RFC 5737](https://tools.ietf.org/html/rfc5737) addresses reserved for documentation purposes. These addresses are not used on the internet. The use the following three reserved IPv4 addresses:
 - `192.0.2.1`
 - `198.51.100.1`
 - `203.0.113.1`
+
+For IPv4 address ranges, use the following examples:
+- `192.0.2.0/24`
+- `198.51.100.0/24`
+- `203.0.113.0/24`
+
+When you need an IPv6 address example, use values from the [RFC 3849](https://tools.ietf.org/html/rfc3849) range. Example IPv6 addresses include the following:  
+- `2001:db8::`
+- `2001:db8:ffff:ffff:ffff:ffff:ffff:ffff`
+- `2001:db8:1:1:1:1:1:1`
+- `2001:db8:2:2:2:2:2:2`
+- `2001:db8:3:3:3:3:3:3`
+- `2001:db8:4:4:4:4:4:4`
+
+For IPv6 address ranges, use the following example:
+- `2001:db8::/32`
 
 ## Example street addresses
