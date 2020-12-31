@@ -116,7 +116,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Key terms (New component)                                         |   ✔️   |
 | Links & URLs                                                      |        |
 | Lists, Bullet Points, Numbering                                   |   ✔️ (⚠️ while publishing)   |
-| Media (Images, Videos) & Illustrations                            |        |
+| Media (Images, Videos) & Illustrations                            |   🔄   |
 | Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
