@@ -10,7 +10,7 @@ If you're providing a real phone number to contact a real individual or organiza
 
 ### North American phone numbers
 
-To format phone numbers in the USA, Canada, and other [NANP]() (North American Numbering Plan) countries, enclose the area code in parentheses, insert a space, and then hyphenate the three-digit exchange code with the four-digit number.
+To format phone numbers in the USA, Canada, and other [NANP](https://wikipedia.org/wiki/North_American_Numbering_Plan) (North American Numbering Plan) countries, enclose the area code in parentheses, insert a space, and then hyphenate the three-digit exchange code with the four-digit number.
 
 **Examples**  
 
