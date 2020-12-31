@@ -18,8 +18,9 @@ For example email addresses, use one of the domains listed in [Example domain na
 
 Don't use real phone numbers in examples.
 
-For phone number examples according to the [North American Numbering Plan](//numbers.md), use a US number in the range (800) 555-0100 through (800) 555-0199. That range is reserved for use in examples and in fiction.
+For phone number examples according to the [North American Numbering Plan](//phone-numbers.md), use a US number in the range (800) 555-0100 through (800) 555-0199. That range is reserved for use in examples and in fiction.
 
+For international phone number examples, use a US number from the same range and include the country and area codes. For additional information regarding phone number formatting, see [Phone numbers]().
 
 
 ## Example person names
