@@ -16,6 +16,9 @@ For example email addresses, use one of the domains listed in [Example domain na
 
 ## Example person names
 
+When you need people's names and their activities in an example, use fictional character names from non-copyrighted material. Don't use character names from copyrighted content such as movies, television shows, or books. Also, don't use real people's names.
+
+
 
 ## Example organization names
 
