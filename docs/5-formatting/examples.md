@@ -18,7 +18,9 @@ For example email addresses, use one of the domains listed in [Example domain na
 
 When you need people's names and their activities in an example, use fictional character names from non-copyrighted material. Don't use character names from copyrighted content such as movies, television shows, or books. Also, don't use real people's names.
 
+If you can't think of a fictional character name that is not copyrighted, you can invent new names; although be thoughtful while thinking of new names. Ensure a diverse, [inclusive](), and global demographic while writing examples with people's names.
 
+If another guideline specifically defines fictional person names, use those names in your examples.
 
 ## Example organization names
 
