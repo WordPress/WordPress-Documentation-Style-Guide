@@ -2,7 +2,8 @@
 
 Providing examples in documentation helps the reader visualize concepts. Be thoughtful while writing and coming up with fictitious examples and scenarios; sometimes they may be unintentionally biased. As well as writing diverse and inclusive documentation, don't reveal personally identifiable information such as real names, addresses, phone numbers, email addresses, or financial information. In addition to fictitious examples and scenarios, you can also use [placeholder variables]() such as *`EMAIL_ADDRESS`* or *`PHONE_NUMBER`*.
 
-In general, write examples and scenarios with a global perspective. Some scenarios may be improbable in some regions, and some may be different altogether. Social customs, politics, events, holidays, sports, traditions, religion, and legal and business practices vary worldwide. Avoid discussing technologies and standards that aren't adopted worldwide; don't assume US standards are familiar to everyone. Be thoughtful on how these fictional scenarios would be perceived by a global audience.
+In general, write examples and scenarios with a global perspective. Some scenarios may be improbable in some regions, and some may be different altogether. Social customs, politics, events, holidays, sports, traditions, religion, and legal and business practices vary worldwide. Avoid discussing technologies and standards that aren't adopted worldwide; don't assume US standards are familiar to everyone. Be thoughtful on how these fictional scenarios would be perceived by a global audience.  
+
 For more information, see [Inclusivity]() and [Writing for a global audience]().
 
 ## Example domain names
@@ -35,7 +36,7 @@ Don't use real phone numbers in examples.
 
 For phone number examples according to the [North American Numbering Plan](//phone-numbers.md), use a US number in the range (800) 555-0100 through (800) 555-0199. That range is reserved for use in examples and in fiction.
 
-For international phone number examples, use a US number from the same range and include the country and area codes. For additional information regarding phone number formatting, see [Phone numbers]().
+For international phone number examples, use a US number from the same range and include the country and area codes. For additional information on phone number formatting, see [Phone numbers]().
 
 **Examples**  
 
@@ -67,8 +68,8 @@ For IPv6 address ranges, use the following example:
 
 ## Example street addresses
 
-[review]
-Use different locales and regions while avoiding real street addresses in examples. Instead, use the following fictional street address:
+[review]  
+Use different locales and regions, and avoid using real street addresses in examples. Instead, use the following fictional street address:
 
 1000 99th Street
 San Francisco, CA 94110
