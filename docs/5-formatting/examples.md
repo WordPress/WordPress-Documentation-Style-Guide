@@ -71,6 +71,6 @@ For IPv6 address ranges, use the following example:
 [review]  
 Use different locales and regions, and avoid using real street addresses in examples. Instead, use the following fictional street address:
 
-1000 99th Street
-San Francisco, CA 94110
+1000 99th Street<br />
+San Francisco, CA 94110<br />
 United States of America
