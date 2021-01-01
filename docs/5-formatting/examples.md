@@ -46,7 +46,7 @@ For IPv4 address ranges, use the following examples:
 - `198.51.100.0/24`
 - `203.0.113.0/24`
 
-When you need an IPv6 address example, use values from the [RFC 3849](https://tools.ietf.org/html/rfc3849) range. Example IPv6 addresses include the following:  
+When you need an IPv6 address example, use values from the [RFC 3849](https://tools.ietf.org/html/rfc3849) range as follows:  
 - `2001:db8::`
 - `2001:db8:ffff:ffff:ffff:ffff:ffff:ffff`
 - `2001:db8:1:1:1:1:1:1`
@@ -58,3 +58,10 @@ For IPv6 address ranges, use the following example:
 - `2001:db8::/32`
 
 ## Example street addresses
+
+[review]
+Avoid using real street addresses in examples. Instead, use the following fictional street address:
+
+1000 99th Street
+San Francisco, CA 94110
+United States of America
