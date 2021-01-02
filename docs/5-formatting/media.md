@@ -18,8 +18,15 @@ Use images only when they provide visual information that is otherwise difficult
 
 ### Text associated with images
 
+In most cases, introduce an image with an introductory sentence that initiates the image that follows. If the heading of the content explains what the image is about, and no additional context is required, then don't include an introductory statement. You can introduce a image with an imperative statement.
+
+The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the image. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a image with a partial statement.
+
 #### Alt text
 
 #### Caption
+
+Captions are brief, concise summaries of an image or a figure.
+
 
 #### Description
