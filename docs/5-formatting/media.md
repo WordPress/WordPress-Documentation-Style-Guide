@@ -12,7 +12,9 @@ Use images only when they provide visual information that is otherwise difficult
 - Don't include personally identifying information (PII) in screenshots and other images.
   - If there is PII in a screenshot, redact it with a solid color with 100% opacity. Don't use blurs, pixelation, mosaic effects, or similar image-processing effects to redact PII, as these effects can be reversed to reveal the original information.
   - If you're exporting an image to a format that can include information on separate layers (for example, PDF or TIFF), flatten the image on export.
--
+- Use drawing tools to create diagrams.
+- For diagrams (such as network flows, system architectures) use vector graphic formats like SVG. SVG files stay sharp when you zoom in on the image. If you don't have an SVG image, use a PNG image as it provides better image quality than other raster image formats.
+- Don't use image maps as they prove to be difficult for accessibility. Image maps are also problematic for a responsive design implementation that adapts to different viewport sizes, while also being complex. Instead, write a list of text references following the image.
 
 ### Text associated with images
 
