@@ -35,21 +35,25 @@ An image caption is a short description of the image. An image description is a 
     width="70"
     alt="The WordPress mascot Wapuu."
     longdesc="#description">
-  <figcaption><b>Figure 1.</b> Image of WordPress mascot Wapuu.</figcaption>
+  <figcaption><b>Image 1.</b> Image of WordPress mascot Wapuu.</figcaption>
 </figure>
 <div id="description">
 <p>The official WordPress mascot - the adorable cartoon creature Wapuu, was first revealed in 2011.
 </p>
 </div>
-```
+```  
 
 [/tip]  
 
 [tip] Recommended (Markdown):  
 ```markdown
+![The WordPress mascot Wapuu.](/assets/images/wapuu.png){: width="70"}
 
+**Image 1.** Image of WordPress mascot Wapuu.
 
-```
+The official WordPress mascot - the adorable cartoon creature Wapuu, was first revealed in 2011.
+```  
+
 [/tip]  
 
 #### Alt text
