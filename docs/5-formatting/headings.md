@@ -20,7 +20,7 @@ In general, use consistent and descriptive headings and titles in any type of co
     **Examples**  
 
     [warning] Not Recommended:  
-    ```md
+    ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
     ### Absolute versus relative URLs
