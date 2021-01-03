@@ -28,9 +28,29 @@ An image caption is a short description of the image. An image description is a 
 
 **Examples**  
 
-[tip] Recommended (HTML):  [/tip]  
+[tip] Recommended (HTML):  
+```html
+<figure id="wapuu">
+  <img src="/assets/images/wapuu.png"
+    width="70"
+    alt="The WordPress mascot Wapuu."
+    longdesc="#description">
+  <figcaption><b>Figure 1.</b> Image of WordPress mascot Wapuu.</figcaption>
+</figure>
+<div id="description">
+<p>The official WordPress mascot - the adorable cartoon creature Wapuu, was first revealed in 2011.
+</p>
+</div>
+```
 
-[tip] Recommended (Markdown):  [/tip]  
+[/tip]  
+
+[tip] Recommended (Markdown):  
+```markdown
+
+
+```
+[/tip]  
 
 #### Alt text
 
