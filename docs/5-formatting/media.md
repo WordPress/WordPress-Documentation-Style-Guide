@@ -61,6 +61,8 @@ The official WordPress mascot - the adorable cartoon creature Wapuu, was first r
 #### Caption
 
 Captions are brief, concise summaries of an image or a figure.
-
+- Use the form,  "<b>Figure *`NUMBER`*.</b> *`DESCRIPTION`*".
+- Use punctuation in image captions.
+- In general, avoid using directional language such as *the image above, top, below, left-hand side, lower-right side* in instructions to locate images or other figures. Directional language proves to be difficult for accessibility or for localization. 
 
 #### Description
