@@ -58,6 +58,8 @@ The official WordPress mascot - the adorable cartoon creature Wapuu, was first r
 
 #### Alt text
 
+Use an [alt attribute](https://html.spec.whatwg.org/multipage/embedded-content.html#alt) to provide an alternative text for an image; the value must be an appropriate replacement for the image. Alt text is used to write accessible documentation and is used in assistive technologies such as screen readers, text-only browsers or low-bandwidth internet connections. 
+
 #### Caption
 
 Captions are brief, concise summaries of an image or a figure.
