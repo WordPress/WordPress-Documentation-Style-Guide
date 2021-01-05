@@ -71,6 +71,8 @@ When writing alt text, follow these guidelines:
 - Don't include phrases such as *Image of* or *Photo of*.
 - Write consistent alt text for repeated occurrences of images.
 - Avoid using all-caps in alt text. Some screen readers read capital letters as each letter individually.
+- When writing alt text, consider the context of the image in addition to the content of the image.
+- Whenever possible keep alt text length to 155 characters or less for better search engine optimization. If you exceed the 155 character limit, include a brief summary of the image in the `alt` attribute and also include the `longdesc` attribute to link to a more extensive description of the image. The `longdesc` attribute value should be a link, not text.
 
 #### Captions
 
