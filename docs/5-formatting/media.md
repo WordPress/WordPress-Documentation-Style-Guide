@@ -64,7 +64,15 @@ The `alt` attribute is required when using the `<img>` element, even if it is an
 
 As per the [HTML specification](https://html.spec.whatwg.org/dev/images.html#general-guidelines), "the most general rule to consider when writing alternative text is the following: the intent is that replacing every image with the text of its alt attribute not change the meaning of the page." So if the alternative text is redundant with surrounding text or it's not useful to visually impaired readers, use the empty tag.
 
-#### Caption
+When writing alt text, follow these guidelines:
+- Write full sentences.
+- Include punctuation in alt text. Screen readers pause before continuing when encountered with punctuation.
+- Don't replace alt text with image captions.
+- Don't include phrases such as *Image of* or *Photo of*.
+- Write consistent alt text for repeated occurrences of images.
+- Avoid using all-caps in alt text. Some screen readers read capital letters as each letter individually.
+
+#### Captions
 
 Captions are brief, concise summaries of an image or a figure.
 - Use the form,  "<b>Figure *`NUMBER`*.</b> *`DESCRIPTION`*".
@@ -72,4 +80,4 @@ Captions are brief, concise summaries of an image or a figure.
 - In general, avoid using directional language such as *the image above, top, below, left-hand side, lower-right side* in instructions to locate images or other figures. Directional language proves to be difficult for accessibility or for localization.
 - Don't include the image caption in a sentence referencing the image.
 
-#### Description
+#### Descriptions
