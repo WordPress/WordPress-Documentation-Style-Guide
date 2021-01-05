@@ -62,6 +62,8 @@ Use an [`alt` attribute](https://html.spec.whatwg.org/multipage/embedded-content
 
 The `alt` attribute is required when using the `<img>` element, even if it is an empty string (`alt=""`). If you don't use the `alt` attribute, screen readers might read the filename instead.  
 
+As per the [HTML specification](https://html.spec.whatwg.org/dev/images.html#general-guidelines), "the most general rule to consider when writing alternative text is the following: the intent is that replacing every image with the text of its alt attribute not change the meaning of the page." So if the alternative text is redundant with surrounding text or it's not useful to visually impaired readers, use the empty tag.
+
 #### Caption
 
 Captions are brief, concise summaries of an image or a figure.
