@@ -83,3 +83,5 @@ Captions are brief, concise summaries of an image or a figure.
 - Don't include the image caption in a sentence referencing the image.
 
 #### Descriptions
+
+A description provides a more detailed, textual explanation of information depicted by an image. Any new information should be conveyed through text, and not introduced through a figure or image.
