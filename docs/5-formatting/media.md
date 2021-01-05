@@ -77,6 +77,7 @@ When writing alt text, follow these guidelines:
 #### Captions
 
 Captions are brief, concise summaries of an image or a figure.
+When writing image captions, follow these guidelines:
 - Use the form,  "<b>Figure *`NUMBER`*.</b> *`DESCRIPTION`*".
 - Use punctuation in image captions.
 - In general, avoid using directional language such as *the image above, top, below, left-hand side, lower-right side* in instructions to locate images or other figures. Directional language proves to be difficult for accessibility or for localization.
@@ -85,3 +86,8 @@ Captions are brief, concise summaries of an image or a figure.
 #### Descriptions
 
 A description provides a more detailed, textual explanation of information depicted by an image. Any new information should be conveyed through text, and not introduced through a figure or image.
+
+The image description should not be confused with the [`longdesc` attribute](https://www.w3.org/TR/WCAG-TECHS/H45.html), which can be used to provide a more lengthy description of the content and context of an image than can be conveyed in the `alt` attribute's recommended 155 character limit.
+
+When writing image descriptions, follow these guidelines:
+-
