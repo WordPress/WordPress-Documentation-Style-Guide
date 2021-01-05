@@ -93,3 +93,14 @@ When writing image descriptions, follow these guidelines:
 - Write image descriptions when captions are inadequate in conveying complete information.
 - Write text that is associated with the image.
 - Use punctuation in image descriptions.
+
+####
+
+#### Accessibility resources
+
+For more information about the accessibility of diagrams and screenshots, see the following resources:
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
+- [General text alternative guidelines from WCAG](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#text-alternatives)
+- [Using `alt` attributes for `img` elements](https://www.w3.org/WAI/WCAG21/Techniques/html/H37.html)
+- [Providing a long description in text near the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G74.html)
+- [Using `longdesc`](https://www.w3.org/WAI/WCAG21/Techniques/html/H45.html)
