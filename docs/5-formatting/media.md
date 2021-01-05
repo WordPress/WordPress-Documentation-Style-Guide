@@ -66,7 +66,7 @@ As per the [HTML specification](https://html.spec.whatwg.org/dev/images.html#gen
 
 When writing alt text, follow these guidelines:
 - Write full sentences.
-- Include punctuation in alt text. Screen readers pause before continuing when encountered with punctuation.
+- Use punctuation in alt text. When encountered with punctuation, screen readers pause before continuing.
 - Don't replace alt text with image captions.
 - Don't include phrases such as *Image of* or *Photo of*.
 - Write consistent alt text for repeated occurrences of images.
@@ -90,4 +90,6 @@ A description provides a more detailed, textual explanation of information depic
 The image description should not be confused with the [`longdesc` attribute](https://www.w3.org/TR/WCAG-TECHS/H45.html), which can be used to provide a more lengthy description of the content and context of an image than can be conveyed in the `alt` attribute's recommended 155 character limit.
 
 When writing image descriptions, follow these guidelines:
--
+- Write image descriptions when captions are inadequate in conveying complete information.
+- Write text that is associated with the image.
+- Use punctuation in image descriptions.
