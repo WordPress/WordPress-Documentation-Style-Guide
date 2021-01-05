@@ -58,7 +58,9 @@ The official WordPress mascot - the adorable cartoon creature Wapuu, was first r
 
 #### Alt text
 
-Use an [alt attribute](https://html.spec.whatwg.org/multipage/embedded-content.html#alt) to provide an alternative text for an image; the value must be an appropriate replacement for the image. Alt text is used to write accessible documentation and is used in assistive technologies such as screen readers, text-only browsers or low-bandwidth internet connections. 
+Use an [`alt` attribute](https://html.spec.whatwg.org/multipage/embedded-content.html#alt) to provide an alternative text for an image; the value must be an appropriate replacement for the image. Alt text is used to write accessible documentation and is used in assistive technologies such as screen readers, text-only browsers or low-bandwidth internet connections. The `alt` attribute helps support navigability in screen readers, markup validation, and search engine optimization (SEO). If the image is decorative (not informative) or it's provided only as a visual aid for information that is already expressed in text, then provide empty alternative text (`alt=""`) so it will be ignored by assistive technologies.
+
+The `alt` attribute is required when using the `<img>` element, even if it is an empty string (`alt=""`). If you don't use the `alt` attribute, screen readers might read the filename instead.  
 
 #### Caption
 
