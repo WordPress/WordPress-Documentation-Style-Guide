@@ -114,3 +114,10 @@ For more information about image accessibility, see the following resources:
 - [Using `alt` attributes for `img` elements](https://www.w3.org/WAI/WCAG21/Techniques/html/H37.html)
 - [Providing a long description in text near the non-text content](https://www.w3.org/WAI/WCAG21/Techniques/general/G74.html)
 - [Using `longdesc`](https://www.w3.org/WAI/WCAG21/Techniques/html/H45.html)
+
+### Image formatting and layout
+
+- In most cases, use left-, or right-alignment for images unless specified otherwise. Don't align images in the center.
+- Don't override your site's CSS or other existing styling unless required.
+- Don't link to the figure from within the same page unless it's a very long page and you're linking to it from quite far away on the page.
+- 
