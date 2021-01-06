@@ -94,7 +94,9 @@ When writing image descriptions, follow these guidelines:
 - Write text that is associated with the image.
 - Use punctuation in image descriptions.
 
-####
+#### Text in figures
+
+In most cases, avoid embedding text containing information in images, figures, or screenshots. Particularly, when a new concept is being introduced to the reader, try not to include it in figures. Text in images impedes accessibility and increases localization costs if they are localized. 
 
 #### Accessibility resources
 
