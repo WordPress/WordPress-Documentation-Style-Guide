@@ -158,6 +158,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Markdown    |        |
 | MySQL       |        |
 | PHP         |        |
+| Placeholder formatting (New component) |        |
 | Syntax      |        |
 | Terminology |        |
 | UI elements |        |
