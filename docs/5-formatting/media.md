@@ -96,7 +96,9 @@ When writing image descriptions, follow these guidelines:
 
 #### Text in figures
 
-In most cases, avoid embedding text containing information in images, figures, or screenshots. Particularly, when a new concept is being introduced to the reader, try not to include it in figures. Text in images impedes accessibility and increases localization costs if they are localized. 
+In most cases, avoid embedding text containing information in images, figures, or screenshots. Particularly, when a new concept is being introduced to the reader, try not to include it in figures. Text in images impedes accessibility and increases localization costs if they are localized. If you must embed text in an image, then ensure the same information is also provided in a form that people with visual disabilities can use, such as an [image description](#descriptions).
+
+
 
 #### Accessibility resources
 
