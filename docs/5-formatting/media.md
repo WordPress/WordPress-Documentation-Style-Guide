@@ -119,5 +119,9 @@ For more information about image accessibility, see the following resources:
 
 - In most cases, use left-, or right-alignment for images unless specified otherwise. Don't align images in the center.
 - Don't override your site's CSS or other existing styling unless required.
+- Visualize and consider how the image will look when printed out.
+- An image can take up the full width of a page.
+- In general, don't use an image that is larger than its intended container. Resize the image if its dimensions exceed the container's specifications.
+- Resize or reformat high resolution images that take up too much space.
 - Don't link to the figure from within the same page unless it's a very long page and you're linking to it from quite far away on the page.
-- 
+- Don't put the `<img>` inside a `<p>`.
