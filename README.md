@@ -164,8 +164,14 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Windows     |        |
 | XML         |        |
 
-### Word Usage Dictionary/Glossary
+### Word usage dictionary/Glossary
 
 | Component | Status |
 |-----------|--------|
 | A-Z       |        |
+
+### Future components
+
+| Component | Status |
+|-----------|--------|
+| Media > Videos      |        |
