@@ -98,11 +98,15 @@ When writing image descriptions, follow these guidelines:
 
 In most cases, avoid embedding text containing information in images, figures, or screenshots. Particularly, when a new concept is being introduced to the reader, try not to include it in figures. Text in images impedes accessibility and increases localization costs if they are localized. If you must embed text in an image, then ensure the same information is also provided in a form that people with visual disabilities can use, such as an [image description](#descriptions).
 
+When you must include text in figures and images, use the following guidelines:
+- Write concise text. Avoid complete sentences and punctuation when possible.
+- Use sentence-case capitalization. Follow [capitalization]() guidelines.
+- Don't embed image descriptions or captions in the figure or image. Instead, put figure descriptions and captions in text following the figure.
 
 
 #### Accessibility resources
 
-For more information about the accessibility of diagrams and screenshots, see the following resources:
+For more information about image accessibility, see the following resources:
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 - [General text alternative guidelines from WCAG](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#text-alternatives)
 - [Using `alt` attributes for `img` elements](https://www.w3.org/WAI/WCAG21/Techniques/html/H37.html)
