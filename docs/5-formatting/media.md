@@ -102,7 +102,9 @@ When you must include text in figures and images, use the following guidelines:
 - Write concise text. Avoid complete sentences and punctuation when possible.
 - Use sentence-case capitalization. Follow [capitalization]() guidelines.
 - Don't embed image descriptions or captions in the figure or image. Instead, put figure descriptions and captions in text following the figure.
-
+- Don't create new abbreviations to condense text.
+- Use numbered callouts in figures to help you write a figure description, but don't use callouts for detailed annotations.
+- Use full trademarked product names.
 
 #### Accessibility resources
 
