@@ -96,13 +96,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Semicolons (split from colons)|   ✔️   |
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
-### Formatting 🔄
+### Formatting ✔️
 
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
 | Abstracts, Introduction, Prefaces                                 |   ❌   |
 | Brand Names, Product Names                                        |   ✔️   |
-| Captions                                                          |   ❌   |
+| Captions                                                          |   ✔️ (Moved to Media)   |
 | Code Snippets, Code Blocks                                        |   (Moved to Code)   |
 | Currencies                                                        |   ✔️ (Moved to Numbers)   |
 | Date & Time, Time Zones, Places                                   |   ✔️ (⚠️ while publishing)   |
