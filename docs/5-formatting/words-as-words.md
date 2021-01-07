@@ -6,6 +6,7 @@ While referring to a particular word or phrase as the word or phrase itself, use
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[warning] Not Recommended:   [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: Don't substitute a **/** (slash) as a conjunction. Use the word **or** instead. [/warning]  
+[tip] Recommended: Don't substitute a */* (slash) as a conjunction. Use the word *or* instead. [/tip]  
+
+While referring to letters as letters, use italics.
