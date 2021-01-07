@@ -131,6 +131,16 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | UI elements                                                       |   (Moved to User Interface)   |
 | Units of Measurement                                              |   ✔️ (⚠️ while publishing)   |
 
+### Linking (New section)
+
+| Component                  | Status |
+|----------------------------|--------|
+| Cross-references           |        |
+| External links             |        |
+| Heading links              |        |
+| Image links                |        |
+| Link text                  |        |
+
 ### User Interface
 
 | Component                  | Status |
