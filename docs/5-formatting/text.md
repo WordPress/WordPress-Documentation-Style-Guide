@@ -29,7 +29,7 @@ Do not strikethrough.
 
 Use `<code>` in HTML or ``` ` ``` in Markdown to apply a monospace font and other styling to [code in text](), inline code, and user input.
 
-Use `<pre>` in HTML or ``` ``` in Markdown for [code samples]() or other blocks of code.
+Use `<pre>` in HTML or triple backticks (` ``` `) in Markdown for [code samples]() or other blocks of code.
 
 ## Using type
 
