@@ -9,15 +9,27 @@ Formatting text uniformly by utilizing distinct design and structures such as th
 Text can be highlighted to distinguish itself from other text using the following text-formatting conventions:  
 
 **Bold**  
-Use bold formatting, `<b>` or `**` for [UI elements]() and at the beginning of [notices]().
+Use bold formatting, `<b>` in HTML or `**` in Markdown for [UI elements]() and at the beginning of [notices]().
 
 Although a double underscore (`__`) can be used for bold formatting in Markdown, it can be difficult to distinguish in a text editor. Preferably, use double asterisks (`**`) for bold formatting in Markdown.  
 
 **Italic**  
 
-Use italic formatting, `<i>` or `_`, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms]() or using [words as words]().
+Use italic formatting, `<i>` in HTML or `_` in Markdown, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms]() or using [words as words](). You can also use a single asterisk (`**`) for italic formatting in Markdown.  
 
+**Underline**  
 
+Do not underline.
+
+**Strikethrough**  
+
+Do not strikethrough.
+
+**Code text**  
+
+Use `<code>` in HTML or ``` ` ``` in Markdown to apply a monospace font and other styling to [code in text](), inline code, and user input.
+
+Use `<pre>` in HTML or ``` ``` in Markdown for [code samples]() or other blocks of code.
 
 ## Using type
 
@@ -46,6 +58,7 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 | Titles of books, movies, articles, posts, papers, and other full-length works | Use italics. Refer [Cross-references](). | *The Gutenberg Block Editor Guide*<br />*WordPress 5.6 “Simone”*<br />*Getting started with WordPress hooks: Introduction* |
 | UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses](). |  wordpress.org |
+| Version variables | Use italics for the variable. | Version 5.6.*x* |
 
 ## Spaces between sentences
 
