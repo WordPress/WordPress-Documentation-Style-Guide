@@ -266,6 +266,6 @@
 		"slug": "changelog",
 		"parent": null,
 		"order": 10,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/4-changelog.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/changelog.md"
 	}
 }
