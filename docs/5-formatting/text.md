@@ -11,7 +11,13 @@ Text can be highlighted to distinguish itself from other text using the followin
 **Bold**  
 Use bold formatting, `<b>` or `**` for [UI elements]() and at the beginning of [notices]().
 
-Although a double underscore (`__`) can be used for bold formatting in Markdown, it can be difficult to distinguish in a text editor. Preferably, use double asterisks (`**`) for bold formatting in Markdown. 
+Although a double underscore (`__`) can be used for bold formatting in Markdown, it can be difficult to distinguish in a text editor. Preferably, use double asterisks (`**`) for bold formatting in Markdown.  
+
+**Italic**  
+
+Use italic formatting, `<i>` or `_`, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms]() or using [words as words]().
+
+
 
 ## Using type
 
@@ -37,6 +43,7 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 | Key terms | Italicize the first mention of a new term. Refer [Key terms](). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
 | Mathematical constants and variables | Use italics. | *x/y + z = 4* |
+| Titles of books, movies, articles, posts, papers, and other full-length works | Use italics. Refer [Cross-references](). | *The Gutenberg Block Editor Guide*<br />*WordPress 5.6 “Simone”*<br />*Getting started with WordPress hooks: Introduction* |
 | UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses](). |  wordpress.org |
 
