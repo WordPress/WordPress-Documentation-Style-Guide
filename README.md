@@ -130,7 +130,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Typography & Fonts                                                |   ✔️ (Moved to text formatting)   |
 | UI elements                                                       |   (Moved to User Interface)   |
 | Units of Measurement                                              |   ✔️ (⚠️ while publishing)   |
-| Words as words (New component)                                    |   🔄 (⚠️ while publishing)   |
+| Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
 
 ### Linking (New section)
 
