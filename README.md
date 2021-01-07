@@ -114,14 +114,14 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Key terms (New component)                                         |   ✔️   |
-| Links & URLs                                                      |        |
+| Links & URLs                                                      |   (Moved to Linking)   |
 | Lists, Bullet Points, Numbering                                   |   ✔️ (⚠️ while publishing)   |
 | Media (Images, Videos) & Illustrations                            |   ✔️ (⚠️ while publishing)   |
 | Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
-| Polyglots, Translation, Language Scripts                          |        |
-| Referencing                                                       |        |
+| Polyglots, Translation, Language Scripts                          |   ✔️   |
+| Referencing                                                       |   (Moved to Linking)   |
 | Spacing                                                           |   ✔️ (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
 | Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
