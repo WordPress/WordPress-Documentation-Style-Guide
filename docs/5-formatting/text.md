@@ -4,6 +4,15 @@ Consistent text formatting and type treatment is a principal factor in great doc
 
 Formatting text uniformly by utilizing distinct design and structures such as that in headings, tables, lists, URLs, and code examples helps distinguish information easily, while also making it easier for scannable and accessible documentation.
 
+## Text highlighting
+
+Text can be highlighted to distinguish itself from other text using the following text-formatting conventions:  
+
+**Bold**  
+Use bold formatting, `<b>` or `**` for [UI elements]() and at the beginning of [notices]().
+
+Although a double underscore (`__`) can be used for bold formatting in Markdown, it can be difficult to distinguish in a text editor. Preferably, use double asterisks (`**`) for bold formatting in Markdown. 
+
 ## Using type
 
 Clear, legible, as well as aesthetically pleasing typography is one of the primary features in visually appealing content.
