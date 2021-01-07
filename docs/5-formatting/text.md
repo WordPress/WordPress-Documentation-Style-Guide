@@ -29,7 +29,11 @@ Do not strikethrough.
 
 Use `<code>` in HTML or ``` ` ``` in Markdown to apply a monospace font and other styling to [code in text](), inline code, and user input.
 
-Use `<pre>` in HTML or triple backticks (` ``` `) in Markdown for [code samples]() or other blocks of code.
+Use `<pre>` in HTML or ` ``` ` in Markdown for [code samples]() or other blocks of code.
+
+Do not override or modify font styles inline.
+
+
 
 ## Using type
 
@@ -47,6 +51,7 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 
 | Text element | Convention | Example |
 |--------------|------------|---------|
+| Code and console output | Use code text. Refer [Code text](). | `alt="The WordPress mascot Wapuu."` |  
 | Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. Refer [Trademarks](). | WordPress<br /><br />WordCamp Central  |
 | Emphasis | Sometimes it's acceptable to use italic text for emphasis. | Use the 24-hour format only when *absolutely* needed. |
 | Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "Executable not found." quit and restart the terminal. |
@@ -54,7 +59,8 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 | Filenames | All lowercase. Refer [Filenames](). | `new-cache.php`<br />`wp-settings-1.php` |
 | Key terms | Italicize the first mention of a new term. Refer [Key terms](). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
-| Mathematical constants and variables | Use italics. | *x/y + z = 4* |
+| Mathematical constants and variables | Use italics. | *x/y + z = 4* |  
+| Placeholder variables | Use italicized code text. Refer [Placeholder variables](). | *`EMAIL_ADDRESS`*<br />*`PHONE_NUMBER`* |
 | Titles of books, movies, articles, posts, papers, and other full-length works | Use italics. Refer [Cross-references](). | *The Gutenberg Block Editor Guide*<br />*WordPress 5.6 “Simone”*<br />*Getting started with WordPress hooks: Introduction* |
 | UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses](). |  wordpress.org |
