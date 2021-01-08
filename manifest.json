@@ -273,6 +273,12 @@
 		"slug": "examples",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/examples.md"
 	},
+	"formatting/filenames": {
+		"title": "Filenames",
+		"parent": "formatting",
+		"slug": "filenames",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/filenames.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
