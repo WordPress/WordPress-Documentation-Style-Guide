@@ -261,6 +261,12 @@
 		"order": 4,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/README.md"
 	},
+	"formatting/dates-times": {
+		"title": "Dates and times",
+		"parent": "formatting",
+		"slug": "dates-times",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/dates-times.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
