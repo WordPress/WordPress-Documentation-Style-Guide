@@ -268,13 +268,13 @@
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/dates-times.md"
 	},
 	"formatting/examples": {
-		"title": "Examples",
+		"title": "Examples and scenarios",
 		"parent": "formatting",
 		"slug": "examples",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/examples.md"
 	},
 	"formatting/filenames": {
-		"title": "Filenames",
+		"title": "Filenames, file formats, and types",
 		"parent": "formatting",
 		"slug": "filenames",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/filenames.md"
@@ -284,6 +284,12 @@
 		"parent": "formatting",
 		"slug": "footnotes",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/footnotes.md"
+	},
+	"formatting/headings": {
+		"title": "Headings and titles",
+		"parent": "formatting",
+		"slug": "headings",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/headings.md"
 	},
 	"changelog": {
 		"title": "Changelog",
