@@ -267,6 +267,12 @@
 		"slug": "dates-times",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/dates-times.md"
 	},
+	"formatting/examples": {
+		"title": "Examples",
+		"parent": "formatting",
+		"slug": "examples",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/examples.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
