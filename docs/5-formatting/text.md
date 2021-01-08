@@ -29,11 +29,17 @@ Do not strikethrough.
 
 Use `<code>` in HTML or ``` ` ``` in Markdown to apply a monospace font and other styling to [code in text](), inline code, and user input.
 
-Use `<pre>` in HTML or ` ``` ` in Markdown for [code samples]() or other blocks of code.
+Use `<pre>` in HTML or `  ` in Markdown for [code samples]() or other blocks of code.
 
 Do not override or modify font styles inline.
 
+**Quotation marks**  
 
+Use [quotation marks]() in the American (US) English style.
+
+**Capitalization**  
+
+Use standard American (US) English [capitalization]() rules. Use sentence-case capitalization in [headings, titles, and other content]().
 
 ## Using type
 
