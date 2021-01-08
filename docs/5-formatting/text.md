@@ -41,6 +41,10 @@ Use [quotation marks]() in the American (US) English style.
 
 Use standard American (US) English [capitalization]() rules. Use sentence-case capitalization in [headings, titles, and other content]().
 
+**Font**
+
+Don't override global styles for font type, size, or color.
+
 ## Using type
 
 Clear, legible, as well as aesthetically pleasing typography is one of the primary features in visually appealing content.
