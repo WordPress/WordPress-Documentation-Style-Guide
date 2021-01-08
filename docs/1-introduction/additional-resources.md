@@ -1,4 +1,4 @@
-# Additional Resources
+# Additional resources
 
 [Google Developer Documentation Style Guide](https://developers.google.com/style)  
 [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)  
