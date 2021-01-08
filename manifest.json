@@ -303,6 +303,12 @@
 		"slug": "lists",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/lists.md"
 	},
+	"formatting/media": {
+		"title": "Media",
+		"parent": "formatting",
+		"slug": "media",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/media.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
