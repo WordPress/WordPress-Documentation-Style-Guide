@@ -297,6 +297,12 @@
 		"slug": "key-terms",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/key-terms.md"
 	},
+	"formatting/lists": {
+		"title": "Lists",
+		"parent": "formatting",
+		"slug": "lists",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/lists.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
