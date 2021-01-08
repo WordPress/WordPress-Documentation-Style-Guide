@@ -291,6 +291,12 @@
 		"slug": "headings",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/headings.md"
 	},
+	"formatting/key-terms": {
+		"title": "Key terms",
+		"parent": "formatting",
+		"slug": "key-terms",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/key-terms.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
