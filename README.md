@@ -42,7 +42,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Non-ambiguous, No Excessive Claims |   ✔️   |
 | Page Layout                        |   ✔️   |
 | Political Correctness              |   ✔️   |
-| Protocols                          |         |
+| Protocols                          |   ✔️   |
 | Security                           |         |
 | Sentence Structure                 |   ✔️   |
 | Succinct Writing                   |   ✔️   |
@@ -121,7 +121,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
 | Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, Translation, Language Scripts                          |   ✔️   |
-| Referencing                                                       |   (Moved to Linking)   |
+| Referencing                                                       |   🔄 (Moved to Linking)   |
 | Spacing                                                           |   ✔️ (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
 | Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
