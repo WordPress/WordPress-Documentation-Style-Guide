@@ -363,12 +363,18 @@
 		"slug": "words-as-words",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/words-as-words.md"
 	},
-	"linking {
+	"linking": {
 		"title": "Linking",
 		"slug": "linking",
 		"parent": null,
 		"order": 5,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/README.md"
+	},
+	"linking/cross-references": {
+		"title": "Cross-references",
+		"parent": "linking",
+		"slug": "cross-references",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/cross-references.md"
 	},
 	"changelog": {
 		"title": "Changelog",
