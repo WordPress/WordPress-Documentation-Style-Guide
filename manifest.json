@@ -351,6 +351,12 @@
 		"slug": "trademarks",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/trademarks.md"
 	},
+	"formatting/units-of-measurement": {
+		"title": "Units of measurement",
+		"parent": "formatting",
+		"slug": "units-of-measurement",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/units-of-measurement.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
