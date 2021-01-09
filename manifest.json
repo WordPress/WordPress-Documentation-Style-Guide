@@ -327,6 +327,12 @@
 		"slug": "phone-numbers",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/phone-numbers.md"
 	},
+	"formatting/procedures": {
+		"title": "Procedures and instructions",
+		"parent": "formatting",
+		"slug": "procedures",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/procedures.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
