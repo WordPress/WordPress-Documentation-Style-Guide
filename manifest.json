@@ -345,6 +345,12 @@
 		"slug": "text",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/text.md"
 	},
+	"formatting/trademarks": {
+		"title": "Trademarks",
+		"parent": "formatting",
+		"slug": "trademarks",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/trademarks.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
