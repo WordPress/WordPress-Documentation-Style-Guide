@@ -357,6 +357,12 @@
 		"slug": "units-of-measurement",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/units-of-measurement.md"
 	},
+	"formatting/words-as-words": {
+		"title": "Words as words",
+		"parent": "formatting",
+		"slug": "words-as-words",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/words-as-words.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
