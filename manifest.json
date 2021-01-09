@@ -315,6 +315,12 @@
 		"slug": "notices",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/notices.md"
 	},
+	"formatting/numbers": {
+		"title": "Numbers",
+		"parent": "formatting",
+		"slug": "numbers",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/numbers.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
