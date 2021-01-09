@@ -339,6 +339,12 @@
 		"slug": "tables",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/tables.md"
 	},
+	"formatting/text": {
+		"title": "Text formatting",
+		"parent": "formatting",
+		"slug": "text",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/text.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
