@@ -309,6 +309,12 @@
 		"slug": "media",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/media.md"
 	},
+	"formatting/notices": {
+		"title": "Cautions, warnings, notes, and other notices",
+		"parent": "formatting",
+		"slug": "notices",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/notices.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
