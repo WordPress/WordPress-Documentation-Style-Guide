@@ -333,6 +333,12 @@
 		"slug": "procedures",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/procedures.md"
 	},
+	"formatting/tables": {
+		"title": "Tables",
+		"parent": "formatting",
+		"slug": "tables",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/tables.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
