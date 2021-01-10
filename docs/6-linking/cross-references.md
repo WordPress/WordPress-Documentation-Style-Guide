@@ -4,6 +4,13 @@ Cross-references link to information related to the content. For additional info
 
 ## References to other documents
 
+Write relevant and meaningful [link text]().
+
+**Examples**  
+[warning] Not Recommended:  [/warning]  
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
+
 ## Cross-references within generated reference documents
 
 ## Writing cross-references
