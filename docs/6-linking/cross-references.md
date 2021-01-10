@@ -7,9 +7,9 @@ Cross-references link to information related to the content. For additional info
 Write relevant and meaningful [link text]().
 
 **Examples**  
-[warning] Not Recommended:  [/warning]  
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: Click [here](https://wordpress.org/news/). [/warning]  
+[warning] Not Recommended: See [documentation](https://wordpress.org/support/). [/warning]  
+[tip] Recommended: For the latest release announcements, see [News and Announcements](https://wordpress.org/news/).  [/tip]  
 
 ## Cross-references within generated reference documents
 
