@@ -1,6 +1,6 @@
 # Cross-references
 
-Cross-references link to information related to the content. For additional information about internal and external references, see [Link text]() and [Capitalization in titles and headings]().
+Cross-references guide the reader to information related to the content. For additional information about internal and external references, see [Link text]() and [Capitalization in titles and headings]().
 
 ## References to other documents
 
@@ -41,3 +41,7 @@ While writing descriptions for what the cross-references link to, use *about* in
 [tip] Recommended: For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures](). [/tip]  
 
 ## Formatting cross-references
+
+- Don't enclose cross-references that are links in quotation marks.
+- In case the cross-reference isn't a link, use italics or quotation marks as appropriate.
+  -
