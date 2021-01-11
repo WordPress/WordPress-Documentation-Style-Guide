@@ -25,9 +25,11 @@ If the link downloads a file, explicitly mention it, and the file type.
 
 [tip] Recommended: Get started with the installation process by [downloading the latest WordPress ZIP file](https://wordpress.org/latest.zip). [/tip]  
 
-Don't include multiple links to the same document or article within a page. However, you can add a secondary link, if you're linking to a particular section of the document or if the page you're linking from is long. It is also acceptable to use a secondary link if there are multiple entry points to the document you're linking from. 
+Don't include multiple links to the same document or article within a page. However, you can add a secondary link, if you're linking to a particular section of the document or if the page you're linking from is long. It is also acceptable to use a secondary link if there are multiple entry points to the document you're linking from.
 
 ## Cross-references within generated reference documents
+
+When linking from one reference topic to another in generated reference documents, use the reference generator's standard linking syntax rather than hard-coding links within the reference, so that the links will change appropriately when the reference docs change.
 
 ## Writing cross-references
 
