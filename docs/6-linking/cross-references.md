@@ -47,9 +47,13 @@ While writing descriptions for what the cross-references link to, use *about* in
   - Use italics for cross-references that are titles of full-length works such as a movie, book, or paper that are unlinked.  
   **Examples**  
 
-  [tip] Recommended:  [/tip]  
+  [tip] Recommended: For more information, see the *American Heritage Dictionary*. [/tip]  
 
   - Use quotation marks for cross-references that are short works such as a blog post or a TV episode, and document sections.  
   **Examples**  
 
-  [tip] Recommended:  [/tip]  
+  [tip] Recommended: For more information, see "Compound modifiers". [/tip]  
+
+### Links to sections in the same page
+
+When you're linking to another section in the same page, mention that the link guides you to a different section on the same page.
