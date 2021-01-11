@@ -37,7 +37,7 @@ While writing descriptions for what the cross-references link to, use *about* in
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: For more information on procedural steps that provide instructions to achieve a particular task, see [Procedures](). [/warning]  
+[tip] Recommended: For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures](). [/tip]  
 
 ## Formatting cross-references
