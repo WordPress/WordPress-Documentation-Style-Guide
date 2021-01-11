@@ -45,14 +45,14 @@ While writing descriptions for what the cross-references link to, use *about* in
 - Don't enclose cross-references that are links in quotation marks.
 - In case the cross-reference isn't a link, use italics or quotation marks as appropriate.
   - Use italics for cross-references that are titles of full-length works such as a movie, book, or paper that are unlinked.  
-  **Examples**  
+    **Examples**  
 
-  [tip] Recommended: For more information, see the *American Heritage Dictionary*. [/tip]  
+    [tip] Recommended: For more information, see the *American Heritage Dictionary*. [/tip]  
 
   - Use quotation marks for cross-references that are short works such as a blog post or a TV episode, and document sections.  
-  **Examples**  
+    **Examples**  
 
-  [tip] Recommended: For more information, see "Compound modifiers". [/tip]  
+    [tip] Recommended: For more information, see "Compound modifiers". [/tip]  
 
 ### Links to sections in the same page
 
@@ -67,3 +67,11 @@ When you're linking to another section in the same page, mention that the link g
 When you're linking to another page on the same server, use root-relative URLs starting with `/`, even if you're linking to a page in the same directory as the page you're linking from.
 
 ### Links to pages on a different server
+
+- When you're linking to pages on a different server, use absolute URLs. Start the URL with `https` if the server you're linking to supports HTTPS. If the server doesn't support HTTPS, start the URL with `http`.
+- Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window.  
+
+**Examples**  
+
+[tip] Recommended: For more information, see the [American Heritage Dictionary (Opens in a new tab)](). [/tip]  
+- 
