@@ -57,3 +57,13 @@ While writing descriptions for what the cross-references link to, use *about* in
 ### Links to sections in the same page
 
 When you're linking to another section in the same page, mention that the link guides you to a different section on the same page.
+
+**Examples**  
+
+[tip] Recommended: In this document, see [References to other documents](). [/tip]  
+
+### Links to pages on the same server
+
+When you're linking to another page on the same server, use root-relative URLs starting with `/`, even if you're linking to a page in the same directory as the page you're linking from.
+
+### Links to pages on a different server
