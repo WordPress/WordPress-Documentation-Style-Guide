@@ -16,7 +16,7 @@ If the link text doesn't clearly specify as to why you're referring the reader t
 
 **Examples**  
 
-[warning] Not Recommended: For more information, see [WP-CLI Commands](https://developer.wordpress.org/cli/commands/) [/warning]  
+[warning] Not Recommended: For more information, see [WP-CLI Commands](https://developer.wordpress.org/cli/commands/). [/warning]  
 [tip] Recommended: For more information about all the available commands, see [WP-CLI Commands](https://developer.wordpress.org/cli/commands/). [/tip]  
 
 If the link downloads a file, explicitly mention it, and the file type.
@@ -29,8 +29,15 @@ Don't include multiple links to the same document or article within a page. Howe
 
 ## Cross-references within generated reference documents
 
-When linking from one reference topic to another in generated reference documents, use the reference generator's standard linking syntax rather than hard-coding links within the reference, so that the links will change appropriately when the reference docs change.
+In generated reference documents, while linking from one reference topic to another, use the standard linking syntax rather than hard-coding links within the reference, so that the links will change appropriately when the reference docs change.
 
 ## Writing cross-references
+
+While writing descriptions for what the cross-references link to, use *about* instead of *on*.
+
+**Examples**  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
 
 ## Formatting cross-references
