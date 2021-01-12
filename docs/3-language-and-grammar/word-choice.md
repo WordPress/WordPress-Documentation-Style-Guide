@@ -1,7 +1,7 @@
 # Word Choice
 
 Choose words that enhance readability and increase simplicity in your documentation.  
-For more information on writing simple, easy-to-understand documentation, refer [Style and Tone]().
+For more information about writing simple, easy-to-understand documentation, see [Style and Tone]().
 
 ## Spelling
 
