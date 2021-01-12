@@ -19,6 +19,10 @@ Use sentence-case capitalization in titles and headings. Capitalize the first wo
 
 Lowercase all other words and terms. Don't end the title or heading with a period. For example, *'Creating a block for the Gutenberg block editor'*.
 
+### Capitalization in references to titles and headings
+
+When linking to a title, heading, or subheading as a reference, use sentence-case capitalization even if the title or heading itself uses title case.
+
 ## Capitalization in indexes and glossaries
 
 Apart from proper nouns and official terminology, use lowercase for index and glossary terms. Use sentence case for glossary definitions.
