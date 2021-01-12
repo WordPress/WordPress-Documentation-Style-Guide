@@ -1,6 +1,9 @@
 # Link text
 
-
+Write detailed, expressive link text that describes where the reader will be guided and what the reader will see after following the link. Links should be coherent without the surrounding text.
+Links can be of two forms:
+- The exact text of the title, heading, or subheading you're linking to. For additional information about capitalizing such references, see [Capitalization in references to titles and headings]().
+- A description of the linked document or page, with standard text capitalization.
 
 ## General guidelines for link text
 
