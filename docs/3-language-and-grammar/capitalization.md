@@ -21,7 +21,11 @@ Lowercase all other words and terms. Don't end the title or heading with a perio
 
 ### Capitalization in references to titles and headings
 
-When linking to a title, heading, or subheading as a reference, use sentence-case capitalization even if the title or heading itself uses title case.
+When linking to a title, heading, or subheading as a reference from a document that follows this guide, use sentence-case capitalization even if the title or heading itself uses title case. That way, when the title or heading is eventually updated to sentence case, the reference will match.
+
+In references to titles, headings, or subheadings that don't follow this guide or external sources, retain the original capitalization. For additional information about formatting third-party links, see [Formatting cross-references]().
+
+For more information about internal and external references, see [Cross-references]().
 
 ## Capitalization in indexes and glossaries
 
