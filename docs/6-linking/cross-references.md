@@ -19,7 +19,7 @@ If the link text doesn't clearly specify as to why you're referring the reader t
 [warning] Not Recommended: For more information, see [WP-CLI Commands](https://developer.wordpress.org/cli/commands/). [/warning]  
 [tip] Recommended: For more information about all the available commands, see [WP-CLI Commands](https://developer.wordpress.org/cli/commands/). [/tip]  
 
-If the link downloads a file, explicitly mention it, and the file type.
+If the link downloads a file, explicitly mention it, and the type of file being downloaded.
 
 **Examples**  
 
