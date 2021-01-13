@@ -30,6 +30,8 @@ For additional information about link text, see [Cross-references]().
 [warning] Not Recommended (HTML): See trademark policy at `<a href="https://wordpressfoundation.org/trademark-policy/">https://wordpressfoundation.org/trademark-policy/</a>`. [/warning]  
 [tip] Recommended (HTML): For more information about WordPress trademarks, see the `<a href="https://wordpressfoundation.org/trademark-policy/">Trademark Policy for WordPress</a>.`. [/tip]  
 
+[warning] Not Recommended (Markdown):  See trademark policy at `[https://wordpressfoundation.org/trademark-policy/](https://wordpressfoundation.org/trademark-policy/)`. [/warning]  
+[tip] Recommended (Markdown): For additional information about WordPress trademarks, see the `[Trademark Policy for WordPress](https://wordpressfoundation.org/trademark-policy/).` [/tip]  
 
 ## Punctuation with links
 
