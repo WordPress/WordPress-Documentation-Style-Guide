@@ -5,6 +5,8 @@ Links can be of two forms:
 - The exact text of the title, heading, or subheading you're linking to. For additional information about capitalizing such references, see [Capitalization in references to titles and headings]().
 - A description of the linked document or page, with standard text capitalization.
 
+For additional information about link text, see [Cross-references]().
+
 ## General guidelines for link text
 
 - You can rewrite or rephrase a sentence to include a phrase to get well-articulated and clear link text.
@@ -24,6 +26,10 @@ Links can be of two forms:
 [warning] Not Recommended (Markdown): Click `[here]()`. [/warning]  
 [warning] Not Recommended (Markdown): Want more? Go to `[this page!]()`. [/warning]  
 [tip] Recommended (Markdown): For more information, see `[Word choice]()`. [/tip]  
+
+[warning] Not Recommended (HTML): See trademark policy at `<a href="https://wordpressfoundation.org/trademark-policy/">https://wordpressfoundation.org/trademark-policy/</a>`. [/warning]  
+[tip] Recommended (HTML): For more information about WordPress trademarks, see the `<a href="https://wordpressfoundation.org/trademark-policy/">Trademark Policy for WordPress</a>.`. [/tip]  
+
 
 ## Punctuation with links
 
