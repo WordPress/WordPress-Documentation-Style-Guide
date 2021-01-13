@@ -12,7 +12,13 @@ Links can be of two forms:
 - Don't use the phrase *click here* or *this document*. It impedes scannability and accessibility.
 - Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window. For more information, see [Links to pages on a different domain or server]().
 - Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Cross references]().
-- If the link downloads a file, explicitly mention it, and the type of file being downloaded. 
+- If the link downloads a file, explicitly mention it, and the type of file being downloaded.
+- If you're referencing a link with an abbreviation, include both the spelled-out term or phrase and the abbreviation in the link text. For example, link to [WordPress Command Line Interface (WP-CLI)](https://make.wordpress.org/cli/), not [WordPress Command Line Interface](https://make.wordpress.org/cli/) (WP-CLI).
+
+**Examples**  
+
+[warning] Not Recommended (HTML):  [/warning]  
+[tip] Recommended (HTML):  [/tip]  
 
 ## Punctuation with links
 
