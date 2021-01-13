@@ -10,6 +10,9 @@ Links can be of two forms:
 - You can rewrite or rephrase a sentence to include a phrase to get well-articulated and clear link text.
 - Don't use a URL as link text. Instead, use the page title or a description of the page.
 - Don't use the phrase *click here* or *this document*. It impedes scannability and accessibility.
+- Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window. For more information, see [Links to pages on a different domain or server]().
+- Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Cross references]().
+- If the link downloads a file, explicitly mention it, and the type of file being downloaded. 
 
 ## Punctuation with links
 
