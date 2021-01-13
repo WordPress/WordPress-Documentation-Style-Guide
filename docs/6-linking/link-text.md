@@ -7,6 +7,9 @@ Links can be of two forms:
 
 ## General guidelines for link text
 
+- You can rewrite or rephrase a sentence to include a phrase to get well-articulated and clear link text.
+- Don't use a URL as link text. Instead, use the page title or a description of the page.
+- Don't use the phrase *click here* or *this document*. It impedes scannability and accessibility.
 
 ## Punctuation with links
 
