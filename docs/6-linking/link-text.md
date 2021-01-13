@@ -21,9 +21,9 @@ Links can be of two forms:
 [warning] Not Recommended (HTML): Want more? Go to `<a href="">this page!</a>`. [/warning]  
 [tip] Recommended (HTML): For more information, see `<a href="">Word choice</a>.`. [/tip]  
 
-[warning] Not Recommended (Markdown): Click [here](). [/warning]  
-[warning] Not Recommended (Markdown): Want more? Go to [Word choice](). [/warning]  
-[tip] Recommended (Markdown): For more information, see [Word choice](). [/tip]  
+[warning] Not Recommended (Markdown): Click `[here]()`. [/warning]  
+[warning] Not Recommended (Markdown): Want more? Go to `[this page!]()`. [/warning]  
+[tip] Recommended (Markdown): For more information, see `[Word choice]()`. [/tip]  
 
 ## Punctuation with links
 
