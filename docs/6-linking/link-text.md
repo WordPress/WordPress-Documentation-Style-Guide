@@ -17,8 +17,13 @@ Links can be of two forms:
 
 **Examples**  
 
-[warning] Not Recommended (HTML):  [/warning]  
-[tip] Recommended (HTML):  [/tip]  
+[warning] Not Recommended (HTML): Click `<a href="">here</a>`. [/warning]  
+[warning] Not Recommended (HTML): Want more? Go to `<a href="">this page!</a>`. [/warning]  
+[tip] Recommended (HTML): For more information, see `<a href="">Word choice</a>.`. [/tip]  
+
+[warning] Not Recommended (Markdown): Click [here](). [/warning]  
+[warning] Not Recommended (Markdown): Want more? Go to [Word choice](). [/warning]  
+[tip] Recommended (Markdown): For more information, see [Word choice](). [/tip]  
 
 ## Punctuation with links
 
@@ -29,5 +34,5 @@ If you have punctuation immediately before or after a link, insert the punctuati
 [warning] Not Recommended (HTML): For the latest release announcements, see `<a href="https://wordpress.org/news/">News and Announcements.</a>` [/warning]  
 [tip] Recommended (HTML): For the latest release announcements, see `<a href="https://wordpress.org/news/">News and Announcements</a>.` [/tip]  
 
-[warning] Not Recommended (Markdown): For the latest release announcements, see [News and Announcements.](https://wordpress.org/news/) [/warning]  
-[tip] Recommended (Markdown): For the latest release announcements, see [News and Announcements](https://wordpress.org/news/). [/tip]  
+[warning] Not Recommended (Markdown): For the latest release announcements, see `[News and Announcements.](https://wordpress.org/news/)` [/warning]  
+[tip] Recommended (Markdown): For the latest release announcements, see `[News and Announcements](https://wordpress.org/news/).` [/tip]  
