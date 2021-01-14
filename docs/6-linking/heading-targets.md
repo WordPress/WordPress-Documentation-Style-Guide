@@ -26,6 +26,19 @@ To add an anchor to a heading in HTML, do the following:
 <h2>Determining plugin and content directories</h2>
  ```
 [/warning]  
+[tip] Acceptable:  
+```html
+<h2 id="determining-plugin-and-content-directories">Determining plugin and content directories</h2>
+```
+[/tip]  
+[tip] Recommended:  
+```html
+<section id="determining-plugin-and-content-directories">
+<h2>Determining plugin and content directories</h2>
+...
+</section>
+```
+[/tip]  
 
 {% Markdown %}  
 To add an anchor to a heading in Markdown, do the following:  
