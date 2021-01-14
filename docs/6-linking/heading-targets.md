@@ -19,12 +19,39 @@ To add an anchor to a heading in HTML, do the following:
 ```
 [/warning]  
 
-{% Markdown %}
+{% Markdown %}  
 To add an anchor to a heading in Markdown, do the following:  
-- Add `{:#ID_OF_ANCHOR}` to the end of the line that the heading is on. Replace *`ID_OF_ANCHOR`* with the ID for this heading.
+- Add `{:#ID_OF_ANCHOR}` after the heading, to the end of the line that the heading is on. Replace *`ID_OF_ANCHOR`* with the ID for this heading.
 - Use lowercase for `id` values.
 - Insert hyphens between words.
 
+**Examples**  
+
+[warning] Not Recommended:  
 ```markdown
+## Determining plugin and content directories  
+{: id="ID_OF_ANCHOR" }
 ```
+[/warning]  
+[warning] Not Recommended:  
+```markdown
+## Determining plugin and content directories {: id='ID_OF_ANCHOR' }
+```
+[/warning]  
+[tip] Acceptable:  
+```markdown
+## Determining plugin and content directories {: id="determining-directories" }
+```
+[/tip]  
+[tip] Recommended:  
+```markdown
+## Determining plugin and content directories {: id="determining-plugin-and-content-directories" }
+```
+[/tip]  
+[tip] Recommended:  
+```markdown
+## Determining plugin and content directories {: id="determining-plugin-content-directories" }
+```
+[/tip]  
+
 {% end %}
