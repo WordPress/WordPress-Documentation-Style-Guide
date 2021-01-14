@@ -4,9 +4,7 @@ When you're including an image that is served from the same domain as your docum
 
 {% codetabs %}  
 {% HTML %}  
-
 Insert the URL in the `src` attribute of the `<img>` element:
-
 ```html
 <img
   src="/assets/images/wapuu.png"
@@ -14,6 +12,7 @@ Insert the URL in the `src` attribute of the `<img>` element:
 />
 ```
 {% Markdown %}
+Insert the URL in parentheses after the image's alt text:
 ```markdown
 ![The WordPress mascot Wapuu.](/assets/images/wapuu.png)
 ```
