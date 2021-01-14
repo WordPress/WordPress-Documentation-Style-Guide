@@ -13,10 +13,18 @@ To add an anchor to a heading in HTML, do the following:
 - Use lowercase for `id` values.
 - Insert hyphens between words.
 
+**Examples**  
+
 [warning] Not Recommended:  
 ```html
-
+<h2><a name="Determining_Plugin_And_Content_Directories">Determining plugin and content directories</a></h2>
 ```
+[/warning]  
+[warning] Not Recommended:  
+```html
+<a name="Determining_Plugin_And_Content_Directories"></a>
+<h2>Determining plugin and content directories</h2>
+ ```
 [/warning]  
 
 {% Markdown %}  
