@@ -32,7 +32,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Document Structure                 |   ✔️ (⚠️ while publishing)   |
 | Changes to the Guide (New Component)|  ✔️ (⚠️ while publishing)   |
 | Encoding                           |   ✔️   |
-| External Sources                   |   🔄   |
+| External Sources                   |   🔄 (⚠️ while publishing)   |
 | Facts                              |   ✔️   |
 | Fonts                              |   ✔️ (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
