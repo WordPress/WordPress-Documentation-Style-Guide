@@ -24,7 +24,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Other Resources                    |   🔄   |
 | Changelog                          |   ✔️   |
 
-### Document Guidelines 🔄
+### Document Guidelines ✔️
 
 | Component                          | Status  |
 |------------------------------------|---------|
@@ -32,7 +32,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Document Structure                 |   ✔️ (⚠️ while publishing)   |
 | Changes to the Guide (New Component)|  ✔️ (⚠️ while publishing)   |
 | Encoding                           |   ✔️   |
-| External Sources                   |   🔄 (⚠️ while publishing)   |
+| External Sources                   |   ✔️ (⚠️ while publishing)   |
 | Facts                              |   ✔️   |
 | Fonts                              |   ✔️ (Moved to Formatting)   |
 | Global Audience                    |   ✔️   |
@@ -43,7 +43,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Page Layout                        |   ✔️   |
 | Political Correctness              |   ✔️   |
 | Protocols                          |   ✔️   |
-| Security                           |         |
+| Security                           |   ✔️   |
 | Sentence Structure                 |   ✔️   |
 | Succinct Writing                   |   ✔️   |
 | Tone & Style                       |   ⚠️   |
