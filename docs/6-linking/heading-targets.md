@@ -4,7 +4,7 @@ Heading anchors are useful for document sections that are frequently linked to. 
 
 ## Adding an anchor
 
-For content published on wordpress.org, WordPress may automatically create a link target for headings by default. For additional information about creating heading anchors on WordPress, see [Page jumps](https://wordpress.org/support/article/page-jumps/).  
+[info] For content published on wordpress.org, WordPress may automatically create a link target for headings by default. For additional information about creating heading anchors on WordPress, see [Page jumps](https://wordpress.org/support/article/page-jumps/). [/info]
 
 {% codetabs %}  
 {% HTML %}  
@@ -39,7 +39,6 @@ To add an anchor to a heading in HTML, do the following:
 </section>
 ```
 [/tip]  
-
 {% Markdown %}  
 To add an anchor to a heading in Markdown, do the following:  
 - Add `{:#ID_OF_ANCHOR}` after the heading, to the end of the line that the heading is on. Replace *`ID_OF_ANCHOR`* with the ID for this heading.
@@ -74,5 +73,10 @@ To add an anchor to a heading in Markdown, do the following:
 ## Determining plugin and content directories {: id="determining-plugin-content-directories" }
 ```
 [/tip]  
-
 {% end %}
+
+## Changing an anchor
+
+[info] For content published on wordpress.org, WordPress may automatically create a link target for headings by default. For additional information about creating heading anchors on WordPress, see [Page jumps](https://wordpress.org/support/article/page-jumps/). [/info]
+
+To change an anchor, you need to create a custom anchor that uses the older ID string. A custom anchor decreases the possibility of breaking existing links if the heading text changes.
