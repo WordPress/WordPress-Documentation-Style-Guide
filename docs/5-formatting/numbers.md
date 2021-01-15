@@ -150,7 +150,7 @@ Denote percentages with the numeral and a percent sign (%) after it, without a s
 
 ## Currency
 
-Mention to the reader distinctly what country's currency that you're referring to. For example, the dollar sign ($) can be mistaken for US dollars, Canadian dollars, Australian dollars, and multiple other currencies. Use [ISO defined country or region codes](https://en.wikipedia.org/wiki/ISO_4217#Active_codes) to depict international currencies, if possible.
+Mention to the reader distinctly what country's currency that you're referring to. For example, the dollar sign ($) can be mistaken for US dollars, Canadian dollars, Australian dollars, and multiple other currencies. Use [ISO defined country or region codes](https://wikipedia.org/wiki/ISO_4217#Active_codes) to depict international currencies, if possible.
 
 When you're referencing specific amounts of money, use the currency code, followed by the amount, with no space.
 
@@ -196,7 +196,7 @@ Use a lowercase *x* between the numerals in the dimensions, with no space betwee
 
 ## Exponents
 
-Write exponents using [standard mathematical notation](https://en.wikipedia.org/wiki/Exponentiation) *b<sup>n</sup>*, where the base is *b* and the exponent or power is *n*.
+Write exponents using [standard mathematical notation](https://wikipedia.org/wiki/Exponentiation) *b<sup>n</sup>*, where the base is *b* and the exponent or power is *n*.
 
 **Example**  
 
