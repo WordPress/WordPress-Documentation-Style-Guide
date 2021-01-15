@@ -79,4 +79,21 @@ To add an anchor to a heading in Markdown, do the following:
 
 [info] For content published on wordpress.org, WordPress may automatically create a link target for headings by default. For additional information about creating heading anchors on WordPress, see [Page jumps](https://wordpress.org/support/article/page-jumps/). [/info]
 
-To change an anchor, you need to create a custom anchor that uses the older ID string. A custom anchor decreases the possibility of breaking existing links if the heading text changes.
+To change an anchor, you need to create a custom anchor that uses the older ID string. A custom anchor decreases the possibility of breaking existing links if the heading text changes. You can find the ID string by inspecting the heading.
+
+{% codetabs %}  
+{% HTML %}  
+
+If you change a heading from *Custom template files* to *Custom post type template files*, then add a custom anchor that uses the older ID string and formatting.
+
+**Example**  
+
+[tip] Recommended:  
+```html
+<section id="custom_template_files">
+<h2>Custom post type template files</h2>
+...
+</section>
+```
+[/tip]  
+{% Markdown %}  
