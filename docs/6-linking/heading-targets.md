@@ -49,28 +49,33 @@ To add an anchor to a heading in Markdown, do the following:
 
 [warning] Not Recommended:  
 ```markdown
-## Determining plugin and content directories  
-{: id="ID_OF_ANCHOR" }
+## Determining plugin and content directories  {: id="ID_OF_ANCHOR" }
 ```
 [/warning]  
-[warning] Not Recommended: (Note anchor spacing)  
+[warning] Not Recommended: (Note single quotation marks)  
 ```markdown
 ## Determining plugin and content directories {: id='ID_OF_ANCHOR' }
 ```
 [/warning]  
-[tip] Acceptable: (Note anchor spacing)  
+[warning] Not Recommended:  
+```markdown
+## Determining plugin and content directories  
+{:#ID_OF_ANCHOR}  
+```
+[/warning]  
+[tip] Acceptable:  
 ```markdown
 ## Determining plugin and content directories {: id="determining-directories" }
 ```
 [/tip]  
 [tip] Recommended:  
 ```markdown
-## Determining plugin and content directories {: id="determining-plugin-and-content-directories" }
+## Determining plugin and content directories {:#determining-plugin-and-content-directories}
 ```
 [/tip]  
 [tip] Recommended:  
 ```markdown
-## Determining plugin and content directories {: id="determining-plugin-content-directories" }
+## Determining plugin and content directories {:#determining-plugin-content-directories}
 ```
 [/tip]  
 {% end %}
