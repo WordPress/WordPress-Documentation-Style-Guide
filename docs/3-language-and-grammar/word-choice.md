@@ -13,7 +13,7 @@ If you're doubtful of a particular word, first refer the [Word List](); if it's 
 [warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
 [tip] Recommended: American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
 
-For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling).
+For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling).
 
 ## Technical terms
 

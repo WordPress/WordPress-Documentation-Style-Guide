@@ -46,4 +46,4 @@ Double contractions, including slang and archaic, are difficult to understand. A
 ## Additional Resources
 
 Contractions in "Abbreviations"
-[Wikipedia - List of English Contractions](https://en.wikipedia.org/wiki/Wikipedia:List_of_English_contractions)
+[Wikipedia - List of English Contractions](https://wikipedia.org/wiki/Wikipedia:List_of_English_contractions)

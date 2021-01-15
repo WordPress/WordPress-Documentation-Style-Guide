@@ -29,4 +29,4 @@ Use first person (*I, we*) only when absolutely needed. First person may be used
 
 ## Additional resources
 
-[Wikipedia - Grammatical Person](https://en.wikipedia.org/wiki/Grammatical_person)
+[Wikipedia - Grammatical Person](https://wikipedia.org/wiki/Grammatical_person)
