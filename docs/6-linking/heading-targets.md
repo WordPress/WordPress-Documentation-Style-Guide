@@ -97,3 +97,12 @@ If you change a heading from *Custom template files* to *Custom post type templa
 ```
 [/tip]  
 {% Markdown %}  
+
+If you change a heading from *Custom template files* to *Custom post type template files*, then add a custom anchor that uses the older ID string and formatting.
+
+**Example**  
+
+[tip] Recommended:  
+```markdown
+```
+[/tip]
