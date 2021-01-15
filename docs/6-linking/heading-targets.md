@@ -53,12 +53,12 @@ To add an anchor to a heading in Markdown, do the following:
 {: id="ID_OF_ANCHOR" }
 ```
 [/warning]  
-[warning] Not Recommended:  
+[warning] Not Recommended: (Note anchor spacing)  
 ```markdown
 ## Determining plugin and content directories {: id='ID_OF_ANCHOR' }
 ```
 [/warning]  
-[tip] Acceptable:  
+[tip] Acceptable: (Note anchor spacing)  
 ```markdown
 ## Determining plugin and content directories {: id="determining-directories" }
 ```
@@ -104,5 +104,7 @@ If you change a heading from *Custom template files* to *Custom post type templa
 
 [tip] Recommended:  
 ```markdown
+## Custom post type template files {:#custom_template_files}
 ```
 [/tip]
+{% end %}
