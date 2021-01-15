@@ -13,7 +13,9 @@ Don't copy content from external sources because it might be copyright infringem
 
 ## Avoiding third-party content
 
-Avoid copying third-party content, unless you're sure that you your organization own the assets or the rights to use those assets. Avoid copying content from these sources:
+Avoid copying third-party content, unless you're sure that you or your organization own the assets, or the rights to use those assets. However, you can reference external third-party content by linking to it. For additional information about linking to other sites, see [External links]().
+
+Avoid copying content from these sources:
 - Third-party sources: Avoid copying from third-party sources which include but are not limited to documentation, websites, books, images, videos, papers, blogs, podcasts, and other works.
 - Reference sources: Avoid copying from dictionaries, encyclopedias, and Wikipedia.
 - Open source product documentation: Open source software (OSS) has different license options, which can range from no reuse without attribution, to complete freedom to use the material; each license is different and governs different aspects of a project. It's not safe to assume that you can reuse this content freely. When in doubt, don't use their content.
