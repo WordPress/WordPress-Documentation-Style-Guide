@@ -17,7 +17,7 @@ Avoid copying third-party content, unless you're sure that you your organization
 - Third-party sources: Avoid copying from third-party sources which include but are not limited to documentation, websites, books, images, videos, papers, blogs, podcasts, and other works.
 - Reference sources: Avoid copying from dictionaries, encyclopedias, and Wikipedia.
 - Open source product documentation: Open source software (OSS) has different license options, which can range from no reuse without attribution, to complete freedom to use the material; each license is different and governs different aspects of a project. It's not safe to assume that you can reuse this content freely. When in doubt, don't use their content.
-
+- GitHub: Users have the ability to license their repository and content to change and distribute open source software. Each license is different and governs different aspects of a project. It's not safe to assume that you can reuse this content freely. When in doubt, don't use their content.
 
 ## Reusing content
 
