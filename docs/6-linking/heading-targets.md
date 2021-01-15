@@ -111,5 +111,5 @@ If you change a heading from *Custom template files* to *Custom post type templa
 ```markdown
 ## Custom post type template files {:#custom_template_files}
 ```
-[/tip]
+[/tip]  
 {% end %}

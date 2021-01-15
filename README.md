@@ -138,7 +138,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |----------------------------|--------|
 | Cross-references           |   ✔️ (⚠️ while publishing)   |
 | External links             |        |
-| Heading links              |   🔄   |
+| Heading links              |   ✔️   |
 | Image links                |   ✔️   |
 | Link text                  |   ✔️ (⚠️ while publishing)   |
 
