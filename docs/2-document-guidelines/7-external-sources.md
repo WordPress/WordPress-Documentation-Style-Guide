@@ -13,7 +13,12 @@ Don't copy content from external sources because it might be copyright infringem
 
 ## Avoiding third-party content
 
-
+Avoid copying third-party content, unless you're sure that you your organization own the assets or the rights to use those assets. Avoid copying content from these sources:
+- Third-party sources:
+- Reference sources:
+- Licensed documentation:
+- Open source product documentation:
+- GitHub: 
 
 ## Reusing content
 
