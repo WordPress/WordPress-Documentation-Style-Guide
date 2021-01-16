@@ -394,6 +394,12 @@
 		"slug": "image-links",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/image-links.md"
 	},
+	"linking/link-text": {
+		"title": "Link text",
+		"parent": "linking",
+		"slug": "link-text",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/link-text.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
