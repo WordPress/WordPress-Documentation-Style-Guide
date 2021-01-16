@@ -23,4 +23,4 @@ Avoid copying content from these sources:
 
 ## Reusing content
 
-You can reuse content if you or your organization are the source of that content or have the rights to it.
+You can reuse content if you or your organization are the source of that content, or have the rights to it.
