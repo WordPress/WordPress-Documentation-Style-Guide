@@ -388,6 +388,12 @@
 		"slug": "heading-targets",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/heading-targets.md"
 	},
+	"linking/image-links": {
+		"title": "Image links",
+		"parent": "linking",
+		"slug": "image-links",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/image-links.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
