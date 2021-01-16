@@ -376,6 +376,12 @@
 		"slug": "cross-references",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/cross-references.md"
 	},
+	"linking/external-links": {
+		"title": "External links",
+		"parent": "linking",
+		"slug": "external-links",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/external-links.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
