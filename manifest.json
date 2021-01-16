@@ -382,6 +382,12 @@
 		"slug": "external-links",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/external-links.md"
 	},
+	"linking/heading-targets": {
+		"title": "Headings as link targets",
+		"parent": "linking",
+		"slug": "heading-targets",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/heading-targets.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
