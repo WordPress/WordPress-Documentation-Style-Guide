@@ -400,6 +400,13 @@
 		"slug": "link-text",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/link-text.md"
 	},
+	"developer-content": {
+		"title": "Developer content",
+		"slug": "developer-content",
+		"parent": null,
+		"order": 6,
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/README.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
