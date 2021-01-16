@@ -148,21 +148,22 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |----------------------------|--------|
 | Activities                 |        |
 | Buttons                    |        |
-| Code Snippets, Code Blocks |        |
-| Command Line Interface     |        |
+| Code snippets, code blocks |        |
+| Command line interface     |        |
 | Dialogs                    |        |
-| Menus & Dropdowns          |        |
-| Pop-ups & Alerts           |        |
+| Menus and dropdowns        |        |
+| Pop-ups and alerts           |        |
 | Tabs                       |        |
 | Terminology                |        |
 | UI elements                |        |
 | Windows                    |        |
 
-### Developer content
+### Developer content 🔄
 
 | Component   | Status |
 |-------------|--------|
-| Code Snippets, Code Blocks |      |
+| Code in text (New component) |   🔄   |
+| Code snippets, code blocks |      |
 | CSS         |        |
 | HTML        |        |
 | JS          |        |
@@ -186,4 +187,4 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 
 | Component | Status |
 |-----------|--------|
-| Media > Videos      |        |
+| Media > Videos |        |
