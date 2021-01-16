@@ -6,77 +6,77 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 - Technical writer: Atharva Dhekne ([@tacitonic](https://github.com/tacitonic))
 - Mentors: Felipe Elia ([@felipeelia](https://github.com/felipeelia)) and Milana Cap ([@zzap](https://github.com/zzap))
 
-## Proposed Elements/Components in the Style Guide
+## Proposed elements/components in the style guide
 
 | Status | Description |
 |---------|-------------|
 | 🔄      | In progress |
 | ✔️      | Completed   |
 | ❌      | Discarded   |
-| ⚠️      | Needs Changes |
+| ⚠️      | Needs changes |
 
-### Style Guide Introduction (New Section) 🔄
+### Style guide introduction (New section) 🔄
 
 | Component                          | Status  |
 |------------------------------------|---------|
-| WordPress Style Guide              |   🔄 (⚠️ while publishing)   |
-| Style Guide Highlights             |         |
-| Other Resources                    |   🔄   |
+| WordPress style guide              |   🔄 (⚠️ while publishing)   |
+| Style guide highlights             |         |
+| Other resources                    |   🔄   |
 | Changelog                          |   ✔️   |
 
-### Document Guidelines 🔄
+### Document guidelines 🔄
 
 | Component                          | Status  |
 |------------------------------------|---------|
 | Accessibility                      |   ✔️ (⚠️ while publishing)   |
-| Document Structure                 |   ✔️ (⚠️ while publishing)   |
-| Changes to the Guide (New Component)|  ✔️ (⚠️ while publishing)   |
+| Document structure                 |   ✔️ (⚠️ while publishing)   |
+| Changes to the guide (New component)|  ✔️ (⚠️ while publishing)   |
 | Encoding                           |   ✔️   |
-| External Sources                   |   ✔️ (⚠️ while publishing)   |
+| External sources                   |   ✔️ (⚠️ while publishing)   |
 | Facts                              |   ✔️   |
 | Fonts                              |   ✔️ (Moved to Formatting)   |
-| Global Audience                    |   ✔️   |
+| Global audience                    |   ✔️   |
 | Inclusivity                        |   ✔️ (⚠️ while publishing)   |
-| Legality, Licensing, Trademarks    |   ✔️ (Moved to Formatting)   |
-| Multi-platform Accessibility       |   ✔️   |
-| Non-ambiguous, No Excessive Claims |   ✔️   |
-| Page Layout                        |   ✔️   |
-| Political Correctness              |   ✔️   |
+| Legality, licensing, trademarks    |   ✔️ (Moved to Formatting)   |
+| Multi-platform accessibility       |   ✔️   |
+| Non-ambiguous, no excessive claims |   ✔️   |
+| Page layout                        |   ✔️   |
+| Political correctness              |   ✔️   |
 | Protocols                          |   ✔️   |
 | Security                           |   ✔️   |
-| Sentence Structure                 |   ✔️   |
-| Succinct Writing                   |   ✔️   |
-| Tone & Style                       |   ⚠️   |
+| Sentence structure                 |   ✔️   |
+| Succinct writing                   |   ✔️   |
+| Tone and style                     |   ⚠️   |
 | Unbiased                           |   ✔️   |
 
-### Language & Grammar ✔️
+### Language and grammar ✔️
 
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations & acronyms                          |   ✔️ (⚠️ while publishing)   |
-| Affirmation & Negation                            |   ❌   |
+| Abbreviations and acronyms                        |   ✔️ (⚠️ while publishing)   |
+| Affirmation and negation                          |   ❌   |
 | Articles                                          |   ✔️ (⚠️ while publishing)   |
 | Capitalization                                    |   ✔️ (⚠️ while publishing)   |
 | Clause                                            |   ✔️   |
 | Contractions (New component)                      |   ✔️ (⚠️ while publishing)   |
-| Direct/Indirect speech                            |   ✔️   |
+| Direct/indirect speech                            |   ✔️   |
 | Genders                                           |   ✔️ (Moved to Pronouns)   |
 | Glossary                                          |   (Moved to Word Usage Dictionary)   |
-| Grammatical Person                                |   ✔️   |
+| Grammatical person                                |   ✔️   |
 | Nouns                                             |   ✔️ (⚠️ while publishing)   |
 | Plurals (New component)                           |   ✔️ (⚠️ while publishing)   |
 | Possessives (New component)                       |   ✔️   |
-| Prefixes & suffixes                               |   ✔️ (⚠️ while publishing)   |
+| Prefixes and suffixes                             |   ✔️ (⚠️ while publishing)   |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️ (⚠️ while publishing)   |
 | Referencing                                       |   (Moved to Formatting)   |
-| Slang & jargon                                    |   ✔️ (Moved to Word Choice)   |
+| Slang and jargon                                  |   ✔️ (Moved to Word Choice)   |
 | Spellings                                         |   ✔️ (Moved to Word Choice)   |
 | Technical terms                                   |   ✔️ (Moved to Word Choice)   |
 | Tense                                             |   ✔️ (⚠️ while publishing)   |
 | Verbs                                             |   ✔️ (⚠️ while publishing)   |
 | Voice                                             |   ✔️   |
-| Word Choice (New component)                       |   ✔️ (⚠️ while publishing)   |
+| Word choice (New component)                       |   ✔️ (⚠️ while publishing)   |
 
 ### Punctuation ✔️
 
@@ -142,7 +142,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Image links                |   ✔️   |
 | Link text                  |   ✔️ (⚠️ while publishing)   |
 
-### User Interface
+### User interface (Moved to Developer content)
 
 | Component                  | Status |
 |----------------------------|--------|
