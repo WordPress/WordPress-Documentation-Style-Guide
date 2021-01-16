@@ -87,12 +87,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Commas                       |   ✔️ (⚠️ while publishing)   |
 | Dashes (split from Hyphens)  |   ✔️ (⚠️ while publishing)   |
 | Ellipses                     |   ✔️   |
-| Exclamation Points           |   ✔️ (⚠️ while publishing)   |
+| Exclamation points           |   ✔️ (⚠️ while publishing)   |
 | Hyphens                      |   ✔️ (⚠️ while publishing)   |
 | Parentheses                  |   ✔️ (⚠️ while publishing)   |
 | Periods                      |   ✔️ (⚠️ while publishing)   |
-| Question Marks               |   ✔️   |
-| Quotation Marks (split from Apostrophes)|   ✔️   |
+| Question marks               |   ✔️   |
+| Quotation marks (split from Apostrophes)|   ✔️   |
 | Semicolons (split from colons)|   ✔️   |
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
@@ -100,36 +100,36 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
-| Abstracts, Introduction, Prefaces                                 |   ❌   |
-| Brand Names, Product Names                                        |   ✔️   |
+| Abstracts, introduction, prefaces                                 |   ❌   |
+| Brand names, product names                                        |   ✔️   |
 | Captions                                                          |   ✔️ (Moved to Media)   |
-| Code Snippets, Code Blocks                                        |   (Moved to Code)   |
+| Code snippets, code blocks                                        |   (Moved to Code)   |
 | Currencies                                                        |   ✔️ (Moved to Numbers)   |
-| Date & Time, Time Zones, Places                                   |   ✔️ (⚠️ while publishing)   |
+| Date and time, time zones, places                                 |   ✔️ (⚠️ while publishing)   |
 | Examples and scenarios (New component)                            |   ✔️ (⚠️ while publishing)   |
 | Filenames                                                         |   ✔️ (⚠️ while publishing)   |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
-| Headings & Titles                                                 |   ✔️ (⚠️ while publishing)   |
-| Highlighting (Bold, Italics, Underline, Strikethrough, Quotation) |   ✔️ (Moved to text formatting)   |
+| Headings and titles                                               |   ✔️ (⚠️ while publishing)   |
+| Highlighting (Bold, italics, underline, strikethrough, quotation) |   ✔️ (Moved to Text formatting)   |
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Key terms (New component)                                         |   ✔️   |
-| Links & URLs                                                      |   (Moved to Linking)   |
-| Lists, Bullet Points, Numbering                                   |   ✔️ (⚠️ while publishing)   |
-| Media (Images, Videos) & Illustrations                            |   ✔️ (⚠️ while publishing)   |
-| Notices (Notes, Warnings, Tips)                                   |   ✔️ (⚠️ while publishing)   |
+| Links and URLs                                                    |   (Moved to Linking)   |
+| Lists, bullet points, numbering                                   |   ✔️ (⚠️ while publishing)   |
+| Media (Images, videos) and illustrations                          |   ✔️ (⚠️ while publishing)   |
+| Notices (Notes, warnings, tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
-| Phone Numbers                                                     |   ✔️ (⚠️ while publishing)   |
-| Polyglots, Translation, Language Scripts                          |   ✔️   |
+| Phone numbers                                                     |   ✔️ (⚠️ while publishing)   |
+| Polyglots, translation, language scripts                          |   ✔️   |
 | Referencing                                                       |   ✔️ (Moved to Linking)   |
 | Spacing                                                           |   ✔️ (Moved to text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
 | Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
-| Trademarks, Copyrights, Patents, Citations                        |   ✔️ (⚠️ while publishing)   |
-| Tutorials & Procedures                                            |   ✔️ (⚠️ while publishing)   |
-| Typography & Fonts                                                |   ✔️ (Moved to text formatting)   |
+| Trademarks, copyrights, patents, citations                        |   ✔️ (⚠️ while publishing)   |
+| Tutorials and procedures                                          |   ✔️ (⚠️ while publishing)   |
+| Typography and fonts                                              |   ✔️ (Moved to text formatting)   |
 | UI elements                                                       |   (Moved to User Interface)   |
-| Units of Measurement                                              |   ✔️ (⚠️ while publishing)   |
+| Units of measurement                                              |   ✔️ (⚠️ while publishing)   |
 | Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
 
 ### Linking (New section) 🔄
