@@ -6,9 +6,9 @@ This page explains about formatting code in standard text sentences. For more in
 
 ## Method names
 
-When you refer to a method name in text, omit the class name except where including it would prevent ambiguity.
+When you refer to a method name in text, omit the class name except where including it would prevent ambiguity. Insert empty parentheses at the end of the method name to indicate that it's a method.
 
 **Examples**  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:   [/tip]  
+[warning] Not Recommended: To delete a file or directory, call the `WP_Filesystem_ftpsockets::delete()` method. [/warning]  
+[tip] Recommended: To delete a file or directory, call the `delete()` method. [/tip]  
