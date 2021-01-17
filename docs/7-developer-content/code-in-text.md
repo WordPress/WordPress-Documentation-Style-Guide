@@ -8,25 +8,24 @@ This page explains about formatting code in standard text sentences. For more in
 
 Use monospace code font while expressing the following items, which include but are not limited to:
 -  Attribute names and values.
-Class names.
-Command-line utility names.
-Data types.
-Defined (constant) values for an element or attribute.
-DNS record types.
-Enum (enumerator) names.
-Environment variable names.
-Element names (XML and HTML). Place angle brackets (<>) around the element name; you may have to escape the angle brackets to make them appear in the document.
-Filenames, filename extensions (if used), and paths.
-Folders and directories.
-HTTP verbs.
-HTTP status codes.
-HTTP content-type values.
-Language keywords.
-Method and function names.
-Namespace aliases.
-Placeholder variables.
-Query parameter names and values.
-Text input.
+- Class names.
+- [Command-line utility names]().
+- Data types.
+- Defined (constant) values for an element or attribute.
+- [DNS record types](https://wikipedia.org/wiki/List_of_DNS_record_types).
+- Enum (enumerator) names.
+- Environment variable names.
+- Element names in XML and HTML. Place angle brackets (`<>`) around the element name; you may have to escape the angle brackets to make them appear in the document.
+- [Filenames](), [filename extensions](), and paths.
+- Folders and directories.
+- HTTP verbs, status codes, and content-type values.
+- Language keywords.
+- Method and function names.
+- Namespace aliases.
+- [Placeholder variables]().
+- Query parameter names and values.
+- Text input.
+- [UI elements]() that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*. 
 
 ## Method names
 
