@@ -152,7 +152,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Command line interface     |        |
 | Dialogs                    |        |
 | Menus and dropdowns        |        |
-| Pop-ups and alerts           |        |
+| Pop-ups and alerts         |        |
 | Tabs                       |        |
 | Terminology                |        |
 | UI elements                |        |
@@ -164,19 +164,18 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |-------------|--------|
 | Code in text (New component) |   🔄 (⚠️ while publishing)   |
 | Code snippets, code blocks |      |
-| Coding standards |   🔄   |
-| CSS         |   (Moved to Coding standards)   |
-| HTML        |   (Moved to Coding standards)   |
-| JS          |   (Moved to Coding standards)   |
-| Markdown    |        |
-| MySQL       |        |
-| PHP         |   (Moved to Coding standards)   |
+| Coding standards (New component) |   🔄   |
+| CSS         |   🔄 (Moved to Coding standards)   |
+| HTML        |   🔄 (Moved to Coding standards)   |
+| JS          |   🔄 (Moved to Coding standards)   |
+| Markdown    |   🔄 (Moved to Coding standards)   |
+| MySQL       |   ❌   |
+| PHP         |   🔄 (Moved to Coding standards)   |
 | Placeholder formatting (New component) |        |
 | Syntax      |        |
 | Terminology |        |
 | UI elements |        |
-| Windows     |        |
-| XML         |        |
+| XML         |   ❌   |
 
 ### Word usage dictionary/Glossary
 
