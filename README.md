@@ -122,12 +122,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Phone numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, translation, language scripts                          |   ✔️   |
 | Referencing                                                       |   ✔️ (Moved to Linking)   |
-| Spacing                                                           |   ✔️ (Moved to text formatting)   |
+| Spacing                                                           |   ✔️ (Moved to Text formatting)   |
 | Tables                                                            |   ✔️ (⚠️ while publishing)   |
 | Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
 | Trademarks, copyrights, patents, citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials and procedures                                          |   ✔️ (⚠️ while publishing)   |
-| Typography and fonts                                              |   ✔️ (Moved to text formatting)   |
+| Typography and fonts                                              |   ✔️ (Moved to Text formatting)   |
 | UI elements                                                       |   (Moved to User Interface)   |
 | Units of measurement                                              |   ✔️ (⚠️ while publishing)   |
 | Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
@@ -165,12 +165,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Code in text (New component) |   🔄 (⚠️ while publishing)   |
 | Code snippets, code blocks |      |
 | Coding standards |   🔄   |
-| CSS         |        |
-| HTML        |        |
-| JS          |        |
+| CSS         |   (Moved to Coding standards)   |
+| HTML        |   (Moved to Coding standards)   |
+| JS          |   (Moved to Coding standards)   |
 | Markdown    |        |
 | MySQL       |        |
-| PHP         |        |
+| PHP         |   (Moved to Coding standards)   |
 | Placeholder formatting (New component) |        |
 | Syntax      |        |
 | Terminology |        |
