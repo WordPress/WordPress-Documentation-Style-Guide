@@ -25,7 +25,7 @@ Use monospace code font while expressing the following items, which include but 
 - [Placeholder variables]().
 - Query parameter names and values.
 - Text input.
-- [UI elements]() that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*. 
+- [UI elements]() that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*.
 
 ## Method names
 
@@ -38,6 +38,12 @@ When you refer to a method name in text, omit the class name except where includ
 
 ## Commands
 
+To mark a block of code such as a lengthy command or a code sample, use the following formatting:
+- In HTML, use the `<pre>` element.
+- In Markdown, use a code fence (` ``` `).
+
 ## Keywords
 
-## WordPress coding standards
+## Coding standards
+
+For more information about coding standards for WordPress, see [Coding standards]().
