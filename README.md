@@ -164,13 +164,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |-------------|--------|
 | Code in text (New component) |   🔄 (⚠️ while publishing)   |
 | Code snippets, code blocks |      |
-| Coding standards (New component) |   🔄   |
-| CSS         |   🔄 (Moved to Coding standards)   |
-| HTML        |   🔄 (Moved to Coding standards)   |
-| JS          |   🔄 (Moved to Coding standards)   |
-| Markdown    |   🔄 (Moved to Coding standards)   |
+| Coding standards (New component) |   ✔️   |
+| CSS         |   ✔️ (Moved to Coding standards)   |
+| HTML        |   ✔️ (Moved to Coding standards)   |
+| JS          |   ✔️ (Moved to Coding standards)   |
+| Markdown    |   ✔️ (Moved to Coding standards)   |
 | MySQL       |   ❌   |
-| PHP         |   🔄 (Moved to Coding standards)   |
+| PHP         |   ✔️ (Moved to Coding standards)   |
 | Placeholder formatting (New component) |        |
 | Syntax      |        |
 | Terminology |        |
