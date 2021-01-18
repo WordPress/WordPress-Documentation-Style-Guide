@@ -40,7 +40,15 @@ When you refer to a method name in text, omit the class name except where includ
 
 To mark a block of code such as a lengthy command or a code sample, use the following formatting:
 - In HTML, use the `<pre>` element.
-- In Markdown, use a code fence (` ``` `).
+- In Markdown, use a code fence (` ``` ``).
+
+Formatting a command with multiple elements:
+- When a line exceeds 100 characters, you can safely add a line break before some characters, such as a single hyphen, double hyphen, underscore, or quotation marks. After the first line, indent each line by four spaces to vertically align each line that follows a line break.
+- If you split a command line with a line break, each line except the last line must end with the command-continuation character. Commands that don't have the command-continuation character don't work. Command-continuation characters are:
+  - Linux or shell: A backslash preceded with a space (` \`)
+  - Windows: A caret preceded with a space (` ^`)
+- Use placeholder text with [placeholder variables]().
+- Write a descriptive list of the placeholder variables used in the command line succeeding the command line. For additional information, see [Explaining placeholders]().
 
 ## Keywords
 
