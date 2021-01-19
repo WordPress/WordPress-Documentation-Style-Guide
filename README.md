@@ -93,7 +93,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Periods                      |   ✔️ (⚠️ while publishing)   |
 | Question marks               |   ✔️   |
 | Quotation marks (split from Apostrophes)|   ✔️   |
-| Semicolons (split from colons)|   ✔️   |
+| Semicolons (split from Colons)|   ✔️   |
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
 ### Formatting ✔️
@@ -128,7 +128,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Trademarks, copyrights, patents, citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials and procedures                                          |   ✔️ (⚠️ while publishing)   |
 | Typography and fonts                                              |   ✔️ (Moved to Text formatting)   |
-| UI elements                                                       |   (Moved to User Interface)   |
+| UI elements                                                       |   (Moved to User interface)   |
 | Units of measurement                                              |   ✔️ (⚠️ while publishing)   |
 | Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
 
@@ -172,7 +172,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | MySQL       |   ❌   |
 | PHP         |   ✔️ (Moved to Coding standards)   |
 | Placeholder formatting (New component) |        |
-| Syntax      |        |
+| Syntax      |   ✔️   |
 | Terminology |        |
 | UI elements |        |
 | XML         |   ❌   |
