@@ -27,6 +27,8 @@ Use monospace code font while expressing the following items, which include but 
 - Text input.
 - [UI elements]() that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*.
 
+For more information, see [Code text preceding colon]().
+
 ## Method names
 
 When you refer to a method name in text, omit the class name except where including it would prevent ambiguity. Insert empty parentheses at the end of the method name to indicate that it's a method.
@@ -51,6 +53,8 @@ Formatting a command with multiple elements:
 - Write a descriptive list of the placeholder variables used in the command line succeeding the command line. For additional information, see [Explaining placeholders]().
 
 ## Keywords
+
+Avoid using technical keywords as verbs or nouns. If you have to, don't change the word form of the keywords; don't make plurals from keywords, change tense, or convert them to possessive form. It's acceptable to use lowercase, plain text *string* in a general discussion of the `STRING` data type.
 
 ## Coding standards
 
