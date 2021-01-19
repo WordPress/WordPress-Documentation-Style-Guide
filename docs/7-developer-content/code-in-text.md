@@ -34,7 +34,7 @@ For more information, see [Code text preceding colon]().
 Use standard font while expressing the following items, which include but are not limited to:
 - Email addresses.
 - Names of products, services, and organizations.
-- 
+- URLs. For more information, see [Link text]().
 
 ## Method names
 
