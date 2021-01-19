@@ -61,11 +61,11 @@ Avoid using technical keywords as verbs or nouns. If you have to, don't change t
 [warning] Not Recommended: `Decompress` the encoded body. [/warning]  
 [tip] Recommended: Decompress the encoded body by using a `decompress` request. [/tip]  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: Retrieve information by `get`ting the data. [/warning]  
+[tip] Recommended: To retrieve the data, send a `get` request. [/tip]  
 
-[warning] Not Recommended:  [/warning]  
-[tip] Recommended:  [/tip]  
+[warning] Not Recommended: Before `patch()`ing, make sure your request is `post()`ed. [/warning]  
+[tip] Recommended: Send a `post()` request before calling a `patch()` request. [/tip]  
 
 ## Coding standards
 
