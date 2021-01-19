@@ -71,7 +71,15 @@ Avoid using technical keywords as verbs or nouns. If you have to, don't change t
 
 Use the following formatting and phrasing to refer to a single HTTP status code: an HTTP `500 Internal server error` status code.
 
-Insert the code number and name in code font. Specifically use *status code* rather than *error code* or *response code*. If *HTTP* is implied from context, it is acceptable to exclude it.
+Insert the HTTP status code number and name in code font. Specifically use *status code* rather than *error code* or *response code*. If *HTTP* is implied from context, it is acceptable to exclude it.
+
+Use the following formatting to refer a range of HTTP status codes: an HTTP `2xx` or `300` status code.
+
+Insert the HTTP status code number in code font even if you're excluding the code name. Use _**`N`**xx_ where _**`N`**_ is a digit, to indicate _anything in the **`N`**00 to **`N`**99 range_.
+
+Use the following formatting to specify an exact range of HTTP status codes: an HTTP status code in the `200`-`299` range.
+
+Insert the HTTP status code number in code font.
 
 ## Coding standards
 
