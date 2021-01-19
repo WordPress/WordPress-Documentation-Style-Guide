@@ -6,11 +6,11 @@ Don't document or attempt to predict WordPress' future features, products, or se
 
 **Examples**  
 
-[warning] Not Recommended: After you re-run the application, the page will update. [/warning]  
-[tip] Recommended: After you re-run the application, the page gets updated. [/tip]
+[warning] **Not recommended:** After you re-run the application, the page will update. [/warning]  
+[tip] **Recommended:** After you re-run the application, the page gets updated. [/tip]
 
-[warning] Not Recommended: You can enter the data in the text field. The application would then show the list.  [/warning]  
-[tip] Recommended: If you enter the data in the text field, the application shows the list. [/tip]
+[warning] **Not recommended:** You can enter the data in the text field. The application would then show the list.  [/warning]  
+[tip] **Recommended:** If you enter the data in the text field, the application shows the list. [/tip]
 
-[warning] Not Recommended: If you select the block, you will be able to drag and drop it. [/warning]  
-[tip] Recommended: You can drag and drop the block if you select it. [/tip]
+[warning] **Not recommended:** If you select the block, you will be able to drag and drop it. [/warning]  
+[tip] **Recommended:** You can drag and drop the block if you select it. [/tip]

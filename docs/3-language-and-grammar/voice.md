@@ -8,11 +8,11 @@ Active voice is more effective than passive voice and reduces the word count of 
 
 **Examples**  
 
-[warning] Not Recommended: A new post is created, and is shown on the blog page. [/warning]  
-[tip] Recommended: Create a new post. You can see it on the blog page. [/tip]
+[warning] **Not recommended:** A new post is created, and is shown on the blog page. [/warning]  
+[tip] **Recommended:** Create a new post. You can see it on the blog page. [/tip]
 
-[warning] Not Recommended: A paragraph block gets added to your page. [/warning]  
-[tip] Recommended: Add a paragraph block to your page. [/tip]
+[warning] **Not recommended:** A paragraph block gets added to your page. [/warning]  
+[tip] **Recommended:** Add a paragraph block to your page. [/tip]
 
 Sometimes passive voice may be more appropriate for a sentence. Be careful not change the meaning of a sentence while rewriting it from active voice to passive voice.
 
@@ -26,11 +26,11 @@ Passive voice can be used when:
 
 **Examples**  
 
-[warning] Not Recommended: You have caused an error. [/warning]  
-[tip] Recommended: An error has occurred. [/tip]
+[warning] **Not recommended:** You have caused an error. [/warning]  
+[tip] **Recommended:** An error has occurred. [/tip]
 
-[tip] Recommended: The file is saved. [/tip]
+[tip] **Recommended:** The file is saved. [/tip]
 
-[tip] Recommended: The backup was created.  [/tip]
+[tip] **Recommended:** The backup was created.  [/tip]
 
-[tip] Recommended: Error 404 - Site not found. [/tip]
+[tip] **Recommended:** Error 404 - Site not found. [/tip]

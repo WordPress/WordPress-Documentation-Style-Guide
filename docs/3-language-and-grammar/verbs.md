@@ -10,8 +10,8 @@ Usually, the only difference between the two verb forms is an *-s* at the end of
 
 **Examples**
 
-[warning] Not Recommended: `do_action( 'activate_header' )` : Fire before the Site Activation page is loaded. [/warning]  
-[tip] Recommended: `do_action( 'activate_header' )` : Fires before the Site Activation page is loaded. [/tip]
+[warning] **Not recommended:** `do_action( 'activate_header' )` : Fire before the Site Activation page is loaded. [/warning]  
+[tip] **Recommended:** `do_action( 'activate_header' )` : Fires before the Site Activation page is loaded. [/tip]
 
 ## Moods of verbs
 

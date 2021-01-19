@@ -34,10 +34,10 @@ Don't use an apostrophe with possessive pronouns.
 
 **Examples**  
 
-[warning] Not Recommended: The website is your's. [/warning]  
-[tip] Recommended: The website is yours. [/tip]
+[warning] **Not recommended:** The website is your's. [/warning]  
+[tip] **Recommended:** The website is yours. [/tip]
 
-## Company-, product-, and brand-name possessives 
+## Company-, product-, and brand-name possessives
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
 
@@ -45,5 +45,5 @@ Add an apostrophe and *s* to the end of a company, product, or brand name. In ge
 
 [tip] The possessive of WordPress is ***WordPress'*** [/tip]
 
-[warning] Not Recommended: Gutenberg's features are numerous. [/warning]  
-[tip] Recommended: The features of Gutenberg are numerous. [/tip]
+[warning] **Not recommended:** Gutenberg's features are numerous. [/warning]  
+[tip] **Recommended:** The features of Gutenberg are numerous. [/tip]

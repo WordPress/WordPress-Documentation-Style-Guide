@@ -14,18 +14,18 @@ Use first person (*I, we*) only when absolutely needed. First person may be used
 
 **Examples**  
 
-[warning] Not Recommended: Add an embed block to our page.  [/warning]  
-[tip] Recommended: Add an embed block to your page. [/tip]
+[warning] **Not recommended:** Add an embed block to our page.  [/warning]  
+[tip] **Recommended:** Add an embed block to your page. [/tip]
 
-[warning] Not Recommended: We need to click **Add Block**.  [/warning]  
-[warning] Not Recommended: You'll need to click **Add Block**.  [/warning]  
-[tip] Recommended: Click **Add Block**. [/tip]
+[warning] **Not recommended:** We need to click **Add Block**.  [/warning]  
+[warning] **Not recommended:** You'll need to click **Add Block**.  [/warning]  
+[tip] **Recommended:** Click **Add Block**. [/tip]
 
-[warning] Not Recommended: We at WordPress are committed to being as inclusive and accessible as possible.  [/warning]  
-[tip] Recommended: The WordPress community is committed to being as inclusive and accessible as possible. [/tip]
+[warning] **Not recommended:** We at WordPress are committed to being as inclusive and accessible as possible.  [/warning]  
+[tip] **Recommended:** The WordPress community is committed to being as inclusive and accessible as possible. [/tip]
 
-[warning] Not Recommended: For additional details, refer our website.  [/warning]  
-[tip] Recommended: For additional details, refer WordPress.org  [/tip]
+[warning] **Not recommended:** For additional details, refer our website.  [/warning]  
+[tip] **Recommended:** For additional details, refer WordPress.org  [/tip]
 
 ## Additional resources
 

@@ -10,8 +10,8 @@ If you're doubtful of a particular word, first refer the [Word List](); if it's 
 
 **Examples**
 
-[warning] Not Recommended: British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
-[tip] Recommended: American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
+[warning] **Not recommended:** British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
+[tip] **Recommended:** American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
 
 For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling).
 
@@ -45,10 +45,10 @@ Don't create new ways to describe an existing word.
 
 **Examples**  
 
-[warning] Not Recommended: Don't use *data unearthing* or *data excavating* as an alternative for data mining.  [/warning]  
+[warning] **Not recommended:** Don't use *data unearthing* or *data excavating* as an alternative for data mining.  [/warning]  
 
-[warning] Not Recommended: The *Gutenberger* blocks are feature-packed. [/warning]  
-[tip] Recommended: The blocks in Gutenberg are feature-packed. [/tip]
+[warning] **Not recommended:** The *Gutenberger* blocks are feature-packed. [/warning]  
+[tip] **Recommended:** The blocks in Gutenberg are feature-packed. [/tip]
 
 Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
 If you have to use a word in a definition that is different from its widely used meaning, explain it with context.

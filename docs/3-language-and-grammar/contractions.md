@@ -23,11 +23,11 @@ Don't use contractions formed with nouns and verbs. Contractions formed with nou
 
 **Examples**  
 
-[warning] Not Recommended: Gutenberg's using a new, refreshed UI.  [/warning]  
-[tip] Recommended: Gutenberg is using a new, refreshed UI. [/tip]
+[warning] **Not recommended:** Gutenberg's using a new, refreshed UI.  [/warning]  
+[tip] **Recommended:** Gutenberg is using a new, refreshed UI. [/tip]
 
-[warning] Not Recommended: These formats've proven to be highly beneficial. [/warning]  
-[tip] Recommended: These formats have proven to be highly beneficial. [/tip]  
+[warning] **Not recommended:** These formats've proven to be highly beneficial. [/warning]  
+[tip] **Recommended:** These formats have proven to be highly beneficial. [/tip]  
 
 ## Double contractions
 

@@ -29,8 +29,8 @@ Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe
 
 **Examples**
 
-[warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
-[tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
+[warning] **Not recommended:** Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
+[tip] **Recommended:** Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
 ## Plurals in parentheses
 
@@ -39,15 +39,15 @@ Avoid adding *(s)* to indicate the plural form of a variable. Use the plural for
 
 **Examples**
 
-[warning] Not Recommended: To see your existing post(s), go to the Posts page. [/warning]  
-[tip] Recommended: To see your existing posts, go to the Posts page. [/tip]
+[warning] **Not recommended:** To see your existing post(s), go to the Posts page. [/warning]  
+[tip] **Recommended:** To see your existing posts, go to the Posts page. [/tip]
 
-[warning] Not Recommended: You can categorize your post with tag(s). [/warning]  
-[tip] Recommended: You can categorize your post with one or more tags. [/tip]
-[tip] Recommended: You can categorize your post with multiple tags. [/tip]
+[warning] **Not recommended:** You can categorize your post with tag(s). [/warning]  
+[tip] **Recommended:** You can categorize your post with one or more tags. [/tip]
+[tip] **Recommended:** You can categorize your post with multiple tags. [/tip]
 
-[warning] Not Recommended: Making changes to the code while running the server could cause error(s) in your database(s). [/warning]  
-[tip] Recommended: Making changes to the code while running the server could cause errors in your databases. [/tip]
+[warning] **Not recommended:** Making changes to the code while running the server could cause error(s) in your database(s). [/warning]  
+[tip] **Recommended:** Making changes to the code while running the server could cause errors in your databases. [/tip]
 
-[warning] Not Recommended: The function will execute in *x* minute(s). [/warning]  
-[tip] Recommended: The function will execute in *x* minutes. [/tip]
+[warning] **Not recommended:** The function will execute in *x* minute(s). [/warning]  
+[tip] **Recommended:** The function will execute in *x* minutes. [/tip]
