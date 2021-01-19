@@ -118,12 +118,12 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 **Examples**  
 
-[warning] **Not Recommended:** To set up your development environment: [/warning]  
+[warning] **Not recommended:** To set up your development environment: [/warning]  
 [tip] **Recommended:** To set up your development environment, follow these steps: [/tip]  
 [tip] **Recommended:** Set up your development environment: [/tip]  
 
 
-[warning] **Not Recommended:** The settings are: [/warning]  
+[warning] **Not recommended:** The settings are: [/warning]  
 [tip] **Recommended:** The settings that can be changed are as follows: [/tip]  
 
 ## Sub-steps in numbered procedures
@@ -171,7 +171,7 @@ Don't end the term with a period or other end punctuation, but do end the descri
 
 **Examples**  
 
-[warning] **Not Recommended:**  
+[warning] **Not recommended:**  
 Word reference:  
 - **Backlink**  
 - **bbPress** - Free, open-source software built on top of WordPress for easily creating forums on sites.  

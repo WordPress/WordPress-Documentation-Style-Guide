@@ -13,12 +13,12 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 **Examples**  
 
-[warning] Not Recommended: To change the settings: [/warning]  
-[tip] Recommended: To change the settings, follow these steps: [/tip]  
-[tip] Recommended: Change the settings: [/tip]  
+[warning] **Not recommended:** To change the settings: [/warning]  
+[tip] **Recommended:** To change the settings, follow these steps: [/tip]  
+[tip] **Recommended:** Change the settings: [/tip]  
 
-[warning] Not Recommended: The settings are: [/warning]  
-[tip] Recommended: The settings that can be changed are as follows: [/tip]  
+[warning] **Not recommended:** The settings are: [/warning]  
+[tip] **Recommended:** The settings that can be changed are as follows: [/tip]  
 
 ## Single-step procedures
 
@@ -26,15 +26,15 @@ When a procedure consists of a single step or instruction, consolidate it into t
 
 **Examples**  
 
-[warning] Not Recommended: To save the modified file, follow this step:
+[warning] **Not recommended:** To save the modified file, follow this step:
 1. Click **Save Changes**.  
 [/warning]  
 
-[warning] Not Recommended: To save the modified file, follow this step:
+[warning] **Not recommended:** To save the modified file, follow this step:
 - Click **Save Changes**.  
 [/warning]  
 
-[tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
+[tip] **Recommended:** To save the modified file, click **Save Changes**. [/tip]  
 
 ## Sub-steps in numbered procedures
 
@@ -44,7 +44,7 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
 
 **Example**  
 
-[tip] Recommended:
+[tip] **Recommended:**
 1. To set up your development environment, follow these steps:  
    a. Install Node development tools as follows:  
       i. Download and install Node Version Manager (nvm).  
@@ -75,8 +75,8 @@ In general, use one step per action. However, you can combine multiple small act
 
 **Examples**  
 
-[tip] Recommended: 1. Select **Settings** > **Media**. [/tip]  
-[tip] Recommended: 1. Select **Edit** > **Text** > **Encoding**. [/tip]  
+[tip] **Recommended:** 1. Select **Settings** > **Media**. [/tip]  
+[tip] **Recommended:** 1. Select **Edit** > **Text** > **Encoding**. [/tip]  
 
 [alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings** > **Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
 
@@ -88,12 +88,12 @@ Write concise steps without writing repetitive instructions with bold UI element
 
 **Examples**  
 
-[warning] Not Recommended:  
+[warning] **Not recommended:**  
 1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.  
 2. Under the **Settings** option, select **Media**.  
 
 [/warning]  
-[tip] Recommended:  
+[tip] **Recommended:**  
 1. Click **Menu**.  
 2. Under the **Settings** option that appears, select **Media**.  
 
@@ -103,8 +103,8 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 
 **Examples**  
 
-[tip] Recommended: Quit and restart the terminal as you did in the previous step. [/tip]  
-[tip] Also recommended: [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
+[tip] **Recommended:** Quit and restart the terminal as you did in the previous step. [/tip]  
+[tip] **Also recommended:** [Quit and restart the terminal as you did in the previous step.](#) [/tip]  
 
 ## General guidelines for writing procedures
 
@@ -112,8 +112,8 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - In general, use headings for procedures so that readers find the exact instructions quickly. Write the heading such that it describes what the instructions will help the readers do.  
   **Examples**  
 
-  [tip] Recommended: Create a new page [/tip]  
-  [tip] Recommended: Edit your post [/tip]  
+  [tip] **Recommended:** Create a new page [/tip]  
+  [tip] **Recommended:** Edit your post [/tip]  
 
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
 - Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
@@ -123,20 +123,20 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - State the purpose of the actions before stating the action.  
   **Examples**  
 
-  [warning] Not Recommended: Click **Save Changes** to save the modified file. [/warning]  
-  [tip] Recommended: To save the modified file, click **Save Changes**. [/tip]  
+  [warning] **Not recommended:** Click **Save Changes** to save the modified file. [/warning]  
+  [tip] **Recommended:** To save the modified file, click **Save Changes**. [/tip]  
 
 - Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
   **Examples**  
 
-  [warning] Not Recommended: Select **Settings** > **Media** after navigating to the task menu bar. [/warning]  
-  [tip] Recommended: Navigate to task menu bar, then select **Settings** > **Media**. [/tip]  
+  [warning] **Not recommended:** Select **Settings** > **Media** after navigating to the task menu bar. [/warning]  
+  [tip] **Recommended:** Navigate to task menu bar, then select **Settings** > **Media**. [/tip]  
 
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If a particular step is optional in a procedure, indicate it by mentioning "Optional" at the beginning of the step.  
   **Examples**  
 
-  [tip] Recommended: Optional: If docker is not running, try to restart the service using:
+  [tip] **Recommended:** Optional: If docker is not running, try to restart the service using:
   ```sh
   sudo systemctl daemon-reload
   sudo systemctl restart docker.service
@@ -146,14 +146,14 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
 
-  [tip] Recommended: Navigate to the menu bar and select the **Encoding** tab. [/tip]  
+  [tip] **Recommended:** Navigate to the menu bar and select the **Encoding** tab. [/tip]  
 
 - When there is more than one way to achieve a particular task, give the best way to do so. Multiple alternative procedures can confuse readers.
 - In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
   **Examples**  
 
-  [warning] Not Recommended: On the upper-right part of the page, select the checkmark icon. [/warning]  
-  [tip] Recommended: Select **Publish ✓**. [/tip]  
+  [warning] **Not recommended:** On the upper-right part of the page, select the checkmark icon. [/warning]  
+  [tip] **Recommended:** Select **Publish ✓**. [/tip]  
 
 - Don't include keyboard shortcuts in instructions.
 - Most of the time, end procedures with a definite action or result that helps the reader achieve that particular task.

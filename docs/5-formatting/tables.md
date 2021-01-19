@@ -62,7 +62,7 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 
 **Example**  
 
-[tip] Recommended: Table 3. Block API reference [/tip]  
+[tip] **Recommended:** Table 3. Block API reference [/tip]  
 
 For HTML tables, insert a caption using the [`<caption>` element](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element) as the first child of the `<table>` element.  
 

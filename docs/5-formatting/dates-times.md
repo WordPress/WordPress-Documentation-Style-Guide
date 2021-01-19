@@ -32,7 +32,7 @@ Use the following guidelines to express time:
 - Using *noon* and *midnight* is acceptable, but not when paired with time in the numeral format.  
   **Example**  
 
-  [warning] **Not Recommended:** *12:00 noon, 12:00 midnight*. [/warning]  
+  [warning] **Not recommended:** *12:00 noon, 12:00 midnight*. [/warning]  
 
 ### Time zones
 
@@ -65,7 +65,7 @@ Don't use ordinal numbers to indicate a date.
 
 **Examples**  
 
-[warning] **Not Recommended:** August 16th 2020 [/warning]  
+[warning] **Not recommended:** August 16th 2020 [/warning]  
 [tip] **Recommended:** August 16, 2020 [/tip]  
 [tip] **Recommended:** Sunday, August 16, 2020 [/tip]  
 
@@ -85,7 +85,7 @@ Be consistent with your abbreviations throughout your documentation. For example
 
 **Examples**  
 
-[warning] **Not Recommended:** Mon, November 24, 2020 [/warning]  
+[warning] **Not recommended:** Mon, November 24, 2020 [/warning]  
 [tip] **Recommended:** Mon, Nov 24, 2020 [/tip]  
 
 ### Dates in the middle of a sentence
@@ -115,9 +115,9 @@ Hence, expressing dates in the numerical format may be confusing for a global au
 
 **Examples**  
 
-[warning] **Not Recommended:** 01/02/20 or 01/02/2020 [/warning]  
-[warning] **Not Recommended:** 01.02.20 or 01.02.2020 [/warning]  
-[warning] **Not Recommended:** 01-02-20 or 01-02-2020 [/warning]  
+[warning] **Not recommended:** 01/02/20 or 01/02/2020 [/warning]  
+[warning] **Not recommended:** 01.02.20 or 01.02.2020 [/warning]  
+[warning] **Not recommended:** 01-02-20 or 01-02-2020 [/warning]  
 [tip] **Recommended:** January 2, 2020 [/tip]  
 [tip] **Recommended:** Thursday, January 2, 2020 [/tip]  
 
@@ -127,7 +127,7 @@ Avoid referring to seasons, as all regions around the world don't have similar s
 
 **Examples**  
 
-[warning] **Not Recommended:** During winter, you may encounter delays in responses due to staff holidays.  [/warning]  
+[warning] **Not recommended:** During winter, you may encounter delays in responses due to staff holidays.  [/warning]  
 [tip] **Recommended:** During December, you may encounter delays in responses due to staff holidays. [/tip]  
 
 [warning] **Not Recommended**: All major versions are released in the fall of each year. [/warning]  

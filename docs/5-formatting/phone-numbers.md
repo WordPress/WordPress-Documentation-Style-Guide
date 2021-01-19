@@ -14,7 +14,7 @@ To format phone numbers in the USA, Canada, and other [NANP](https://wikipedia.o
 
 **Examples**  
 
-[tip] Recommended: (800) 555-0139 [/tip]  
+[tip] **Recommended:** (800) 555-0139 [/tip]  
 
 ### International phone numbers
 
@@ -22,4 +22,4 @@ To format phone numbers in non-NANP countries, include the country and area code
 
 **Examples**  
 
-[tip] Recommended: +1 800 555 0139 [/tip]  
+[tip] **Recommended:** +1 800 555 0139 [/tip]  

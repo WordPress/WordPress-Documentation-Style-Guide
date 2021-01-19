@@ -19,7 +19,7 @@ In general, use consistent and descriptive headings and titles in any type of co
   - Don't skip the heading levels of the heading hierarchy.  
     **Examples**  
 
-    [warning] **Not Recommended:**  
+    [warning] **Not recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
@@ -38,7 +38,7 @@ In general, use consistent and descriptive headings and titles in any type of co
   - Don't use empty headings or headings with no associated content.  
     **Examples**  
 
-    [warning] **Not Recommended:**  
+    [warning] **Not recommended:**  
     ```markdown
     # Design Decisions
     ## Absolute versus relative URLs

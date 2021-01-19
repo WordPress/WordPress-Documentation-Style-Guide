@@ -14,7 +14,7 @@
 
   You can rewrite the sentence so that the number doesn't start the sentence.  
   **Examples**  
-  [warning] **Not Recommended:** 1500 records were cleared from the old directories. [/warning]  
+  [warning] **Not recommended:** 1500 records were cleared from the old directories. [/warning]  
   [tip] **Recommended:** Freeing up some space in the old directories, almost 1500 records were cleared. [/tip]  
 - When a number is followed by another numeral, use a numeral for one and spell out the other.  
   **Examples**  
@@ -79,7 +79,7 @@ Write all ordinal numbers as fully-spelled words.
 
 **Examples**  
 
-[warning] **Not Recommended:** 1st, 2nd, 3rd, 7th, 18th, 99th [/warning]  
+[warning] **Not recommended:** 1st, 2nd, 3rd, 7th, 18th, 99th [/warning]  
 [tip] **Recommended:** First, second, third, seventh, eighteenth, ninety-ninth [/tip]  
 
 ## Numbers as Roman numerals
@@ -96,14 +96,14 @@ Use a period to denote a decimal point.
 
 **Examples**  
 
-[warning] **Not Recommended:** You can carry out a maximum of 1500000 transactions per month. [/warning]  
+[warning] **Not recommended:** You can carry out a maximum of 1500000 transactions per month. [/warning]  
 [tip] **Recommended:** You can carry out a maximum of 1,500,000 transactions per month. [/tip]  
 
-[warning] **Not Recommended:** The total cost may exceed $17000. [/warning]  
-[warning] **Not Recommended:** The total cost may exceed $17 000. [/warning]  
+[warning] **Not recommended:** The total cost may exceed $17000. [/warning]  
+[warning] **Not recommended:** The total cost may exceed $17 000. [/warning]  
 [tip] **Recommended:** The total cost may exceed $17,000. [/tip]  
 
-[warning] **Not Recommended:** Your account will be credited 0.079 635 credits every two hours. [/warning]  
+[warning] **Not recommended:** Your account will be credited 0.079 635 credits every two hours. [/warning]  
 [tip] **Recommended:** Your account will be credited 0.079635 credits every two hours. [/tip]  
 
 For decimals less than 1, put a zero before the decimal point.  
@@ -127,13 +127,13 @@ Express fractions as decimal numbers whenever possible, but expressing them as w
 
 **Examples**  
 
-[warning] **Not Recommended:** 3/4 [/warning]  
+[warning] **Not recommended:** 3/4 [/warning]  
 [tip] **Recommended:** ¾ [/tip]  
 [tip] **Recommended:** 0.75 [/tip]  
 [tip] **Recommended:** 75% [/tip]  
 [tip] **Recommended:** three-fourths [/tip]  
 
-[warning] **Not Recommended:** 4 1/2 [/warning]  
+[warning] **Not recommended:** 4 1/2 [/warning]  
 [tip] **Recommended:** 4½ [/tip]  
 [tip] **Recommended:** 4.5 [/tip]  
 [tip] **Recommended:** four one-halves [/tip]  
@@ -170,13 +170,13 @@ For US dollars, use the dollar sign at the beginning ($) of the currency. Use a 
 
 **Examples**  
 
-[warning] **Not Recommended:** You have $15.39,512 in usable credits. [/warning]  
+[warning] **Not recommended:** You have $15.39,512 in usable credits. [/warning]  
 [tip] **Recommended:** You have $15.39512 in usable credits. [/tip]  
 
 [tip] **Recommended:** Monthly hosting plans start from $3.95 per website. [/tip]  
 
-[warning] **Not Recommended:** The total cost may exceed $17000. [/warning]  
-[warning] **Not Recommended:** The total cost may exceed $17 000. [/warning]  
+[warning] **Not recommended:** The total cost may exceed $17000. [/warning]  
+[warning] **Not recommended:** The total cost may exceed $17 000. [/warning]  
 [tip] **Recommended:** The total cost may exceed $17,000. [/tip]  
 
 If it's clear which currency you're referring to, it's acceptable to only use the symbol rather than the word or country code itself.
@@ -189,7 +189,7 @@ Use a lowercase *x* between the numerals in the dimensions, with no space betwee
 
 **Examples**  
 
-[warning] **Not Recommended:** 144 x 144 px  [/warning]  
+[warning] **Not recommended:** 144 x 144 px  [/warning]  
 [tip] **Recommended:** 144x144 pixels [/tip]  
 [tip] **Recommended:** 50-foot fiber optic cable [/tip]  
 [tip] **Recommended:** 3840x2160 [/tip]  
@@ -210,7 +210,7 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 
 **Examples**  
 
-[warning] **Not Recommended:** The program was under active development from 2012 – 2017.  [/warning]  
+[warning] **Not recommended:** The program was under active development from 2012 – 2017.  [/warning]  
 [tip] **Recommended:** The program was under active development from 2012–2017. [/tip]  
 [tip] **Recommended:** Select a range from 10–60 px as the width of the button. [/tip]  
 
@@ -230,8 +230,8 @@ In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *
 
 **Examples**  
 
-[warning] **Not Recommended:** The non-profit organization was endowed with a $1.5M grant. [/warning]  
-[warning] **Not Recommended:** The non-profit organization was endowed with a $1.5 mn grant. [/warning]  
+[warning] **Not recommended:** The non-profit organization was endowed with a $1.5M grant. [/warning]  
+[warning] **Not recommended:** The non-profit organization was endowed with a $1.5 mn grant. [/warning]  
 [tip] **Recommended:** The non-profit organization was endowed with a $1.5 million grant.  [/tip]  
 
 In some contexts, using the abbreviations may be more relevant or suited. If you use abbreviations, follow these guidelines:

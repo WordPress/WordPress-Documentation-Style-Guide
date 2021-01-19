@@ -12,11 +12,11 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 
 **Examples**  
 
-[warning] **Not Recommended:** `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
+[warning] **Not recommended:** `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
 [tip] **Recommended:** `new-cache.php` [/tip]  
 [tip] **Sometimes okay:** `new_cache.php` [/tip]  
 
-[warning] **Not Recommended:** `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
+[warning] **Not recommended:** `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
 [tip] **Recommended:** `wp-settings-1.php` [/tip]  
 [tip] **Sometimes okay:** `wp_settings_1.php` [/tip]  
 
@@ -42,8 +42,8 @@ While writing about file interactions, don't use the file types as a verb.
 
 **Examples**  
 
-[warning] **Not Recommended:** Unzip the file. [/warning]  
-[warning] **Not Recommended:** Unzip the zip file. [/warning]  
+[warning] **Not recommended:** Unzip the file. [/warning]  
+[warning] **Not recommended:** Unzip the zip file. [/warning]  
 [tip] **Recommended:** Extract the zip file. [/tip]  
 
 ### Referring to file types
@@ -52,10 +52,10 @@ Use the formal file type instead of the file extension while referring to file t
 
 **Examples**  
 
-[warning] **Not Recommended:** a `.css` file [/warning]  
+[warning] **Not recommended:** a `.css` file [/warning]  
 [tip] **Recommended:** a CSS file [/tip]  
 
-[warning] **Not Recommended:** a `.py` file [/warning]  
+[warning] **Not recommended:** a `.py` file [/warning]  
 [tip] **Recommended:** a Python file [/tip]  
 
 The following table lists filename extensions and the corresponding file type names to use:

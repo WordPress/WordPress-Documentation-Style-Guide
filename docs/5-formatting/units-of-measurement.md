@@ -6,18 +6,18 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 
 **Examples**  
 
-[warning] Not Recommended: 16ft [/warning]  
-[tip] Recommended: 16`&nbsp;`ft [/tip]  
-[tip] Recommended: 75`&nbsp;`kg [/tip]  
-[tip] Recommended: 10`&nbsp;`GB [/tip]  
+[warning] ****Not recommended:**** 16ft [/warning]  
+[tip] **Recommended:** 16`&nbsp;`ft [/tip]  
+[tip] **Recommended:** 75`&nbsp;`kg [/tip]  
+[tip] **Recommended:** 10`&nbsp;`GB [/tip]  
 
 Don't use a space when the unit of measure is a percentage, money, or degrees of an angle.
 
 **Examples**  
 
-[tip] Recommended: 55% [/tip]  
-[tip] Recommended: $3000 [/tip]  
-[tip] Recommended: 130° [/tip]  
+[tip] **Recommended:** 55% [/tip]  
+[tip] **Recommended:** $3000 [/tip]  
+[tip] **Recommended:** 130° [/tip]  
 
 ## Ranges of numbers with units
 
@@ -25,11 +25,11 @@ For a range of numbers that have units, repeat the unit for each number in the r
 
 **Examples**  
 
-[warning] Not Recommended: -10-33 °C  [/warning]  
-[tip] Recommended: -10 °C to 33 °C [/tip]  
+[warning] **Not recommended:** -10-33 °C  [/warning]  
+[tip] **Recommended:** -10 °C to 33 °C [/tip]  
 
-[warning] Not Recommended: The recommended file size is 50 - 100 MB. [/warning]  
-[tip] Recommended: The recommended file size is 50 MB to 100 MB. [/tip]  
+[warning] **Not recommended:** The recommended file size is 50 - 100 MB. [/warning]  
+[tip] **Recommended:** The recommended file size is 50 MB to 100 MB. [/tip]  
 
 ## Rates
 
@@ -39,8 +39,8 @@ Shorten *per* to *p* only for well-established abbreviations such as *Gbps* for 
 
 **Examples**  
 
-[warning] Not Recommended: The server handles 90k transactions/hour. [/warning]  
-[tip] Recommended: The server handles 90k transactions per hour. [/tip]  
+[warning] **Not recommended:** The server handles 90k transactions/hour. [/warning]  
+[tip] **Recommended:** The server handles 90k transactions per hour. [/tip]  
 
 ## Currency
 
