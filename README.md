@@ -162,7 +162,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 
 | Component   | Status |
 |-------------|--------|
-| Code in text (New component) |   🔄 (⚠️ while publishing)   |
+| Code in text (New component) |   ✔️ (⚠️ while publishing)   |
 | Code snippets, code blocks |      |
 | Coding standards (New component) |   ✔️   |
 | CSS         |   ✔️ (Moved to Coding standards)   |
