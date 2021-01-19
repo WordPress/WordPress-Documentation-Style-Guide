@@ -21,10 +21,10 @@ Various words that are deemed to be non-inclusive are often used in documentatio
 
 **Examples**  
 
-[tip] Recommended: If `disallowed_keys` (sometimes called as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
-[tip] Recommended: If `disallowed_keys` (previously known as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
+[tip] **Recommended:** If `disallowed_keys` (sometimes called as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
+[tip] **Recommended:** If `disallowed_keys` (previously known as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
 
-[tip] Recommended: The comment blocklist (sometimes called a *blacklist*) shows blocked and spam comments. Comments that are not on the blocklist are published. [/tip]  
+[tip] **Recommended:** The comment blocklist (sometimes called a *blacklist*) shows blocked and spam comments. Comments that are not on the blocklist are published. [/tip]  
 
 | Recommended | Not Recommended |
 |-----------|-----------|
@@ -41,11 +41,11 @@ Be thoughtful of word choice - particularly slang and ableist language. Don't us
 
 **Examples**  
 
-[warning] Not Recommended: Gutenberg is damn useful stuff. [/warning]  
-[tip] Recommended: Gutenberg is a versatile editor. [/tip]  
+[warning] **Not recommended:** Gutenberg is damn useful stuff. [/warning]  
+[tip] **Recommended:** Gutenberg is a versatile editor. [/tip]  
 
-[warning] Not Recommended: Only morons use this API. [/warning]  
-[tip] Recommended: Using this API is not advised. [/tip]  
+[warning] **Not recommended:** Only morons use this API. [/warning]  
+[tip] **Recommended:** Using this API is not advised. [/tip]  
 
 ## Writing about genders
 
