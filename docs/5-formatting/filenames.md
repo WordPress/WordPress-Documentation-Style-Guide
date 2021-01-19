@@ -12,13 +12,13 @@ For example, if the directory already has files named as `theme_1.php`, `theme_2
 
 **Examples**  
 
-[warning] Not Recommended: `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
-[tip] Recommended: `new-cache.php` [/tip]  
-[tip] Sometimes okay: `new_cache.php` [/tip]  
+[warning] **Not Recommended:** `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
+[tip] **Recommended:** `new-cache.php` [/tip]  
+[tip] **Sometimes okay:** `new_cache.php` [/tip]  
 
-[warning] Not Recommended: `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
-[tip] Recommended: `wp-settings-1.php` [/tip]  
-[tip] Sometimes okay: `wp_settings_1.php` [/tip]  
+[warning] **Not Recommended:** `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
+[tip] **Recommended:** `wp-settings-1.php` [/tip]  
+[tip] **Sometimes okay:** `wp_settings_1.php` [/tip]  
 
 It's acceptable to have some inconsistency in file and folder names if it can't be avoided otherwise. There might be predefined design and style guidelines or undocumented guidelines that are already in use. Sometimes, file naming can also be automated by the product. In those cases, it's okay to make exceptions for those files.
 
@@ -34,7 +34,7 @@ While referring to a file, follow these guidelines:
 
 **Examples**  
 
-[tip] Recommended: In the following `styles.css` file, set the `opacity` to 0.75: [/tip]  
+[tip] **Recommended:** In the following `styles.css` file, set the `opacity` to 0.75: [/tip]  
 
 ### File interactions
 
@@ -42,9 +42,9 @@ While writing about file interactions, don't use the file types as a verb.
 
 **Examples**  
 
-[warning] Not Recommended: Unzip the file. [/warning]  
-[warning] Not Recommended: Unzip the zip file. [/warning]  
-[tip] Recommended: Extract the zip file. [/tip]  
+[warning] **Not Recommended:** Unzip the file. [/warning]  
+[warning] **Not Recommended:** Unzip the zip file. [/warning]  
+[tip] **Recommended:** Extract the zip file. [/tip]  
 
 ### Referring to file types
 
@@ -52,11 +52,11 @@ Use the formal file type instead of the file extension while referring to file t
 
 **Examples**  
 
-[warning] Not Recommended: a `.css` file [/warning]  
-[tip] Recommended: a CSS file [/tip]  
+[warning] **Not Recommended:** a `.css` file [/warning]  
+[tip] **Recommended:** a CSS file [/tip]  
 
-[warning] Not Recommended: a `.py` file [/warning]  
-[tip] Recommended: a Python file [/tip]  
+[warning] **Not Recommended:** a `.py` file [/warning]  
+[tip] **Recommended:** a Python file [/tip]  
 
 The following table lists filename extensions and the corresponding file type names to use:
 

@@ -16,7 +16,7 @@ For example email addresses, use one of the domains listed in [Example domain na
 
 **Example**  
 
-[tip] Recommended: name@example.com [/tip]  
+[tip] **Recommended:** name@example.com [/tip]  
 
 ## Example person names
 
@@ -40,8 +40,8 @@ For international phone number examples, use a US number from the same range and
 
 **Examples**  
 
-[tip] Recommended: (800) 555-0139 [/tip]  
-[tip] Recommended: +1 800 555 0139 [/tip]  
+[tip] **Recommended:** (800) 555-0139 [/tip]  
+[tip] **Recommended:** +1 800 555 0139 [/tip]  
 
 ## Example IP addresses
 
