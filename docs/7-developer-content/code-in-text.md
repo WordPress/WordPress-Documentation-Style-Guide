@@ -67,6 +67,12 @@ Avoid using technical keywords as verbs or nouns. If you have to, don't change t
 [warning] Not Recommended: Before `patch()`ing, make sure your request is `post()`ed. [/warning]  
 [tip] Recommended: Send a `post()` request before calling a `patch()` request. [/tip]  
 
+## HTTP status codes
+
+Use the following formatting and phrasing to refer to a single HTTP status code: an HTTP `500 Internal server error` status code.
+
+Insert the code number and name in code font. Specifically use *status code* rather than *error code* or *response code*. If *HTTP* is implied from context, it is acceptable to exclude it.
+
 ## Coding standards
 
 For more information about coding standards for WordPress, see [Coding standards]().
