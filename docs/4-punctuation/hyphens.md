@@ -6,11 +6,11 @@ Don't hyphenate a predicate adjective unless specifically mentioned in the [A-Z 
 
 **Examples**  
 
-[warning] Not Recommended: The image needs to be high-resolution. [/warning]  
-[tip] Recommended: The image needs to be high resolution. [/tip]
+[warning] **Not recommended:** The image needs to be high-resolution. [/warning]  
+[tip] **Recommended:** The image needs to be high resolution. [/tip]
 
-[warning] Not Recommended: The document is up-to-date. [/warning]  
-[tip] Recommended: The document is up to date. [/tip]
+[warning] **Not recommended:** The document is up-to-date. [/warning]  
+[tip] **Recommended:** The document is up to date. [/tip]
 
 ## Compound modifiers
 
@@ -18,11 +18,11 @@ Use hyphenated compound modifiers before a noun. A compound modifier (also known
 
 **Examples**  
 
-[warning] Not Recommended: Don't use the recently deprecated tool. [/warning]  
-[tip] Recommended: Don't use the recently-deprecated tool. [/tip]
+[warning] **Not recommended:** Don't use the recently deprecated tool. [/warning]  
+[tip] **Recommended:** Don't use the recently-deprecated tool. [/tip]
 
-[warning] Not Recommended: The high capacity website hosting is impressive. [/warning]  
-[tip] Recommended: The high-capacity website hosting is impressive. [/tip]
+[warning] **Not recommended:** The high capacity website hosting is impressive. [/warning]  
+[tip] **Recommended:** The high-capacity website hosting is impressive. [/tip]
 
 Hyphenate two or more words that precede and modify the noun:
 - If one of the words is a past or present participle (a verb ending in *-ing* or *-ed* being used as an adjective or noun).  
@@ -105,9 +105,9 @@ Don't use suspended compound modifiers that have a common base. You can either s
 
 **Examples**  
 
-[warning] Not Recommended: You can use either left, right, or center-aligned text formatting. [/warning]  
-[tip] Recommended: You can use either left-aligned, right-aligned, or center-aligned text formatting. [/tip]  
-[tip] Recommended: You can use either left-, right-, or center-aligned text formatting. [/tip]  
+[warning] **Not recommended:** You can use either left, right, or center-aligned text formatting. [/warning]  
+[tip] **Recommended:** You can use either left-aligned, right-aligned, or center-aligned text formatting. [/tip]  
+[tip] **Recommended:** You can use either left-, right-, or center-aligned text formatting. [/tip]  
 
 ## Capitalization in hyphenated compound words
 
@@ -115,8 +115,8 @@ Capitalize any part of a hyphenated compound word even if it isn't capitalized w
 
 **Examples**  
 
-[warning] Not Recommended: well-formatted text is a vital element to enhance readability. [/warning]  
-[tip] Recommended: Well-formatted text is a vital element to enhance readability. [/tip]  
+[warning] **Not recommended:** well-formatted text is a vital element to enhance readability. [/warning]  
+[tip] **Recommended:** Well-formatted text is a vital element to enhance readability. [/tip]  
 
 ## Additional resources
 

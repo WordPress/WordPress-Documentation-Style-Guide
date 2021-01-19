@@ -8,23 +8,23 @@ Place commas and periods inside quotation marks; in the American (US) English st
 
 **Examples**  
 
-[warning] British English: Further research is published on the homepage under the dropdown titled "Recent Findings".  [/warning]  
-[tip] American (US) English: Further research is published on the homepage under the dropdown titled "Recent Findings." [/tip]  
+[warning] **British English:** Further research is published on the homepage under the dropdown titled "Recent Findings".  [/warning]  
+[tip] **American (US) English:** Further research is published on the homepage under the dropdown titled "Recent Findings." [/tip]  
 
 If punctuation is part of the quoted material, include it inside the quotation marks.
 
 **Examples**  
 
-[tip] Recommended: What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
-[tip] Recommended: Learn how one of the biggest nuisances online - "spam comments," are filtered out on blogs. [/tip]  
+[tip] **Recommended:** What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
+[tip] **Recommended:** Learn how one of the biggest nuisances online - "spam comments," are filtered out on blogs. [/tip]  
 
 When you put a specific string, term, or phrase in quotation marks, put any punctuation outside the quotation marks. Don't add or remove anything from the string or term. Altering it may cause unforeseen issues or difficulties.
 
 **Examples**  
 
-[warning] Not Recommended: If you change the input field titled "password," the file needs to be updated.  [/warning]  
-[tip] Better: If you change the input field titled "password", the file needs to be updated. [/tip]  
-[tip] Recommended: If you change the input field titled `password`, the file needs to be updated. [/tip]  
+[warning] **Not recommended:** If you change the input field titled "password," the file needs to be updated.  [/warning]  
+[tip] **Better:** If you change the input field titled "password", the file needs to be updated. [/tip]  
+[tip] **Recommended:** If you change the input field titled `password`, the file needs to be updated. [/tip]  
 
 ## Straight and curly quotation marks
 
@@ -34,8 +34,8 @@ Hence, in general, use straight quotation marks (" ").
 
 **Examples**  
 
-[warning] Not Recommended: What does it mean if I see a message saying: “Error Code 345. Do you want to continue?” [/warning]  
-[tip] Recommended: What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
+[warning] **Not recommended:** What does it mean if I see a message saying: “Error Code 345. Do you want to continue?” [/warning]  
+[tip] **Recommended:** What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
 
 ## Single quotation marks
 
@@ -47,5 +47,5 @@ While nesting a quotation inside another quotation, use the American (US) Englis
 
 **Examples**  
 
-[warning] British English: He said, 'My colleague asked, "What does this error mean?" as he hurriedly tried to fix it.' [/warning]  
-[tip] American (US) English: He said, "My colleague asked, 'What does this error mean?' as he hurriedly tried to fix it." [/tip]  
+[warning] **British English:** He said, 'My colleague asked, "What does this error mean?" as he hurriedly tried to fix it.' [/warning]  
+[tip] **American (US) English:** He said, "My colleague asked, 'What does this error mean?' as he hurriedly tried to fix it." [/tip]  

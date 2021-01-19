@@ -21,8 +21,8 @@ Don't use apostrophes to form plurals of nouns and abbreviations.
 
 **Examples**
 
-[warning] Not Recommended: *page's, FAQ's.*  [/warning]  
-[tip] Recommended: *pages, FAQs.* [/tip]  
+[warning] **Not recommended:** *page's, FAQ's.*  [/warning]  
+[tip] **Recommended:** *pages, FAQs.* [/tip]  
 
 To pluralize a number, add an *-s* at the end without any apostrophe.
 
@@ -37,8 +37,8 @@ Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe
 
 **Examples**
 
-[warning] Not Recommended: Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
-[tip] Recommended: Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
+[warning] **Not recommended:** Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
+[tip] **Recommended:** Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
 Refer [Plurals]() for additional information.
 
@@ -66,8 +66,8 @@ Don't use an apostrophe with possessive pronouns.
 
 **Examples**  
 
-[warning] Not Recommended: The website is your's. [/warning]  
-[tip] Recommended: The website is yours. [/tip]
+[warning] **Not recommended:** The website is your's. [/warning]  
+[tip] **Recommended:** The website is yours. [/tip]
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
 Refer [Possessives]() for additional information.

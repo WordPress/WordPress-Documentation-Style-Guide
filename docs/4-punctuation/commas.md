@@ -6,8 +6,8 @@ Use the Oxford comma before the conjunction in a series of three or more items.
 
 **Examples**
 
-[warning] Not Recommended: Ensure that your tone is succinct, natural and friendly towards the reader. [/warning]  
-[tip] Recommended: Ensure that your tone is succinct, natural, and friendly towards the reader. [/tip]
+[warning] **Not recommended:** Ensure that your tone is succinct, natural and friendly towards the reader. [/warning]  
+[tip] **Recommended:** Ensure that your tone is succinct, natural, and friendly towards the reader. [/tip]
 
 ## Commas following an introductory phrase
 
@@ -15,8 +15,8 @@ Use a comma after an introductory word or phrase.
 
 **Examples**
 
-[warning] Not Recommended: Ultimately this simplifies the reader's comprehension. [/warning]  
-[tip] Recommended: Ultimately, this simplifies the reader's comprehension. [/tip]
+[warning] **Not recommended:** Ultimately this simplifies the reader's comprehension. [/warning]  
+[tip] **Recommended:** Ultimately, this simplifies the reader's comprehension. [/tip]
 
 ## Commas separating two independent clauses
 
@@ -24,18 +24,18 @@ Use a comma to join two independent clauses which are separated by a conjunction
 
 **Examples**
 
-[warning] Not Recommended: Copy the file, and continue.[/warning]  
-[tip] Recommended: Copy the file and continue. [/tip]
+[warning] **Not recommended:** Copy the file, and continue.[/warning]  
+[tip] **Recommended:** Copy the file and continue. [/tip]
 
-[warning] Not Recommended: Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
-[tip] Recommended: Either download a theme suiting your needs, or use one that is preinstalled. [/tip]
+[warning] **Not recommended:** Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
+[tip] **Recommended:** Either download a theme suiting your needs, or use one that is preinstalled. [/tip]
 
 **Note:** Don't use a comma to join independent clauses when you don't use a conjunction. Use a semicolon instead.
 
 **Examples**
 
-[warning] Not Recommended: Copy the file, then continue. [/warning]  
-[tip] Recommended: Copy the file; then continue. [/tip]
+[warning] **Not recommended:** Copy the file, then continue. [/warning]  
+[tip] **Recommended:** Copy the file; then continue. [/tip]
 
 ## Commas separating independent from dependent clauses
 
@@ -43,11 +43,11 @@ When an independent and dependent clause are separated by a coordinating conjunc
 
 **Examples**
 
-[warning] Not Recommended: Pages can be password protected and can only be modified by administrators. [/warning]  
-[tip] Recommended: Pages can be password protected, and can only be modified by administrators. [/tip]
+[warning] **Not recommended:** Pages can be password protected and can only be modified by administrators. [/warning]  
+[tip] **Recommended:** Pages can be password protected, and can only be modified by administrators. [/tip]
 
-[warning] Not Recommended: Permalinks are permanent URLs, and their structure can be changed. [/warning]  
-[tip] Recommended: Permalinks are permanent URLs and their structure can be changed. [/tip]
+[warning] **Not recommended:** Permalinks are permanent URLs, and their structure can be changed. [/warning]  
+[tip] **Recommended:** Permalinks are permanent URLs and their structure can be changed. [/tip]
 
 ## Commas separating two or more adjectives in series
 
@@ -55,17 +55,17 @@ Use a comma to separate two or more adjectives that precede a noun that is being
 
 **Examples**
 
-[tip] Recommended: Gutenberg is a new, intuitive block-editor. [/tip]  
+[tip] **Recommended:** Gutenberg is a new, intuitive block-editor. [/tip]  
 
-[warning] Not Recommended: This is an enhanced, mobile UI. [/warning]  
-[tip] Recommended: This is an enhanced mobile UI. [/tip]  
+[warning] **Not recommended:** This is an enhanced, mobile UI. [/warning]  
+[tip] **Recommended:** This is an enhanced mobile UI. [/tip]  
 
 Rewrite sentences for a conversational style and tone if possible.
 
 **Examples**
 
 [tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]  
-[tip] Recommended: Write documentation that is accessible and inclusive of all readers. [/tip]  
+[tip] **Recommended:** Write documentation that is accessible and inclusive of all readers. [/tip]  
 
 ## Commas and other clauses
 
@@ -76,14 +76,14 @@ Generally, it is beneficial to use commas for setting off specific kinds of clau
 
 **Examples**
 
-[warning] Not Recommended: Click the button which has a dropdown menu. [/warning]  
-[tip] Recommended: Click the button, which has a dropdown menu. [/tip]  
+[warning] **Not recommended:** Click the button which has a dropdown menu. [/warning]  
+[tip] **Recommended:** Click the button, which has a dropdown menu. [/tip]  
 
-[warning] Not Recommended: Input the data in the field otherwise the program won't work. [/warning]  
-[tip] Recommended: Input the data in the field; otherwise, the program won't work. [/tip]  
+[warning] **Not recommended:** Input the data in the field otherwise the program won't work. [/warning]  
+[tip] **Recommended:** Input the data in the field; otherwise, the program won't work. [/tip]  
 
-[warning] Not Recommended: The command won't function, because it has been deprecated. [/warning]  
-[tip] Recommended: The command won't function because it has been deprecated. [/tip]  
+[warning] **Not recommended:** The command won't function, because it has been deprecated. [/warning]  
+[tip] **Recommended:** The command won't function because it has been deprecated. [/tip]  
 
 ## Commas and numbers
 
@@ -91,11 +91,11 @@ Use a comma to separate the year when writing a complete date. Don't insert a co
 
 **Examples**
 
-[warning] Not Recommended: This article was updated in September, 2020 by the author. [/warning]  
-[tip] Recommended: This article was updated in September 2020 by the author.  [/tip]  
+[warning] **Not recommended:** This article was updated in September, 2020 by the author. [/warning]  
+[tip] **Recommended:** This article was updated in September 2020 by the author.  [/tip]  
 
-[warning] Not Recommended: This article was updated on September 13 2020 by the author. [/warning]  
-[tip] Recommended: This article was updated on September 13, 2020, by the author.  [/tip]  
+[warning] **Not recommended:** This article was updated on September 13 2020 by the author. [/warning]  
+[tip] **Recommended:** This article was updated on September 13, 2020, by the author.  [/tip]  
 
 For more information about punctuating numbers, refer [Numbers]().
 
@@ -106,6 +106,6 @@ In general, rewrite a compound predicate in two sentences, or add a subject for 
 
 **Examples**
 
-[warning] Not Recommended: The application parses the data, and displays it in the terminal. [/warning]  
-[tip] Recommended: The application parses the data. Then it displays the data in the terminal. [/tip]  
-[tip] Recommended: The application parses the data, and then it displays the data in the terminal. [/tip]  
+[warning] **Not recommended:** The application parses the data, and displays it in the terminal. [/warning]  
+[tip] **Recommended:** The application parses the data. Then it displays the data in the terminal. [/tip]  
+[tip] **Recommended:** The application parses the data, and then it displays the data in the terminal. [/tip]  

@@ -28,11 +28,11 @@ To indicate that the period ending a sentence is not a part of the URL, you can 
 
 **Examples**  
 
-[warning] Not Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/. [/warning]  
-[warning] Not Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/ . [/warning]  
-[tip] Recommended: For more information on accessibility, refer:
+[warning] **Not recommended:** For more information on accessibility, refer https://wordpress.org/about/accessibility/. [/warning]  
+[warning] **Not recommended:** For more information on accessibility, refer https://wordpress.org/about/accessibility/ . [/warning]  
+[tip] **Recommended:** For more information on accessibility, refer:
  https://wordpress.org/about/accessibility/ [/tip]  
-[tip] Recommended: For more information on accessibility, refer https://wordpress.org/about/accessibility/ and related resources. [/tip]  
+[tip] **Recommended:** For more information on accessibility, refer https://wordpress.org/about/accessibility/ and related resources. [/tip]  
 
 ## Periods with parentheses
 
@@ -40,8 +40,8 @@ If the last part of a sentence ends within parentheses, insert the period after 
 
 **Examples**  
 
-[tip] Recommended: You can categorize your post with multiple tags (the default tag is uncategorized). [/tip]  
-[tip] Recommended: Making changes to the code while running the server could cause errors in your databases. (Specifically, it can cause corrupted tables or duplicate values.) [/tip]  
+[tip] **Recommended:** You can categorize your post with multiple tags (the default tag is uncategorized). [/tip]  
+[tip] **Recommended:** Making changes to the code while running the server could cause errors in your databases. (Specifically, it can cause corrupted tables or duplicate values.) [/tip]  
 
 ## Periods with quotation marks
 
@@ -49,8 +49,8 @@ If a sentence or phrase ends with content inside quotation marks, place the peri
 
 **Examples**  
 
-[tip] Recommended: The developer said, "This API is the newest version." [/tip]  
-[tip] Recommended: Regarding regular updates, the user asked, "When can we expect a version update?" [/tip]  
+[tip] **Recommended:** The developer said, "This API is the newest version." [/tip]  
+[tip] **Recommended:** Regarding regular updates, the user asked, "When can we expect a version update?" [/tip]  
 
 For more information about quotation marks, see Quotation Marks.
 

@@ -15,12 +15,12 @@ To add an anchor to a heading in HTML, do the following:
 
 **Examples**  
 
-[warning] **Not Recommended:**  
+[warning] **Not recommended:**  
 ```html
 <h2><a name="Determining_Plugin_And_Content_Directories">Determining plugin and content directories</a></h2>
 ```
 [/warning]  
-[warning] **Not Recommended:**  
+[warning] **Not recommended:**  
 ```html
 <a name="Determining_Plugin_And_Content_Directories"></a>
 <h2>Determining plugin and content directories</h2>
@@ -47,17 +47,17 @@ To add an anchor to a heading in Markdown, do the following:
 
 **Examples**  
 
-[warning] **Not Recommended:**  
+[warning] **Not recommended:**  
 ```markdown
 ## Determining plugin and content directories  {: id="ID_OF_ANCHOR" }
 ```
 [/warning]  
-[warning] **Not Recommended:** (Note single quotation marks)  
+[warning] **Not recommended:** (Note single quotation marks)  
 ```markdown
 ## Determining plugin and content directories {: id='ID_OF_ANCHOR' }
 ```
 [/warning]  
-[warning] **Not Recommended:**  
+[warning] **Not recommended:**  
 ```markdown
 ## Determining plugin and content directories  
 {:#ID_OF_ANCHOR}  

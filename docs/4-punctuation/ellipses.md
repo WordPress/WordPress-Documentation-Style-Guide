@@ -12,8 +12,8 @@ Use three contiguous periods in a row while writing an ellipsis. Avoid using the
 
 **Examples**  
 
-[warning] Not Recommended: You need to wait for the post to save...and then publish the post. [/warning]  
-[tip] Recommended: You need to wait for the post to save ... and then publish the post. [/tip]
+[warning] **Not recommended:** You need to wait for the post to save...and then publish the post. [/warning]  
+[tip] **Recommended:** You need to wait for the post to save ... and then publish the post. [/tip]
 
 ### In text
 
@@ -21,9 +21,9 @@ Don't use ellipses in your documentation. If you have to use ellipses in your do
 
 **Examples**  
 
-[warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...." [/warning]  
-[warning] Not Recommended: The WordPress Documentation handbook states: " ... and only a WordPress.org user account is required to create a page." [/warning]  
-[tip] Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress, ... And only a WordPress.org user account is required to create a page." [/tip]  
+[warning] **Not recommended:** The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...." [/warning]  
+[warning] **Not recommended:** The WordPress Documentation handbook states: " ... and only a WordPress.org user account is required to create a page." [/warning]  
+[tip] **Recommended:** The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress, ... And only a WordPress.org user account is required to create a page." [/tip]  
 
 #### Ending a sentence with an ellipsis
 
@@ -31,10 +31,10 @@ When a sentence ends with an ellipsis, insert a period right after the three dot
 
 **Examples**  
 
-[warning] Not Recommended: The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...". [/warning]  
+[warning] **Not recommended:** The WordPress Documentation handbook states "The Codex is a community-created repository for WordPress ...". [/warning]  
 
-[warning] Not Recommended: The Codex is a community-created repository for WordPress ... . [/warning]  
-[tip] Recommended: The Codex is a community-created repository for WordPress .... [/tip]  
+[warning] **Not recommended:** The Codex is a community-created repository for WordPress ... . [/warning]  
+[tip] **Recommended:** The Codex is a community-created repository for WordPress .... [/tip]  
 
 ### In a user interface
 
@@ -47,7 +47,7 @@ If required, you can use ellipses in multiple-part callouts, such as in images, 
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 
 Read the instructions in the figure ...  
 
@@ -61,4 +61,4 @@ When ellipses are used to connote hesitation, a pause, or an unfinished thought,
 
 **Example**  
 
-[warning] Not Recommended: The package installation might not run ... but we'll see. [/warning]  
+[warning] **Not recommended:** The package installation might not run ... but we'll see. [/warning]  
