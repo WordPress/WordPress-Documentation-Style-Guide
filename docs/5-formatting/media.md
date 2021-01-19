@@ -28,7 +28,7 @@ An image caption is a short description of the image. An image description is a 
 
 **Examples**  
 
-[tip] Recommended (HTML):  
+[tip] **Recommended (HTML):**  
 ```html
 <figure id="wapuu">
   <img src="/assets/images/wapuu.png"
@@ -45,7 +45,7 @@ An image caption is a short description of the image. An image description is a 
 
 [/tip]  
 
-[tip] Recommended (Markdown):  
+[tip] **Recommended (Markdown):**  
 ```markdown
 ![The WordPress mascot Wapuu.](/assets/images/wapuu.png){: width="70"}
 

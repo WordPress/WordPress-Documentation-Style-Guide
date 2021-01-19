@@ -15,7 +15,7 @@ Use a bulleted list for items that don't need to appear in order or sequence and
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 With this theme, you can do the following:
 - Customize the header and footer.
 - Modify the post format.
@@ -29,7 +29,7 @@ Use a numbered list for sequential items in order (such as a sequence of steps) 
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 To set up your development environment, follow these steps:  
 1. Download and install Node Version Manager (nvm).
 2. Download, install, and start Docker Desktop following the instructions for your OS.
@@ -47,7 +47,7 @@ Use a lettered list to denote options to choose among. In many instances, a lett
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 Select a theme to install:
 A. Twenty Twenty-One
 B. Twenty Twenty
@@ -62,7 +62,7 @@ Use a description list for listing down items with their descriptions, definitio
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 
 **Backlink**  
 Incoming links to a web page.
@@ -84,7 +84,7 @@ Use a bulleted description list with run-in headings for listing down items with
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 - **Backlink.** Incoming links to a web page.
 - **bbPress.** Free, open-source software built on top of WordPress for easily creating forums on sites.
 - **CLI.** Command Line Interface. Terminal (Bash) in Mac, Command Prompt in Windows, or WP-CLI for WordPress.
@@ -100,7 +100,7 @@ To create multiple paragraphs, use the `<p>` element rather than using the `<br>
 
 **Example**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 To transfer files onto your site, you can do the following:  
 - Use the file manager provided in your host’s control panel.  
 - Use an FTP client.  
@@ -118,13 +118,13 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 **Examples**  
 
-[warning] Not Recommended: To set up your development environment: [/warning]  
-[tip] Recommended: To set up your development environment, follow these steps: [/tip]  
-[tip] Recommended: Set up your development environment: [/tip]  
+[warning] **Not Recommended:** To set up your development environment: [/warning]  
+[tip] **Recommended:** To set up your development environment, follow these steps: [/tip]  
+[tip] **Recommended:** Set up your development environment: [/tip]  
 
 
-[warning] Not Recommended: The settings are: [/warning]  
-[tip] Recommended: The settings that can be changed are as follows: [/tip]  
+[warning] **Not Recommended:** The settings are: [/warning]  
+[tip] **Recommended:** The settings that can be changed are as follows: [/tip]  
 
 ## Sub-steps in numbered procedures
 
@@ -146,7 +146,7 @@ Don't add end punctuation in the following cases:
 
 **Examples**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 With this theme you can modify the following header values:
 - Length
 - Width
@@ -155,7 +155,7 @@ With this theme you can modify the following header values:
 - Font
 
 [/tip]  
-[tip] Recommended:  
+[tip] **Recommended:**  
 With this theme, you can do the following:
 - Customize the header and footer.
 - Modify the post format.
@@ -171,7 +171,7 @@ Don't end the term with a period or other end punctuation, but do end the descri
 
 **Examples**  
 
-[warning] Not Recommended:  
+[warning] **Not Recommended:**  
 Word reference:  
 - **Backlink**  
 - **bbPress** - Free, open-source software built on top of WordPress for easily creating forums on sites.  
@@ -179,7 +179,7 @@ Word reference:
 - **DNS**  
 
 [/warning]  
-[tip] Recommended:  
+[tip] **Recommended:**  
 Word reference:  
 **Backlink**  
 Incoming links to a web page.
@@ -205,7 +205,7 @@ Don't use a dash or hyphen to set off an item description in a description list.
 
 **Examples**  
 
-[tip] Recommended:  
+[tip] **Recommended:**  
 Abbreviation glossary:
 - **API:** Application Programming Interface
 - **FTP:** File Transfer Protocol
@@ -214,13 +214,13 @@ Abbreviation glossary:
 - **XML:** Extensible Markup Language
 
 [/tip]  
-[tip] Recommended:  
+[tip] **Recommended:**  
 There are two ways of getting files onto your site, and once there, changing them:  
 - **By using the file manager provided in your host’s control panel.** Popular file managers include cPanel, DirectAdmin, Plesk and....
 - **By using an FTP or SFTP client.** File Transfer Protocol has been the most widely used transfer protocol....
 
 [/tip]  
-[tip] Recommended:  
+[tip] **Recommended:**  
 The user-level privileges are as follows:  
 - **Can modify:** posts, pages, media, user settings
 - **Cannot modify:** password, email, username, user accounts, site settings

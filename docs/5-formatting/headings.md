@@ -11,7 +11,7 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Don't end headings with a period. Avoid using other punctuation at the end of headings unless absolutely necessary.  
   **Examples**  
 
-  [tip] Sometimes okay: Still have questions? [/tip]  
+  [tip] **Sometimes okay:** Still have questions? [/tip]  
 
 - Tag headings using heading elements. For HTML use `<h1>`, `<h2>`, and so on. In markdown use `#`, `##`, and so on.
 - Use proper heading hierarchy.
@@ -19,7 +19,7 @@ In general, use consistent and descriptive headings and titles in any type of co
   - Don't skip the heading levels of the heading hierarchy.  
     **Examples**  
 
-    [warning] Not Recommended:  
+    [warning] **Not Recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
@@ -27,7 +27,7 @@ In general, use consistent and descriptive headings and titles in any type of co
     ```
     [/warning]  
 
-    [tip] Recommended:  
+    [tip] **Recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
@@ -38,14 +38,14 @@ In general, use consistent and descriptive headings and titles in any type of co
   - Don't use empty headings or headings with no associated content.  
     **Examples**  
 
-    [warning] Not Recommended:  
+    [warning] **Not Recommended:**  
     ```markdown
     # Design Decisions
     ## Absolute versus relative URLs
     ```
     [/warning]  
 
-    [tip] Recommended:  
+    [tip] **Recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.

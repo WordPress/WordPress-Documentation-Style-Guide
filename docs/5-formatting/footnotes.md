@@ -9,7 +9,7 @@ If there is no alternative than using a footnote, then use a symbol instead of a
 
 **Examples**  
 
-[warning] Not Recommended: The image needs to be high resolution.<sup>1</sup> [/warning]  
-[tip] Recommended: The image needs to be high resolution.*  
+[warning] **Not Recommended:** The image needs to be high resolution.<sup>1</sup> [/warning]  
+[tip] **Recommended:** The image needs to be high resolution.*  
 
 *Footnote content at the end of the page. [/tip]
