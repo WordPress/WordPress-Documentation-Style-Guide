@@ -29,6 +29,13 @@ Use monospace code font while expressing the following items, which include but 
 
 For more information, see [Code text preceding colon]().
 
+## Items to put in regular (non-code) font
+
+Use standard font while expressing the following items, which include but are not limited to:
+- Email addresses.
+- Names of products, services, and organizations.
+- 
+
 ## Method names
 
 When you refer to a method name in text, omit the class name except where including it would prevent ambiguity. Insert empty parentheses at the end of the method name to indicate that it's a method.
