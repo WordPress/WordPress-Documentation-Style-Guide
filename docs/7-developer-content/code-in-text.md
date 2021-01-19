@@ -56,6 +56,17 @@ Formatting a command with multiple elements:
 
 Avoid using technical keywords as verbs or nouns. If you have to, don't change the word form of the keywords; don't make plurals from keywords, change tense, or convert them to possessive form. It's acceptable to use lowercase, plain text *string* in a general discussion of the `STRING` data type.
 
+**Examples**  
+
+[warning] Not Recommended: `Decompress` the encoded body. [/warning]  
+[tip] Recommended: Decompress the encoded body by using a `decompress` request. [/tip]  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
+
+[warning] Not Recommended:  [/warning]  
+[tip] Recommended:  [/tip]  
+
 ## Coding standards
 
 For more information about coding standards for WordPress, see [Coding standards]().
