@@ -2,7 +2,7 @@
 
 In text content, use monospace code font to highlight and distinguish code content from standard text. To express code font in HTML, use the `<code>` element. In Markdown, use backticks (``` ` ```) for code font.
 
-This page explains about formatting code in standard text sentences. For more information on other code-related documentation, see [Code samples](), [Placeholders](), and [Command line interface syntax]().
+This page explains about formatting code in standard text sentences. For more information on other code-related documentation, see [Code examples](), [Placeholders](), and [Command line interface syntax]().
 
 ## Items to put in code font
 
@@ -49,7 +49,7 @@ When you refer to a method name in text, omit the class name except where includ
 
 To mark a block of code such as a lengthy command or a code sample, use the following formatting:
 - In HTML, use the `<pre>` element.
-- In Markdown, use a code fence (` ``` ``).
+- In Markdown, use a code fence (` ``` `).
 
 Formatting a command with multiple elements:
 - When a line exceeds 100 characters, you can safely add a line break before some characters, such as a single hyphen, double hyphen, underscore, or quotation marks. After the first line, indent each line by four spaces to vertically align each line that follows a line break.
