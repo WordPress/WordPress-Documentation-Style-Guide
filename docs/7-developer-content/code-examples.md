@@ -2,6 +2,8 @@
 
 This page explains about formatting code examples documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Command line interface syntax]().
 
+For more information about adding code blocks in the Gutenberg block editor, see [Code block](https://wordpress.org/support/article/code-block/) and [Preformatted block](https://wordpress.org/support/article/preformatted-block/). 
+
 ## General guidelines for code examples
 
 - Use spaces to indent code. Don't use tabs unless specified.
