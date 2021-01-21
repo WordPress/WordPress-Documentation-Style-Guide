@@ -2,7 +2,7 @@
 
 This page explains about formatting code examples documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Command line interface syntax]().
 
-For more information about adding code blocks in the Gutenberg block editor, see [Code block](https://wordpress.org/support/article/code-block/) and [Preformatted block](https://wordpress.org/support/article/preformatted-block/). 
+For more information about adding code blocks in the Gutenberg block editor, see [Code block](https://wordpress.org/support/article/code-block/) and [Preformatted block](https://wordpress.org/support/article/preformatted-block/).
 
 ## General guidelines for code examples
 
@@ -36,9 +36,9 @@ function longSentence() {
 
 ## Introductory sentences
 
-In most cases, introduce a code example with an introductory sentence that initiates the list that follows. If the heading of the content explains what the list is about, and no additional context is required, then don't include an introductory statement. You can introduce a code example with an imperative statement.
+In most cases, introduce a code example with an introductory sentence that initiates the example that follows. If the heading of the content explains what the code example is about, and no additional context is required, then don't include an introductory statement. You can introduce a code example with an imperative statement.
 
-The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the list. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a code example with a partial statement.
+The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the code example. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a code example with a partial statement.
 
 **Examples**  
 
