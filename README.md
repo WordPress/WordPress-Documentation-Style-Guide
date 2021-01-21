@@ -149,7 +149,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Activities                 |        |
 | Buttons                    |        |
 | Code snippets, code blocks |   ✔️ (Moved to Coding standards)   |
-| Command line interface     |        |
+| Command line interface     |   🔄   |
 | Dialogs                    |        |
 | Menus and dropdowns        |        |
 | Pop-ups and alerts         |        |
@@ -165,7 +165,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Code in text (New component) |   ✔️ (⚠️ while publishing)   |
 | Code examples |   ✔️ (⚠️ while publishing)   |
 | Coding standards (New component) |   ✔️   |
-| Command-line syntax |   🔄   |
+| Command-line syntax |   🔄 (⚠️ while publishing)   |
 | CSS         |   ✔️ (Moved to Coding standards)   |
 | HTML        |   ✔️ (Moved to Coding standards)   |
 | JS          |   ✔️ (Moved to Coding standards)   |
