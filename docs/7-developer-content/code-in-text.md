@@ -2,7 +2,7 @@
 
 In text content, use monospace code font to highlight and distinguish code content from standard text. To express code font in HTML, use the `<code>` element. In Markdown, use backticks (``` ` ```) for code font.
 
-This page explains about formatting code in standard text sentences. For more information about other code-related documentation, see [Code examples](), [Placeholders](), and [Command line interface syntax]().
+This page explains how to format code in standard text sentences. For more information about other code-related documentation, see [Code examples](), [Placeholders](), and [Command line interface syntax]().
 
 ## Items to put in code font
 
