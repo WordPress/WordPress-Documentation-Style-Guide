@@ -40,9 +40,6 @@ Use separate code blocks for command-line instructions that include both input a
 ```shell
 $ wp cap list 'editor' | xargs wp cap add 'author'
 ```  
-```bash
-$ wp cap list 'editor' | xargs wp cap add 'author'
-```  
 The output is the following:
 
 ```
@@ -50,4 +47,25 @@ Success: Added 24 capabilities to 'author' role.
 ```  
 [/tip]  
 
-## Command structure
+## Required commands and arguments
+
+When writing commands and arguments that are required, use code font without brackets, braces, or parentheses.
+
+**Examples**  
+
+[tip] **Recommended:**  
+```shell
+$ wp post list --post_type='page' --format=ids
+```  
+[/tip]  
+
+[tip] **Recommended:**  
+```shell
+$ wp core check-update
+```  
+[/tip]  
+In these examples, all words and arguments are required.
+
+## Optional arguments
+
+## Command output
