@@ -23,6 +23,11 @@ Success: Switched to 'Twenty Twenty-One' theme.
 
 [tip] **Recommended:**  
 ```shell
-$ wp theme activate twentytwentyone
+$ pwd
+/srv/www/wordpress-develop.dev
+$ cat wp-cli.yml
+path: src/
 ```  
 [/tip]  
+
+For single-line commands, the command prompt, that is the dollar symbol (`$`) is optional. However, if you have to show both multi-line and single-line commands, use the command prompt symbol for overall consistency.
