@@ -1,6 +1,6 @@
 # Command-line syntax
 
-This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Code examples]().
+This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [WP-CLI Handbook](https://make.wordpress.org/cli/handbook/), [Code in text](), [Placeholders](), and [Code examples]().
 
 ## Command prompt
 
@@ -40,9 +40,14 @@ Use separate code blocks for command-line instructions that include both input a
 ```shell
 $ wp cap list 'editor' | xargs wp cap add 'author'
 ```  
+```bash
+$ wp cap list 'editor' | xargs wp cap add 'author'
+```  
 The output is the following:
 
 ```
 Success: Added 24 capabilities to 'author' role.
 ```  
 [/tip]  
+
+## Command structure
