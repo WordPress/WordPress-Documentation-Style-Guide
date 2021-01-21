@@ -13,7 +13,7 @@ Don't show the current directory path before the prompt, even if part of the ins
 [tip] **Recommended:**  
 ```shell
 $ wp theme activate twentytwentyone
-```
+```  
 The output is the following:
 
 ```
@@ -31,3 +31,18 @@ path: src/
 [/tip]  
 
 For single-line commands, the command prompt, that is the dollar symbol (`$`) is optional. However, if you have to show both multi-line and single-line commands, use the command prompt symbol for overall consistency.
+
+Use separate code blocks for command-line instructions that include both input and output lines.
+
+**Example**  
+
+[tip] **Recommended:**  
+```shell
+$ wp cap list 'editor' | xargs wp cap add 'author'
+```  
+The output is the following:
+
+```
+Success: Added 24 capabilities to 'author' role.
+```  
+[/tip]  
