@@ -70,7 +70,7 @@ In these examples, all words and arguments are required.
 
 When writing arguments that are optional, enclose the arguments in square brackets. If there is more than one optional argument, enclose each item in its individual set of square brackets.
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:**  
 ```shell
@@ -80,5 +80,9 @@ $ wp plugin install [--force] [--activate]
 In this example, `install` is required, but `[--force]` and `[--activate]` are optional arguments.
 
 ## Mutually exclusive arguments
+
+When writing commands where the use has to choose one item, enclose the items in angle brackets (`<>`; also known as *inequality signs*). Sometimes the optional items are also enclosed in braces (also known as *curly braces*). Use vertical bars (also knows as *pipes*) to separate the items.
+
+For additional information, see [Anatomy of a command](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/#anatomy-of-a-command).
 
 ## Command output
