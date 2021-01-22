@@ -139,11 +139,14 @@ Theme twentytwentyone details:
 
 [tip] **Recommended:**  
 ```shell
-
+$ wp server --host=localhost.localdomain --port=80
 ```  
 The output is similar to the following:
 
 ```
-
+PHP 5.6.9 Development Server started at Fri Jan 22 11:32:56 2021
+Listening on http://localhost1.localdomain1:80
+Document root is /
+Press Ctrl-C to quit.
 ```  
 [/tip]  
