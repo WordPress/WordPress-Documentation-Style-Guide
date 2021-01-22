@@ -74,7 +74,11 @@ When writing arguments that are optional, enclose the arguments in square bracke
 
 [tip] **Recommended:**  
 ```shell
+$ wp plugin install [--force] [--activate]
 ```  
 [/tip]  
+In this example, `install` is required, but `[--force]` and `[--activate]` are optional arguments.
+
+## Mutually exclusive arguments
 
 ## Command output
