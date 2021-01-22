@@ -68,4 +68,13 @@ In these examples, all words and arguments are required.
 
 ## Optional arguments
 
+When writing arguments that are optional, enclose the arguments in square brackets. If there is more than one optional argument, enclose each item in its individual set of square brackets.
+
+**Examples**  
+
+[tip] **Recommended:**  
+```shell
+```  
+[/tip]  
+
 ## Command output
