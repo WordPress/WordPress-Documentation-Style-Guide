@@ -114,5 +114,8 @@ $ wp plugin install <plugin|zip|url>...
 [/tip]  
 In this example, the ellipsis indicates that the user can specify multiple plugins, zip files or URLs.
 
-
 ## Command output
+
+You don't have to show an output for every command. Only add the output if it is useful; for example, if the user needs to copy a value or needs to verify a value from the output.
+
+If you do show have to show an output, use an introductory phrase to separate the command from the output.
