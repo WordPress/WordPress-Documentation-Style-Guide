@@ -1,6 +1,6 @@
 # Command-line syntax
 
-This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [WP-CLI Handbook](https://make.wordpress.org/cli/handbook/), [Code in text](), [Placeholders](), and [Code examples]().
+This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Code examples]().
 
 ## Command prompt
 
@@ -150,3 +150,9 @@ Document root is /
 Press Ctrl-C to quit.
 ```  
 [/tip]  
+
+For information about explaining placeholders in output, see [Placeholders in output]().
+
+## Additional resources
+
+- [WP-CLI Handbook](https://make.wordpress.org/cli/handbook/)
