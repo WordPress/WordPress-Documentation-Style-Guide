@@ -92,6 +92,26 @@ When writing commands where the use has to choose one item, enclose the items in
 $ wp plugin install <plugin|zip|url>
 ```  
 [/tip]  
-In this example, `install` is required, and `<plugin|zip|url>` is the accepted positional argument. In fact, `wp plugin install` accepts the same positional argument (the slug, ZIP, or URL of a plugin to install).
+In this example, `install` is required, and `<plugin|zip|url>` is the accepted positional argument. In fact, `wp plugin install` accepts the same positional argument (the slug, ZIP, or URL of a plugin to install). The `plugin`, `zip`, and `url` choices are mutually exclusive, but one of the argument must be specified.
+
+## Multiple value arguments
+
+Use an ellipsis (`...`) to indicate that the user can specify multiple values for the argument.
+
+**Example**  
+
+[tip] **Recommended:**  
+```shell
+$ wp plugin install
+```  
+[/tip]  
+
+[tip] **Recommended:**  
+```shell
+$ wp plugin install <plugin|zip|url>...
+```  
+[/tip]  
+
+
 
 ## Command output
