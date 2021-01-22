@@ -156,3 +156,4 @@ For information about explaining placeholders in output, see [Placeholders in ou
 ## Additional resources
 
 - [WP-CLI Handbook](https://make.wordpress.org/cli/handbook/)
+- [WP-CLI Commands](https://developer.wordpress.org/cli/commands/)
