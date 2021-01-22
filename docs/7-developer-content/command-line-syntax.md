@@ -98,20 +98,21 @@ In this example, `install` is required, and `<plugin|zip|url>` is the accepted p
 
 Use an ellipsis (`...`) to indicate that the user can specify multiple values for the argument.
 
-**Example**  
+**Examples**  
 
 [tip] **Recommended:**  
 ```shell
-$ wp plugin install
+$ wp media import [--post_id=<post_id>...]
 ```  
 [/tip]  
+In this example, the ellipsis indicates that the user can specify multiple instances of the optional argument `[--post_id=<post_id>]`.
 
 [tip] **Recommended:**  
 ```shell
 $ wp plugin install <plugin|zip|url>...
 ```  
 [/tip]  
-
+In this example, the ellipsis indicates that the user can specify multiple plugins, zip files or URLs.
 
 
 ## Command output
