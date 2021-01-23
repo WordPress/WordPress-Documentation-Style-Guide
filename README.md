@@ -172,7 +172,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Markdown    |   ✔️ (Moved to Coding standards)   |
 | MySQL       |   ❌   |
 | PHP         |   ✔️ (Moved to Coding standards)   |
-| Placeholder formatting (New component) |   🔄   |
+| Placeholder formatting (New component) |   🔄 (⚠️ while publishing)   |
 | Syntax      |   ✔️   |
 | Terminology |        |
 | UI elements |        |
