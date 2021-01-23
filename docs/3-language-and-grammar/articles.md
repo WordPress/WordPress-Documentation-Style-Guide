@@ -21,6 +21,6 @@ Including articles in your writing is essential for overall simplicity of langua
 Using *a* or *an* depends on the pronunciation of the succeeding word. Basically, *a* is used before any consonant sound, and *an* is used before any vowel sound.
 The article (*a* or *an*) that goes along with an abbreviation depends on whether the term is pronounced like an acronym or an initialism. For example, *an* API, *an* IDE, *a* URL, *a* CMS are the articles that go with these terms. For more information, see [Abbreviations]().
 
-## Additional Resources
+## Additional resources
 
 [The Purdue Online Writing Lab - Using Articles](https://owl.purdue.edu/owl/general_writing/grammar/using_articles.html)
