@@ -11,11 +11,14 @@ This page explains how to format placeholder variables in commands and code exam
 ### Placeholder variables in inline text
 
 When placeholder variables appear in a sentence, use the following formatting:
-- In HTML, enclose placeholders in `<code><var>` elements.
-  ```
+- In HTML, enclose inline placeholders in `<code><var>` elements.
+  ```html
   <code><var>PLACEHOLDER_VARIABLE</var></code>
   ```
-- 
+- In Markdown, enclose inline placeholders in backticks (``` ` ```) and use an asterisk (`*`) before the first and second backtick.
+  ```markdown
+  *`PLACEHOLDER_VARIABLE`*
+  ```
 
 ### Placeholder variables in code blocks
 
