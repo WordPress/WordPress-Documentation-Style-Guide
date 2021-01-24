@@ -10,12 +10,20 @@ This page explains how to format placeholder variables in commands and code exam
 
 ### Placeholder variables in inline text
 
+When placeholder variables appear in a sentence, use the following formatting:
+- In HTML, enclose placeholders in `<code><var>` elements.
+  ```
+  <code><var>PLACEHOLDER_VARIABLE</var></code>
+  ```
+- 
+
 ### Placeholder variables in code blocks
 
-If your placeholder variables are in a block of code, use the following formatting:
+When placeholder variables are in a block of code, use the following formatting:
 
 {% codetabs %}  
 {% HTML %}  
+
 Enclose the code block in a `<pre>` element and tag placeholders with `<var>` elements.
 ```html
 <pre class="prototype">
@@ -25,8 +33,9 @@ Enclose the code block in a `<pre>` element and tag placeholders with `<var>` el
 />
 </pre>
 ```  
-{% Markdown %}
-Enclose the code block in a code fence. You cannot apply text formatting or highlighting inside a code fence.
+{% Markdown %}  
+
+Enclose the code block in a code fence. You cannot apply text formatting or highlighting such as bold or italic inside a code fence.
 ```markdown
     ```
     *PLACEHOLDER_VARIABLE*
