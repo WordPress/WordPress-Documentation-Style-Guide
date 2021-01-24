@@ -14,7 +14,7 @@ This page explains how to format placeholder variables in commands and code exam
 
 ### Placeholder variable text
 
-For text in placeholder variables, use uppercase characters with underscore delimiters.
+For text in placeholder variables, use uppercase characters with underscore delimiters. If using uppercase characters with underscore delimiters, or capitalizing lowercase characters with already uppercase characters seems inconsistent, then it is acceptable to use another convention; but be consistent with that convention.
 
 **Examples**  
 
@@ -27,8 +27,15 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developer.wordpress.org/<var>API name</var>`
 - `https://developer.wordpress.org/<var>api_name</var>`
 - `https://developer.wordpress.org/<var>api-name</var>`
-- `https://developer.wordpress.org/<var>apiName</var>`
+- `https://developer.wordpress.org/<var>apiName</var>`  
+
 [/warning]  
+
+[tip] **Recommended:**  
+- `https://developers.google.com/<var>API_NAME</var>`
+- `https://developers.google.com/<var>POST_TITLE</var>`
+
+[/tip]  
 
 {% Markdown %}  
 
@@ -38,7 +45,14 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developer.wordpress.org/*API_name*`
 - `https://developer.wordpress.org/*api_name*`
 - `https://developer.wordpress.org/*api-name*`
-- `https://developer.wordpress.org/*apiName*`
+- `https://developer.wordpress.org/*apiName*`  
+
 [/warning]  
+
+[tip] **Recommended:**  
+- `https://developers.google.com/*API_NAME*`
+- `https://developers.google.com/*POST_TITLE*`
+
+[/tip]  
 
 {% end %}
