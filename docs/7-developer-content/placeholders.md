@@ -5,3 +5,13 @@ Placeholders in code and commands represent values that the user must input or r
 For example, *`POST_ID`* represents a post ID in a code example, command, and example output. In example output, *`VERSION`* represents the version of a plugin, theme, or software; the reader is not expected to set this to a specific value.
 
 This page explains how to format placeholder variables in commands and code examples. For more information about other code-related documentation, see [Code in text](), [Code examples](), and [Command line interface syntax]().
+
+## Placeholder variables
+
+### Placeholder variables in inline text
+
+### Placeholder variables in code blocks
+
+### Placeholder variable text
+
+For text in placeholder variables, use uppercase characters with underscore delimiters.
