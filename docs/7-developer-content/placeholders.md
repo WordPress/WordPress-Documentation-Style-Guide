@@ -12,6 +12,21 @@ This page explains how to format placeholder variables in commands and code exam
 
 ### Placeholder variables in code blocks
 
+If your placeholder variables are in a block of code, use the following formatting:
+
+{% codetabs %}  
+{% HTML %}  
+Enclose the code block in a `<pre>` element and tag placeholders with `<var>` elements.
+```html
+<pre class="prototype">
+<img
+  src="<var>IMAGE_PATH</var>"
+  alt="<var>ALT_TEXT</var>"
+/>
+</pre>
+```  
+
+
 ### Placeholder variable text
 
 For text in placeholder variables, use uppercase characters with underscore delimiters. If using uppercase characters with underscore delimiters, or capitalizing lowercase characters with already uppercase characters seems inconsistent, then it is acceptable to use another convention; but be consistent with that convention.
@@ -75,5 +90,7 @@ Don't use possessive pronouns in placeholder variables.
 
 [/warning]  
 {% end %}
+
+For more information about placeholder text in commands, see [Optional arguments](), [Mutually exclusive arguments](), and [Multiple value arguments]().
 
 ## Describing placeholders
