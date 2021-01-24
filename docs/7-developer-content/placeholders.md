@@ -36,7 +36,6 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developers.google.com/<var>POST_TITLE</var>`
 
 [/tip]  
-
 {% Markdown %}  
 
 [warning] **Not recommended:**  
@@ -54,5 +53,27 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developers.google.com/*POST_TITLE*`
 
 [/tip]  
-
 {% end %}
+
+Don't use possessive pronouns in placeholder variables.
+
+**Examples**
+{% codetabs %}  
+{% HTML %}  
+
+[warning] **Not recommended:**  
+- `https://developer.wordpress.org/<var>MY_API_NAME</var>`
+- `https://developer.wordpress.org/<var>YOUR_API_NAME</var>`  
+
+[/warning]  
+
+{% Markdown %}  
+
+[warning] **Not recommended:**  
+- `https://developer.wordpress.org/*MY_API_NAME*`
+- `https://developer.wordpress.org/*YOUR_API_NAME*`  
+
+[/warning]  
+{% end %}
+
+## Describing placeholders
