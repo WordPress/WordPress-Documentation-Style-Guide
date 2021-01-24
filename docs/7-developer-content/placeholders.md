@@ -25,7 +25,14 @@ Enclose the code block in a `<pre>` element and tag placeholders with `<var>` el
 />
 </pre>
 ```  
-
+{% Markdown %}
+Enclose the code block in a code fence. You cannot apply text formatting or highlighting inside a code fence.
+```markdown
+    ```
+    *PLACEHOLDER_VARIABLE*
+    ```
+```  
+{% end %}
 
 ### Placeholder variable text
 
