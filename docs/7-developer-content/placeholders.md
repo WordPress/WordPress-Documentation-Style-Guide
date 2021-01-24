@@ -15,3 +15,30 @@ This page explains how to format placeholder variables in commands and code exam
 ### Placeholder variable text
 
 For text in placeholder variables, use uppercase characters with underscore delimiters.
+
+**Examples**  
+
+{% codetabs %}  
+{% HTML %}  
+
+[warning] **Not recommended:**  
+- `https://developer.wordpress.org/<var>API-name</var>`
+- `https://developer.wordpress.org/<var>API_name</var>`
+- `https://developer.wordpress.org/<var>API name</var>`
+- `https://developer.wordpress.org/<var>api_name</var>`
+- `https://developer.wordpress.org/<var>api-name</var>`
+- `https://developer.wordpress.org/<var>apiName</var>`
+[/warning]  
+
+{% Markdown %}  
+
+[warning] **Not recommended:**  
+- `https://developer.wordpress.org/*API-name*`
+- `https://developer.wordpress.org/*API name*`
+- `https://developer.wordpress.org/*API_name*`
+- `https://developer.wordpress.org/*api_name*`
+- `https://developer.wordpress.org/*api-name*`
+- `https://developer.wordpress.org/*apiName*`
+[/warning]  
+
+{% end %}
