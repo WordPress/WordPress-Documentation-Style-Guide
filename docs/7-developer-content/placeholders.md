@@ -128,5 +128,24 @@ Use the following order to describe placeholders:
 
 [tip] **Recommended:**  
 
+```html
+<pre class="prototype">
+<img
+  src="<var>IMAGE_PATH</var>"
+  alt="The WordPress mascot Wapuu."
+/>
+</pre>
 
+<p>Replace the following:</p>
+
+<ul>
+  <li><code><var>IMAGE_PATH</var></code>: the directory path of the image asset.</li>
+</ul>
+```  
 [/tip]  
+
+## Single placeholder
+
+## Multiple placeholders
+
+## Placeholders in output
