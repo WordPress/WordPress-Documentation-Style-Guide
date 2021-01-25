@@ -47,7 +47,7 @@ When you refer to a method name in text, omit the class name except where includ
 
 ## Commands
 
-To mark a block of code such as a lengthy command or a code sample, use the following formatting:
+To mark a block of code such as a lengthy command or a code example, use the following formatting:
 - In HTML, use the `<pre>` element.
 - In Markdown, use a code fence (` ``` `).
 
