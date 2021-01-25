@@ -163,11 +163,11 @@ Replace <code><var>POST_ID</var></code> with the ID of the post that you want to
 ## Multiple placeholders
 
 When there are two or more placeholders in code examples, commands, or other text, use the following formatting:
-- Write a descriptive list of all the placeholder variables used in the respective in code examples, commands, or other text.
+- Write a descriptive list of all the placeholder variables used in the respective code example, command, or other text, after the code content.
 - Explain what each placeholder variable represents.
 - Introduce the placeholder description list with *Replace the following:*
-- List all the placeholder variables in the order in which they appear in the code examples, commands, or other text.
-- Provide a description for each placeholder.
+- List all the placeholder variables in the order in which they appear in the code example, command, or other text.
+- Provide a description for each placeholder variable.
 - Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
   ```html
   <li><code><var>POST_ID</var></code>: description</li>
@@ -176,7 +176,7 @@ When there are two or more placeholders in code examples, commands, or other tex
 **Example**  
 
 [tip] **Recommended:**  
-To delete an existing post, enter the following command:  
+To edit an existing post, enter the following command:  
 
 <pre>
 $ wp post edit <code><var>POST_ID</var></code> --path=<code><var>PATH</var></code> --skip-themes[=<code><var>THEMES</var></code>]
@@ -190,3 +190,17 @@ Replace the following:
 [/tip]  
 
 ## Placeholders in output
+
+When you specify placeholders in output examples, use the following formatting:
+- Write a descriptive list of all the placeholder variables used in the output, after the output example.
+- Introduce the placeholder description list with *In this output:*
+- List all the placeholder variables in the order in which they appear in the output example.
+- Provide a description for each placeholder variable.
+- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
+  ```html
+  <li><code><var>POST_ID</var></code>: description</li>
+  ```
+
+For more information, see [Output from commands]().
+
+**Example**  
