@@ -49,7 +49,7 @@ Be thoughtful of word choice - particularly slang and ableist language. Don't us
 
 ## Writing about genders
 
-Use gender-neutral language, including pronouns. When writing about a real individual, use their preferred pronouns. Avoid gendered language such as *manpower*, *man-hours*, *chairman*, etc. Read additional guidelines on "Genders" and "Pronouns".  
+Use gender-neutral language, including pronouns. When writing about a real individual, use their preferred pronouns. Avoid gendered language such as *manpower*, *man-hours*, *chairman*, etc. Read additional guidelines on [Genders]() and [Pronouns]().  
 
 **Examples**  
 
