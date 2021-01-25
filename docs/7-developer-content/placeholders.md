@@ -170,7 +170,7 @@ When there are two or more placeholders in code examples, commands, or other tex
 - Provide a description for each placeholder variable.
 - Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
   ```html
-  <li><code><var>POST_ID</var></code>: description</li>
+  <li><code><var>PLACEHOLDER</var></code>: description</li>
   ```
 
 **Example**  
@@ -198,7 +198,7 @@ When you specify placeholders in output examples, use the following formatting:
 - Provide a description for each placeholder variable.
 - Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
   ```html
-  <li><code><var>POST_ID</var></code>: description</li>
+  <li><code><var>PLACEHOLDER</var></code>: description</li>
   ```
 
 For more information, see [Output from commands]().
