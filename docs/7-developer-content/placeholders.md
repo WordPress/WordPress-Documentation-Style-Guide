@@ -146,26 +146,22 @@ Use the following order to describe placeholders:
 
 ## Single placeholder
 
-When writing a single placeholder, replace <code><var>PLACEHOLDER</var></code> *`PLACEHOLDER`* with *a description of what the placeholder represents.*
+When writing a single placeholder, replace <code><var>PLACEHOLDER</var></code> with *a description of what the placeholder represents.*
 
 **Example**  
 
-tip] **Recommended:**  
-```shell
-$ wp post delete POST_ID
-```  
+[tip] **Recommended:**  
+To delete an existing post, enter the following command:  
 
-<pre class="prettyprint" >
+<pre>
 $ wp post delete <code><var>POST_ID</var></code>
 </pre>  
 
-<code>
-$ wp post delete <code><var>POST_ID</var></code>
-</code>  
-
+Replace <code><var>POST_ID</var></code> with the ID of the post that you want to delete.  
 [/tip]  
 
-
 ## Multiple placeholders
+
+
 
 ## Placeholders in output
