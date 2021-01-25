@@ -146,7 +146,7 @@ Use the following order to describe placeholders:
 
 ## Single placeholder
 
-When writing a single placeholder, replace <>code><var>PLACEHOLDER</var></code> *`PLACEHOLDER`* with *a description of what the placeholder represents.*
+When writing a single placeholder, replace <code><var>PLACEHOLDER</var></code> *`PLACEHOLDER`* with *a description of what the placeholder represents.*
 
 **Example**  
 
