@@ -146,6 +146,15 @@ Use the following order to describe placeholders:
 
 ## Single placeholder
 
+When writing a single placeholder, replace <var>PLACEHOLDER</var> *`PLACEHOLDER`* with *a description of what the placeholder represents.*
+
+**Example**  
+
+tip] **Recommended:**  
+```shell
+```  
+[/tip]  
+
 ## Multiple placeholders
 
 ## Placeholders in output
