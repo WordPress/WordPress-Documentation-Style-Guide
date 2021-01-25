@@ -113,3 +113,8 @@ Don't use possessive pronouns in placeholder variables.
 For more information about placeholder text in commands, see [Optional arguments](), [Mutually exclusive arguments](), and [Multiple value arguments]().
 
 ## Describing placeholders
+
+When you use a placeholder in code examples, commands, or other text, include an explanation for what the placeholder represents. Write an explanation for the first time you use the placeholder; if there are multiple placeholders or steps after the first use of that placeholder, you can explain the placeholder again.
+
+Use the following order to describe placeholders:
+- 
