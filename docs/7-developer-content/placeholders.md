@@ -162,6 +162,10 @@ Replace <code><var>POST_ID</var></code> with the ID of the post that you want to
 
 ## Multiple placeholders
 
-
+When there are two or more placeholders in code examples, commands, or other text, use the following formatting:
+- Write a descriptive list of all the placeholder variables used in the respective in code examples, commands, or other text.
+- Explain what each placeholder variable represents.
+- Introduce the placeholder description list with *Replace the following:*
+- List all the placeholder variables in the order in which they appear in the code examples, commands, or other text.
 
 ## Placeholders in output
