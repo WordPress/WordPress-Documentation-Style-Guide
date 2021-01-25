@@ -152,8 +152,19 @@ When writing a single placeholder, replace <code><var>PLACEHOLDER</var></code> *
 
 tip] **Recommended:**  
 ```shell
+$ wp post delete POST_ID
 ```  
+
+<pre class="prettyprint" >
+$ wp post delete <code><var>POST_ID</var></code>
+</pre>  
+
+<code>
+$ wp post delete <code><var>POST_ID</var></code>
+</code>  
+
 [/tip]  
+
 
 ## Multiple placeholders
 
