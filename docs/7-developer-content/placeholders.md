@@ -117,4 +117,16 @@ For more information about placeholder text in commands, see [Optional arguments
 When you use a placeholder in code examples, commands, or other text, include an explanation for what the placeholder represents. Write an explanation for the first time you use the placeholder; if there are multiple placeholders or steps after the first use of that placeholder, you can explain the placeholder again.
 
 Use the following order to describe placeholders:
-- 
+- Describe what the user is doing.
+- Write the code example, command, or other text.
+- Explain the placeholder.
+- Explain the code example, command, or other text in more detail if required.
+- Show any output if required.
+- Explain any output if required.
+
+**Example**  
+
+[tip] **Recommended:**  
+
+
+[/tip]  
