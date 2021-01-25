@@ -224,5 +224,10 @@ The output is similar to the following:
 }
 </pre>  
 
+In this output:  
+- <code><var>SITE_NAME</var></code>: the name of the site.
+- <code><var>SITE_DESCRIPTION</var></code>: the description of the site.
+- <code><var>OAUTH_REQUEST_URL</var></code>: the OAuth requesting URL.
+- <code><var>OAUTH_AUTHORIZE_URL</var></code>: the OAuth authorizing URL.
 
 [/tip]  
