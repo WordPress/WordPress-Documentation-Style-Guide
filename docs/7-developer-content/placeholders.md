@@ -204,3 +204,25 @@ When you specify placeholders in output examples, use the following formatting:
 For more information, see [Output from commands]().
 
 **Example**  
+
+[tip] **Recommended:**  
+The output is similar to the following:
+
+<pre>
+{
+	"name": "<code><var>SITE_NAME</var></code>",
+	"description": "<code><var>SITE_DESCRIPTION</var></code>",
+	"routes": { ... },
+	"authentication": {
+		"oauth1": {
+			"request": "<code><var>OAUTH_REQUEST_URL</var></code>",
+			"authorize": "<code><var>OAUTH_AUTHORIZE_URL</var></code>",
+			"access": "http://example.com/oauth/access",
+			"version": "0.1"
+		}
+	}
+}
+</pre>  
+
+
+[/tip]  
