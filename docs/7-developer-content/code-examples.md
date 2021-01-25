@@ -1,5 +1,7 @@
 # Code examples
 
+In documentation, mark a block of code such as a lengthy command or a code example to distinguish it from standard text. To express code examples in HTML, use the `<pre>` element. In Markdown, use a code fence (` ``` `).
+
 This page explains how to format code examples in documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Command line interface syntax]().
 
 For more information about adding code blocks in the Gutenberg block editor, see [Code block](https://wordpress.org/support/article/code-block/) and [Preformatted block](https://wordpress.org/support/article/preformatted-block/).
