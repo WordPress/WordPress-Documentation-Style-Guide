@@ -167,5 +167,26 @@ When there are two or more placeholders in code examples, commands, or other tex
 - Explain what each placeholder variable represents.
 - Introduce the placeholder description list with *Replace the following:*
 - List all the placeholder variables in the order in which they appear in the code examples, commands, or other text.
+- Provide a description for each placeholder.
+- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
+  ```html
+  <li><code><var>POST_ID</var></code>: description</li>
+  ```
+
+**Example**  
+
+[tip] **Recommended:**  
+To delete an existing post, enter the following command:  
+
+<pre>
+$ wp post edit <code><var>POST_ID</var></code> --path=<code><var>PATH</var></code> --skip-themes[=<code><var>THEMES</var></code>]
+</pre>  
+
+Replace the following:
+- <code><var>POST_ID</var></code>: the ID of the post that you want to edit.
+- <code><var>PATH</var></code>: the path to the WordPress files.
+- <code><var>THEMES</var></code>: skip loading all themes, or a comma-separated list of themes.
+
+[/tip]  
 
 ## Placeholders in output
