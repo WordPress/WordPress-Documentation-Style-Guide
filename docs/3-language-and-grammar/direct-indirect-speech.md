@@ -8,9 +8,9 @@ In direct speech, the speaker's words are directly quoted word-to-word without a
 
 **Examples**  
 
-Developer's expression: This API is the newest version.  
-Direct speech: The developer said, "This API is the newest version."
-Direct speech: "This API," the developer said, "is the newest version."
+**Developer's expression:** This API is the newest version.  
+**Direct speech:** The developer said, "This API is the newest version."
+**Direct speech:** "This API," the developer said, "is the newest version."
 
 Avoid using direct speech by breaking up information about who is speaking. This impedes the understanding of the reader.
 
@@ -20,6 +20,6 @@ In indirect or reported speech, the speaker's words are reported by paraphrasing
 
 **Examples**  
 
-Developer's expression: This API is the newest version.  
-Indirect speech (summarized): The developer *said* that this API is the newest version.  
-Indirect speech (paraphrased): The developer *asserted* that this API is the newest version.
+**Developer's expression:** This API is the newest version.  
+**Indirect speech (summarized):** The developer *said* that this API is the newest version.  
+**Indirect speech (paraphrased):** The developer *asserted* that this API is the newest version.
