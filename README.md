@@ -155,7 +155,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Pop-ups and alerts         |        |
 | Tabs                       |        |
 | Terminology                |        |
-| UI elements                |        |
+| UI elements                |   🔄   |
 | Windows                    |        |
 
 ### Developer content 🔄
@@ -175,7 +175,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Placeholder formatting (New component) |   ✔️ (⚠️ while publishing)   |
 | Syntax      |   ✔️   |
 | Terminology |        |
-| UI elements |        |
+| UI elements |   🔄   |
 | XML         |   ❌   |
 
 ### Word usage dictionary/Glossary
