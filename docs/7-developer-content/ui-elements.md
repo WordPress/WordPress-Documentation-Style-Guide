@@ -21,6 +21,7 @@ However, be watchful of the context and the reader demographic and how that infl
 ## Formatting UI element names
 
 <span class="dashicons dashicons-menu"></span>
+
 
 
 ## Pressing and typing keyboard keys
