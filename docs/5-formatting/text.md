@@ -70,7 +70,7 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 | Key terms | Italicize the first mention of a new term. Refer [Key terms](). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
 | Mathematical constants and variables | Use italics. | *x/y + z = 4* |  
-| Placeholder variables | Use italicized code text. Refer [Placeholder variables](). | *`EMAIL_ADDRESS`*<br />*`PHONE_NUMBER`* |
+| Placeholder variables | Use italicized code text. Refer [Placeholder variables](). | <var><code>EMAIL_ADDRESS</var></code><br /><var><code>PHONE_NUMBER</var></code> |
 | Titles of books, movies, articles, posts, papers, and other full-length works | Use italics. Refer [Cross-references](). | *The Gutenberg Block Editor Guide*<br />*WordPress 5.6 “Simone”*<br />*Getting started with WordPress hooks: Introduction* |
 | UI elements or strings | Use sentence-case capitalization. | Navigate to page 4. <br /> Copy the selected items. |
 | URLs | Use lowercase capitalization for complete URLs. If necessary, line-break long URLs before a slash. Don't hyphenate.<br />Refer [URLs and web addresses](). |  wordpress.org |
