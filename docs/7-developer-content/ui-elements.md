@@ -26,8 +26,11 @@ Don't apply bold formatting to an official feature name or product name, except 
 
 **Examples**  
 
-[warning] **Not recommended:**  [/warning]  
-[tip] **Recommended:**  [/tip]  
+[warning] **Not recommended:** In the Appearance section, select "Themes" and then click the "Add New" button. [/warning]  
+[tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
+
+[warning] **Not recommended:** Click **DOWNLOAD** [/warning]  
+[tip] **Recommended:** Click <span class="dashicons dashicons-download"></span> **Download**. [/tip]  
 
 ## Pressing and typing keyboard keys
 ## Terminology and usage
