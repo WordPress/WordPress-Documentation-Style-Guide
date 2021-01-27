@@ -154,7 +154,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Menus and dropdowns        |        |
 | Pop-ups and alerts         |        |
 | Tabs                       |        |
-| Terminology                |        |
+| Terminology                |   ✔️   |
 | UI elements                |   🔄   |
 | Windows                    |   🔄   |
 
