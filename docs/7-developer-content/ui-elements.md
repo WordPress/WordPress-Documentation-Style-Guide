@@ -39,6 +39,15 @@ Don't apply bold formatting to an official feature name or product name, except 
 
 There can be multiple elements in a user interface. [Emphasize the task](#emphasize-the-task) and focus on the feature and functionality of the UI element, rather than focusing on the UI element itself.
 
+**Examples**  
 
+[tip] **Recommended:** Go to **Plugins > Installed Plugins**. [/tip]  
+[tip] **Recommended:** In the **Plugins** section, click **Installed Plugins**. [/tip]  
+
+Following are the terminology and word usage when referring to UI elements:
+
+### 
+### Buttons
+###
 
 ## Interaction verbs
