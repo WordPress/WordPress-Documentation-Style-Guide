@@ -6,10 +6,13 @@ When writing about interactions involving the user interface (UI), emphasize on 
 
 However, be watchful of the context and the reader demographic and how that influences your documentation; sometimes the objective of a procedure is to guide readers through elements on a page.
 
-**Examples**
+**Examples**  
 
-[warning] **Not recommended:** [/warning]  
-[tip] **Recommended:**  [/tip]  
+[warning] **Not recommended:** Click the PUBLISH button. [/warning]  
+[warning] **Not recommended:** Click the *Publish* button. [/warning]  
+[warning] **Not recommended:** Click the "Publish" button. [/warning]  
+[tip] **Recommended:**  Click **Publish**. [/tip]  
+[tip] **Also recommended considering context:** Publish the post. [/tip]
 
 [warning] **Not recommended:** [/warning]  
 [tip] **Recommended:**  [/tip]  
