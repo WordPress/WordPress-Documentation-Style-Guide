@@ -15,7 +15,7 @@ Although a double underscore (`__`) can be used for bold formatting in Markdown,
 
 **Italic**  
 
-Use italic formatting, `<i>` in HTML or `_` in Markdown, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms]() or using [words as words](). You can also use a single asterisk (`**`) for italic formatting in Markdown.  
+Use italic formatting, `<i>` in HTML or `_` in Markdown, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms]() or using [words as words](). You can also use a single asterisk (`*`) for italic formatting in Markdown.  
 
 **Underline**  
 
@@ -55,7 +55,7 @@ Clear, legible, as well as aesthetically pleasing typography is one of the prima
 - Avoid center-aligned text.
 - Ensure adequate and consistent line spacing - which is the amount of vertical space between two lines of text in a text body. If your site's design determines the line spacing, don't change it. Don't reduce line spacing to fit more text or content; rewrite or edit the text instead.
 
-See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI elements]() for additional information.
+For additional information, see [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI elements]().
 
 ### Formatting common text elements
 
@@ -65,7 +65,7 @@ See [Capitalization](), [Headings](), [Procedures](), [Code examples](), and [UI
 | Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. Refer [Trademarks](). | WordPress<br /><br />WordCamp Central  |
 | Emphasis | Sometimes it's acceptable to use italic text for emphasis. | Use the 24-hour format only when *absolutely* needed. |
 | Error messages | Use sentence-style capitalization. Enclose in quotation marks when referencing error messages in text. | Error Code 345. Do you want to continue? <br /> If you see the error message, "Executable not found." quit and restart the terminal. |
-| Filename extensions | All lowercase. See also [Filenames]() | `.css`<br />`.php` |
+| Filename extensions | All lowercase. Refer [Filenames]() | `.css`<br />`.php` |
 | Filenames | All lowercase. Refer [Filenames](). | `new-cache.php`<br />`wp-settings-1.php` |
 | Key terms | Italicize the first mention of a new term. Refer [Key terms](). | An administrator’s tool of sorts, *phpMyAdmin* is a PHP script meant for giving users the ability to interact with their MySQL databases. |
 | Markup language elements (tags) | Use bold text in code font. Capitalization varies. | **`<link>`**<br />**`<!DOCTYPE html>`** |
