@@ -78,7 +78,7 @@ When writing alt text, follow these guidelines:
 
 Captions are brief, concise summaries of an image or a figure.
 When writing image captions, follow these guidelines:
-- Use the form,  "<b>Figure *`NUMBER`*.</b> *`DESCRIPTION`*".
+- Use the form,  "<b>Figure <var><code>NUMBER</var></code>.</b> <var><code>DESCRIPTION</var></code>".
 - Use punctuation in image captions.
 - In general, avoid using directional language such as *the image above, top, below, left-hand side, lower-right side* in instructions to locate images or other figures. Directional language proves to be difficult for accessibility or for localization.
 - Don't include the image caption in a sentence referencing the image.
