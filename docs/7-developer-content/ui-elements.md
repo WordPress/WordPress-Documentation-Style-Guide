@@ -12,13 +12,17 @@ However, be watchful of the context and the reader demographic and how that infl
 [warning] **Not recommended:** Click the *Publish* button. [/warning]  
 [warning] **Not recommended:** Click the "Publish" button. [/warning]  
 [tip] **Recommended:**  Click **Publish**. [/tip]  
-[tip] **Recommended** (consider context): Publish the post. [/tip]
+[tip] **Recommended** (consider context): Publish the post. [/tip]  
 
 [warning] **Not recommended:** Click the arrow indicator to open the **Time zone** options section. [/warning]  
 [tip] **Recommended:** To open the **Time zone** options section, click the dropdown arrow. [/tip]  
 [tip] **Recommended** (consider context): Open the **Time zone** options section. [/tip]  
 
 ## Formatting UI element names
+
+<span class="dashicons dashicons-menu"></span>
+
+
 ## Pressing and typing keyboard keys
 ## Terminology and usage
 ## Interaction verbs
