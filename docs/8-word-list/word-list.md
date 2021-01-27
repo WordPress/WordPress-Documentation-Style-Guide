@@ -1,6 +1,6 @@
 # Word list and usage dictionary
 
-## #
+## Numbers
 ## Symbols
 ## A
 ## B
