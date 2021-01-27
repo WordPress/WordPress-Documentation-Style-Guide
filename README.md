@@ -175,7 +175,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Placeholder formatting (New component) |   ✔️ (⚠️ while publishing)   |
 | Syntax      |   ✔️   |
 | Terminology |   ✔️   |
-| UI elements |   🔄   |
+| UI elements |   🔄 (⚠️ while publishing)   |
 | XML         |   ❌   |
 
 ### Word usage dictionary/Glossary
