@@ -20,13 +20,14 @@ However, be watchful of the context and the reader demographic and how that infl
 
 ## Formatting UI element names
 
-When referring to a UI element by name, format the name in bold using the `<b>` element in HTML or `**` in Markdown. UI element names include those of buttons, windows, menus, dialogs, or any other element in the page or console that has a visible name. Don't use code font for UI element names, unless it is an element that [requires code font](//code-in-text.md); in which case use both code font and bold text formatting.
+When referring to a UI element by name, format the name in bold using the `<b>` element in HTML or `**` in Markdown. UI element names include those of buttons, windows, menus, dialogs, or any other element in the page or console that has a visible name. Don't use code font for UI element names, unless it is an element that [requires code font](//code-in-text.md); in which case use both code font and bold text formatting. Capitalize UI element names as per document context, but if the element names are inconsistent, use sentence-case capitalization.
 
 Don't apply bold formatting to an official feature name or product name, except when it directly refers to an element in the page that uses the name (such as a window title or button name).
 
-<span class="dashicons dashicons-menu"></span>
-
+**Examples**  
 
+[warning] **Not recommended:**  [/warning]  
+[tip] **Recommended:**  [/tip]  
 
 ## Pressing and typing keyboard keys
 ## Terminology and usage
