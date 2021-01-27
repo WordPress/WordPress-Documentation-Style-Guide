@@ -82,7 +82,7 @@ Insert the HTTP status code number and name in code font. Specifically use *stat
 
 Use the following formatting to refer a range of HTTP status codes: an HTTP `2xx` or `300` status code.
 
-Insert the HTTP status code number in code font even if you're excluding the code name. Use _**`N`**xx_ where _**`N`**_ is a digit, to indicate _anything in the **`N`**00 to **`N`**99 range_.
+Insert the HTTP status code number in code font even if you're excluding the code name. Use  <code><var>N</var></code>xx_ where <code><var>N</var></code> is a digit, to indicate _anything in the <code><var>N</var></code>00 to <code><var>N</var></code>99 range_.
 
 Use the following formatting to specify an exact range of HTTP status codes: an HTTP status code in the `200`-`299` range.
 
