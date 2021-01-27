@@ -33,5 +33,12 @@ Don't apply bold formatting to an official feature name or product name, except 
 [tip] **Recommended:** Click <span class="dashicons dashicons-download"></span> **Download**. [/tip]  
 
 ## Pressing and typing keyboard keys
+
+
 ## Terminology and usage
+
+There can be multiple elements in a user interface. [Emphasize the task](#emphasize-the-task) and focus on the feature and functionality of the UI element, rather than focusing on the UI element itself.
+
+
+
 ## Interaction verbs
