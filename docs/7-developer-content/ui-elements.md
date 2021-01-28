@@ -34,6 +34,13 @@ Don't apply bold formatting to an official feature name or product name, except 
 
 ## Pressing and typing keyboard keys
 
+To express a key or a combination of keys on a keyboard to be pressed by the user, use the `<kbd>` element.
+
+**Example**  
+
+[tip] **Recommended:** `Press <kbd>Control+K</kbd>`. [/tip]  
+
+
 
 ## Terminology and usage
 
@@ -46,7 +53,7 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 
 Following are the terminology and word usage when referring to UI elements:
 
-### 
+###
 ### Buttons
 ###
 
