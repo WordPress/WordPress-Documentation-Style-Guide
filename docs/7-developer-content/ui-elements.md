@@ -54,7 +54,7 @@ To refer to a keyboard key, use the key's name. If the key's name is ambiguous, 
 [tip] **Recommended:** Press <kbd>Esc</kbd>. [/tip]  
 [tip] **Recommended:** Press the <kbd>Esc</kbd> key. [/tip]  
 
-Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the key names and don't use their symbols. To refer to a key combination, use the form *<code><var>MODIFIER_KEY</code></var>+<code><var>KEY_NAME</code></var>.*
+Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the complete key names and don't use their symbols. To refer to a key combination, use the form *<code><var>MODIFIER_KEY</code></var>+<code><var>KEY_NAME</code></var>.*
 
 **Examples**  
 
@@ -63,6 +63,13 @@ Don't abbreviate the names of modifier keys such as Control, Shift, Command, and
 
 [warning] **Not recommended:** Press <kbd>⌘+T</kbd>. [/warning]  
 [tip] **Recommended:** Press <kbd>Command+T</kbd>. [/tip]  
+
+In most cases, to accommodate both Windows and Mac users, insert the Mac shortcut in parentheses after the Windows shortcut.
+
+**Examples**  
+
+[warning] **Not recommended:** To redo, press <kbd>Ctrl+Y</kbd> (<kbd>⌘+Y</kbd>). [/warning]  
+[tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
 ## Terminology and usage
 
