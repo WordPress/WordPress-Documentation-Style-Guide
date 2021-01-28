@@ -47,6 +47,15 @@ If you're using non-HTML markup, use monospace text formatting, which is how `<k
 
 To express a key that the user has to type to enter that key's value as text input, use the `<code>` element instead of the `<kbd>` element. For more information, see [Code font](//text.md).
 
+To refer to a keyboard key, use the key's name. If the key's name is ambiguous, use the form *the <code><var>KEY_NAME</code></var> key.*
+
+**Examples**  
+
+[tip] **Recommended:** Press <kbd>Esc</kbd>. [/tip]  
+[tip] **Recommended:** Press the <kbd>Esc</kbd> key. [/tip]  
+
+Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the key names and don't use their symbols. To refer to a key combination, use the form *<code><var>MODIFIER</code></var>+<code><var>KEY_NAME</code></var>.*
+
 ## Terminology and usage
 
 There can be multiple elements in a user interface. [Emphasize the task](#emphasize-the-task) and focus on the feature and functionality of the UI element, rather than focusing on the UI element itself.
