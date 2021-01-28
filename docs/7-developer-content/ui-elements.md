@@ -80,8 +80,12 @@ To refer to a key or combination that uses the Shift key, use the form *<code><v
 
 In general, use uppercase capitalization for character keys.
 
-Spell out the names of characters that could be confusing in a keyboard shortcut, such as comma, hyphen, period, and plus.
+Spell out the names of characters that could be ambiguous or confusing in a keyboard shortcut, such as comma, hyphen, period, and plus.
 
+**Examples**  
+
+[warning] **Not recommended:** Press <kbd>Control++</kbd>. [/warning]  
+[tip] **Recommended:** Press <kbd>Control+Plus</kbd>. [/tip]  
 
 ## Terminology and usage
 
