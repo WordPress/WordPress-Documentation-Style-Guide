@@ -54,7 +54,15 @@ To refer to a keyboard key, use the key's name. If the key's name is ambiguous, 
 [tip] **Recommended:** Press <kbd>Esc</kbd>. [/tip]  
 [tip] **Recommended:** Press the <kbd>Esc</kbd> key. [/tip]  
 
-Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the key names and don't use their symbols. To refer to a key combination, use the form *<code><var>MODIFIER</code></var>+<code><var>KEY_NAME</code></var>.*
+Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the key names and don't use their symbols. To refer to a key combination, use the form *<code><var>MODIFIER_KEY</code></var>+<code><var>KEY_NAME</code></var>.*
+
+**Examples**  
+
+[warning] **Not recommended:** Press <kbd>Ctrl+T</kbd>. [/warning]  
+[tip] **Recommended:** Press <kbd>Control+T</kbd>. [/tip]  
+
+[warning] **Not recommended:** Press <kbd>⌘+T</kbd>. [/warning]  
+[tip] **Recommended:** Press <kbd>Command+T</kbd>. [/tip]  
 
 ## Terminology and usage
 
