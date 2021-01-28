@@ -71,6 +71,14 @@ In most cases, to accommodate both Windows and Mac users, insert the Mac shortcu
 [warning] **Not recommended:** To redo, press <kbd>Ctrl+Y</kbd> (<kbd>⌘+Y</kbd>). [/warning]  
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
+To refer to a key or combination that uses the Shift key, use the form *<code><var>MODIFIER</code></var>+<kbd>Shift</kbd>+<code><var>KEY_NAME</code></var>.*
+
+**Examples**  
+
+[tip] **Recommended:** Press <kbd>Control+Shift+T</kbd>. [/tip]  
+[tip] **Recommended:** Press <kbd>Alt+Shift+R</kbd>. [/tip]  
+
+
 ## Terminology and usage
 
 There can be multiple elements in a user interface. [Emphasize the task](#emphasize-the-task) and focus on the feature and functionality of the UI element, rather than focusing on the UI element itself.
