@@ -36,11 +36,16 @@ Don't apply bold formatting to an official feature name or product name, except 
 
 To express a key or a combination of keys on a keyboard to be pressed by the user, use the `<kbd>` element.
 
-**Example**  
+**Examples**  
 
 [tip] **Recommended:** `Press <kbd>Control+K</kbd>`. [/tip]  
 
+The text renders as follows:  
+[tip] **Recommended:** Press <kbd>Control+K</kbd>. [/tip]  
 
+If you're using non-HTML markup, use monospace text formatting, which is how `<kbd>` renders. In Markdown, enclose the key name in backticks (``` ` ```).
+
+To express a key that the user has to type to enter that key's value as text input, use the `<code>` element instead of the `<kbd>` element. For more information, see [Code font](//text.md).
 
 ## Terminology and usage
 
