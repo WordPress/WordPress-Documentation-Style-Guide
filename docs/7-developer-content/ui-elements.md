@@ -34,7 +34,7 @@ Don't apply bold formatting to an official feature name or product name, except 
 
 ## Pressing and typing keyboard keys
 
-To express a key or a combination of keys on a keyboard to be pressed by the user, use the `<kbd>` element.
+To express a key or a combination of keys on a keyboard to be pressed by the user, use the `<kbd>` element. To refer to a keyboard shortcut, use either *keyboard shortcut* or *key combination.* To refer to the action of pressing a key or combination, use the verb *press*. To refer to the action of inputting a key or combination, use the verbs *type, enter*, or *input*.
 
 **Examples**  
 
@@ -77,6 +77,10 @@ To refer to a key or combination that uses the Shift key, use the form *<code><v
 
 [tip] **Recommended:** Press <kbd>Control+Shift+T</kbd>. [/tip]  
 [tip] **Recommended:** Press <kbd>Alt+Shift+R</kbd>. [/tip]  
+
+In general, use uppercase capitalization for character keys.
+
+Spell out the names of characters that could be confusing in a keyboard shortcut, such as comma, hyphen, period, and plus.
 
 
 ## Terminology and usage
