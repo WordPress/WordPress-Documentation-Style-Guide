@@ -146,13 +146,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 
 | Component                  | Status |
 |----------------------------|--------|
-| Activities                 |        |
+| Activities                 |   🔄   |
 | Buttons                    |   🔄   |
 | Code snippets, code blocks |   ✔️ (Moved to Coding standards)   |
 | Command line interface     |   ✔️   |
-| Dialogs                    |        |
+| Dialogs                    |   🔄   |
 | Menus and dropdowns        |        |
-| Pop-ups and alerts         |        |
+| Pop-ups and alerts         |   🔄   |
 | Tabs                       |        |
 | Terminology                |   ✔️   |
 | UI elements                |   🔄   |
