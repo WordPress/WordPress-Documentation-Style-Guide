@@ -103,6 +103,13 @@ Following are the terminology and word usage when referring to UI elements:
 ### Menu bar
 ### Toolbar
 ### Tab
+
+A tab is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
+
+**Examples**  
+
+[tip] **Recommended:** Select **Settings > Preferences**, and then click the **Edit** tab. [/tip]  
+
 ### Text box
 ### List box
 ### Expander
