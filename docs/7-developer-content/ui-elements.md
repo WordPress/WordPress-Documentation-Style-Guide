@@ -116,6 +116,10 @@ A tab is a navigation element that looks like a file tab. To refer to a tab, use
 
 An expander arrow is a UI element that is used to expand or collapse a section of navigation or content. Avoid referring to expander arrows in documentation. If you have to refer to them, use the terms *expander arrow* and *expandable section*.
 
+**Example**  
+
+[tip] **Recommended:** To expand the **Advanced options** section, click the expander arrow. [/tip]  
+
 ### Checkbox
 
 A checkbox is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
