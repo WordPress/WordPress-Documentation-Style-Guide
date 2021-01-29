@@ -98,7 +98,7 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 
 Following are the terminology and word usage when referring to UI elements:
 
-### Windows, pages, and dialogs
+### Windows, pages, dialogs, and views
 ### Buttons
 ### Menu bar
 ### Toolbar
@@ -132,5 +132,12 @@ A radio button is a button used to choose one item from a group of mutually excl
 [tip] **Recommended:** Select your preferred **Post visibility**. [/tip]  
 
 ### Toggle button
+
+A toggle button is a UI element that switches back and forth between on and off options or states. To refer to a toggle button, either use *toggle* as a noun or action verb.
+
+**Examples**  
+
+[tip] **Recommended:** To deactivate, click the **Plugin** toggle. [/tip]  
+[tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
 
 ## Interaction verbs
