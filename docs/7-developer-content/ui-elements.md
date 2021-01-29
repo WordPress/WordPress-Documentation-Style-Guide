@@ -117,12 +117,20 @@ A tab is a navigation element that looks like a file tab. To refer to a tab, use
 
 A checkbox is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
 
-**Example**  
+**Examples**  
 
 [tip] **Recommended:** Select the **Search engine visibility** checkbox. [/tip]  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
 ### Radio button
+
+A radio button is a button used to choose one item from a group of mutually exclusive options. A radio button is used when only one item can be chosen from the list. To refer to a radio button, use the radio button's label, or refer to the group of buttons by its label.
+
+**Examples**  
+
+[tip] **Recommended:** Click **Your latest posts**. [/tip]  
+[tip] **Recommended:** Select your preferred **Post visibility**. [/tip]  
+
 ### Toggle button
 
 ## Interaction verbs
