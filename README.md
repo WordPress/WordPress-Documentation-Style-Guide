@@ -142,12 +142,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Image links                |   ✔️   |
 | Link text                  |   ✔️ (⚠️ while publishing)   |
 
-### User interface (Moved to Developer content)
+### User interface (Moved to Developer content) 🔄
 
 | Component                  | Status |
 |----------------------------|--------|
 | Activities                 |        |
-| Buttons                    |        |
+| Buttons                    |   🔄   |
 | Code snippets, code blocks |   ✔️ (Moved to Coding standards)   |
 | Command line interface     |   ✔️   |
 | Dialogs                    |        |
