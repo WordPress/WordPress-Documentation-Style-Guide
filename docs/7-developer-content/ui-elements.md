@@ -106,7 +106,7 @@ Following are the terminology and word usage when referring to UI elements:
 
 A tab is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** Select **Settings > Preferences**, and then click the **Edit** tab. [/tip]  
 
@@ -114,6 +114,14 @@ A tab is a navigation element that looks like a file tab. To refer to a tab, use
 ### List box
 ### Expander
 ### Checkbox
+
+A checkbox is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
+
+**Example**  
+
+[tip] **Recommended:** Select the **Search engine visibility** checkbox. [/tip]  
+[tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
+
 ### Radio button
 ### Toggle button
 
