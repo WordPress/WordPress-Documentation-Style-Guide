@@ -114,6 +114,12 @@ A *tab* is a navigation element that looks like a file tab. To refer to a tab, u
 
 A *text box* or a *text field* is a box that the user can input or type in. To refer to a text box, use the form *the <code><var>LABEL_NAME</code></var> box*. Use code formatting for the text that the user inputs using the `<code>` element in HTML, backticks (``` ` ```) in Markdown, or a monospace font in other markup.
 
+**Examples**  
+
+[tip] **Recommended:** In the **Link** box, enter your sitemap link. [/tip]  
+[tip] **Recommended:** In the **Mail server** box, enter the port as `110`. [/tip]  
+[tip] **Recommended:** In the **Alt text** box, enter a brief image description without exceeding 100 characters. [/tip]  
+
 ### Dropdown list, combo box, and spin box
 
 A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</code></var> dropdown list* or *the <code><var>LABEL_NAME</code></var> box* depending upon the context.
