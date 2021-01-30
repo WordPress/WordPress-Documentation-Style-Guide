@@ -30,7 +30,7 @@ Don't apply bold formatting to an official feature name or product name, except 
 [tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
 
 [warning] **Not recommended:** Click **DOWNLOAD** [/warning]  
-[tip] **Recommended:** Click <span class="dashicons dashicons-download"></span> **Download**. [/tip]  
+[tip] **Recommended:** Click <span class="dashicons dashicons-download"></span> **Download**. [/tip]  
 
 ## Pressing and typing keyboard keys
 
@@ -111,6 +111,9 @@ A *tab* is a navigation element that looks like a file tab. To refer to a tab, u
 [tip] **Recommended:** Select **Settings > Preferences**, and then click the **Edit** tab. [/tip]  
 
 ### Text box
+
+A *text box* or a *text field* is a box that the user can input or type in. To refer to a text box, use the form *the <code><var>LABEL_NAME</code></var> box*. Use code formatting for the text that the user inputs using the `<code>` element in HTML, backticks (``` ` ```) in Markdown, or a monospace font in other markup.
+
 ### Dropdown list, combo box, and spin box
 
 A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</code></var> dropdown list* or *the <code><var>LABEL_NAME</code></var> box* depending upon the context.
@@ -119,13 +122,17 @@ A *dropdown list* or a *list box* is a UI element that provides a list of items 
 
 [tip] **Recommended:** In the **Default page** dropdown list, select **Homepage**. [/tip]  
 
-A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the LABEL_NAME box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type*, or *select*.
+A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type*, or *select*.
 
 **Example**  
 
 [tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
 
-A *spin box* is a UI element that lets the user choose a value — a numerical value in most cases — by clicking arrows or by typing. To refer to a spin box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of entering a value into a spin box, use the verb "enter."
+A *spin box* is a UI element that lets the user choose a value — a numerical value in most cases — by clicking arrows or by typing. To refer to a spin box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of entering a value into a spin box, use the verb *enter*.
+
+**Example**  
+
+[tip] **Recommended:** In the **Font Size** box, enter a font size. [/tip]  
 
 ### Expander
 
