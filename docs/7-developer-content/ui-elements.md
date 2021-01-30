@@ -102,6 +102,13 @@ Following are the terminology and word usage when referring to UI elements:
 ### Button
 ### Menu bar
 ### Toolbar
+
+A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</code></var> toolbar.*
+
+**Examples**  
+
+[tip] **Recommended:** In the **Admin** toolbar, click **Profile**. [/tip]  
+
 ### Tab
 
 A *tab* is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
