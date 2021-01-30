@@ -115,6 +115,12 @@ A *tab* is a navigation element that looks like a file tab. To refer to a tab, u
 
 A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</code></var> dropdown list* or *the <code><var>LABEL_NAME</code></var> box* depending upon the context.
 
+**Example**  
+
+[tip] **Recommended:** In the **Default page** dropdown list, select **Homepage**. [/tip]  
+
+A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the LABEL_NAME box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type, input*, or *select*.
+
 ### Expander
 
 An *expander arrow* is a UI element that is used to expand or collapse a section of navigation or content. Avoid referring to expander arrows in documentation. If you have to refer to them, use the terms *expander arrow* and *expandable section*.
