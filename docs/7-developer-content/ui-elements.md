@@ -119,7 +119,13 @@ A *dropdown list* or a *list box* is a UI element that provides a list of items 
 
 [tip] **Recommended:** In the **Default page** dropdown list, select **Homepage**. [/tip]  
 
-A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the LABEL_NAME box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type, input*, or *select*.
+A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the LABEL_NAME box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type*, or *select*.
+
+**Example**  
+
+[tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
+
+A *spin box* is a UI element that lets the user choose a value — a numerical value in most cases — by clicking arrows or by typing. To refer to a spin box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of entering a value into a spin box, use the verb "enter."
 
 ### Expander
 
