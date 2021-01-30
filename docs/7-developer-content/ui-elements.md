@@ -98,23 +98,26 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 
 Following are the terminology and word usage when referring to UI elements:
 
-### Windows, pages, dialogs, and views
-### Buttons
+### Window, page, dialog, and view
+### Button
 ### Menu bar
 ### Toolbar
 ### Tab
 
-A tab is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
+A *tab* is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
 
 **Example**  
 
 [tip] **Recommended:** Select **Settings > Preferences**, and then click the **Edit** tab. [/tip]  
 
 ### Text box
-### List box
+### Dropdown list, combo box, and spin box
+
+A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</code></var> dropdown list* or *the <code><var>LABEL_NAME</code></var> box* depending upon the context.
+
 ### Expander
 
-An expander arrow is a UI element that is used to expand or collapse a section of navigation or content. Avoid referring to expander arrows in documentation. If you have to refer to them, use the terms *expander arrow* and *expandable section*.
+An *expander arrow* is a UI element that is used to expand or collapse a section of navigation or content. Avoid referring to expander arrows in documentation. If you have to refer to them, use the terms *expander arrow* and *expandable section*.
 
 **Example**  
 
@@ -122,7 +125,7 @@ An expander arrow is a UI element that is used to expand or collapse a section o
 
 ### Checkbox
 
-A checkbox is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
+A *checkbox* is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
 
 **Examples**  
 
@@ -131,7 +134,7 @@ A checkbox is a box that indicates whether a particular value is selected or not
 
 ### Radio button
 
-A radio button is a button used to choose one item from a group of mutually exclusive options. A radio button is used when only one item can be chosen from the list. To refer to a radio button, use the radio button's label, or refer to the group of buttons by its label.
+A *radio button* is a button used to choose one item from a group of mutually exclusive options. A radio button is used when only one item can be chosen from the list. To refer to a radio button, use the radio button's label, or refer to the group of buttons by its label.
 
 **Examples**  
 
@@ -140,7 +143,7 @@ A radio button is a button used to choose one item from a group of mutually excl
 
 ### Toggle button
 
-A toggle button is a UI element that switches back and forth between on and off options or states. To refer to a toggle button, either use *toggle* as a noun or action verb.
+A *toggle button* is a UI element that switches back and forth between on and off options or states. To refer to a toggle button, either use *toggle* as a noun or action verb.
 
 **Examples**  
 
