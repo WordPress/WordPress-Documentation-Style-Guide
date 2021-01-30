@@ -119,6 +119,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Media (Images, videos) and illustrations                          |   ✔️ (⚠️ while publishing)   |
 | Notices (Notes, warnings, tips)                                   |   ✔️ (⚠️ while publishing)   |
 | Numbers                                                           |   ✔️ (⚠️ while publishing)   |
+| Obsolete content (New component)                                  |   🔄   |
 | Phone numbers                                                     |   ✔️ (⚠️ while publishing)   |
 | Polyglots, translation, language scripts                          |   ✔️   |
 | Referencing                                                       |   ✔️ (Moved to Linking)   |
@@ -153,7 +154,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Dialogs                    |   🔄   |
 | Menus and dropdowns        |        |
 | Pop-ups and alerts         |   🔄   |
-| Tabs                       |        |
+| Tabs                       |   ✔️   |
 | Terminology                |   ✔️   |
 | UI elements                |   🔄   |
 | Windows                    |   🔄   |
