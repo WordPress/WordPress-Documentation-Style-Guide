@@ -149,10 +149,10 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 |----------------------------|--------|
 | Activities                 |   🔄   |
 | Buttons                    |   🔄   |
-| Code snippets, code blocks |   ✔️ (Moved to Coding standards)   |
+| Code snippets, code blocks |   ✔️   |
 | Command line interface     |   ✔️   |
 | Dialogs                    |   🔄   |
-| Menus and dropdowns        |        |
+| Menus and dropdowns        |   🔄   |
 | Pop-ups and alerts         |   🔄   |
 | Tabs                       |   ✔️   |
 | Terminology                |   ✔️   |
@@ -179,7 +179,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | UI elements |   🔄 (⚠️ while publishing)   |
 | XML         |   ❌   |
 
-### Word usage dictionary/Glossary
+### Word usage dictionary/Glossary 🔄
 
 | Component | Status |
 |-----------|--------|
