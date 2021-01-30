@@ -321,6 +321,12 @@
 		"slug": "numbers",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/numbers.md"
 	},
+	"formatting/obsolete-content": {
+		"title": "Obsolete content",
+		"parent": "formatting",
+		"slug": "obsolete-content",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/obsolete-content.md"
+	},
 	"formatting/phone-numbers": {
 		"title": "Phone numbers",
 		"parent": "formatting",
