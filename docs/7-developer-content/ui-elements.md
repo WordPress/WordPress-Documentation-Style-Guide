@@ -114,7 +114,6 @@ Generally, a *page* is the shortened version of the word *webpage*. To refer to 
 [warning] **Not recommended:** On the Dashboard, go to the **Updates** window. [/warning]  
 [tip] **Recommended:** On the Dashboard, go to the **Updates** page. [/tip]  
 
-
 A *dialog* is a small window that appears in front of the window, but is separate from the main application window. To refer to a dialog, use the form *the <code><var>LABEL_NAME</code></var> dialog.*
 
 **Examples**  
@@ -137,9 +136,18 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 [tip] **Recommended:** In the **Delete Widget** dialog, click **Delete**. [/tip]  
 [tip] **Recommended:** In the **Custom Menus** view, click **Primary Menu**. [/tip]  
 
-### Button
+### Button and icon
 
 A *button* is a UI element that performs or initiates a specified action when clicked or tapped. To refer to a button, use the form *the <code><var>LABEL_NAME</code></var> button.*
+
+**Examples**  
+
+[warning] **Not recommended:** Click the "Publish" button. [/warning]  
+[tip] **Recommended:** Click **Publish**. [/tip]  
+
+An *icon* is a image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</code></var> <code><var>LABEL_NAME</code></var> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
+
+
 
 ### Menu bar
 
