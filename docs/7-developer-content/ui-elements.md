@@ -159,6 +159,13 @@ If a UI element name ends with an [ellipsis]() (...), exclude the ellipsis.
 [warning] **Not recommended:** Click **Read more...**. [/warning]  
 [tip] **Recommended:** Click **Read more**. [/tip]  
 
+In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
+
+**Examples**  
+
+[warning] **Not recommended:** On the upper-right part of the page, select the checkmark icon. [/warning]  
+[tip] **Recommended:** Select **Publish ✓**. [/tip]  
+
 ### Menu bar
 
 
