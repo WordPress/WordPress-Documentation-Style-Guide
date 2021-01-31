@@ -152,6 +152,13 @@ An *icon* is a image, sign, or symbol that depicts a function. An icon can also 
 [warning] **Not recommended:** Click the <span class="dashicons dashicons-search"></span> icon. [/warning]  
 [tip] **Recommended:** Click <span class="dashicons dashicons-search"></span> **Search**. [/tip]  
 
+If a UI element name ends with an [ellipsis]() (...), exclude the ellipsis.
+
+**Examples**  
+
+[warning] **Not recommended:** Click **Read more...**. [/warning]  
+[tip] **Recommended:** Click **Read more**. [/tip]  
+
 ### Menu bar
 
 
