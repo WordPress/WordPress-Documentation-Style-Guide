@@ -99,8 +99,23 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 Following are the terminology and word usage when referring to UI elements:
 
 ### Window, page, dialog, and view
+
+A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed.
+
+
+A *page* is a section of a screen that is displayed as a part of the application window. Generally, a webpage is also referred to as a page.
+
+
+A *dialog* is a small window that appears in front of the window, but is separate from the main application window.
+
 ### Button
+
+
+
 ### Menu bar
+
+
+
 ### Toolbar
 
 A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</code></var> toolbar.*
