@@ -122,7 +122,21 @@ A *dialog* is a small window that appears in front of the window, but is separat
 [warning] **Not recommended:** In the **Choose Image** pop-up window, click **Upload**. [/warning]  
 [tip] **Recommended:** In the **Choose Image** dialog, click **Upload**. [/tip]  
 
-A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions , and cannot be hidden, whereas a window is separate and can be hidden. 
+A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden.
+
+**Example**  
+
+[tip] **Recommended:** In the **Appearance** view, click **Typography**. [/tip]  
+
+When referring to windows, dialogs, and views, use the preposition *in*. Use *on* when referring to a page.
+
+**Examples**  
+
+[tip] **Recommended:**  [/tip]  
+[tip] **Recommended:**  [/tip]  
+[tip] **Recommended:** In the **** dialog, click ****. [/tip]  
+[tip] **Recommended:** In the **Custom Menus** view, click **Primary Menu**. [/tip]  
+
 
 ### Button
 
