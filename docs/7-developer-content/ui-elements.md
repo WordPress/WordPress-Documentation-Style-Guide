@@ -147,7 +147,10 @@ A *button* is a UI element that performs or initiates a specified action when cl
 
 An *icon* is a image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</code></var> <code><var>LABEL_NAME</code></var> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
 
+**Examples**  
 
+[warning] **Not recommended:** Click the <span class="dashicons dashicons-search"></span> icon. [/warning]  
+[tip] **Recommended:** Click <span class="dashicons dashicons-search"></span> **Search**. [/tip]  
 
 ### Menu bar
 
