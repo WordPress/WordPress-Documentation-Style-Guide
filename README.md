@@ -148,7 +148,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Component                  | Status |
 |----------------------------|--------|
 | Activities                 |   ✔️   |
-| Buttons                    |   🔄   |
+| Buttons                    |   ✔️   |
 | Code snippets, code blocks |   ✔️   |
 | Command line interface     |   ✔️   |
 | Dialogs                    |   ✔️   |
