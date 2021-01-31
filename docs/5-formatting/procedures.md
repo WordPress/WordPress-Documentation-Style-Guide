@@ -75,8 +75,8 @@ In general, use one step per action. However, you can combine multiple small act
 
 **Examples**  
 
-[tip] **Recommended:** 1. Select **Settings** > **Media**. [/tip]  
-[tip] **Recommended:** 1. Select **Edit** > **Text** > **Encoding**. [/tip]  
+[tip] **Recommended:** 1. Go to **Settings** > **Media**. [/tip]  
+[tip] **Recommended:** 1. Go to **Edit** > **Text** > **Encoding**. [/tip]  
 
 [alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings** > **Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
 
@@ -90,12 +90,12 @@ Write concise steps without writing repetitive instructions with bold UI element
 
 [warning] **Not recommended:**  
 1. Click **Menu**. You will see **Settings** in the **Menu** dropdown.  
-2. Under the **Settings** option, select **Media**.  
+2. Under the **Settings** option, click **Media**.  
 
 [/warning]  
 [tip] **Recommended:**  
 1. Click **Menu**.  
-2. Under the **Settings** option that appears, select **Media**.  
+2. Under the **Settings** option that appears, click **Media**.  
 
 [/tip]  
 
@@ -129,8 +129,8 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
   **Examples**  
 
-  [warning] **Not recommended:** Select **Settings** > **Media** after navigating to the task menu bar. [/warning]  
-  [tip] **Recommended:** Navigate to task menu bar, then select **Settings** > **Media**. [/tip]  
+  [warning] **Not recommended:** Click **Settings** > **Media** after navigating to the task menu bar. [/warning]  
+  [tip] **Recommended:** Navigate to task menu bar, then click **Settings** > **Media**. [/tip]  
 
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If a particular step is optional in a procedure, indicate it by mentioning "Optional" at the beginning of the step.  
@@ -146,14 +146,14 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**  
 
-  [tip] **Recommended:** Navigate to the menu bar and select the **Encoding** tab. [/tip]  
+  [tip] **Recommended:** Navigate to the menu bar and click on the **Encoding** tab. [/tip]  
 
 - When there is more than one way to achieve a particular task, give the best way to do so. Multiple alternative procedures can confuse readers.
 - In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
   **Examples**  
 
-  [warning] **Not recommended:** On the upper-right part of the page, select the checkmark icon. [/warning]  
-  [tip] **Recommended:** Select **Publish ✓**. [/tip]  
+  [warning] **Not recommended:** On the upper-right part of the page, click the checkmark icon. [/warning]  
+  [tip] **Recommended:** Click **Publish ✓**. [/tip]  
 
 - Don't include keyboard shortcuts in instructions.
 - Most of the time, end procedures with a definite action or result that helps the reader achieve that particular task.
