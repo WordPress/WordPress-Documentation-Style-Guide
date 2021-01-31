@@ -163,8 +163,8 @@ In general, avoid using directional language such as *above, top, below, left-ha
 
 **Examples**  
 
-[warning] **Not recommended:** On the upper-right part of the page, select the checkmark icon. [/warning]  
-[tip] **Recommended:** Select **Publish ✓**. [/tip]  
+[warning] **Not recommended:** On the upper-right part of the page, click the button with the checkmark. [/warning]  
+[tip] **Recommended:** Click **Publish ✓**. [/tip]  
 
 ### Menu bar
 
