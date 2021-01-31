@@ -132,11 +132,10 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 
 **Examples**  
 
-[tip] **Recommended:**  [/tip]  
-[tip] **Recommended:**  [/tip]  
-[tip] **Recommended:** In the **** dialog, click ****. [/tip]  
+[tip] **Recommended:** In the **Customize** window, click **Edit**. [/tip]  
+[tip] **Recommended:** On the **Users** page, click **Add New** [/tip]  
+[tip] **Recommended:** In the **Delete Widget** dialog, click **Delete**. [/tip]  
 [tip] **Recommended:** In the **Custom Menus** view, click **Primary Menu**. [/tip]  
-
 
 ### Button
 
