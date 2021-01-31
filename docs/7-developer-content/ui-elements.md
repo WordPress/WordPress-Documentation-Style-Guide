@@ -102,11 +102,22 @@ Following are the terminology and word usage when referring to UI elements:
 
 A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed.
 
+**Example**  
 
-A *page* is a section of a screen that is displayed as a part of the application window. Generally, a webpage is also referred to as a page.
+[tip] **Recommended:**  [/tip]  
+
+Generally, a *page* is the shortened version of the word *webpage*.
+
+**Example**  
+
+[tip] **Recommended:** On the Dashboard, go to the **Updates** page. [/tip]  
 
 
 A *dialog* is a small window that appears in front of the window, but is separate from the main application window.
+
+**Example**  
+
+[tip] **Recommended:**  [/tip]  
 
 ### Button
 
@@ -120,7 +131,7 @@ A *dialog* is a small window that appears in front of the window, but is separat
 
 A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</code></var> toolbar.*
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** In the **Admin** toolbar, click **Profile**. [/tip]  
 
