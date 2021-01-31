@@ -100,14 +100,14 @@ Following are the terminology and word usage when referring to UI elements:
 
 ### Window, page, dialog, and view
 
-A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed.
+A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed. To refer to a window, use the form *the <code><var>LABEL_NAME</code></var> window.*
 
 **Examples**  
 
 [warning] **Not recommended:** On the **Publish** page, click **Save**.  [/warning]  
 [tip] **Recommended:** In the **Publish** window, click **Save**. [/tip]  
 
-Generally, a *page* is the shortened version of the word *webpage*.
+Generally, a *page* is the shortened version of the word *webpage*. To refer to a page, use the form *the <code><var>LABEL_NAME</code></var> page.*
 
 **Examples**  
 
@@ -115,14 +115,14 @@ Generally, a *page* is the shortened version of the word *webpage*.
 [tip] **Recommended:** On the Dashboard, go to the **Updates** page. [/tip]  
 
 
-A *dialog* is a small window that appears in front of the window, but is separate from the main application window.
+A *dialog* is a small window that appears in front of the window, but is separate from the main application window. To refer to a dialog, use the form *the <code><var>LABEL_NAME</code></var> dialog.*
 
 **Examples**  
 
 [warning] **Not recommended:** In the **Choose Image** pop-up window, click **Upload**. [/warning]  
 [tip] **Recommended:** In the **Choose Image** dialog, click **Upload**. [/tip]  
 
-A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden.
+A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden. To refer to a view, use the form *the <code><var>LABEL_NAME</code></var> view.*
 
 **Example**  
 
@@ -139,7 +139,7 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 
 ### Button
 
-
+A *button* is a UI element that performs or initiates a specified action when clicked or tapped. To refer to a button, use the form *the <code><var>LABEL_NAME</code></var> button.*
 
 ### Menu bar
 
