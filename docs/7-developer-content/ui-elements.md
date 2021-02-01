@@ -170,6 +170,11 @@ In general, avoid using directional language such as *above, top, below, left-ha
 
 A *menu bar* is a set of menus that is at the top of a desktop application window, such as **File**, **Edit**, or **View**. Each menu has a set of submenus or commands. To refer to a menu, use the form *the <code><var>LABEL_NAME</code></var> menu.* To refer to an item in the menu, use the form *the <code><var>LABEL_NAME</code></var> command.*
 
+When combining multiple small actions into a single sequential step use angle brackets (>) to make simple sentences. If you use angle brackets, use the following guidelines:
+- Insert spaces around each angle bracket, with the space before the bracket being a nonbreaking space (`&nbsp;`).
+- Don't use bold text formatting for each individual menu name. Instead, enclose the entire sequential step in a single bold element; for example, in HTML use `<b>Settings > Media</b>` and in Markdown, use `**Settings > Media**`.
+- Enclose the angle bracket with a `<span>` tag and add an `aria-label` attribute with *and then* text (`<span aria-label="and then">></span>`). Otherwise, some screen readers may skip over brackets or read `>` as *greater than*.
+
 ### Toolbar
 
 A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</code></var> toolbar.*
