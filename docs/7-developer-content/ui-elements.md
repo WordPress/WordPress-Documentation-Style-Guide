@@ -290,7 +290,7 @@ Hyphenate *left-click*, *right-click*, and *double-click*.
 
 When a click or tap action reveals a collapsed list, use the phrase *click to expand* or *expand*.
 
-It's acceptable to write *click in* when referring to a region that needs focus (for example, *click in the window*), but not when referring to a control or a link. 
+It's acceptable to write *click in* when referring to a region that needs focus (for example, *click in the window*), but not when referring to a control or a link.
 
 **Select**  
 **Select and hold**  
@@ -299,6 +299,14 @@ It's acceptable to write *click in* when referring to a region that needs focus 
 **Enable**  
 **Tap**  
 **Press**  
+
+Use *press* when referring to a key or a key combination that performs or initiates a specified action when activated.
+
+**Example**  
+
+[tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
+
+
 **Choose**  
 **Clear**  
 **Hold the pointer over, hover**
