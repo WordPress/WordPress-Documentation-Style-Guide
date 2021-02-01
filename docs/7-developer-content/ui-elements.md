@@ -190,7 +190,7 @@ Use this format only for combining multiple small actions into a single sequenti
 **Examples**  
 
 [warning] **Not recommended:** Select **Edit** > **Appearance** > **Themes** > **+** > **Activate**. [/warning]  
-[tip] **Recommended:** Select **Edit > Appearance**, and select **Themes**. Click on **Add New** and click **Activate**, [/tip]  
+[tip] **Recommended:** Select **Edit > Appearance**, and select **Themes**. Click on **Add New** and click **Activate**. [/tip]  
 
 ### Toolbar
 
@@ -278,6 +278,14 @@ A *toggle button* is a UI element that switches back and forth between on and of
 To describe interactions with UI elements, use the following verbs:
 
 **Click**  
+
+When the environment is a desktop with a mouse, use *click* for most targets such as buttons, links, list items, and radio buttons.
+
+**Examples**  
+
+[warning] **Not recommended:** Click on **Save**. [/warning]  
+[tip] **Recommended:** Click **Save**. [/tip]  
+
 **Select**  
 **Select and hold**  
 **Enter, type, input**  
