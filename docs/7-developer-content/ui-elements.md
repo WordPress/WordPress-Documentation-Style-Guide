@@ -181,7 +181,14 @@ When combining multiple small actions into a single sequential step use angle br
 [tip] **Recommended (Markdown):** Select `**Edit&nbsp;<span aria-label="and then">></span> Text <span aria-label="and then">></span> Encoding**`. [/tip]  
 
 This renders as: Select **Edit > Text > Encoding**.
+A screen reader interprets this as *Select Edit and then Text and then Encoding*.
 
+Use this format only for combining multiple small actions into a single sequential step; for example, *In the __Settings__ menu click __Media__*. Use this format only for menu items; don't use it to express a combination of different UI elements.
+
+**Examples**  
+
+[warning] **Not recommended:**  [/warning]  
+[tip] **Recommended:**  [/tip]  
 
 ### Toolbar
 
