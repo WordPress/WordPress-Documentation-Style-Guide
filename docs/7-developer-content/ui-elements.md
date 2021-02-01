@@ -132,7 +132,7 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 **Examples**  
 
 [tip] **Recommended:** In the **Customize** window, click **Edit**. [/tip]  
-[tip] **Recommended:** On the **Users** page, click **Add New** [/tip]  
+[tip] **Recommended:** On the **Users** page, click **Add New**. [/tip]  
 [tip] **Recommended:** In the **Delete Widget** dialog, click **Delete**. [/tip]  
 [tip] **Recommended:** In the **Custom Menus** view, click **Primary Menu**. [/tip]  
 
@@ -174,6 +174,14 @@ When combining multiple small actions into a single sequential step use angle br
 - Insert spaces around each angle bracket, with the space before the bracket being a nonbreaking space (`&nbsp;`).
 - Don't use bold text formatting for each individual menu name. Instead, enclose the entire sequential step in a single bold element; for example, in HTML use `<b>Settings > Media</b>` and in Markdown, use `**Settings > Media**`.
 - Enclose the angle bracket with a `<span>` tag and add an `aria-label` attribute with *and then* text (`<span aria-label="and then">></span>`). Otherwise, some screen readers may skip over brackets or read `>` as *greater than*.
+
+**Examples**  
+
+[tip] **Recommended (HTML):** Select `<b>Edit&nbsp;<span aria-label="and then">></span> Text&nbsp;<span aria-label="and then">></span> Encoding</b>`. [/tip]  
+[tip] **Recommended (Markdown):** Select `**Edit&nbsp;<span aria-label="and then">></span> Text <span aria-label="and then">></span> Encoding**`. [/tip]  
+
+This renders as: Select **Edit > Text > Encoding**.
+
 
 ### Toolbar
 
