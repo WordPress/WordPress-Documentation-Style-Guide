@@ -71,14 +71,14 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
 
 ## Instructions with multiple actions
 
-In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences. Insert spaces around each bracket, and don't make the brackets bold.
+In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences. Insert a nonbreaking space (`&nbsp;`) around each bracket, and enclose the entire sequence in a single bold element. For more information, see [Menu bar](//ui-elements.md)
 
 **Examples**  
 
-[tip] **Recommended:** 1. Go to **Settings** > **Media**. [/tip]  
-[tip] **Recommended:** 1. Go to **Edit** > **Text** > **Encoding**. [/tip]  
+[tip] **Recommended:** 1. Go to **Settings > Media**. [/tip]  
+[tip] **Recommended:** 1. Go to **Edit > Text > Encoding**. [/tip]  
 
-[alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings** > **Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
+[alert] Caution: Screen readers may skip over brackets and may not read them as intended. For example, **Settings > Media** may be read as *Settings Media*, which might confuse readers. Analyze with an accessibility expert before implementing this approach. [/alert]  
 
 Avoid making long sequential steps. Consider rewriting them by splitting them into sub-steps if they get complicated.
 
@@ -129,8 +129,8 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - Write the instructions in the order that the reader needs to follow. State the location of the action before stating the action. If there are multiple sets of procedures with steps and sub-steps, restate the location of the action in the first step of the procedure.  
   **Examples**  
 
-  [warning] **Not recommended:** Click **Settings** > **Media** after navigating to the task menu bar. [/warning]  
-  [tip] **Recommended:** Navigate to task menu bar, then click **Settings** > **Media**. [/tip]  
+  [warning] **Not recommended:** Click **Settings > Media** after navigating to the task menu bar. [/warning]  
+  [tip] **Recommended:** Navigate to the task menu bar, then click **Settings > Media**. [/tip]  
 
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If a particular step is optional in a procedure, indicate it by mentioning "Optional" at the beginning of the step.  
