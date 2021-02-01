@@ -279,12 +279,18 @@ To describe interactions with UI elements, use the following verbs:
 
 **Click**  
 
-When the environment is a desktop with a mouse, use *click* for most targets such as buttons, links, list items, and radio buttons.
+When the environment is presumably a desktop with a mouse, use *click* for most targets such as buttons, links, list items, and radio buttons.
 
 **Examples**  
 
 [warning] **Not recommended:** Click on **Save**. [/warning]  
 [tip] **Recommended:** Click **Save**. [/tip]  
+
+Hyphenate *left-click*, *right-click*, and *double-click*.
+
+When a click or tap action reveals a collapsed list, use the phrase *click to expand* or *expand*.
+
+It's acceptable to write *click in* when referring to a region that needs focus (for example, *click in the window*), but not when referring to a control or a link. 
 
 **Select**  
 **Select and hold**  
