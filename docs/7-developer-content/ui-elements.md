@@ -274,3 +274,23 @@ A *toggle button* is a UI element that switches back and forth between on and of
 [tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
 
 ## Interaction verbs
+
+To describe interactions with UI elements, use the following verbs:
+
+**Click**  
+**Select**  
+**Select and hold**  
+**Enter, type, input**  
+**Go to**  
+**Enable**  
+**Tap**  
+**Press**  
+**Choose**  
+**Clear**  
+**Hold the pointer over, hover**
+**Drag**  
+**Switch, turn on, turn off**  
+**Move, drag**  
+**Open**  
+**Close**  
+**Zoom, zoom in, zoom out**
