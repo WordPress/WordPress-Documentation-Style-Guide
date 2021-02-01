@@ -29,7 +29,7 @@ Don't apply bold formatting to an official feature name or product name, except 
 [warning] **Not recommended:** In the Appearance section, select "Themes" and then click the "Add New" button. [/warning]  
 [tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
 
-[warning] **Not recommended:** Click **DOWNLOAD** [/warning]  
+[warning] **Not recommended:** Click **DOWNLOAD**. [/warning]  
 [tip] **Recommended:** Click <span class="dashicons dashicons-download"></span> **Download**. [/tip]  
 
 ## Pressing and typing keyboard keys
@@ -164,11 +164,11 @@ In general, avoid using directional language such as *above, top, below, left-ha
 **Examples**  
 
 [warning] **Not recommended:** On the upper-right part of the page, click the button with the checkmark. [/warning]  
-[tip] **Recommended:** Click **Publish ✓**. [/tip]  
+[tip] **Recommended:** Click **✓ Publish**. [/tip]  
 
 ### Menu bar
 
-
+A *menu bar* is a set of menus that is at the top of a desktop application window, such as **File**, **Edit**, or **View**. Each menu has a set of submenus or commands. To refer to a menu, use the form *the <code><var>LABEL_NAME</code></var> menu.* To refer to an item in the menu, use the form *the <code><var>LABEL_NAME</code></var> command.*
 
 ### Toolbar
 
