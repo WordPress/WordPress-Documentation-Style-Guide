@@ -277,7 +277,7 @@ A *toggle button* is a UI element that switches back and forth between on and of
 
 To describe interactions with UI elements, use the following verbs:
 
-**Click**  
+### Click**  
 
 When the environment is presumably a desktop with a mouse, use *click* for most targets such as buttons, links, list items, and radio buttons.
 
@@ -292,9 +292,9 @@ When a click or tap action reveals a collapsed list, use the phrase *click to ex
 
 It's acceptable to write *click in* when referring to a region that needs focus (for example, *click in the window*), but not when referring to a control or a link.
 
-**Select**  
-**Select and hold**  
-**Enter, type, input**  
+### Select
+### Select and hold
+### Enter, type, input  
 
 Use *enter, type*, or *input* when referring to the action of the user entering text.
 
@@ -303,9 +303,9 @@ Use *enter, type*, or *input* when referring to the action of the user entering 
 [tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
 [tip] **Recommended:** In the **Link** box, enter your sitemap link. [/tip]  
 
-**Go to**  
-**Enable**  
-**Tap**  
+### Go to
+### Enable
+### Tap  
 
 When the environment is presumably a touch device, use *tap* for most targets such as buttons, links, list items, and radio buttons.
 
@@ -313,7 +313,7 @@ When the environment is presumably a touch device, use *tap* for most targets su
 
 [tip] **Recommended:** Tap **Save**. [/tip]  
 
-**Press**  
+### Press
 
 Use *press* when referring to a key or a key combination that performs or initiates a specified action when activated.
 
@@ -321,12 +321,20 @@ Use *press* when referring to a key or a key combination that performs or initia
 
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
-**Choose**  
-**Clear**  
-**Hold the pointer over, hover**
-**Drag**  
-**Switch, turn on, turn off**  
-**Move, drag**  
-**Open**  
-**Close**  
-**Zoom, zoom in, zoom out**
+### Choose
+### Clear
+### Hold, hover
+### Switch, turn on, turn off
+
+Use *switch, turn on*, and *turn off* when referring to the action of turning a switch or toggle key on or off.
+
+**Example**  
+
+[tip] **Sometimes okay:** To turn on **Fixed background** follow these steps: [/tip]  
+[tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
+[tip] **Recommended:** To switch between fixed width and full width, use the **Appearance** toggle. [/tip]  
+
+### Move, drag
+### Open
+### Close
+### Zoom
