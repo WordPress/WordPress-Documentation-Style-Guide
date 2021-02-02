@@ -94,7 +94,7 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 **Examples**  
 
 [tip] **Recommended:** Go to **Plugins > Installed Plugins**. [/tip]  
-[tip] **Recommended:** In the **Plugins** section, click **Installed Plugins**. [/tip]  
+[tip] **Recommended:** In the **Plugins** section, select **Installed Plugins**. [/tip]  
 
 Following are the terminology and word usage when referring to UI elements:
 
@@ -299,6 +299,8 @@ Use *select* when referring to the action of the user selecting targets such as 
 **Examples**  
 
 [tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
+[tip] **Recommended:** Select **Edit > Text > Encoding**. [/tip]  
+[tip] **Recommended:** In the **Plugins** section, select **Installed Plugins**. [/tip]  
 
 
 ### Select and hold
