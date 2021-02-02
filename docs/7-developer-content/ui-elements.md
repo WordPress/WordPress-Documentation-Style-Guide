@@ -277,7 +277,7 @@ A *toggle button* is a UI element that switches back and forth between on and of
 
 To describe interactions with UI elements, use the following verbs:
 
-### Click**  
+### Click
 
 When the environment is presumably a desktop with a mouse, use *click* for most targets such as buttons, links, list items, and radio buttons.
 
@@ -313,7 +313,7 @@ Use *select and hold* when referring to the action of the user selecting and hol
 
 ### Enter, type, input  
 
-Use *enter, type*, or *input* when referring to the action of the user entering text.
+Use *enter, type*, or *input* when referring to the action of the user entering text, inserting a value.
 
 **Examples**  
 
@@ -339,6 +339,13 @@ Use *press* when referring to a key or a key combination that performs or initia
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
 ### Choose
+
+Use *choose* when referring to the action of the user making a choice from multiple options, a list of items, or numerical values.
+
+**Example**  
+
+[tip] **Recommended:** In the **Font Size** box, choose a font size. [/tip]  
+
 ### Clear
 ### Hold, hover
 ### Switch, turn on, turn off
