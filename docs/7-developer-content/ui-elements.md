@@ -385,7 +385,7 @@ Don't use *enable* or *allow* to express an ability to do something. Use *lets y
 
 ### Move, drag
 
-Use *move* or *drag* when referring to the action of moving or dragging a UI element from one place in the UI to the other. In most cases, *move* or *drag* is used for tiles, files, and folders.
+Use *move* or *drag* when referring to the action of moving or dragging a UI element from one place in the UI to the other. In most cases, *move* and *drag* is used for tiles, files, and folders. It is acceptable to use *move* or *move through* to describe moving around UI such as a window or page.
 
 **Examples**  
 
@@ -393,5 +393,12 @@ Use *move* or *drag* when referring to the action of moving or dragging a UI ele
 [tip] **Recommended:** Move the file to the **Shared** folder. [/tip]  
 
 ### Open
+
+Use *open* when referring to the action of opening targets such as apps, programs, files, folders, and websites. Don't use *open* for menus and commands.
+
+**Examples**  
+
+[tip] **Recommended:** Open **Settings**. [/tip]  
+
 ### Close
 ### Zoom
