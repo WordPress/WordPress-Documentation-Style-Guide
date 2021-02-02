@@ -293,6 +293,14 @@ When a click or tap action reveals a collapsed list, use the phrase *click to ex
 It's acceptable to write *click in* when referring to a region that needs focus (for example, *click in the window*), but not when referring to a control or a link.
 
 ### Select
+
+Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, and dropdown lists. Select can be use interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
+
+**Examples**  
+
+[tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
+
+
 ### Select and hold
 ### Enter, type, input  
 
@@ -332,7 +340,7 @@ Use *switch, turn on*, and *turn off* when referring to the action of turning a 
 
 [tip] **Sometimes okay:** To turn on **Fixed background** follow these steps: [/tip]  
 [tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
-[tip] **Recommended:** To switch between fixed width and full width, use the **Appearance** toggle. [/tip]  
+[tip] **Recommended:** To switch between fixed width and full width, use the **Appearance** toggle button. [/tip]  
 
 ### Move, drag
 ### Open
