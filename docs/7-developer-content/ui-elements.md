@@ -362,11 +362,13 @@ Use *clear* when referring to the action of clearing a selection, usually from a
 
 ### Hold, hover
 
+
+
 ### Switch, turn on, turn off, enable
 
 Use *switch, turn on, turn off*, or *enable* when referring to the action of turning a switch or toggle key on or off.
 
-**Example**  
+**Examples**  
 
 [tip] **Sometimes okay:** To turn on **Fixed background** follow these steps: [/tip]  
 [tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
@@ -375,11 +377,21 @@ Use *switch, turn on, turn off*, or *enable* when referring to the action of tur
 
 Don't use *enable* or *allow* to express an ability to do something. Use *lets you* instead.
 
+**Examples**  
+
 [warning] **Not recommended:** The `get` request enables you to retrieve the data. [/warning]  
 [warning] **Not recommended:** The `get` request allows you to retrieve the data. [/warning]  
 [tip] **Recommended:** The `get` request lets you retrieve the data. [/tip]  
 
 ### Move, drag
+
+Use *move* or *drag* when referring to the action of moving or dragging a UI element from one place in the UI to the other. In most cases, *move* or *drag* is used for tiles, files, and folders.
+
+**Examples**  
+
+[tip] **Recommended:** Drag to upload items in the **Media Uploader**. [/tip]  
+[tip] **Recommended:** Move the file to the **Shared** folder. [/tip]  
+
 ### Open
 ### Close
 ### Zoom
