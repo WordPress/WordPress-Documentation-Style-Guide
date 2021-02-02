@@ -295,6 +295,14 @@ It's acceptable to write *click in* when referring to a region that needs focus 
 **Select**  
 **Select and hold**  
 **Enter, type, input**  
+
+Use *enter, type*, or *input* when referring to the action of the user entering text.
+
+**Example**  
+
+[tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
+[tip] **Recommended:** In the **Link** box, enter your sitemap link. [/tip]  
+
 **Go to**  
 **Enable**  
 **Tap**  
@@ -305,7 +313,6 @@ Use *press* when referring to a key or a key combination that performs or initia
 **Example**  
 
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
-
 
 **Choose**  
 **Clear**  
