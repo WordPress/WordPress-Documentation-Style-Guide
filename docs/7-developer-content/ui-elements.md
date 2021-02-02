@@ -328,7 +328,6 @@ Use *go to* when referring to the action of opening a menu, going to a website, 
 
 [tip] **Recommended:** Go to **Plugins > Installed Plugins**. [/tip]  
 
-### Enable
 ### Tap  
 
 When the environment is presumably a touch device, use *tap* for most targets such as buttons, links, list items, and radio buttons.
@@ -355,15 +354,23 @@ Use *choose* when referring to the action of the user making a choice from multi
 
 ### Clear
 ### Hold, hover
-### Switch, turn on, turn off
 
-Use *switch, turn on*, and *turn off* when referring to the action of turning a switch or toggle key on or off.
+### Switch, turn on, turn off, enable
+
+Use *switch, turn on, turn off*, or *enable* when referring to the action of turning a switch or toggle key on or off.
 
 **Example**  
 
 [tip] **Sometimes okay:** To turn on **Fixed background** follow these steps: [/tip]  
 [tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
-[tip] **Recommended:** To switch between fixed width and full width, use the **Width** toggle button. [/tip]  
+[tip] **Recommended:** To enable full width, select the **Site Width** toggle button. [/tip]  
+[tip] **Recommended:** To switch between fixed width and full width, use the **Site Width** toggle button. [/tip]  
+
+Don't use *enable* or *allow* to express an ability to do something. Use *lets you* instead.
+
+[warning] **Not recommended:** The `get` request enables you to retrieve the data. [/warning]  
+[warning] **Not recommended:** The `get` request allows you to retrieve the data. [/warning]  
+[tip] **Recommended:** The `get` request lets you retrieve the data. [/tip]  
 
 ### Move, drag
 ### Open
