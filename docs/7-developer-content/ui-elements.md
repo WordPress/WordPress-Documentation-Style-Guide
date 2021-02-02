@@ -313,7 +313,7 @@ Use *select and hold* when referring to the action of the user selecting and hol
 
 ### Enter, type, input  
 
-Use *enter, type*, or *input* when referring to the action of the user entering text, inserting a value.
+Use *enter, type*, or *input* when referring to the action of the user entering text, or inserting a value.
 
 **Examples**  
 
@@ -321,6 +321,13 @@ Use *enter, type*, or *input* when referring to the action of the user entering 
 [tip] **Recommended:** In the **Link** box, enter your sitemap link. [/tip]  
 
 ### Go to
+
+Use *go to* when referring to the action of opening a menu, going to a website, webpage, a tab, or another place in the UI.
+
+**Example**  
+
+[tip] **Recommended:** Go to **Plugins > Installed Plugins**. [/tip]  
+
 ### Enable
 ### Tap  
 
@@ -356,7 +363,7 @@ Use *switch, turn on*, and *turn off* when referring to the action of turning a 
 
 [tip] **Sometimes okay:** To turn on **Fixed background** follow these steps: [/tip]  
 [tip] **Recommended:** You can toggle **Fixed background** in the **Block Settings** sidebar. [/tip]  
-[tip] **Recommended:** To switch between fixed width and full width, use the **Appearance** toggle button. [/tip]  
+[tip] **Recommended:** To switch between fixed width and full width, use the **Width** toggle button. [/tip]  
 
 ### Move, drag
 ### Open
