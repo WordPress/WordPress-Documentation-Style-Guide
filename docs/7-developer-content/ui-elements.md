@@ -353,6 +353,13 @@ Use *choose* when referring to the action of the user making a choice from multi
 [tip] **Recommended:** In the **Font Size** box, choose a font size. [/tip]  
 
 ### Clear
+
+Use *clear* when referring to the action of clearing a selection, usually from a checkbox.
+
+**Example**  
+
+[tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
+
 ### Hold, hover
 
 ### Switch, turn on, turn off, enable
