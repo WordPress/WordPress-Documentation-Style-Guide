@@ -302,8 +302,15 @@ Use *select* when referring to the action of the user selecting targets such as 
 [tip] **Recommended:** Select **Edit > Text > Encoding**. [/tip]  
 [tip] **Recommended:** In the **Plugins** section, select **Installed Plugins**. [/tip]  
 
-
 ### Select and hold
+
+Use *select and hold* when referring to the action of the user selecting and holding a UI element. It's acceptable to use *right-click* with *select and hold* when the instruction isn't specific to touch devices.
+
+**Examples**  
+
+[tip] **Recommended:** To pick multiple images, select and hold an image and choose the required images. [/tip]  
+[tip] **Recommended:** On Windows devices, select and hold (or right-click) to open the context menu. [/tip]  
+
 ### Enter, type, input  
 
 Use *enter, type*, or *input* when referring to the action of the user entering text.
