@@ -69,7 +69,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Prefixes and suffixes                             |   ✔️ (⚠️ while publishing)   |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️ (⚠️ while publishing)   |
-| Referencing                                       |   (Moved to Formatting)   |
+| Referencing                                       |   ✔️ (Moved to Formatting)   |
 | Slang and jargon                                  |   ✔️ (Moved to Word Choice)   |
 | Spellings                                         |   ✔️ (Moved to Word Choice)   |
 | Technical terms                                   |   ✔️ (Moved to Word Choice)   |
@@ -103,7 +103,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Abstracts, introduction, prefaces                                 |   ❌   |
 | Brand names, product names                                        |   ✔️   |
 | Captions                                                          |   ✔️ (Moved to Media)   |
-| Code snippets, code blocks                                        |   (Moved to Code)   |
+| Code snippets, code blocks                                        |   ✔️ (Moved to Code)   |
 | Currencies                                                        |   ✔️ (Moved to Numbers)   |
 | Date and time, time zones, places                                 |   ✔️ (⚠️ while publishing)   |
 | Examples and scenarios (New component)                            |   ✔️ (⚠️ while publishing)   |
@@ -114,7 +114,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Indentation                                                       |   ❌   |
 | Index                                                             |   ❌   |
 | Key terms (New component)                                         |   ✔️   |
-| Links and URLs                                                    |   (Moved to Linking)   |
+| Links and URLs                                                    |   ✔️ (Moved to Linking)   |
 | Lists, bullet points, numbering                                   |   ✔️ (⚠️ while publishing)   |
 | Media (Images, videos) and illustrations                          |   ✔️ (⚠️ while publishing)   |
 | Notices (Notes, warnings, tips)                                   |   ✔️ (⚠️ while publishing)   |
@@ -129,7 +129,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Trademarks, copyrights, patents, citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials and procedures                                          |   ✔️ (⚠️ while publishing)   |
 | Typography and fonts                                              |   ✔️ (Moved to Text formatting)   |
-| UI elements                                                       |   (Moved to User interface)   |
+| UI elements                                                       |   ✔️ (Moved to User interface)   |
 | Units of measurement                                              |   ✔️ (⚠️ while publishing)   |
 | Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
 
@@ -159,7 +159,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | UI elements                |   ✔️   |
 | Windows                    |   ✔️   |
 
-### Developer content 🔄
+### Developer content ✔️
 
 | Component   | Status |
 |-------------|--------|
@@ -176,7 +176,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Placeholder formatting (New component) |   ✔️ (⚠️ while publishing)   |
 | Syntax      |   ✔️   |
 | Terminology |   ✔️   |
-| UI elements |   🔄 (⚠️ while publishing)   |
+| UI elements |   ✔️ (⚠️ while publishing)   |
 | XML         |   ❌   |
 
 ### Word usage dictionary/Glossary 🔄
