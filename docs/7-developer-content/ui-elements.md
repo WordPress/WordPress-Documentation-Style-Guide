@@ -394,11 +394,19 @@ Use *move* or *drag* when referring to the action of moving or dragging a UI ele
 
 ### Open
 
-Use *open* when referring to the action of opening targets such as apps, programs, files, folders, and websites. Don't use *open* for menus and commands.
+Use *open* when referring to the action of opening targets such as apps, programs, files, folders, tabs and websites. Don't use *open* for menus and commands.
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** Open **Settings**. [/tip]  
 
 ### Close
+
+Use *close* when referring to the action of closing targets such as apps, programs, files, folders, notifications, dialogs, tabs, and websites.
+
+**Example**  
+
+[tip] **Recommended:** Close the **Options** tab. [/tip]  
+[tip] **Recommended:** After uploading the image, close the **Choose Image** dialog. [/tip]  
+
 ### Zoom
