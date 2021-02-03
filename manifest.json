@@ -416,7 +416,7 @@
 	"developer-content/code-examples": {
 		"title": "Code examples",
 		"parent": "developer-content",
-		"slug": "developer-content",
+		"slug": "code-examples",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-examples.md"
 	},
 	"changelog": {
