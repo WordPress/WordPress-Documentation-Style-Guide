@@ -412,3 +412,7 @@ Use *close* when referring to the action of closing targets such as apps, progra
 ### Zoom
 
 Use *zoom, zoom in*, and *zoom out* a when referring to the action of changing the magnification of a screen, window, or a page.
+
+**Example**  
+
+[tip] **Recommended:** Zoom in to see more details in the figure. [/tip]  
