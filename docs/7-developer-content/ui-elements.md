@@ -294,7 +294,7 @@ It's acceptable to write *click in* when referring to a region that needs focus 
 
 ### Select
 
-Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, and dropdown lists. Select can be use interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
+Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be use interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
 
 **Examples**  
 
@@ -313,7 +313,7 @@ Use *select and hold* when referring to the action of the user selecting and hol
 
 ### Enter, type, input  
 
-Use *enter, type*, or *input* when referring to the action of the user entering text, or inserting a value.
+Use *enter, type*, and *input* when referring to the action of the user entering text, or inserting a value.
 
 **Examples**  
 
@@ -366,7 +366,7 @@ Use *clear* when referring to the action of clearing a selection, usually from a
 
 ### Switch, turn on, turn off, enable
 
-Use *switch, turn on, turn off*, or *enable* when referring to the action of turning a switch or toggle key on or off.
+Use *switch, turn on, turn off*, and *enable* when referring to the action of turning a switch or toggle key on or off.
 
 **Examples**  
 
@@ -385,7 +385,7 @@ Don't use *enable* or *allow* to express an ability to do something. Use *lets y
 
 ### Move, drag
 
-Use *move* or *drag* when referring to the action of moving or dragging a UI element from one place in the UI to the other. In most cases, *move* and *drag* is used for tiles, files, and folders. It is acceptable to use *move* or *move through* to describe moving around UI such as a window or page.
+Use *move* and *drag* when referring to the action of moving or dragging a UI element from one place in the UI to the other. In most cases, *move* and *drag* are used for tiles, files, and folders. It is acceptable to use *move* or *move through* to describe moving around UI such as a window or page.
 
 **Examples**  
 
@@ -410,3 +410,5 @@ Use *close* when referring to the action of closing targets such as apps, progra
 [tip] **Recommended:** After uploading the image, close the **Choose Image** dialog. [/tip]  
 
 ### Zoom
+
+Use *zoom, zoom in*, and *zoom out* a when referring to the action of changing the magnification of a screen, window, or a page.
