@@ -96,7 +96,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Semicolons (split from Colons)|   ✔️   |
 | Slashes                      |   ✔️ (⚠️ while publishing)   |
 
-### Formatting ✔️
+### Formatting 🔄
 
 | Component                                                         | Status |
 |-------------------------------------------------------------------|--------|
@@ -143,7 +143,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Image links                |   ✔️   |
 | Link text                  |   ✔️ (⚠️ while publishing)   |
 
-### User interface (Moved to Developer content) 🔄
+### User interface (Moved to Developer content) ✔️
 
 | Component                  | Status |
 |----------------------------|--------|
@@ -156,7 +156,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Pop-ups and alerts         |   ✔️   |
 | Tabs                       |   ✔️   |
 | Terminology                |   ✔️   |
-| UI elements                |   🔄   |
+| UI elements                |   ✔️   |
 | Windows                    |   ✔️   |
 
 ### Developer content 🔄
