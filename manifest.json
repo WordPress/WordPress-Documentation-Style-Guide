@@ -437,6 +437,12 @@
 		"slug": "command-line-syntax",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/command-line-syntax.md"
 	},
+	"developer-content/placeholders": {
+		"title": "Placeholders",
+		"parent": "developer-content",
+		"slug": "placeholders",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/placeholders.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
