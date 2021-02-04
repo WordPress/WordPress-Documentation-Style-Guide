@@ -425,6 +425,12 @@
 		"slug": "code-in-text",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-in-text.md"
 	},
+	"developer-content/coding-standards": {
+		"title": "Coding standards",
+		"parent": "developer-content",
+		"slug": "coding-standards",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/coding-standards.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
