@@ -190,3 +190,4 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Component | Status |
 |-----------|--------|
 | Media > Videos |        |
+| API reference documentation |        |
