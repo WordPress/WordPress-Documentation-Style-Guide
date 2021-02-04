@@ -419,6 +419,12 @@
 		"slug": "code-examples",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-examples.md"
 	},
+	"developer-content/code-in-text": {
+		"title": "Code in text",
+		"parent": "developer-content",
+		"slug": "code-in-text",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-in-text.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
