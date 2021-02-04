@@ -47,6 +47,11 @@ Obsolete content can be determined by the following contexts:
    *__Note:__ This page was moved to <code><var>PAGE_URL</code></var>.*  
    Replace <code><var>PAGE_URL</code></var> with the URL of the new destination.
 
+**Example**  
+
+[tip] **Recommended (Markdown):**  
+`[warning] **Warning:** The *Installation* section is outdated as of WordPress 4.3. It is kept for archival purposes only. [/warning]`  
+`[info] **Note:** Updated information can be found on https://wordpress.org/support/article/using-permalinks. [/info]` [/tip]  
 
 ### Outdated part of a section, page, or article
 
