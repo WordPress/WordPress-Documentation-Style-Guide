@@ -24,6 +24,16 @@ Obsolete content can be determined by the following contexts:
    *__Note:__ This page was moved to <code><var>PAGE_URL</code></var>.*  
    Replace <code><var>PAGE_URL</code></var> with the URL of the new destination.
 
+**Examples**  
+
+[tip] **Recommended (Markdown):**  
+`[warning] **Warning:** This page is outdated as of WordPress 3.5. It is kept for archival purposes only. [/warning]`  
+`[info] **Note:** Updated information can be found on https://wordpress.org/support/article/using-permalinks. [/info]` [/tip]  
+
+[tip] **Recommended (Markdown):**  
+`[warning] **Warning:** This page is outdated as of WordPress 5.5.2. It is kept for archival purposes only. [/warning]`  
+`[info] **Note:** This page was moved to http://developer.wordpress.org/reference. [/info]` [/tip]  
+
 ### Outdated section
 
 
@@ -39,13 +49,3 @@ Obsolete content can be determined by the following contexts:
   - If the page was moved to another destination, enclose the following notice inside the `[info]` short code:  
    *__Note:__ This page was moved to <code><var>PAGE_URL</code></var>.*  
    Replace <code><var>PAGE_URL</code></var> with the URL of the new destination.
-
-**Examples**  
-
-[tip] **Recommended (Markdown):**  
-`[warning] **Warning:** This content has been marked as outdated. [/warning]`  
-`[info] **Note:** Updated information can be found on https://wordpress.org/support/article/using-permalinks. [/info]` [/tip]  
-
-[tip] **Recommended (Markdown):**  
-`[warning] **Warning:** This content has been marked as outdated. [/warning]`  
-`[info] **Note:** This page was moved to http://developer.wordpress.org/reference. [/info]` [/tip]  
