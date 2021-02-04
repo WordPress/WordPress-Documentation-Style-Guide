@@ -11,6 +11,25 @@ Obsolete content can be determined by the following contexts:
 
 ## Marking content as obsolete
 
+### Outdated page
+
+- Use a **Warning** [notice type]() to mark a page as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
+  *__Warning:__ This page is outdated as of WordPress <code><var>VERSION</code></var>. It is kept for archival purposes only.*
+  Replace <code><var>VERSION</code></var> with the WordPress version since the page was marked obsolete.
+- Use an **Info** notice type and add a URL of updated documentation, if any.
+  - If the updated information can be found on another page, enclose the following notice inside the `[info]` short code:  
+   *__Note:__ Updated information can be found on <code><var>PAGE_URL</code></var>.*  
+   Replace <code><var>PAGE_URL</code></var> with the URL of the updated documentation.
+  - If the page was moved to another destination, enclose the following notice inside the `[info]` short code:  
+   *__Note:__ This page was moved to <code><var>PAGE_URL</code></var>.*  
+   Replace <code><var>PAGE_URL</code></var> with the URL of the new destination.
+
+### Outdated section
+
+
+
+### Outdated part of a section, page, or article
+
 - Use a **Warning** [notice type]() to mark content as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
   *__Warning:__ This content has been marked as outdated.*
 - Use an **Info** notice type and add a URL of updated documentation, if any.
