@@ -443,6 +443,12 @@
 		"slug": "placeholders",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/placeholders.md"
 	},
+	"developer-content/ui-elements": {
+		"title": "UI elements and interaction",
+		"parent": "developer-content",
+		"slug": "ui-elements",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/ui-elements.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
