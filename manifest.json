@@ -431,6 +431,12 @@
 		"slug": "coding-standards",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/coding-standards.md"
 	},
+	"developer-content/command-line-syntax": {
+		"title": "Command-line syntax",
+		"parent": "developer-content",
+		"slug": "command-line-syntax",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/command-line-syntax.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
