@@ -75,3 +75,13 @@ Use an **Info** notice type and add a URL of updated documentation, if any.
 - If the page was moved to another destination, enclose the following notice inside the `[info]` short code:  
   *__Note:__ This page was moved to <code><var>PAGE_URL</code></var>.*  
   Replace <code><var>PAGE_URL</code></var> with the URL of the new destination.
+
+**Examples**  
+
+[tip] **Recommended (Markdown):**  
+`[warning] **Warning:** The following content on *i18n in JavaScript* is outdated as of WordPress 5.0. It is maintained for archival purposes only. [/warning]`  
+`[info] **Note:** Updated information can be found on https://developer.wordpress.org/block-editor/developers/internationalization/#how-to-use-i18n-in-javascript. [/info]` [/tip]  
+
+[tip] **Recommended (Markdown):**  
+`[warning] **Warning:** This page is outdated as of WordPress 5.5.2. It is maintained for archival purposes only. [/warning]`  
+`[info] **Note:** This page was moved to http://developer.wordpress.org/reference. [/info]` [/tip]  
