@@ -6,18 +6,18 @@ Don't use. Instead use 24 hours a day, seven days a week.
 
 For more information, see [Dates and times]().
 
-## 2D, two-dimensional
+## 2D
 
-Spell out the first mention of the term as *two-dimensional*. Thereafter, on subsequent mentions, use *2D*.
+Abbreviation for *two-dimensional*. Spell out the first mention of the term as *two-dimensional*; on subsequent mentions, use *2D*.
 
-Always hyphenate *two-dimensional*.
+Always hyphenate *two-dimensional*. Don't hyphenate the abbreviation as *2-D*.
 
 For more information, see [Abbreviations]().
 
-## 3D, three-dimensional
+## 3D
 
-Spell out the first mention of the term as *three-dimensional*. Thereafter, on subsequent mentions, use *3D*.
+Abbreviation for *three-dimensional*. Spell out the first mention of the term as *three-dimensional*; on subsequent mentions, use *3D*.
 
-Always hyphenate *three-dimensional*.
+Always hyphenate *three-dimensional*. Don't hyphenate the abbreviation as *3-D*.
 
 For more information, see [Abbreviations]().
