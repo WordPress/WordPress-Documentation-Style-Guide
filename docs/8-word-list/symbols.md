@@ -7,3 +7,7 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&*  when 
 The use of `&` in code is completely fine.
 
 ## .htaccess
+
+Use code font.
+
+For more information, see [Filenames]().
