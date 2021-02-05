@@ -1,1 +1,1 @@
-# Word list
+# Word list and usage dictionary
