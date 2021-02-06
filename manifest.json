@@ -1,8 +1,9 @@
 {
-	"index": {
-		"title": "Documentation Style Guide",
-		"slug": "index",
+	"introduction": {
+		"title": "About the WordPress Documentation Style Guide",
+		"slug": "introduction",
 		"parent": null,
+		"order": 1,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
 	},
 	"general-guidelines": {
