@@ -6,6 +6,12 @@
 		"order": 1,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
 	},
+	"introduction/highlights": {
+		"title": "Highlights",
+		"parent": "introduction",
+		"slug": "highlights",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/highlights.md"
+	},
 	"introduction/changelog": {
 		"title": "Changelog",
 		"parent": "introduction",
