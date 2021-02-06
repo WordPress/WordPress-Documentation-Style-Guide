@@ -462,6 +462,12 @@
 		"slug": "numbers",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/numbers.md"
 	},
+	"word-list/symbols": {
+		"title": "Symbols",
+		"parent": "word-list",
+		"slug": "symbols",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/symbols.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
