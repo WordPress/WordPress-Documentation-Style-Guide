@@ -1,9 +1,14 @@
-# Changelog - WordPress Style Guide
+# Changelog
 
-Add pages and components in the changelog as they are added in the Style Guide.
+Update the changelog with an outline of significant changes to pages and components when they are added in the Style Guide.
 
 ## What's new
 
+This section shows recent updates and changes to the WordPress Style Guide.
+
+| Date | Article | Description |
+|------|---------|-------------|
+| **xx-xx-2021** | <code><var>PAGE_NAME</code></var> | Updated title. |
 
 ## Release History
 
