@@ -6,11 +6,17 @@
 		"order": 1,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
 	},
+	"introduction/changelog": {
+		"title": "Changelog",
+		"parent": "introduction",
+		"slug": "changelog",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/changelog.md"
+	},
 	"general-guidelines": {
 		"title": "General guidelines",
 		"slug": "general-guidelines",
 		"parent": null,
-		"order": 1,
+		"order": 2,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/README.md"
 	},
 	"general-guidelines/document-structure": {
@@ -65,7 +71,7 @@
 		"title": "Language and grammar",
 		"slug": "language-and-grammar",
 		"parent": null,
-		"order": 2,
+		"order": 3,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/README.md"
 	},
 	"language-and-grammar/abbreviations": {
@@ -174,7 +180,7 @@
 		"title": "Punctuation",
 		"slug": "punctuation",
 		"parent": null,
-		"order": 3,
+		"order": 4,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/README.md"
 	},
 	"punctuation/apostrophes": {
@@ -259,7 +265,7 @@
 		"title": "Formatting",
 		"slug": "formatting",
 		"parent": null,
-		"order": 4,
+		"order": 5,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/README.md"
 	},
 	"formatting/dates-times": {
@@ -374,7 +380,7 @@
 		"title": "Linking",
 		"slug": "linking",
 		"parent": null,
-		"order": 5,
+		"order": 6,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/README.md"
 	},
 	"linking/cross-references": {
@@ -411,7 +417,7 @@
 		"title": "Developer content",
 		"slug": "developer-content",
 		"parent": null,
-		"order": 6,
+		"order": 7,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/README.md"
 	},
 	"developer-content/code-examples": {
@@ -454,7 +460,7 @@
 		"title": "Word list and usage dictionary",
 		"slug": "word-list",
 		"parent": null,
-		"order": 7,
+		"order": 8,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/README.md"
 	},
 	"word-list/numbers": {
@@ -468,12 +474,5 @@
 		"parent": "word-list",
 		"slug": "symbols",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/symbols.md"
-	},
-	"changelog": {
-		"title": "Changelog",
-		"slug": "changelog",
-		"parent": null,
-		"order": 10,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/changelog.md"
 	}
 }
