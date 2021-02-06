@@ -456,6 +456,12 @@
 		"order": 7,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/README.md"
 	},
+	"word-list/numbers": {
+		"title": "Numbers",
+		"parent": "word-list",
+		"slug": "numbers",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/numbers.md"
+	},
 	"changelog": {
 		"title": "Changelog",
 		"slug": "changelog",
