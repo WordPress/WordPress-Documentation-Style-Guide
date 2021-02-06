@@ -23,15 +23,17 @@ For more information about the guideline, visit the links.
 
 ## Linking
 
-- [Write relevant and meaningful link text](//cross-references.md).
-- [Follow proper cross-reference formatting]().
-- [External linking]
+- [Write detailed and expressive link text](//link-text.md).
+- [Follow proper cross-reference formatting](//cross-references.md).
+- [*`External linking`*]().
 - [Use heading anchors](//heading-targets.md).
 - [Use root-relative URLs for image links](//image-links.md).
--
 
 ## Developer content
 
-
+- [Use code blocks, preformatted text, and code fences]() to write code examples.
+- [Insert code-related content in monospace code font]().
+- [Follow WordPress coding standards]().
+- 
 
 ## Word list and usage dictionary
