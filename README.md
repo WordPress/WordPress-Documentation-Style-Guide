@@ -20,7 +20,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Component                          | Status  |
 |------------------------------------|---------|
 | WordPress style guide              |   🔄 (⚠️ while publishing)   |
-| Style guide highlights             |         |
+| Style guide highlights             |   🔄   |
 | Other resources                    |   🔄   |
 | Changelog                          |   ✔️   |
 
