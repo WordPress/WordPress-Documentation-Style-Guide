@@ -2,7 +2,6 @@
 
 In general, try to avoid slashes in your documentation, except in code examples, file paths, and URLs.
 
-
 ## Slashes with combinations
 
 Use a slash to indicate a combination. Capitalize the second word if the first word in the combination is capitalized.
