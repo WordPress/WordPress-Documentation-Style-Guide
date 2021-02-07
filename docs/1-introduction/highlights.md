@@ -20,8 +20,7 @@ For more information about the guideline, visit the links.
 ## Formatting
 
 - [Use the *day of week, month dd, year* date format to express dates](//dates-times.md).
-- [Express time in the 12-hour format and always include *AM* and *PM*](//dates-times.md).
-- [Use Coordinated Universal Time (UTC) and always include the time zone for real times](//dates-times.md).
+- [Express time in the 12-hour format and always include *AM* and *PM*](//dates-times.md). [Use Coordinated Universal Time (UTC) and always include the time zone for real times](//dates-times.md).
 - [Write unbiased examples without revealing personally identifiable information](//examples.md).
 - [Use all-lowercase filenames and separate words in filenames with hyphens](//filenames.md).
 - [Avoid writing footnotes in documentation](//footnotes.md).
@@ -35,9 +34,10 @@ For more information about the guideline, visit the links.
 - [Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers](//phone-numbers.md).
 - [Use procedures to provide a sequence of numbered steps or instructions for achieving a particular task.](//procedures.md).
 - [Use tables to present lengthy and complex pieces of data that are related, in a well-structured format](//tables.md).
-- []().
-- []().
-- []().
+- [Maintain consistent type and text formatting](//text.md).
+- [Follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks.](//trademarks.md).
+- [Insert a nonbreaking space between the number and a unit of measurement](//units-of-measurement.md).
+- [Italicize words used as words.](//words-as-words.md).
 
 ## Linking
 
