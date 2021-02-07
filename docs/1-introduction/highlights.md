@@ -25,7 +25,13 @@ For more information about the guideline, visit the links.
 - [Write unbiased examples without revealing personally identifiable information](//examples.md).
 - [Use all-lowercase filenames and separate words in filenames with hyphens](//filenames.md).
 - [Avoid writing footnotes in documentation](//footnotes.md).
--
+- [Use sentence case for headings, and follow proper heading hierarchy](//headings.md).
+- [Use italics to emphasize or introduce a particular word or phrase in your content](//key-terms.md).
+- [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data.](//lists.md)
+- []().
+- []().
+- []().
+
 
 ## Linking
 
