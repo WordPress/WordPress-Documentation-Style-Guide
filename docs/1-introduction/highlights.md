@@ -15,7 +15,15 @@ For more information about the guideline, visit the links.
 
 ## Punctuation
 
-
+- [Use curved apostrophes for most content](//apostrophes.md).
+- [Use colons to initiate closely-related content that follows](//colons.md).
+- [Use commas to separate items in a series, and to separate certain kinds of clauses](/commas.md). [Use serial commas](commas.md).
+- [Use an em dash, to set off a break in the flow of a sentence](//dashes.md). [Use an en dash to indicate a range of numbers, the minus sign, or negative numbers.](//dashes.md).
+- []().
+- []().
+- []().
+- []().
+- []().
 
 ## Formatting
 
