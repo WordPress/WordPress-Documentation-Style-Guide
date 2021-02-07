@@ -19,7 +19,10 @@ For more information about the guideline, visit the links.
 
 ## Formatting
 
-
+- [Use the *day of week, month dd, year* date format to express dates](//dates-times.md).
+- [Express time in the 12-hour format, in general](//dates-times.md). Always include *AM* and *PM*.
+- [Use Coordinated Universal Time (UTC)](//dates-times.md).
+- [Write unbiased examples without revealing personally identifiable information](//examples.md).
 
 ## Linking
 
