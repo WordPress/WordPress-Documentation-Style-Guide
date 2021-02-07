@@ -28,10 +28,13 @@ For more information about the guideline, visit the links.
 - [Use sentence case for headings, and follow proper heading hierarchy](//headings.md).
 - [Use italics to emphasize or introduce a particular word or phrase in your content](//key-terms.md).
 - [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data.](//lists.md)
+- [Use SVG or PNG files and provide alt text for images](//images.md).
+- [Use notices to warn, alert, notify, or provide useful information to the reader](//notices.md).
+- [Spell out whole numbers from zero through nine. Follow proper formatting for numbers](//numbers.md).
 - []().
 - []().
 - []().
-
+- []().
 
 ## Linking
 
