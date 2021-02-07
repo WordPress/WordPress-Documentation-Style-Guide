@@ -20,18 +20,21 @@ For more information about the guideline, visit the links.
 ## Formatting
 
 - [Use the *day of week, month dd, year* date format to express dates](//dates-times.md).
-- [Express time in the 12-hour format](//dates-times.md) and always include *AM* and *PM*.
-- [Use Coordinated Universal Time (UTC)](//dates-times.md) and always include the time zone for real times.
+- [Express time in the 12-hour format and always include *AM* and *PM*](//dates-times.md).
+- [Use Coordinated Universal Time (UTC) and always include the time zone for real times](//dates-times.md).
 - [Write unbiased examples without revealing personally identifiable information](//examples.md).
 - [Use all-lowercase filenames and separate words in filenames with hyphens](//filenames.md).
 - [Avoid writing footnotes in documentation](//footnotes.md).
 - [Use sentence case for headings, and follow proper heading hierarchy](//headings.md).
 - [Use italics to emphasize or introduce a particular word or phrase in your content](//key-terms.md).
-- [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data.](//lists.md)
+- [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data](//lists.md).
 - [Use SVG or PNG files and provide alt text for images](//images.md).
 - [Use notices to warn, alert, notify, or provide useful information to the reader](//notices.md).
 - [Spell out whole numbers from zero through nine. Follow proper formatting for numbers](//numbers.md).
-- []().
+- [Use a warning notice type to mark content as outdated](//obsolete-content.md).
+- [Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers](//phone-numbers.md).
+- [Use procedures to provide a sequence of numbered steps or instructions for achieving a particular task.](//procedures.md).
+- [Use tables to present lengthy and complex pieces of data that are related, in a well-structured format](//tables.md).
 - []().
 - []().
 - []().
