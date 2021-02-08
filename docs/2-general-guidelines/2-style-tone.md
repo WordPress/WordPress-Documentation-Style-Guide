@@ -50,8 +50,21 @@ Users search through documentation for an answer to a question. Maintain a frien
 
 Write user documentation considering that many users are not native English speakers. Avoid long narrative paragraphs; keep paragraphs short and focused, with consistent vocabulary and phrasing that is easy to understand for readers.
 
+**Examples**  
+
+[warning] **Not recommended:**  [/warning]  
+[tip] **Recommended:**  [/tip]  
+
 ### Developer documentation
 
 In most cases, developers are often searching through documentation for an answer to a specific technical question. Maintain a direct and precise tone while writing developer documentation. Use the same tone you would for user documentation, but you can assume a higher level of technical knowledge in your readers. In tutorials, it’s helpful to specify what technical knowledge is being assumed.
 
-For a code reference, be as direct as possible. A conversational tone is less appropriate here.
+For a code reference, be as direct as possible. A conversational tone is less appropriate here.  
+
+**Examples**  
+
+[warning] **Not recommended:** Sometimes you need to get a setting. This is easy if you use the get_option() function and pass in two parameters (a parameter is a value passed to a function). One parameter is the name and the other parameter is a default value. [/warning]  
+[tip] **Recommended:** To retrieve an option, use the `get_option()` function. It accepts two parameters: the option name and a default value to return if the option does not exist. [/tip]  
+
+[warning] **Not recommended:** Next, let’s talk about the `each` method. This method calls a function for each element and returns an array. [/warning]  
+[tip] **Recommended:** The `each` method calls the provided function once for each element in the array. It returns the original array. [/tip]  
