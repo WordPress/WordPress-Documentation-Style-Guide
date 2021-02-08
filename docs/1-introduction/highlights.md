@@ -2,17 +2,17 @@
 
 This page provides a synopsis of the WordPress Style Guide.
 
-For more information about the guideline, visit the links.
+For more information about a specific guideline, visit the link.
 
 ## General guidelines
 
 - []().
 - []().
+- [Write documentation that is accessible to everyone](//accessibility.md).
+- [Write documentation for a global audience considering translation](//global-audience.md).
 - []().
-- []().
-- []().
-- []().
-- []().
+- [Avoid making excessive claims about WordPress' products and services. Don't document or attempt to predict WordPress' future features, products, or services](//facts-claims.md).
+- [Write using your own words. Don't copy content from external sources because it might infringe copyright](//external-sources.md).
 - []().
 
 ## Language and grammar
