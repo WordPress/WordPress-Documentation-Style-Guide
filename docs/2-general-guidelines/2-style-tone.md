@@ -46,6 +46,12 @@ Not complying to these guidelines may result in increased document perplexity an
 
 ### User documentation
 
+Users search through documentation for an answer to a question. Maintain a friendly, informal tone, but focus on being clear and concise in a knowledgeable manner. Get to the point promptly. Explain technical terms, but be careful not to be condescending. To ensure clarity, start by briefly specifying the context of the current topic.
 
+Write user documentation considering that many users are not native English speakers. Avoid long narrative paragraphs; keep paragraphs short and focused, with consistent vocabulary and phrasing that is easy to understand for readers.
 
 ### Developer documentation
+
+In most cases, developers are often searching through documentation for an answer to a specific technical question. Maintain a direct and precise tone while writing developer documentation. Use the same tone you would for user documentation, but you can assume a higher level of technical knowledge in your readers. In tutorials, it’s helpful to specify what technical knowledge is being assumed.
+
+For a code reference, be as direct as possible. A conversational tone is less appropriate here.
