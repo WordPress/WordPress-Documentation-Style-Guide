@@ -73,114 +73,114 @@
 		"slug": "contributing-to-style-guide",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/8-contributing-to-style-guide.md"
 	},
-	"language-and-grammar": {
+	"language-grammar": {
 		"title": "Language and grammar",
-		"slug": "language-and-grammar",
+		"slug": "language-grammar",
 		"parent": null,
 		"order": 3,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/README.md"
 	},
-	"language-and-grammar/abbreviations": {
+	"language-grammar/abbreviations": {
 		"title": "Abbreviations",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "abbreviations",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/abbreviations.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/abbreviations.md"
 	},
-	"language-and-grammar/articles": {
+	"language-grammar/articles": {
 		"title": "Articles",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "articles",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/articles.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/articles.md"
 	},
-	"language-and-grammar/capitalization": {
+	"language-grammar/capitalization": {
 		"title": "Capitalization",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "capitalization",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/capitalization.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/capitalization.md"
 	},
-	"language-and-grammar/clause": {
+	"language-grammar/clause": {
 		"title": "Clause",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "clause",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/clause.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/clause.md"
 	},
-	"language-and-grammar/contractions": {
+	"language-grammar/contractions": {
 		"title": "Contractions",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "contractions",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/contractions.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/contractions.md"
 	},
-	"language-and-grammar/direct-indirect-speech": {
+	"language-grammar/direct-indirect-speech": {
 		"title": "Direct and indirect speech",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "direct-indirect-speech",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/direct-indirect-speech.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/direct-indirect-speech.md"
 	},
-	"language-and-grammar/grammatical-person": {
+	"language-grammar/grammatical-person": {
 		"title": "Grammatical person",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "grammatical-person",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/grammatical-person.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/grammatical-person.md"
 	},
-	"language-and-grammar/nouns": {
+	"language-grammar/nouns": {
 		"title": "Nouns",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "nouns",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/nouns.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/nouns.md"
 	},
-	"language-and-grammar/plurals": {
+	"language-grammar/plurals": {
 		"title": "Plurals",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "plurals",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/plurals.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/plurals.md"
 	},
-	"language-and-grammar/possessives": {
+	"language-grammar/possessives": {
 		"title": "Possessives",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "possessives",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/possessives.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/possessives.md"
 	},
-	"language-and-grammar/prefixes-suffixes": {
+	"language-grammar/prefixes-suffixes": {
  	 "title": "Prefixes and suffixes",
- 	 "parent": "language-and-grammar",
+ 	 "parent": "language-grammar",
  	 "slug": "prefixes-suffixes",
- 	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prefixes-suffixes.md"
+ 	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/prefixes-suffixes.md"
   },
-	"language-and-grammar/prepositions": {
+	"language-grammar/prepositions": {
 		"title": "Prepositions",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "prepositions",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/prepositions.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/prepositions.md"
 	},
-	"language-and-grammar/pronouns": {
+	"language-grammar/pronouns": {
 		"title": "Pronouns",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "pronouns",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/pronouns.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/pronouns.md"
 	},
-	"language-and-grammar/tense": {
+	"language-grammar/tense": {
 		"title": "Tense",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "tense",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/tense.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/tense.md"
 	},
-	"language-and-grammar/verbs": {
+	"language-grammar/verbs": {
 		"title": "Verbs",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "verbs",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/verbs.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/verbs.md"
 	},
-	"language-and-grammar/voice": {
+	"language-grammar/voice": {
 		"title": "Voice",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "voice",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/voice.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/voice.md"
 	},
-	"language-and-grammar/word-choice": {
+	"language-grammar/word-choice": {
 		"title": "Word choice",
-		"parent": "language-and-grammar",
+		"parent": "language-grammar",
 		"slug": "word-choice",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-and-grammar/word-choice.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/word-choice.md"
 	},
 	"punctuation": {
 		"title": "Punctuation",
