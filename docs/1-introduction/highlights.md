@@ -6,12 +6,32 @@ For more information about the guideline, visit the links.
 
 ## General guidelines
 
--
--
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
 
 ## Language and grammar
 
-
+- [Spell out and declare abbreviations whenever they are used for the first time. Avoid internet slang and jargon](//abbreviations.md).
+- [Include definite and indefinite articles in your documentation](//articles.md).
+- [Follow standard American (US) English capitalization rules. In general, use sentence case capitalization](//capitalization.md).
+- [Put conditional clauses before instructions, not after](//clauses.md).
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
+- []().
 
 ## Punctuation
 
@@ -27,7 +47,7 @@ For more information about the guideline, visit the links.
 - [Use questions sparingly](//question-marks.md).
 - [Use straight double quotation marks](//quotation-marks.md).
 - [Use semicolons to separate independent clauses](//semicolons.md).
-- [Avoid using slashes, except in code examples, file paths, and URLs](//slashes.md).
+- [Avoid using slashes except in code examples, file paths, and URLs](//slashes.md).
 
 ## Formatting
 
@@ -70,3 +90,5 @@ For more information about the guideline, visit the links.
 - [Format UI element names in bold, and use appropriate nouns and verbs to describe how to interact with them](//ui-elements.md).
 
 ## Word list and usage dictionary
+
+- [Refer the word list for word usage guidelines]().
