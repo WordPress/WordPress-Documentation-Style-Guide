@@ -25,10 +25,10 @@ For more information about the guideline, visit the links.
 - [In general, use indirect speech](//direct-indirect-speech.md).
 - [In general, use second person](//grammatical-person.md).
 - [Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs](//nouns.md).
-- []().
-- []().
-- []().
-- []().
+- [Pluralize a singular noun by adding *-s* at the end](//plurals.md).
+- [To form a singular possessive, add an *apostrophe-s*](//possesives.md).
+- [Don't use three or more affixes in a single word](//prefixes-suffixes.md).
+- [Use prepositions as needed, even at the ends of sentences](//prepositions.md).
 - []().
 - []().
 - []().
