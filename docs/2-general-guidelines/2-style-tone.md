@@ -1,9 +1,8 @@
 # Style and tone
 
-<!-- https://make.wordpress.org/docs/handbook/documentation-team-handbook/tone-and-voice-guide/-->
 Always write your documents in simple, easy-to-understand sentences. Ensure that your tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
 
-Don't try to be overly colloquial. On the other hand, a formal or robotic tone is unfit as well. Try to achieve a balance between colloquial and formal language, that is suitable for providing knowledge and information. The document should persuade readers, rather than overwhelm them with verbiage.
+Don't try to be overly colloquial. On the other hand, don't overdo a professional tone; a formal or robotic tone is unfit as well. Try to achieve a balance between colloquial and formal language, that is suitable for providing knowledge and information. The document should persuade readers, rather than overwhelm them with verbiage.
 
 Even if a conversational tone helps, don't overplay the humor part. Keep the emphasis on the reader; the reader should not feel out of place. WordPress is a global project, with the majority of users being non-native English speakers. Hence, take into consideration that your document may be translated into other languages. Ultimately, educating and providing information to the reader is of the utmost priority.
 
@@ -11,6 +10,7 @@ Even if a conversational tone helps, don't overplay the humor part. Keep the emp
 
 - Colloquial or idiomatic expressions.
 - Unnecessary metaphors or humor.
+- Cultural and regional references.
 - Technical jargon or slang.
 - Shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Being overly pretentious or conspicuous.
@@ -52,8 +52,11 @@ Write user documentation considering that many users are not native English spea
 
 **Examples**  
 
-[warning] **Not recommended:**  [/warning]  
-[tip] **Recommended:**  [/tip]  
+[warning] **Not recommended:** If you peek over at the left side, you’ll see a menu called main navigation, which is the main menu. This menu is a list of functions you as the administrator can do from the administration screen. [/warning]  
+[tip] **Recommended:** On the left side of the screen is the **Main navigation menu** listing the administrative functions you can perform. [/tip]  
+
+[warning] **Not recommended:** When you visit a website, you probably want the website to remember some information about you so you don’t have to give it the information again. Websites can send your browser this kind of information so they remember you later. This information is called a cookie. I know what you’re thinking, a cookie is something you eat, right? Well, a computer cookie is different. It’s a tiny bit of data used by the website so that when you visit the website again, it gleans things from the cookie like what language you speak. [/warning]  
+[tip] **Recommended:** A cookie is a small piece of data used to remember information about you. When you visit a website, it sends a cookie to your browser, and your browser stores the cookie in a small file. The next time you visit the website, it uses that cookie to get information such as your preferred language. [/tip]  
 
 ### Developer documentation
 
