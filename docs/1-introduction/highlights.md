@@ -21,10 +21,10 @@ For more information about the guideline, visit the links.
 - [Include definite and indefinite articles in your documentation](//articles.md).
 - [Follow standard American (US) English capitalization rules. In general, use sentence case capitalization](//capitalization.md).
 - [Put conditional clauses before instructions, not after](//clauses.md).
-- []().
-- []().
-- []().
-- []().
+- [In most cases, using contractions is completely acceptable, but be watchful of some exceptions](//contractions.md).
+- [In general, use indirect speech](//direct-indirect-speech.md).
+- [In general, use second person](//grammatical-person.md).
+- [Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs](//nouns.md).
 - []().
 - []().
 - []().
