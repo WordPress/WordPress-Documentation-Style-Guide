@@ -31,11 +31,11 @@
 		"slug": "document-structure",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/1-document-structure.md"
 	},
-	"general-guidelines/style-tone": {
+	"general-guidelines/style-voice-tone": {
 		"title": "Style and tone",
 		"parent": "general-guidelines",
-		"slug": "style-tone",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/2-style-tone.md"
+		"slug": "style-voice-tone",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/2-style-voice-tone.md"
 	},
 	"general-guidelines/accessibility": {
 		"title": "Accessibility guidelines",

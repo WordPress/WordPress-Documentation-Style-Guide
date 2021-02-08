@@ -1,6 +1,6 @@
-# Style and tone
+# Style, voice, and tone
 
-Always write your documents in simple, easy-to-understand sentences. Ensure that your tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
+Always write your documents in simple, easy-to-understand sentences. *Voice* and *tone* refer to the mood or attitude of a specific work of writing. Ensure that your voice and tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
 
 Don't try to be overly colloquial. On the other hand, don't overdo a professional tone; a formal or robotic tone is unfit as well. Try to achieve a balance between colloquial and formal language, that is suitable for providing knowledge and information. The document should persuade readers, rather than overwhelm them with verbiage.
 
@@ -20,7 +20,7 @@ Even if a conversational tone helps, don't overplay the humor part. Keep the emp
 - Capitalizing words where it is unnecessary.
 - Excess use of the same phrases and pronouns.
 - Ableist language or figures of speech.
-- Long and complicated sentences.
+- Long, complicated, and disconnected sentences.
 - Content that would insult any group or individual.
 - Assumptions on the reader's fundamental understandings.
 - Using unorthodox conventions.
@@ -66,7 +66,7 @@ For a code reference, be as direct as possible. A conversational tone is less ap
 
 **Examples**  
 
-[warning] **Not recommended:** Sometimes you need to get a setting. This is easy if you use the get_option() function and pass in two parameters (a parameter is a value passed to a function). One parameter is the name and the other parameter is a default value. [/warning]  
+[warning] **Not recommended:** Sometimes you need to get a setting. This is easy if you use the `get_option()` function and pass in two parameters (a parameter is a value passed to a function). One parameter is the name and the other parameter is a default value. [/warning]  
 [tip] **Recommended:** To retrieve an option, use the `get_option()` function. It accepts two parameters: the option name and a default value to return if the option does not exist. [/tip]  
 
 [warning] **Not recommended:** Next, let’s talk about the `each` method. This method calls a function for each element and returns an array. [/warning]  
