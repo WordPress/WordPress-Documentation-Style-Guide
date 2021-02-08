@@ -29,9 +29,11 @@ For more information about the guideline, visit the links.
 - [To form a singular possessive, add an *apostrophe-s*](//possesives.md).
 - [Don't use three or more affixes in a single word](//prefixes-suffixes.md).
 - [Use prepositions as needed, even at the ends of sentences](//prepositions.md).
-- []().
-- []().
-- []().
+- [Ensure that a pronoun clearly refers to its antecedent](//pronouns.md).
+- [In general, write in present tense rather than future tense](//tense.md).
+- [Use precise verbs to write clear, succinct sentences](//verbs.md).
+- [In general, use active voice rather than passive voice](//voice.md).
+- [Use common and simple technical terms that can be understood by the majority of readers](//word-choice.md).
 
 ## Punctuation
 
@@ -91,4 +93,4 @@ For more information about the guideline, visit the links.
 
 ## Word list and usage dictionary
 
-- [Refer the word list for word usage guidelines]().
+- [Refer the word list for spellings and word usage guidelines for specific words]().
