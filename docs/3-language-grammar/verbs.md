@@ -1,5 +1,5 @@
 # Verbs
-<!-- https://docs.microsoft.com/en-us/style-guide/word-choice/dont-use-common-words-in-new-ways -->
+
 Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For additional information, refer [Voice]().  
 Also, write in present tense rather than future tense. For additional information, refer [Tense]().
 
@@ -12,6 +12,12 @@ Usually, the only difference between the two verb forms is an *-s* at the end of
 
 [warning] **Not recommended:** `do_action( 'activate_header' )` : Fire before the Site Activation page is loaded. [/warning]  
 [tip] **Recommended:** `do_action( 'activate_header' )` : Fires before the Site Activation page is loaded. [/tip]
+
+## Verbs as nouns
+
+Don't use verbs as nouns or nouns as verbs.
+
+For additional information, see [Verbs as nouns](//nouns.md).
 
 ## Moods of verbs
 
