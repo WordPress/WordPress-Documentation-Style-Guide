@@ -10,24 +10,30 @@ Don't use italic formatting for the *z* in these words unless the entire word is
 
 Lowercase and hyphenate.
 
-## zeros
+## zero, zeros
 
 Use *zeros*, not *zeroes*, as the plural of *zero*.
 
 When a measurement is zero, use the plural form of the spelled-out unit of measurement.
 
-**Examples**
+**Examples**  
 
 [tip] **Recommended:** 0 kilobytes [/tip]  
-[tip] **Recommended:** 0 KB [/tip]
+[tip] **Recommended:** 0 KB [/tip]  
 
-##
+## zip
 
+Don't use a filename extension to refer to a type of file. For example, use *zip file* rather than *.zip file*.
 
+Don't use *zip* or *unzip* as a verb.
 
-##
+For more information, see [Referring to file types](//filenames.md).
 
+## ZIP code
 
+Acceptable to use in content intended for US locales and audiences. Otherwise, use *postal code*.
+
+Use uppercase capitalization for *ZIP*.
 
 ##
 
