@@ -31,12 +31,12 @@ For more information, see [Referring to file types](//filenames.md).
 
 ## ZIP code
 
-Acceptable to use in content intended for US locales and audiences. Otherwise, use *postal code*.
+OK to use in content intended for US locales and audiences. Otherwise, use *postal code*.
 
 Use uppercase capitalization for *ZIP*.
 
-##
+## zoom
 
+OK to use *zoom, zoom in, zoom out*
 
-
-##
+For more information, see [Interaction verbs](//ui-elements.md)
