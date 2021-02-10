@@ -27,7 +27,7 @@ When a measurement is zero, use the plural form of the spelled-out unit of measu
 
 Don't use a filename extension to refer to a type of file. For example, use *zip file* rather than *.zip file*.
 
-Don't use *zip* or *unzip* as a verb.
+Don't use *zip* or *unzip* as a verb. Instead, use *compress* and *extract*.
 
 For more information, see [Referring to file types](//filenames.md).
 
