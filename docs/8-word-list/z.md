@@ -10,6 +10,8 @@ Don't use italic formatting for the *z* in these words unless the entire word is
 
 Lowercase and hyphenate.
 
+Don't use italic formatting for the *z* in *z-axis* unless the entire word is italic.
+
 ## zero, zeros
 
 Use *zeros*, not *zeroes*, as the plural of *zero*.
@@ -37,6 +39,6 @@ Use uppercase capitalization for *ZIP*.
 
 ## zoom
 
-OK to use *zoom, zoom in, zoom out*
+OK to use *zoom, zoom in, zoom out*.
 
-For more information, see [Interaction verbs](//ui-elements.md)
+For more information, see [Interaction verbs](//ui-elements.md).
