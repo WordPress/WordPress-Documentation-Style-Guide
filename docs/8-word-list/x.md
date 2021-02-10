@@ -13,3 +13,13 @@ Hyphenate all words that begin with *x* used as a separate letter, such as *x-co
 Don't use italic formatting for the *x* in these words unless the entire word is italic.
 
 ## x-axis
+
+Lowercase and hyphenate.
+
+Don't use italic formatting for the *x* in *x-axis* unless the entire word is italic.
+
+## x-coordinate
+
+Lowercase and hyphenate.
+
+Don't use italic formatting for the *x* in *x-coordinate* unless the entire word is italic.
