@@ -2,7 +2,11 @@
 
 ## want
 
-Use instead of *wish* or *desire* when the user has alternatives or choices. 
+Use instead of *wish* or *desire* when the user has alternatives or choices. Don't use when you mean *need*, which indicates a requirement or obligation.
+
+**Examples**  
+
+[tip] **Recommended:** Select **Add New** if you want to add a new post. [/tip]  
 
 ## walkthrough
 
@@ -10,6 +14,19 @@ One word. Not *walk through* or *walk-through*.
 
 ## we
 ## web
+
+Note lowercase. Shortened term for *World Wide Web*.
+
+Don’t use *web* and *internet* interchangeably; the web is just one part of the global internet.
+
+## web browser
+
+Two words. Not *web browser*.
+
+## webmail
+
+One word. Not *web mail*.
+
 ## webmaster
 
 Don't use. Instead use *site admin, website author*, or *web developer*.
@@ -52,8 +69,12 @@ Whenever possible, instead of using *Wi-Fi*, use a general term such as *wireles
 Don't use. Instead, use [want](#want).
 
 ## with
-## World Wide Web (WWW)
+## World Wide Web
 
-Don't use. Instead use [web](#web).
+Don't use. Instead use [web](#web). Don't abbreviate as *WWW*.
 
 ## write
+
+OK to use in developer documentation. Avoid using in user documentation; instead use *copy*.
+
+### WWW
