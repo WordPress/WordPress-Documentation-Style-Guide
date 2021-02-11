@@ -1,7 +1,13 @@
 # W
 
 ## want
+
+Use instead of *wish* or *desire* when the user has alternatives or choices. 
+
 ## walkthrough
+
+One word. Not *walk through* or *walk-through*.
+
 ## we
 ## web
 ## webmaster
@@ -29,10 +35,16 @@ Don't use. Instead use *allowlist, allowed*, or *approved*.
 
 For more information, see [Replacing established terms](//inclusivity.md).
 
+## whitespace
+
+One word. Not *white space*.
+
 ## who
 ## Wi-Fi
 
-Not *wifi* or *WiFi*. Hyphenate *Wi-Fi*.
+Note hyphenation. Not *wifi* or *WiFi*.
+
+Whenever possible, instead of using *Wi-Fi*, use a general term such as *wireless, wireless network*, or the specific technology that you're describing such as *wireless LAN*.
 
 ## will
 ## wish
