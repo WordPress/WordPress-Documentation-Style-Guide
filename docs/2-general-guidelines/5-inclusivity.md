@@ -28,7 +28,7 @@ Various words that are deemed to be non-inclusive are often used in documentatio
 
 | Recommended | Not Recommended |
 |-----------|-----------|
-| blocklist, disallowed | blacklist |
+| deny list, blocklist, disallowed, unapproved | blacklist |
 | allowlist, allowed, approved | whitelist |
 | main | master |
 | primary/subordinate | master/slave |
