@@ -4,6 +4,10 @@
 
 Don't use *quality* by itself as an adjective. Instead, use a modifier and hyphenate. For example, *high-quality, studio-quality*.
 
+## quick, quickly
+
+Avoid using. *Quick* or *quickly* is a relative term, and the same meaning of a sentence can be expressed without using these terms in most cases. 
+
 ## quit
 
 Don't use to refer to the action of closing a program, window, or a connection. Instead use *close, stop*, or *end*.
@@ -12,7 +16,7 @@ Don't use to refer to the action of closing a program, window, or a connection. 
 
 Not *quotes* or *quote marks*. *Quote* is a verb, and *quotation* is an adjective or a noun.
 
-For additional information, see [Quotation marks](). 
+For additional information, see [Quotation marks]().
 
 ## quote
 
