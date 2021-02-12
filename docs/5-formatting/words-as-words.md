@@ -19,3 +19,5 @@ While referring to letters as letters, use italics.
 [warning] **Not recommended:** If a proper noun ends with an "s", you can either use an apostrophe and "s" or just an apostrophe.  [/warning]  
 [warning] **Not recommended:** If a proper noun ends with an s, you can either use an apostrophe and s or just an apostrophe.  [/warning]  
 [tip] **Recommended:** If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.  [/tip]  
+
+Use an apostrophe and an *s* to form the plural, but don’t italicize the apostrophe or the *s*.

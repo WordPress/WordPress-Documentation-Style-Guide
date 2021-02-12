@@ -8,7 +8,7 @@ Don't use italic formatting for the *z* in these words unless the entire word is
 
 ## z-axis
 
-Lowercase and hyphenate.
+Use lowercase and hyphenate.
 
 Don't use italic formatting for the *z* in *z-axis* unless the entire word is italic.
 

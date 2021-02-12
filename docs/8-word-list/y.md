@@ -8,13 +8,13 @@ Don't use italic formatting for the *y* in these words unless the entire word is
 
 ## y-axis
 
-Lowercase and hyphenate.
+Use lowercase and hyphenate.
 
 Don't use italic formatting for the *y* in *y-axis* unless the entire word is italic.
 
 ## y-coordinate
 
-Lowercase and hyphenate.
+Use lowercase and hyphenate.
 
 Don't use italic formatting for the *y* in *y-coordinate* unless the entire word is italic.
 
