@@ -97,11 +97,43 @@ Don't use. Instead, use [want](#want).
 
 ## with
 
+Don't use *with* when expressing ownership.
+
+**Examples**  
+
+[warning] **Not recommended:** A desktop with 8 GB of RAM. [/warning]  
+[tip] **Recommended:** A desktop that has 8 GB of RAM. [/tip]  
+
+Don't use *with* when expressing use.
+
+**Examples**  
+
+[warning] **Not recommended:** Extract the document with the file manager. [/warning]  
+[tip] **Recommended:** Use the file manager to extract the document. [/tip]  
 
 ## WooCommerce
+
+Capitalize *W* and *C* in *WooCommerce*.
+
+Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
+
+**Exception:** It is OK to use *woocommerce* in lowercase for WooCommerce URLs. For example, [woocommerce.com](https://woocommerce.com).
+
 ## WordCamp
-## WordCamp
+
+Capitalize *W* and *C* in *WordCamp*.
+
+Not *Wordcamp, Word camp, Word Camp,* or *wordcamp*.
+
+**Exception:** It is OK to use *wordcamp* in lowercase for WordCamp URLs. For example, [central.wordcamp.org](https://central.wordcamp.org).
+
 ## WordPress
+
+Capitalize *W* and *P* in *WordPress*.
+
+Not *Wordpress, Word press, Word Press,* or *wordpress*.
+
+**Exception:** It is OK to use *wordpress* in lowercase for WordPress URLs. For example, [make.wordpress.org](https://make.wordpress.org).
 
 ## World Wide Web
 
