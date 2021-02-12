@@ -4,9 +4,11 @@
 
 Acronym for World Wide Web Consortium (W3C). Use uppercase.
 
+For more information about spelling out acronyms, see [Abbreviations]().
+
 ## WAN
 
-Acronym for *wide area network*.
+Acronym for *wide area network*. Use uppercase.
 
 For more information about spelling out acronyms, see [Abbreviations]().
 
@@ -26,6 +28,8 @@ One word. Not *walk through* or *walk-through*.
 ## WCAG
 
 Acronym for Web Content Accessibility Guidelines. Use uppercase.
+
+For more information about spelling out acronyms, see [Abbreviations]().
 
 ## we
 
@@ -49,7 +53,7 @@ See also [internet]().
 
 ## web browser
 
-Two words. Not *web browser*.
+Two words. Not *webbrowser*.
 
 ## webmail
 
@@ -103,7 +107,7 @@ Use only to refer to something occurring in a period of time. Don't use as a syn
 
 ## whitelist
 
-Don't use. Instead use *allowlist, allowed*, or *approved*.
+Don't use. Instead, use *allowlist, allowed*, or *approved*.
 
 For more information, see [Replacing established terms](//inclusivity.md).
 
@@ -146,7 +150,7 @@ Avoid using. *Will* indicates future tense.
 
 Also avoid using *would*, as it indicates past tense.
 
-For more information, see [Tense]() and [Documenting future features](//facts-claims.md)
+For more information, see [Tense]() and [Documenting future features](//facts-claims.md).
 
 ## window
 
@@ -246,7 +250,9 @@ Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
 ## WP-CLI
 
-Acronym for WordPress command-line interface. Uppercase and hyphenate.
+Acronym for WordPress command-line interface. Use uppercase and hyphenate.
+
+For more information about spelling out acronyms, see [Abbreviations]().
 
 ## write
 
