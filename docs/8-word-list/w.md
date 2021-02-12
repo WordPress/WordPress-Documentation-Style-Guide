@@ -29,7 +29,13 @@ Acronym for Web Content Accessibility Guidelines. Use uppercase.
 
 ## we
 
+Avoid using. Focus on the reader or user instead of making WordPress the subject.
 
+**Examples**  
+
+[warning] **Not recommended:** We suggest using a desktop that has a 64-bit operating system. [/warning]  
+[tip] **Sometimes okay:** We recommend using a desktop that has a 64-bit operating system. [/tip]  
+[tip] **Recommended:** Use a desktop that has a 64-bit operating system. [/tip]  
 
 ## web
 
@@ -79,7 +85,12 @@ Two words. In some cases *whitespace* is also used.
 
 ## who
 
+Use *who* instead of *that* to introduce clauses referring to people.
 
+**Examples**  
+
+[warning] **Not recommended:**  [/warning]  
+[tip] **Recommended:**  [/tip]  
 
 ## Wi-Fi
 
@@ -89,7 +100,11 @@ Whenever possible, instead of using *Wi-Fi*, use a general term such as *wireles
 
 ## will
 
+Avoid using. *Will* indicates future tense.
 
+Also avoid using *would*, as it indicates past tense.
+
+For more information, see [Tense]() and [Documenting future features](//facts-claims.md)
 
 ## wish
 
@@ -101,8 +116,8 @@ Don't use *with* when expressing ownership.
 
 **Examples**  
 
-[warning] **Not recommended:** A desktop with 8 GB of RAM. [/warning]  
-[tip] **Recommended:** A desktop that has 8 GB of RAM. [/tip]  
+[warning] **Not recommended:** A desktop with a 64-bit operating system. [/warning]  
+[tip] **Recommended:** A desktop that has a 64-bit operating system. [/tip]  
 
 Don't use *with* when expressing use.
 
