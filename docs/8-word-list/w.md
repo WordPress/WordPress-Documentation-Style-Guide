@@ -29,11 +29,12 @@ Acronym for Web Content Accessibility Guidelines. Use uppercase.
 
 ## we
 
-Avoid using. Focus on the reader or user instead of making WordPress the subject.
+Avoid using. Focus on the reader or user instead of making WordPress the subject. It is acceptable to use *we* if the content has multiple authors describing a collective action.
 
 **Examples**  
 
 [warning] **Not recommended:** We suggest using a desktop that has a 64-bit operating system. [/warning]  
+[warning] **Not recommended:** Let's use a desktop that has a 64-bit operating system. [/warning]  
 [tip] **Sometimes okay:** We recommend using a desktop that has a 64-bit operating system. [/tip]  
 [tip] **Recommended:** Use a desktop that has a 64-bit operating system. [/tip]  
 
@@ -71,13 +72,21 @@ One word. Not *web site*.
 
 ## whether
 
+See [if, whether](//i.md).
 
+## while
+
+Use only to refer to something occurring in a period of time. Don't use as a synonym for *though, although, whereas, in spite of*, or *on the contrary*.
 
 ## whitelist
 
 Don't use. Instead use *allowlist, allowed*, or *approved*.
 
 For more information, see [Replacing established terms](//inclusivity.md).
+
+## white paper
+
+Two words. Not *whitepaper*.
 
 ## white space
 
@@ -89,8 +98,8 @@ Use *who* instead of *that* to introduce clauses referring to people.
 
 **Examples**  
 
-[warning] **Not recommended:**  [/warning]  
-[tip] **Recommended:**  [/tip]  
+[warning] **Not recommended:** WordPress.com is for users that are looking for a complete hassle-free website solution. [/warning]  
+[tip] **Recommended:** WordPress.com is for users who are looking for a complete hassle-free website solution. [/tip]  
 
 ## Wi-Fi
 
@@ -125,6 +134,26 @@ Don't use *with* when expressing use.
 
 [warning] **Not recommended:** Extract the document with the file manager. [/warning]  
 [tip] **Recommended:** Use the file manager to extract the document. [/tip]  
+
+## workflow
+
+One word. Not *work flow*.
+
+## workgroup
+
+One word. Not *work group*.
+
+## workplace
+
+One word. Not *work place*.
+
+## workspace
+
+One word. Not *work space*.
+
+## workstation
+
+One word. Not *work station*.
 
 ## WooCommerce
 
