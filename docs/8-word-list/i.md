@@ -10,3 +10,8 @@ If you can affix the words *or not* in a clause, use *whether* rather than *if*.
 
 [warning] **Not recommended:** The `is_plugin_active()` function determines if a plugin is active. [/warning]  
 [tip] **Recommended:** The `is_plugin_active()` function determines whether a plugin is active *(or not)*. [/tip]  
+
+## internet
+
+
+See also [web]().
