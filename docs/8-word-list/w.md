@@ -1,16 +1,24 @@
 # W
 
+## WAV
+
+Acronym for *Waveform Audio File Format*.
+
+Don't use a filename extension to refer to a type of file. For example, use *WAV file* rather than *.wav file*.
+
+For more information, see [Referring to file types](//filenames.md).
+
 ## W3C
 
-Initialism for World Wide Web Consortium (W3C). Use uppercase.
+Initialism for World Wide Web Consortium. Use uppercase.
 
-For more information about spelling out acronyms, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## WAN
 
 Acronym for *wide area network*. Use uppercase.
 
-For more information about spelling out acronyms, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## want
 
@@ -29,7 +37,7 @@ One word. Not *walk through* or *walk-through*.
 
 Initialism for Web Content Accessibility Guidelines. Use uppercase.
 
-For more information about spelling out acronyms, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## we
 
@@ -252,7 +260,7 @@ Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
 Initialism for WordPress command-line interface. Use uppercase and hyphenate.
 
-For more information about spelling out acronyms, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## write
 
