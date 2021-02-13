@@ -2,7 +2,7 @@
 
 ## W3C
 
-Acronym for World Wide Web Consortium (W3C). Use uppercase.
+Initialism for World Wide Web Consortium (W3C). Use uppercase.
 
 For more information about spelling out acronyms, see [Abbreviations]().
 
@@ -27,7 +27,7 @@ One word. Not *walk through* or *walk-through*.
 
 ## WCAG
 
-Acronym for Web Content Accessibility Guidelines. Use uppercase.
+Initialism for Web Content Accessibility Guidelines. Use uppercase.
 
 For more information about spelling out acronyms, see [Abbreviations]().
 
@@ -136,7 +136,7 @@ For more information, see [WordPress widgets](https://wordpress.org/support/arti
 
 ## Wi-Fi
 
-Hyphenate. Not *wifi, Wifi,* or *WiFi*.
+Shortened term for *Wireless Fidelity*. Hyphenate. Not *wifi, Wifi,* or *WiFi*.
 
 Whenever possible, instead of using *Wi-Fi*, use a general term such as *wireless, wireless network*, or the specific technology that you're describing such as *wireless LAN*.
 
@@ -250,7 +250,7 @@ Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
 ## WP-CLI
 
-Acronym for WordPress command-line interface. Use uppercase and hyphenate.
+Initialism for WordPress command-line interface. Use uppercase and hyphenate.
 
 For more information about spelling out acronyms, see [Abbreviations]().
 
