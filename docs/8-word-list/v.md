@@ -32,7 +32,13 @@ In some contexts, *vice versa* is confusing or ambiguous in determining which tw
 
 ## virtual
 
+OK to use in developer documentation. Avoid using in user documentation.
+
+Use only to refer to a device or service that doesn't physically exist or appears to be something it's not. For example, a *virtual machine (VM)* isn't an actual machine; it's a machine that emulates a real computer.
+
 ## virtualize
+
+OK to use in developer documentation. Avoid using in user documentation.
 
 ## virtual machine, VM
 
