@@ -26,9 +26,15 @@ In some contexts, *vice versa* is confusing or ambiguous in determining which tw
 
 ## video card
 
+Use *video card* instead of *video adapter, display adapter, graphics adapter, graphics card*, or *graphics board*.
+
 ## video display
 
+Don't use.
+
 ## video driver
+
+Use *video driver* instead of *display driver* or *graphics driver*.
 
 ## virtual
 
@@ -53,6 +59,12 @@ Don't use to refer to the action of opening a website or webpage. Instead, use *
 For more information, see [Interaction verbs](//ui-elements.md).
 
 ## volume (disk)
+
+OK to use in developer documentation. Avoid using in user documentation; instead use *disk* in user documentation.
+
+To refer to storage that may include different types of disks, just use *disk*. You can also refer to a specific type of disk such as *solid-state drive, hard-disk,* or *flash storage*.
+
+See also [disk]().
 
 ## VPN
 
