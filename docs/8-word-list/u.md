@@ -4,9 +4,28 @@
 
 Initialism for User Interface. Use uppercase.
 
+Don't use *UI* to generically refer to UI elements. Instead, use the specific UI element term.
+
+**Examples**  
+
+[warning] **Not recommended:** In the **Link** UI, enter your sitemap link. [/warning]  
+[tip] **Recommended:** In the **Link** box, enter your sitemap link.  [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [UI elements]().
+
+## UK
+
+Initialism for United Kingdom. Use uppercase.
+
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## un-
+
+In general, don't hyphenate words beginning with *un-* such as *unable* and *undo*, unless absolutely necessary, to avoid confusion. For example, hyphenate in cases such as *un-fitting*, or where *un-* is followed by a proper noun such as *un-American*.
+
+For more information about hyphenation, see [Hyphens]().
+
 ## unavailable
 ## uncheck
 ## undeploy
@@ -14,6 +33,9 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 ## unhighlight
 ## unmark
 ## unselect
+
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
 ## unarchive
 
 Don't use. Instead, use *extract*.
@@ -23,6 +45,9 @@ Don't use. Instead, use *extract*.
 Don't use. Instead, use *extract*.
 
 ## undelete
+
+Don't use.
+
 ## under
 ## undo
 ## uninstall
@@ -38,9 +63,9 @@ Don't use. Instead, use *extract*.
 
 Don't use. Instead, use *extract*.
 
-## upgradable, upgradeable
+## upgradable
 
-Both *upgradable* and *upgradeable* are used in different contexts.
+Not *upgradeable*.
 
 ## upgrade
 
