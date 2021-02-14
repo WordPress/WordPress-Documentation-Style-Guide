@@ -15,7 +15,13 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 ## unmark
 ## unselect
 ## unarchive
+
+Don't use. Instead, use *extract*.
+
 ## uncompress
+
+Don't use. Instead, use *extract*.
+
 ## undelete
 ## under
 ## undo
@@ -25,7 +31,13 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 No spelled-out term. Use uppercase.
 
 ## untar
+
+Don't use. Instead, use *extract*.
+
 ## unzip
+
+Don't use. Instead, use *extract*.
+
 ## upgradable, upgradeable
 
 Both *upgradable* and *upgradeable* are used in different contexts.
@@ -72,10 +84,29 @@ Initialism for Universal Serial Bus. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## user
+
+
+
 ## user base
+
+Two words. Not *userbase*.
+
 ## username
+
+One word. Not *user name*.
+
 ## using
 ## UTF
+
+Initialism for Unicode Transformation Format. Use uppercase.
+
+Include the hyphen in the names of Unicode encodings, such as *UTF-8, UTF-16*, and *UTF-32*.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## utilize, utilization
 ## UX
-##
+
+Initialism for User Experience. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
