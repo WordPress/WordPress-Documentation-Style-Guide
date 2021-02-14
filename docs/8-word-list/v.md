@@ -6,9 +6,9 @@ Use lowercase when using *v* or *v.* for indicating a version.
 
 Don't use *version* as a verb such as *versioning*.
 
-## versus, vs.
+## versus, vs., v.
 
-Don't use *vs.* as an abbreviation for *versus*. Instead, use the unabbreviated term *versus* or other relevant phrasing such as *compared to*.
+Avoid using *vs.* or *v.* as an abbreviation for *versus*. Acceptable to use in UI, tables, or headings where space is limited. Instead, use the unabbreviated term *versus* or other relevant phrasing such as *compared to*.
 
 ## very
 
