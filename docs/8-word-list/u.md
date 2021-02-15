@@ -111,9 +111,12 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## URL
 
-Initialism for Uniform Resource Locator. Use uppercase.
+Initialism for Uniform Resource Locator. Use uppercase. Plural is *URLs*.
+
+Write *a URL* instead of *an URL*, as the most common pronunciation starts with a consonant sound. For more information, see [Articles](articles.md).
 
 For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about styling and formatting URLs, see the [Linking section]().
 
 ## US
 
@@ -133,7 +136,14 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## user
 
+Use *you* when addressing the reader instead of *user*. If your documentation audience consists of users, avoid using this term. It is OK to use *user* in developer documentation and for a technical audience.
 
+**Examples**  
+
+[warning] **Not recommended:** The user can click the **Save** button to save changes. [/warning]  
+[tip] **Recommended:** You can click the **Save** button to save changes. [/tip]  
+
+For more information, see [Grammatical person]().
 
 ## user base
 
@@ -144,6 +154,9 @@ Two words. Not *userbase*.
 One word. Not *user name*.
 
 ## using
+
+
+
 ## UTF
 
 Initialism for Unicode Transformation Format. Use uppercase.
@@ -153,6 +166,16 @@ Include the hyphen in the names of Unicode encodings, such as *UTF-8, UTF-16*, a
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## utilize, utilization
+
+Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utilize* or *utilization* when referring to the quantity of a resource being used.
+
+**Examples**  
+
+[warning] **Not recommended:** To select a template to display the page, utilize the query string. [/warning]  
+[tip] **Recommended:** To select a template to display the page, use the query string. [/tip]  
+
+[tip] **Recommended:** The program will resume execution when the CPU utilization falls under 90%. [/tip]  
+
 ## UX
 
 Initialism for User Experience. Use uppercase.
