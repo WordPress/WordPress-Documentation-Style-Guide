@@ -51,25 +51,43 @@ Don't use to refer to the action of clearing a check mark from a checkbox. Inste
 [warning] **Not recommended:** Deselect the **Crop thumbnail** checkbox. [/warning]  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
+For more information, see [UI elements]().
+
+## unclick
+
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
+
 ## undeploy
 
 Don't use. Instead, use *remove* or *withdraw*.
 
 ## underline, underscore
 
-
+Use *underline* to describe text formatting that puts a line under the characters. Use *underscore* to refer to the underscore character ( _ ).
 
 ## unhighlight
 
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
+For more information, see [UI elements]().
 
 ## unmark
 
+Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
+For more information, see [UI elements]().
+
+See also [uncheck](#uncheck).
 
 ## unselect
 
-Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
+
+See also [uncheck](#uncheck).
 
 ## unarchive
 
@@ -134,11 +152,17 @@ Not *upgradeable*.
 
 ## upgrade
 
+Use as a verb to describe replacing an installed version of a product with a newer version of the same product. Use as a noun to describe the process of upgrading software.
 
+Don't use *upgrade* as a synonym for *update*.
 
 ## upload
 
+Use as a verb to describe the action of transferring files from a local device to a website, server, or to the cloud.
 
+Describe what the customer is transferring *and* where the customer is transferring it *to*. In grammatical terms, use both a subject (the thing to be uploaded) and an object (the thing the subject is uploaded to) with the verb *upload*.
+
+See also [download](), [load]().
 
 ## uppercase
 
@@ -219,10 +243,6 @@ Two words. Not *userbase*.
 ## username
 
 One word. Not *user name*.
-
-## using
-
-
 
 ## UTF
 
