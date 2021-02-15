@@ -1,5 +1,9 @@
 # D
 
+## delete
+
+See also [remove](), [cut, cut-paste]().
+
 ## download
 
 ## dimmed
