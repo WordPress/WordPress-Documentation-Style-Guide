@@ -4,3 +4,5 @@
 
 
 See also [delete](), [uninstall](), [load]().
+
+## restore
