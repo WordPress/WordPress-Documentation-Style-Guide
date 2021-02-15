@@ -11,7 +11,7 @@ Don't use *UI* to generically refer to UI elements. Instead, use the specific UI
 [warning] **Not recommended:** In the **Link** UI, enter your sitemap link. [/warning]  
 [tip] **Recommended:** In the **Link** box, enter your sitemap link.  [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations]().  
 For more information, see [UI elements]().
 
 ## UK
@@ -28,9 +28,13 @@ In general, don't hyphenate words beginning with *un-* such as *unable* and *und
 
 For more information about hyphenation, see [Hyphens]().
 
+## unarchive
+
+Don't use. Instead, use *extract*.
+
 ## unavailable
 
-Use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions. Also, use *unavailable* to describe unavailability of a product or service.
+Use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions. Also, use *unavailable* to describe the unavailability of a product or service.
 
 In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing their appearance. Also include how the user can enable it and interact with the element.
 
@@ -61,46 +65,6 @@ Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elem
 
 For more information, see [UI elements]().
 
-## undeploy
-
-Don't use. Instead, use *remove* or *withdraw*.
-
-## underline, underscore
-
-Use *underline* to describe text formatting that puts a line under the characters. Use *underscore* to refer to the underscore character ( _ ).
-
-## unhighlight
-
-Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
-
-For more information, see [UI elements]().
-
-## unmark
-
-Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
-
-For more information, see [UI elements]().
-
-See also [uncheck](#uncheck).
-
-## unselect
-
-Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
-
-For more information, see [UI elements]().
-
-See also [uncheck](#uncheck).
-
-## unset
-
-Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
-
-For more information, see [UI elements]().
-
-## unarchive
-
-Don't use. Instead, use *extract*.
-
 ## uncompress
 
 Don't use. Instead, use *extract*.
@@ -111,14 +75,22 @@ Don't use.
 
 See [restore]().
 
+**Examples**  
+
+[warning] **Not recommended:** Under the **Text** menu, select **Encoding**. [/warning]  
+[tip] **Recommended:** In the **Text** menu, select **Encoding**. [/tip]  
+
+## undeploy
+
+Don't use. Instead, use *remove* or *withdraw*.
+
 ## under
 
 Don't use to refer to item menus or other UI elements.
 
-**Examples**  
+## underline, underscore
 
-[warning] **Not recommended:** After an undo, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/warning]  
-[tip] **Recommended:** After undoing an action, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/tip]  
+Use *underline* to describe text formatting that puts a line under the characters. Use *underscore* to refer to the underscore character ( _ ).
 
 ## undo
 
@@ -130,6 +102,12 @@ Don't use *undo* as a noun.
 
 [warning] **Not recommended:** After an undo, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/warning]  
 [tip] **Recommended:** After undoing an action, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/tip]  
+
+## unhighlight
+
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
 
 ## uninstall
 
@@ -148,11 +126,33 @@ See also [delete](), [remove]().
 
 No spelled-out term. Use uppercase.
 
+## unmark
+
+Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
+
+See also [uncheck](#uncheck).
+
 ## unmount
 
 Use as a verb to describe the action of making a disk or disk image unavailable.
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *eject*.
+
+## unselect
+
+Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
+
+See also [uncheck](#uncheck).
+
+## unset
+
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
 
 ## untar
 
@@ -278,13 +278,13 @@ For more information, see [Grammatical person]().
 
 Two words. Not *userbase*.
 
-## username
-
-One word. Not *user name*.
-
 ## user interface
 
 See [UI](#ui).
+
+## username
+
+One word. Not *user name*.
 
 ## UTF
 
