@@ -75,11 +75,6 @@ Don't use.
 
 See [restore]().
 
-**Examples**  
-
-[warning] **Not recommended:** Under the **Text** menu, select **Encoding**. [/warning]  
-[tip] **Recommended:** In the **Text** menu, select **Encoding**. [/tip]  
-
 ## undeploy
 
 Don't use. Instead, use *remove* or *withdraw*.
@@ -87,6 +82,11 @@ Don't use. Instead, use *remove* or *withdraw*.
 ## under
 
 Don't use to refer to item menus or other UI elements.
+
+**Examples**  
+
+[warning] **Not recommended:** Under the **Text** menu, select **Encoding**. [/warning]  
+[tip] **Recommended:** In the **Text** menu, select **Encoding**. [/tip]  
 
 ## underline, underscore
 
