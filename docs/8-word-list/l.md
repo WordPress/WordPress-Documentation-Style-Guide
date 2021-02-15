@@ -4,6 +4,10 @@
 
 ## lowercase
 
+One word. Not *lower case*. Don't use *lowercase* as a verb. Don't use *lowercased*.
+
+When using both *uppercase* and *lowercase* together as a noun or to modify a noun, spell out both words. Don't use a suspended hyphen (as in *upper- and lowercase*).
+
 ## lower left, lower right
 
 Hyphenate as adjectives. Use instead of *bottom left* and *bottom right*.
