@@ -89,6 +89,12 @@ For more information, see [UI elements]().
 
 See also [uncheck](#uncheck).
 
+## unset
+
+Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+For more information, see [UI elements]().
+
 ## unarchive
 
 Don't use. Instead, use *extract*.
@@ -146,15 +152,29 @@ Don't use. Instead, use *extract*.
 
 Don't use. Instead, use *extract*.
 
+## update
+
+Use as a verb to describe replacing an installed version of a product with a newer, *minor* version of the same product. Use as a noun to describe the process of updating software.
+
+Not *up-date* or *up date*.
+
+Don't use *update* as a synonym for *upgrade*.
+
+See also [upgrade](#upgrade).
+
 ## upgradable
 
 Not *upgradeable*.
 
 ## upgrade
 
-Use as a verb to describe replacing an installed version of a product with a newer version of the same product. Use as a noun to describe the process of upgrading software.
+Use as a verb to describe replacing an installed version of a product with a newer, *major* version of the same product. Use as a noun to describe the process of upgrading software.
+
+Not *up-grade* or *up grade*.
 
 Don't use *upgrade* as a synonym for *update*.
+
+See also [update](#update).
 
 ## upload
 
@@ -167,6 +187,8 @@ See also [download](), [load]().
 ## uppercase
 
 One word. Not *upper case*. Don't use *uppercase* as a verb. Don't use *uppercased*.
+
+When using both *uppercase* and *lowercase* together as a noun or to modify a noun, spell out both words. Don't use a suspended hyphen (as in *upper- and lowercase*).
 
 ## upper left, upper right
 
@@ -186,7 +208,7 @@ Don't use. Instead, use *scale up*.
 
 ## uptime
 
-One word. Not *up time*.
+One word. Not *up time* or *up-time*.
 
 ## upward
 
@@ -223,6 +245,12 @@ Not *useable*.
 
 Initialism for Universal Serial Bus. Use uppercase.
 
+Don't spell out. Use only as an adjective.
+
+**Examples**  
+
+[tip] **Recommended:** USB drive [/tip]  
+
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## user
@@ -243,6 +271,10 @@ Two words. Not *userbase*.
 ## username
 
 One word. Not *user name*.
+
+## user interface
+
+See [UI](#UI).
 
 ## UTF
 
