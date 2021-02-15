@@ -27,7 +27,30 @@ In general, don't hyphenate words beginning with *un-* such as *unable* and *und
 For more information about hyphenation, see [Hyphens]().
 
 ## unavailable
+
+Use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions. Also, use *unavailable* to describe unavailability of a product or service.
+
+In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing their appearance. Also include how the user can enable it and interact with the element.
+
+**Examples**  
+
+[tip] **Recommended:** If the editor permissions are unavailable, contact your site administrator. [/tip]  
+[tip] **Recommended:** The **Update** button is unavailable unless you change the post contents. [/tip]  
+
+For additional information, see [UI elements](ui-elements.md).
+
+See also [dimmed](d.md), [disable, disabled](d.md).
+
 ## uncheck
+
+Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
+
+**Examples**  
+
+[warning] **Not recommended:** Uncheck the **Crop thumbnail** checkbox. [/warning]  
+[warning] **Not recommended:** Deselect the **Crop thumbnail** checkbox. [/warning]  
+[tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
+
 ## undeploy
 ## underline, underscore
 ## unhighlight
