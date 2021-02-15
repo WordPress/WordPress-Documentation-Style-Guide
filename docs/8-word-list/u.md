@@ -18,6 +18,8 @@ For more information, see [UI elements]().
 
 Initialism for United Kingdom. Use uppercase.
 
+Don't use as a synonym for *Great Britain (GB)* or *England*.
+
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## un-
@@ -107,6 +109,8 @@ Don't use. Instead, use *extract*.
 
 Don't use.
 
+See [restore]().
+
 ## under
 
 Don't use to refer to item menus or other UI elements.
@@ -144,6 +148,12 @@ See also [delete](), [remove]().
 
 No spelled-out term. Use uppercase.
 
+## unmount
+
+Use as a verb to describe the action of making a disk or disk image unavailable.
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *eject*.
+
 ## untar
 
 Don't use. Instead, use *extract*.
@@ -154,7 +164,7 @@ Don't use. Instead, use *extract*.
 
 ## update
 
-Use as a verb to describe replacing an installed version of a product with a newer, *minor* version of the same product. Use as a noun to describe the process of updating software.
+Use as a verb to describe installing a version of a product with a newer, *minor* version of the same product, but not upgrading it to then next *major* version. Use as a noun to describe the process of updating software.
 
 Not *up-date* or *up date*.
 
@@ -172,7 +182,7 @@ Use as a verb to describe replacing an installed version of a product with a new
 
 Not *up-grade* or *up grade*.
 
-Don't use *upgrade* as a synonym for *update*.
+Don't use *upgrade* as a synonym for *update*. Do not use to mean *migrate* or *port*.
 
 See also [update](#update).
 
@@ -274,7 +284,7 @@ One word. Not *user name*.
 
 ## user interface
 
-See [UI](#UI).
+See [UI](#ui).
 
 ## UTF
 
@@ -300,3 +310,5 @@ Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utili
 Initialism for User Experience. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
+
+See also [UI](#ui).
