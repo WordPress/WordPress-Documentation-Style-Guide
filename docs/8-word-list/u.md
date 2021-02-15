@@ -52,9 +52,21 @@ Don't use to refer to the action of clearing a check mark from a checkbox. Inste
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
 ## undeploy
+
+Don't use. Instead, use *remove* or *withdraw*.
+
 ## underline, underscore
+
+
+
 ## unhighlight
+
+
+
 ## unmark
+
+
+
 ## unselect
 
 Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
@@ -72,8 +84,38 @@ Don't use. Instead, use *extract*.
 Don't use.
 
 ## under
+
+Don't use to refer to item menus or other UI elements.
+
+**Examples**  
+
+[warning] **Not recommended:** After an undo, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/warning]  
+[tip] **Recommended:** After undoing an action, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/tip]  
+
 ## undo
+
+Use as a verb to describe undoing any particular action.
+
+Don't use *undo* as a noun.
+
+**Examples**  
+
+[warning] **Not recommended:** After an undo, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/warning]  
+[tip] **Recommended:** After undoing an action, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/tip]  
+
 ## uninstall
+
+Use as a verb to describe the action of removing programs, apps, other software, and hardware from a device.
+
+Don't use *uninstall* as a noun.
+
+**Examples**  
+
+[warning] **Not recommended:** After the uninstall of the program, restart your computer. [/warning]  
+[tip] **Recommended:** After uninstalling the program, restart your computer. [/tip]  
+
+See also [delete](), [remove]().
+
 ## UNIX
 
 No spelled-out term. Use uppercase.
@@ -92,9 +134,32 @@ Not *upgradeable*.
 
 ## upgrade
 
+
+
 ## upload
+
+
+
 ## uppercase
+
+One word. Not *upper case*. Don't use *uppercase* as a verb. Don't use *uppercased*.
+
 ## upper left, upper right
+
+Hyphenate as adjectives. Use instead of *top left* and *top right*.
+
+**Example**  
+
+[tip] **Recommended:** The upper-left corner [/tip]  
+
+In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+
+For more information, see [Procedures and instructions]().
+
+## upsize
+
+Don't use. Instead, use *scale up*.
+
 ## uptime
 
 One word. Not *up time*.
@@ -120,7 +185,9 @@ For more information about styling and formatting URLs, see the [Linking section
 
 ## US
 
-Initialism for United States. Use uppercase.
+Initialism for United States. OK to use as an abbreviation for *United States*. Use uppercase.
+
+Not *U.S., U.S.A.*, or *USA*.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
