@@ -264,7 +264,7 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## write
 
-OK to use in developer documentation. Avoid using in user documentation; instead use *copy*.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *copy*.
 
 ### WWW
 

@@ -38,13 +38,13 @@ Use *video driver* instead of *display driver* or *graphics driver*.
 
 ## virtual
 
-OK to use in developer documentation. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
 
 Use only to refer to a device or service that doesn't physically exist or appears to be something it's not. For example, a *virtual machine (VM)* isn't an actual machine; it's a machine that emulates a real computer.
 
 ## virtualize
 
-OK to use in developer documentation. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
 
 ## virtual machine, VM
 
@@ -60,7 +60,7 @@ For more information, see [Interaction verbs](//ui-elements.md).
 
 ## volume (disk)
 
-OK to use in developer documentation. Avoid using in user documentation; instead use *disk* in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *disk* in user documentation.
 
 To refer to storage that may include different types of disks, just use *disk*. You can also refer to a specific type of disk such as *solid-state drive, hard-disk,* or *flash storage*.
 
