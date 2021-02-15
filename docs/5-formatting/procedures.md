@@ -149,7 +149,7 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
   [tip] **Recommended:** Navigate to the menu bar and click on the **Encoding** tab. [/tip]  
 
 - When there is more than one way to achieve a particular task, give the best way to do so. Multiple alternative procedures can confuse readers.
-- In general, avoid using directional language such as *above, top, below, left-hand side, lower-right side* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
+- In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. Directional language proves to be difficult for accessibility or for localization. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.  
   **Examples**  
 
   [warning] **Not recommended:** On the upper-right part of the page, click the button with the checkmark. [/warning]  
