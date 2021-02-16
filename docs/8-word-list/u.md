@@ -54,7 +54,6 @@ Don't use to refer to the action of clearing a check mark from a checkbox. Inste
 **Examples**  
 
 [warning] **Not recommended:** Uncheck the **Crop thumbnail** checkbox. [/warning]  
-[warning] **Not recommended:** Deselect the **Crop thumbnail** checkbox. [/warning]  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
 For more information, see [UI elements]().
