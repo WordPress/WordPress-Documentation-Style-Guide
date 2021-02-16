@@ -4,7 +4,6 @@
 ## tablet
 ## tap, double tap
 ## tap and hold
-## taskbar
 ## tarball
 
 Don't use. Instead, use [tar file](#tar-file).
@@ -18,6 +17,7 @@ Don't use a filename extension to refer to a type of file. For example, use *tar
 For more information, see [Referring to file types](//filenames.md).
 
 ## target
+## taskbar
 ## TCP/IP
 ## terabyte, TB
 ## terminal
@@ -50,10 +50,24 @@ See [3D](numbers.md).
 Don't use. Instead, use *through*.
 
 ## timeframe
-## timeout
+## timeout, time out
+
+Don't hyphenate and insert a space as an adjective or a noun. Don't hyphenate as a verb phrase such as *the connection timed out*.
+
 ## timestamp
+
+One word. Not *time stamp*.
+
 ## time to live
-## time zone
+
+Not *time-to-live*.
+
+## time zone, time-zone
+
+Two words. Not *timezone*.
+
+Don't hyphenate and insert a space as a noun. Hyphenate as a verb phrase such as *the connection timed out*.
+
 ## tl;dr
 ## toggle
 ## tool
@@ -82,5 +96,6 @@ One word. Not *track pad*.
 ## two-dimensional
 
 See [2D](numbers.md).
+
 ## type
 ## typically
