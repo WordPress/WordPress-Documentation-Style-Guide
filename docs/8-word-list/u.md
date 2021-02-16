@@ -125,6 +125,10 @@ See also [delete](), [remove]().
 
 No spelled-out term. Use uppercase.
 
+## UNIX epoch time
+
+Use rather than *Unix time* or *epoch time* to refer to a point in time represented as a number of seconds since the Unix epoch (00:00:00 UTC on January 1, 1970), ignoring leap seconds.
+
 ## unmark
 
 Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
