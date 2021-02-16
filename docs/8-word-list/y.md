@@ -20,7 +20,7 @@ Don't use italic formatting for the *y* in *y-coordinate* unless the entire word
 
 ## YAML
 
-Recursive acronym for *YAML Ain't Markup Language*.
+Recursive acronym for *YAML Ain't Markup Language*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *YAML file* rather than *.yaml file*.
 

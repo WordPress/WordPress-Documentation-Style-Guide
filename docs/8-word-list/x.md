@@ -28,7 +28,7 @@ Don't use italic formatting for the *x* in *x-coordinate* unless the entire word
 
 ## XML
 
-Initialism for Extensible Markup Language.
+Initialism for Extensible Markup Language. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *XML file* rather than *.xml file*.
 

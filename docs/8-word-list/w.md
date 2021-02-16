@@ -2,7 +2,7 @@
 
 ## WAV
 
-Acronym for *Waveform Audio File Format*.
+Acronym for *Waveform Audio File Format*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *WAV file* rather than *.wav file*.
 
