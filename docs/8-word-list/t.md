@@ -8,6 +8,7 @@
 ## tarball
 ## tar file
 ## target
+## TCP/IP
 ## terabyte, TB
 ## terminate
 ## text box
@@ -24,12 +25,16 @@ See also [which](//w.md).
 ## their
 ## they
 ## this, that
+## thousand, K
 ## timeframe
 ## timeout
 ## timestamp
 ## time to live
 ## time zone
 ## tl;dr
+## toggle
+## tool
+## toolkit
 ## top left, top right
 ## touch
 ## touch and hold
