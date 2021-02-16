@@ -11,8 +11,6 @@
 ## terabyte, TB
 ## terminate
 ## text box
-##
-
 ## that
 
 Use to introduce a restrictive or defining clause; clauses beginning with *that* are generally not set off with commas.
@@ -25,5 +23,21 @@ See also [which](//w.md).
 
 ## their
 ## they
-## this
-## 
+## this, that
+## timeframe
+## timeout
+## timestamp
+## time to live
+## time zone
+## tl;dr
+## top left, top right
+## touch
+## touch and hold
+## touchscreen
+## toward
+## traditional
+## trojan
+## turn on, turn off
+## tutorial
+## type
+## typically
