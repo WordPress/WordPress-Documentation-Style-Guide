@@ -293,6 +293,10 @@ Include the hyphen in the names of Unicode encodings, such as *UTF-8, UTF-16*, a
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
+## utility
+
+Don't use.
+
 ## utilize, utilization
 
 Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utilize* or *utilization* when referring to the quantity of a resource being used.
