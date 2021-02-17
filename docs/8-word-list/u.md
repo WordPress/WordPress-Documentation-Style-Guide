@@ -2,7 +2,7 @@
 
 ## UI
 
-Initialism for User Interface. Use uppercase.
+Initialism for *User Interface*. Use uppercase.
 
 Don't use *UI* to generically refer to UI elements. Instead, use the specific UI element term.
 
@@ -16,7 +16,7 @@ For more information, see [UI elements]().
 
 ## UK
 
-Initialism for United Kingdom. Use uppercase.
+Initialism for *United Kingdom*. Use uppercase.
 
 Don't use as a synonym for *Great Britain (GB)* or *England*.
 
@@ -127,7 +127,7 @@ No spelled-out term. Use uppercase.
 
 ## UNIX epoch time
 
-Use rather than *Unix time* or *epoch time* to refer to a point in time represented as a number of seconds since the Unix epoch (00:00:00 UTC on January 1, 1970), ignoring leap seconds.
+Use rather than *UNIX time* or *epoch time* to refer to a point in time represented as a number of seconds since the UNIX epoch (00:00:00 UTC on January 1, 1970), ignoring leap seconds.
 
 ## unmark
 
@@ -229,13 +229,13 @@ Not *upwards*.
 
 ## URI
 
-Initialism for Uniform Resource Identifier. Use uppercase.
+Initialism for *Uniform Resource Identifier*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## URL
 
-Initialism for Uniform Resource Locator. Use uppercase. Plural is *URLs*.
+Initialism for *Uniform Resource Locator*. Use uppercase. Plural is *URLs*.
 
 Write *a URL* instead of *an URL*, as the most common pronunciation starts with a consonant sound. For more information, see [Articles](articles.md).
 
@@ -244,7 +244,7 @@ For more information about styling and formatting URLs, see the [Linking section
 
 ## US
 
-Initialism for United States. OK to use as an abbreviation for *United States*. Use uppercase.
+Initialism for *United States*. OK to use as an abbreviation for *United States*. Use uppercase.
 
 Not *U.S., U.S.A.*, or *USA*.
 
@@ -256,7 +256,7 @@ Not *useable*.
 
 ## USB
 
-Initialism for Universal Serial Bus. Use uppercase.
+Initialism for *Universal Serial Bus*. Use uppercase.
 
 Don't spell out. Use only as an adjective.
 
@@ -291,7 +291,7 @@ One word. Not *user name*.
 
 ## UTF
 
-Initialism for Unicode Transformation Format. Use uppercase.
+Initialism for *Unicode Transformation Format*. Use uppercase.
 
 Include the hyphen in the names of Unicode encodings, such as *UTF-8, UTF-16*, and *UTF-32*.
 
@@ -314,7 +314,7 @@ Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utili
 
 ## UX
 
-Initialism for User Experience. Use uppercase.
+Initialism for *User Experience*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 

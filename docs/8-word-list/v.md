@@ -68,12 +68,12 @@ See also [disk]().
 
 ## VPN
 
-Initialism for Virtual Private Network. Use uppercase.
+Initialism for *Virtual Private Network*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## VVV
 
-Initialism for Varying Vagrant Vagrants. Use uppercase.
+Initialism for *Varying Vagrant Vagrants*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
