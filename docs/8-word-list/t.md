@@ -74,6 +74,9 @@ See [3D](numbers.md).
 Don't use. Instead, use *through*.
 
 ## timeframe
+
+Avoid using. Not *time frame*. Instead, use *period, schedule, deadline*, or *when*.
+
 ## timeout, time out
 
 Don't hyphenate and insert a space as an adjective or a noun. Don't hyphenate as a verb phrase such as *the connection timed out*.
@@ -102,6 +105,11 @@ Don't use. Instead, use something like *To summarize*, or rewrite and rephrase t
 ## toolkit
 ## top left, top right
 ## touch
+
+Don't use. Instead, use *tap*. However, *touch and hold* is OK to use.
+
+See [tap](#tap), [touch and hold](#touch-and-hold).
+
 ## touch and hold
 
 When the environment is presumably a touch device, use *touch and hold* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping and holding it stationary until a result occurs. Don't use *touch and hold on*.
@@ -127,6 +135,9 @@ One word. Not *track pad*.
 ## traditional
 ## trojan
 ## troubleshoot
+
+One word. Not *trouble shoot* or *trouble-shoot*.
+
 ## turn on, turn off
 ## tutorial
 
@@ -147,3 +158,5 @@ For more information, see [Interaction verbs](ui-elements.md).
 See also [enter]().
 
 ## typically
+
+Use to describe something that is standard or expected under normal circumstances. Avoid using as the first word of a sentence, as the meaning of the content can be misunderstood.
