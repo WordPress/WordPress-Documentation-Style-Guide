@@ -1,8 +1,23 @@
 # T
 
 ## tab
+
+Don't use as a verb.
+
+As a noun, use to refer to tabs that show a separate view or subpages on a webpage, dialog box, browser, or menu. For other uses of the term, clarify the meaning with a descriptor, such as *the Tab key, a tab character, a tab stop*, or *a tab mark on the ruler*.
+
+For more information, see [UI elements]().
+
 ## tablet
-## tap, double tap
+
+OK to use. If you are unable to distinguish between a *tablet* and a *laptop* or *phone*, use *device*.
+
+## tap, double-tap
+
+Use *tap* to describe selecting, opening, or enabling targets such as buttons, menus, lists, or other elements with a finger or pen by tapping it once. Don't use *tap on*.
+
+Use *double-tap* to describe selecting, opening, or enabling targets such as buttons, menus, lists, or other elements with a finger or pen by tapping it twice in quick succession. Hyphenate *double-tap*. Don’t use *double-tap* on.
+
 ## tap and hold
 ## tarball
 
@@ -66,7 +81,7 @@ Not *time-to-live*.
 
 Two words. Not *timezone*.
 
-Don't hyphenate and insert a space as a noun. Hyphenate as a verb phrase such as *the connection timed out*.
+Don't hyphenate and insert a space as a noun. Hyphenate as an adjective.
 
 ## tl;dr
 ## toggle
