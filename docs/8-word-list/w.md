@@ -10,13 +10,13 @@ For more information, see [Referring to file types](//filenames.md).
 
 ## W3C
 
-Initialism for World Wide Web Consortium. Use uppercase.
+Initialism for *World Wide Web Consortium*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## WAN
 
-Acronym for *wide area network*. Use uppercase.
+Acronym for *Wide Area Network*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
@@ -35,7 +35,7 @@ One word. Not *walk through* or *walk-through*.
 
 ## WCAG
 
-Initialism for Web Content Accessibility Guidelines. Use uppercase.
+Initialism for *Web Content Accessibility Guidelines*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
@@ -258,7 +258,7 @@ Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
 ## WP-CLI
 
-Initialism for WordPress command-line interface. Use uppercase and hyphenate.
+Initialism for *WordPress command-line interface*. Use uppercase and hyphenate.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
