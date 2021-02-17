@@ -179,11 +179,10 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | UI elements |   ✔️ (⚠️ while publishing)   |
 | XML         |   ❌   |
 
-### Word usage dictionary/Glossary 🔄
+### Word list and usage dictionary 🔄
 
 | Component | Status |
 |-----------|--------|
-| A-Z Word list |   🔄   |
 | Numbers | ✔️ (⚠️ while publishing)   |
 | Symbols | ✔️ (⚠️ while publishing)   |
 | A |   🔄   |
