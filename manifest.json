@@ -492,5 +492,11 @@
 		"parent": "word-list",
 		"slug": "b",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/b.md"
-	}
+	},
+	"word-list/c": {
+		"title": "C",
+		"parent": "word-list",
+		"slug": "c",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/c.md"
+	},
 }
