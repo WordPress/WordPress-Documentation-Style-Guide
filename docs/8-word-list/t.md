@@ -44,7 +44,7 @@ For more information, see [Referring to file types](filenames.md).
 
 Don't use, especially in reference to people. Instead, use *intended for, looking for, focused on*, and *interacting with*. Instead of using *target file*, refer to the specific file or folder, or use *destination file* or *destination folder*.
 
-**Example**  
+**Examples**  
 
 [warning] **Not recommended:** Move the folder contents to the target folder. [/warning]  
 [tip] **Recommended:** Move the folder contents to the `wp-contents` folder. [/tip]  
@@ -126,9 +126,23 @@ Don't use. Instead, use something like *To summarize*, or rewrite and rephrase t
 
 ## toggle
 ## tool
+
+Use *tool*, not *utility*, to describe a function or feature that helps users complete tasks.
+
 ## toolbar
+
+One word. Not *tool bar* or *tool-bar*.
+
 ## toolkit
+
+One word. Not *tool kit* or *tool-kit*.
+
 ## top left, top right
+
+Don't use.
+
+See [upper left, upper right](u.md).
+
 ## touch
 
 Don't use. Instead, use *tap*. However, *touch and hold* is OK to use.
@@ -158,6 +172,20 @@ Not *towards*.
 One word. Not *track pad*.
 
 ## traditional
+
+Avoid using; instead, use a detailed and accurate term whenever possible.
+
+**Examples**  
+
+[warning] **Not recommended:** Traditionally, pages also do not make use of categories and tags like posts do. [/warning]  
+[tip] **Recommended:** Conventionally, pages also do not make use of categories and tags like posts do. [/tip]  
+
+[warning] **Not recommended:** If you want to use the theme for a traditional blog, the centered content column and considered typography makes it perfect for that as well. [/warning]  
+[tip] **Recommended:** If you want to use the theme for a straightforward blog, the centered content column and considered typography makes it perfect for that as well. [/tip]  
+
+[warning] **Not recommended:** Unlike a traditional system cron that schedules tasks for specific times, WP-Cron uses intervals to simulate a system cron. [/warning]  
+[tip] **Recommended:** Unlike a system cron that schedules tasks for specific times (e.g. “every hour at 5 minutes past the hour”), WP-Cron uses intervals to simulate a system cron. [/tip]  
+
 ## trojan
 ## troubleshoot
 
