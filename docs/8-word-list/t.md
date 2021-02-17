@@ -26,7 +26,7 @@ See also [touch and hold](#touch-and-hold).
 
 Don't use. *Tap* describes touching and releasing quickly Instead, use [touch and hold](#touch-and-hold).
 
-See also [tap, double-tap](#tap), [touch and hold](#touch-and-hold).
+See also [tap, double-tap](#tap-double-tap), [touch and hold](#touch-and-hold).
 
 ## tarball
 
@@ -41,6 +41,14 @@ Don't use a filename extension to refer to a type of file. For example, use *tar
 For more information, see [Referring to file types](filenames.md).
 
 ## target
+
+Don't use, especially in reference to people. Instead, use *intended for, looking for, focused on*, and *interacting with*. Instead of using *target file*, refer to the specific file or folder, or use *destination file* or *destination folder*.
+
+**Example**  
+
+[warning] **Not recommended:** Move the folder contents to the target folder. [/warning]  
+[tip] **Recommended:** Move the folder contents to the `wp-contents` folder. [/tip]  
+
 ## taskbar
 ## TCP/IP
 ## terabyte, TB
@@ -48,6 +56,11 @@ For more information, see [Referring to file types](filenames.md).
 ## terminate
 ## text box
 ## text file
+
+Don't use a filename extension to refer to a type of file. For example, use *text file* rather than *.txt file*.
+
+For more information, see [Referring to file types](filenames.md).
+
 ## that
 
 Use to introduce a restrictive or defining clause; clauses beginning with *that* are generally not set off with commas.
@@ -55,6 +68,8 @@ Use to introduce a restrictive or defining clause; clauses beginning with *that*
 **Example**  
 
 [tip] **Recommended:** Gutenberg is the latest block editor that is widely used. [/tip]  
+
+Insert a noun after *that* for clarity, whenever possible. It is acceptable to omit the noun in UI, tables, or headings where space is limited. If you aren't sure what noun *that* refers to, then consider rephrasing.
 
 See also [which](w.md).
 
@@ -64,7 +79,15 @@ See also [which](w.md).
 Hyphenate as adjectives.
 
 ## this, that
+
+Insert a noun after *this* for clarity, whenever possible. It is acceptable to omit the noun in UI, tables, or headings where space is limited. If you aren't sure what noun *this* refers to, then consider rephrasing.
+
 ## thousand, K
+
+Don't abbreviate *thousand* as *K* or *k*. Spell out the word or denote the entire number.
+
+For more information, see [Abbreviations](numbers.md).
+
 ## three-dimensional
 
 See [3D](numbers.md).
@@ -85,9 +108,11 @@ Don't hyphenate and insert a space as an adjective or a noun. Don't hyphenate as
 
 One word. Not *time stamp*.
 
-## time to live
+## time to live, TTL
 
-Not *time-to-live*.
+Not *time-to-live*. Abbreviate as *TTL* after first use.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## time zone, time-zone
 
@@ -108,7 +133,7 @@ Don't use. Instead, use something like *To summarize*, or rewrite and rephrase t
 
 Don't use. Instead, use *tap*. However, *touch and hold* is OK to use.
 
-See [tap](#tap), [touch and hold](#touch-and-hold).
+See [tap](#tap-double-tap), [touch and hold](#touch-and-hold).
 
 ## touch and hold
 
@@ -118,7 +143,7 @@ Don’t use *tap and hold*.
 
 For more information, see [Interaction verbs](ui-elements.md).
 
-See also [tap, double-tap](#tap).
+See also [tap, double-tap](#tap-double-tap).
 
 ## touchscreen
 
@@ -155,7 +180,7 @@ OK to use.
 
 For more information, see [Interaction verbs](ui-elements.md).
 
-See also [enter]().
+See also [enter](e.md).
 
 ## typically
 
