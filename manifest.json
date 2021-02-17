@@ -480,5 +480,11 @@
 		"parent": "word-list",
 		"slug": "symbols",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/symbols.md"
+	},
+	"word-list/a": {
+		"title": "A",
+		"parent": "word-list",
+		"slug": "a",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/a.md"
 	}
 }
