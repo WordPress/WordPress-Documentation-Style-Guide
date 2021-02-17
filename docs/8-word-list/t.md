@@ -14,11 +14,20 @@ OK to use. If you are unable to distinguish between a *tablet* and a *laptop* or
 
 ## tap, double-tap
 
-Use *tap* to describe selecting, opening, or enabling targets such as buttons, menus, lists, or other elements with a finger or pen by tapping it once. Don't use *tap on*.
+Use *tap* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping it once. Don't use *tap on*.
 
-Use *double-tap* to describe selecting, opening, or enabling targets such as buttons, menus, lists, or other elements with a finger or pen by tapping it twice in quick succession. Hyphenate *double-tap*. Don’t use *double-tap* on.
+Use *double-tap* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping it twice in quick succession. Hyphenate *double-tap*. Don’t use *double-tap* on.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+See also [touch and hold](#touch-and-hold).
 
 ## tap and hold
+
+Don't use. *Tap* describes touching and releasing quickly Instead, use [touch and hold](#touch-and-hold).
+
+See also [tap, double-tap](#tap), [touch and hold](#touch-and-hold).
+
 ## tarball
 
 Don't use. Instead, use [tar file](#tar-file).
@@ -29,7 +38,7 @@ Acronym for *Tape Archive* file.
 
 Don't use a filename extension to refer to a type of file. For example, use *tar file* rather than *.tar file*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](filenames.md).
 
 ## target
 ## taskbar
@@ -47,7 +56,7 @@ Use to introduce a restrictive or defining clause; clauses beginning with *that*
 
 [tip] **Recommended:** Gutenberg is the latest block editor that is widely used. [/tip]  
 
-See also [which](//w.md).
+See also [which](w.md).
 
 ## they, their, them
 ## third party
@@ -84,6 +93,9 @@ Two words. Not *timezone*.
 Don't hyphenate and insert a space as a noun. Hyphenate as an adjective.
 
 ## tl;dr
+
+Don't use. Instead, use something like *To summarize*, or rewrite and rephrase the sentence.
+
 ## toggle
 ## tool
 ## toolbar
@@ -91,6 +103,15 @@ Don't hyphenate and insert a space as a noun. Hyphenate as an adjective.
 ## top left, top right
 ## touch
 ## touch and hold
+
+When the environment is presumably a touch device, use *touch and hold* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping and holding it stationary until a result occurs. Don't use *touch and hold on*.
+
+Don’t use *tap and hold*.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+See also [tap, double-tap](#tap).
+
 ## touchscreen
 
 One word. Not *touch screen*.
@@ -108,9 +129,21 @@ One word. Not *track pad*.
 ## troubleshoot
 ## turn on, turn off
 ## tutorial
+
+OK to use.
+
+For more information, see [Procedures]().
+
 ## two-dimensional
 
 See [2D](numbers.md).
 
 ## type
+
+OK to use.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+See also [enter]().
+
 ## typically
