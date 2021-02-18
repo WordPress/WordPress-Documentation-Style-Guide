@@ -28,6 +28,15 @@ First try to rewrite the sentence—for example, by using the plural form, omitt
 [tip] **Recommended (Replacing pronoun with article):** Contact the administrator using an email address. [/tip]
 [tip] **Recommended (Repeating the noun):** Contact the administrator using the administrator's email address. [/tip]
 
+If revising a sentence isn’t feasible, use *they, their,* or *them* as a singular, gender-neutral pronoun.
+
+[warning] **Not recommended:** Once a visitor submits his or her comment, WordPress follows your preferences and either holds the comment for your approval or posts it immediately. [/warning]
+[tip] **Recommended:** Once a visitor submits their comment, WordPress follows your preferences and either holds the comment for your approval, or posts it immediately. [/tip]
+
+Whether used as singular or plural, *they* always takes the plural verb.
+
+[tip] **Recommended:** When visitors comment on your blog, they too get cookies stored on their computer. [/tip]
+
 For more guidelines about writing using gender-neutral pronouns, refer [Inclusivity - Writing about genders](inclusivity), [they, them, their](word list t.md).
 
 ## Relative pronouns
