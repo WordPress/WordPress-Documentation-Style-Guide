@@ -195,7 +195,7 @@ See [upper left, upper right](u.md).
 
 Don't use. Instead, use *tap*. However, *touch and hold* is OK to use.
 
-See [tap](#tap-double-tap), [touch and hold](#touch-and-hold).
+See [tap, double-tap](#tap-double-tap), [touch and hold](#touch-and-hold).
 
 ## touch and hold
 
@@ -209,15 +209,19 @@ See also [tap, double-tap](#tap-double-tap).
 
 ## touchscreen
 
-One word. Not *touch screen*.
+One word. Not *touch screen* or *touch-screen*.
 
 ## toward
 
 Not *towards*.
 
+## trackball
+
+One word. Not *track ball* or *track-ball*.
+
 ## trackpad
 
-One word. Not *track pad*.
+One word. Not *track pad* or *track-pad*.
 
 ## traditional
 
@@ -250,7 +254,7 @@ OK to use when referring to the action of turning a switch or toggle key on or o
 
 For more information, see [Switch, turn on, turn off, enable](ui-elements.md).
 
-See also [enable, enabled](), [disable]().
+See also [enable, enabled](), [disable, disabled]().
 
 ## tutorial
 
