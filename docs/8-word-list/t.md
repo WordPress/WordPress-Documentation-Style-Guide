@@ -137,13 +137,17 @@ Don't use. Instead, use *through*.
 
 Avoid using. Not *time frame*. Instead, use *period, schedule, deadline*, or *when*.
 
+## timeline
+
+One word. Not *time line* or *time-line*.
+
 ## timeout, time out
 
 Don't hyphenate and insert a space as an adjective or a noun. Don't hyphenate as a verb phrase such as *the connection timed out*.
 
 ## timestamp
 
-One word. Not *time stamp*.
+One word. Not *time stamp* or *time-stamp*.
 
 ## time to live, TTL
 
