@@ -50,16 +50,30 @@ Don't use, especially in reference to people. Instead, use *intended for, lookin
 [tip] **Recommended:** Move the files to the `wp-contents` folder. [/tip]  
 
 ## taskbar
+
+
+## TB, terabyte
+
+Initialism for *Terabyte*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## TCP/IP
 
 Initialism for *Transmission Control Protocol/Internet Protocol*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
-## terabyte, TB
-## terminal
 ## terminate
+
+OK to use in developer documentation and for a technical audience. Don't use as a synonym for *close* or *exit*.
+
 ## text box
+
+Don't use. Instead, refer to the box by its UI label or use *box*.
+
+For more information, see [Text box](ui-elements.md).
+
 ## text file
 
 Don't use a filename extension to refer to a type of file. For example, use *text file* rather than *.txt file*.
@@ -79,6 +93,11 @@ Insert a noun after *that* for clarity, whenever possible. It is acceptable to o
 See also [which](w.md).
 
 ## they, their, them
+
+Use *they, their, them* as gender-neutral pronouns when referring to people of unspecified gender. Don't use *he, him, she, her,* or renditions like *s/he, he/she,* or *(s)he* for people of unspecified gender.
+
+For more information, see [Pronouns and gender](pronouns.md), [Inclusivity- Writing about genders](inclusivity.md).
+
 ## third party
 
 Hyphenate as adjectives.
@@ -199,11 +218,23 @@ Avoid using; instead, use a detailed and accurate term whenever possible.
 [tip] **Recommended:** Unlike a system cron that schedules tasks for specific times (e.g. “every hour at 5 minutes past the hour”), WP-Cron uses intervals to simulate a system cron. [/tip]  
 
 ## trojan
+
+OK to use.
+
 ## troubleshoot
 
 One word. Not *trouble shoot* or *trouble-shoot*.
 
 ## turn on, turn off
+
+Use to describe turning a device on or off. Don't use *power on/power off* or *start/stop*.
+
+OK to use when referring to the action of turning a switch or toggle key on or off.
+
+For more information, see [Switch, turn on, turn off, enable](ui-elements.md).
+
+See also [enable, enabled](), [disable]().
+
 ## tutorial
 
 OK to use.
