@@ -51,10 +51,23 @@ Don't use, especially in reference to people. Instead, use *intended for, lookin
 
 ## taskbar
 
+One word. Not *task bar* or *task-bar*.
 
 ## TB, terabyte
 
-Initialism for *Terabyte*. Use uppercase.
+Initialism for *terabyte*. Use uppercase.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** 2 TB of storage [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 2 TB SSD [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
