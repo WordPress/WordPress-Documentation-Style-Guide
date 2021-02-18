@@ -1,5 +1,10 @@
 # E
 
+## enable, enabled
+
+
+See also [disable](), [turn on, turn off]().
+
 ## enter
 
 
