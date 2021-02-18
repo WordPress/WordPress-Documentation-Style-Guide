@@ -199,7 +199,7 @@ See also [download](), [load]().
 
 ## uppercase
 
-One word. Not *upper case*. Don't use *uppercase* as a verb. Don't use *uppercased*.
+One word. Not *upper case* or *upper-case*. Don't use *uppercase* as a verb. Don't use *uppercased*.
 
 When using both *uppercase* and *lowercase* together as a noun or to modify a noun, spell out both words. Don't use a suspended hyphen (as in *upper- and lowercase*).
 
@@ -287,7 +287,7 @@ See [UI](#ui).
 
 ## username
 
-One word. Not *user name*.
+One word. Not *user name* or *user-name*.
 
 ## UTF
 

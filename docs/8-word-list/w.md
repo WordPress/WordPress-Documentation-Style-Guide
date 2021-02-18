@@ -65,7 +65,7 @@ Two words. Not *webbrowser*.
 
 ## webmail
 
-One word. Not *web mail*.
+One word. Not *web mail* or *web-mail*.
 
 ## webmaster
 
@@ -75,15 +75,15 @@ For more information, see [Replacing established terms](//inclusivity.md).
 
 ## webpage
 
-One word. Not *web page*.
+One word. Not *web page* or *web-page*.
 
 ## web server
 
-Two words. Not *webserver*.
+Two words. Not *webserver* or *web-server*.
 
 ## website
 
-One word. Not *web site*.
+One word. Not *web site* or *web-site*.
 
 For more information about which action verbs to use for *website*, see [Interaction verbs](//ui-elements.md).
 
@@ -150,7 +150,7 @@ Whenever possible, instead of using *Wi-Fi*, use a general term such as *wireles
 
 ## wildcard
 
-One word. Not *wild card*. Do not use as a verb.
+One word. Not *wild card* or *wild-card*. Do not use as a verb.
 
 ## will
 
@@ -172,7 +172,7 @@ OK to use. Use *Windows* as a modifier for aspects or elements of the Windows op
 
 ## wireframe
 
-One word. Not *wire frame*.
+One word. Not *wire frame* or *wire-frame*.
 
 ## wish
 
@@ -216,27 +216,27 @@ Don't use.
 
 ## workflow
 
-One word. Not *work flow*.
+One word. Not *work flow* or *work-flow*.
 
 ## workgroup
 
-One word. Not *work group*.
+One word. Not *work group* or *work-group*.
 
 ## workload
 
-One word. Not *work load*.
+One word. Not *work load* or *work-load*.
 
 ## workplace
 
-One word. Not *work place*.
+One word. Not *work place* or *work-place*.
 
 ## workspace
 
-One word. Not *work space*.
+One word. Not *work space* or *work-space*.
 
 ## workstation
 
-One word. Not *work station*.
+One word. Not *work station* or *work-station*.
 
 ## worldwide
 
