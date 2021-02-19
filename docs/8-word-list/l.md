@@ -1,5 +1,9 @@
 # L
 
+## left align, left-aligned
+
+See also [justify, justified](), [right align, right-aligned]().
+
 ## load
 
 ## lowercase
