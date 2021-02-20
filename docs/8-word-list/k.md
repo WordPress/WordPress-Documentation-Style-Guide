@@ -1,11 +1,11 @@
 # K
 
-## KB, kilobyte
+## kB, KB, kilobyte
 
-Initialism for *kilobyte*. Use uppercase.
+Initialism for *kilobyte*.
 
 In the decimal system, *kilobyte* is abbreviated as *kB*, where one *kB* equals 1000 bytes in the context of file size or storage capacity.
-In the binary system of *kilobyte* is abbreviated as *KB*, where one *KB* equals 1024 bytes in the context of computer memory.
+In the binary system, *kilobyte* is abbreviated as *KB*, where one *KB* equals 1024 bytes in the context of computer memory.
 
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
@@ -21,15 +21,20 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
-## KBps, kBps, kilobytes per second
+## kBps (kB/s), KBps (KB/s), kilobytes per second
 
 Abbreviation for *kilobytes per second*.
 
-For more information, see [Unites of measurement]().
+For more information, see [Units of measurement]().
 
-## Kbit, kilobit
+See also [kB, KB, kilobyte](#kB-kb-kilobyte).
 
-Initialism for *kilobit*. Use uppercase.
+## kbit, Kbit, kilobit
+
+Initialism for *kilobit*.
+
+In the decimal system, *kilobit* is abbreviated as *kbit*, where one *kbit* equals 1000 bytes in the context of file size or storage capacity.
+In the binary system, *kilobit* is abbreviated as *Kbit*, where one *Kbit* equals 1024 bytes in the context of computer memory.
 
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
@@ -45,17 +50,19 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
-## KBps, Kbps, kilobits per second
+## kbps (kbit/s), Kbps (Kbit/s), kilobits per second
 
 Abbreviation for *kilobits per second*.
 
-For more information, see [Unites of measurement]().
+For more information, see [Units of measurement]().
+
+See also [kbit, Kbit, kilobit](#kbit-kbit-kilobit).
 
 ## key
 
 Don't use as a verb. Use *type* or *press*. In the adjective form, don't use as a synonym for *crucial* or *important*.
 
-
+When using *key* as a noun, specify which kind of key you're referring to on first mention, because there are many kinds of keys in technical contexts.
 
 For more information, see [Interaction verbs](ui-elements.md).
 For more information, see [Pressing and typing keyboard keys](ui-elements.md).
