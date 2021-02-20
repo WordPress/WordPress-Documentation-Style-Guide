@@ -1,11 +1,11 @@
 # K
 
-## kbit, kilobit
-## kbit/s, Kbps, kilobits per second
-
 ## KB, kilobyte
 
 Initialism for *kilobyte*. Use uppercase.
+
+In the decimal system, *kilobyte* is abbreviated as *kB*, where one *kB* equals 1000 bytes in the context of file size or storage capacity.
+In the binary system of *kilobyte* is abbreviated as *KB*, where one *KB* equals 1024 bytes in the context of computer memory.
 
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
@@ -21,7 +21,35 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
-## KB/s, KBps, kBps kilobytes per second
+## KBps, kBps, kilobytes per second
+
+Abbreviation for *kilobytes per second*.
+
+For more information, see [Unites of measurement]().
+
+## Kbit, kilobit
+
+Initialism for *kilobit*. Use uppercase.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** 128 KBit of memory [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 256 KBit file [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
+## KBps, Kbps, kilobits per second
+
+Abbreviation for *kilobits per second*.
+
+For more information, see [Unites of measurement]().
 
 ## key
 
@@ -47,6 +75,10 @@ Two words. Not *keyring* or *key-ring*.
 ## keystroke
 
 One word. Not *key stroke* or *key-stroke*.
+
+## key-value pair
+
+Hyphenate. Not *key value* or *key/value pair*.
 
 ## kill
 
