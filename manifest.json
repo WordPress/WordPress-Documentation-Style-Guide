@@ -553,4 +553,10 @@
 		"slug": "l",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/l.md"
 	},
+	"word-list/m": {
+		"title": "M",
+		"parent": "word-list",
+		"slug": "m",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/m.md"
+	},
 }
