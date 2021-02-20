@@ -57,6 +57,8 @@ One word. Not *task bar* or *task-bar*.
 
 Initialism for *terabyte*. Use uppercase.
 
+One *TB* equals 1000<sup>4</sup> bytes in the context of file size or storage capacity, and 1024<sup>4</sup> bytes in the context of computer memory.
+
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
