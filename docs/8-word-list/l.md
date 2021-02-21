@@ -1,7 +1,11 @@
 # L
 
+## l10n, localization
 ## labeled, labeling
+## LAMP
+## LAN
 ## later
+## latest
 ## launch
 ## leave
 ## left, leftmost, left-hand
@@ -11,6 +15,7 @@ See also [justify, justified](), [right align, right-aligned]().
 
 ## left justify, left-justified
 ## legacy
+## let, lets
 ## let's
 ## leverage
 ## lifecycle
@@ -18,8 +23,12 @@ See also [justify, justified](), [right align, right-aligned]().
 ## like
 ## -like
 ## link
+## list box
 ## load
-## login, log in
+## login, log in, logout, log out
+## log on, log off
+## long press
+## lower
 ## lowercase
 
 One word. Not *lower case*. Don't use *lowercase* as a verb. Don't use *lowercased*.
