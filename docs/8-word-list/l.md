@@ -1,11 +1,25 @@
 # L
 
+## labeled, labeling
+## later
+## launch
+## leave
+## left, leftmost, left-hand
 ## left align, left-aligned
 
 See also [justify, justified](), [right align, right-aligned]().
 
+## left justify, left-justified
+## legacy
+## let's
+## leverage
+## lifecycle
+## lifetime
+## like
+## -like
+## link
 ## load
-
+## login, log in
 ## lowercase
 
 One word. Not *lower case*. Don't use *lowercase* as a verb. Don't use *lowercased*.
