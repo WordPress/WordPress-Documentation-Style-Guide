@@ -595,4 +595,10 @@
 		"slug": "s",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/s.md"
 	},
+	"word-list/t": {
+		"title": "T",
+		"parent": "word-list",
+		"slug": "t",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/t.md"
+	},
 }
