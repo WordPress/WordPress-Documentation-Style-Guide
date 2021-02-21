@@ -3,7 +3,17 @@
 ## l10n, localization
 ## labeled, labeling
 ## LAMP
+
+Acronym for *Linux, Apache, MySQL, PHP*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## LAN
+
+Acronym for *Local Area Network*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## later
 ## latest
 ## launch
@@ -17,10 +27,22 @@ See also [justify, justified](), [right align, right-aligned]().
 ## legacy
 ## let, lets
 ## let's
+
+Don't use as a contraction of *let us*.
+
 ## leverage
 ## lifecycle
+
+One word. Not *life cycle* or *life-cycle*.
+
 ## lifetime
+
+One word. Not *life time* or *life-time*.
+
 ## like
+
+OK to use *like* or *such as* for comparisons or examples.
+
 ## -like
 ## link
 ## list box
@@ -28,6 +50,13 @@ See also [justify, justified](), [right align, right-aligned]().
 ## login, log in, logout, log out
 ## log on, log off
 ## long press
+
+Don't use. Instead, use *touch and hold*.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+See also [touch and hold](#touch-and-hold).
+
 ## lower
 ## lowercase
 
