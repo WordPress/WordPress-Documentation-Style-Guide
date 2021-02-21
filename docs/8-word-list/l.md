@@ -17,7 +17,17 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 ## later
 ## latest
 ## launch
+
+Don't use to refer to the action of opening an app or program. Instead, use *open*.
+
 ## leave
+
+Don't use to refer to the action of closing an app or program. Instead, use *close*.
+
+## ⁠leave out
+
+Don't use. Instead, use *omit*.
+
 ## left, leftmost, left-hand
 ## left align, left-aligned
 
@@ -45,6 +55,10 @@ OK to use *like* or *such as* for comparisons or examples.
 
 ## -like
 ## link
+## Linux
+
+Capitalize.
+
 ## list box
 ## load
 ## login, log in, logout, log out
@@ -57,7 +71,14 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 See also [touch and hold](#touch-and-hold).
 
+## lots of
+
+Don't use. Instead, use *many*.
+
 ## lower
+
+Don't use to indicate product version numbers. Instead, use *earlier*.
+
 ## lowercase
 
 One word. Not *lower case*. Don't use *lowercase* as a verb. Don't use *lowercased*.
