@@ -6,7 +6,7 @@ Don't use *quality* by itself as an adjective. Instead, use a modifier and hyphe
 
 ## quick, quickly
 
-Avoid using. *Quick* or *quickly* is a relative term, and the same meaning of a sentence can be expressed without using these terms in most cases. 
+Avoid using. *Quick* or *quickly* is a relative term, and in most cases, you can express the same meaning of a sentence without using these terms.
 
 ## quit
 
