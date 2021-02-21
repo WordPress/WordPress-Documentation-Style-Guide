@@ -583,4 +583,10 @@
 		"slug": "q",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/q.md"
 	},
+	"word-list/r": {
+		"title": "R",
+		"parent": "word-list",
+		"slug": "r",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/r.md"
+	},
 }
