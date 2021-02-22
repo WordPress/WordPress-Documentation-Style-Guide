@@ -607,4 +607,10 @@
 		"slug": "u",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/u.md"
 	},
+	"word-list/v": {
+		"title": "V",
+		"parent": "word-list",
+		"slug": "v",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/v.md"
+	},
 }
