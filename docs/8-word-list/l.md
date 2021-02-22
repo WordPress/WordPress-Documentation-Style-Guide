@@ -19,13 +19,28 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## later
 ## latest
+
+Don't use to describe products, functions, features, technologies, standards, updates, or software. Instead, use only the version number or *later* to indicate a range of updates.
+
+It's OK to use *latest* if you're instructing users to keep their software up to date.
+
+**Examples**  
+
+[tip] **Recommended:** To use the newest features, make sure you're using the latest version of WordPress. [/tip]  
+
+See also [later](#later), [version](v.md).
+
 ## launch
 
 Don't use to refer to the action of opening an app or program. Instead, use *open*.
 
+For more information, see [Interaction verbs](ui-elements.md).
+
 ## leave
 
 Don't use to refer to the action of closing an app or program. Instead, use *close*.
+
+For more information, see [Interaction verbs](ui-elements.md).
 
 ## ⁠leave out
 
@@ -62,6 +77,9 @@ See also [left align, left-aligned](#left-align-left-aligned)
 Don't use as a contraction of *let us*.
 
 ## leverage
+
+Don't use as a verb to mean *use*. Instead, use a more precise term, such as *take advantage of, use*, or *build on*.
+
 ## lifecycle
 
 One word. Not *life cycle* or *life-cycle*.
@@ -78,12 +96,25 @@ OK to use *like* or *such as* for comparisons or examples.
 ## link
 ## Linux
 
-Capitalize.
+Capitalize. OK to use lowercase in developer documentation, such as commands.
 
 ## list box
 ## load
+
+Don't use as a verb to mean *start, install, run, set up*, or *download* in user documentation.
+
+OK to use in developer documentation and for a technical audience.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
 ## login, log in, logout, log out
+
+
+
 ## log on, log off
+
+
+
 ## long press
 
 Don't use. Instead, use *touch and hold*.
