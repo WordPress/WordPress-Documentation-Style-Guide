@@ -2,6 +2,9 @@
 
 ## l10n, localization
 ## labeled, labeling
+
+Use one *l*, not two. Not *labelled* or *labelling*.
+
 ## LAMP
 
 Acronym for *Linux, Apache, MySQL, PHP*. Use uppercase.
@@ -29,11 +32,29 @@ Don't use to refer to the action of closing an app or program. Instead, use *clo
 Don't use. Instead, use *omit*.
 
 ## left, leftmost, left-hand
+
+Don't use *left* as a directional term by itself. Instead, use a term such as *upper left, lower left, leftmost*, or *on the left side of*. When you use *left* to modify a noun, insert a hyphen, as in *upper-left corner*.
+
+Don't use *left-hand* as a modifier.
+
+In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+
+For more information, see [Procedures and instructions]().
+
 ## left align, left-aligned
+
+Use to refer to text that's aligned at the left margin. Hyphenate *left-aligned*.
+
+Don’t use *left-justified*.
 
 See also [justify, justified](), [right align, right-aligned]().
 
 ## left justify, left-justified
+
+Don’t use. Instead, use *left-aligned*.
+
+See also [left align, left-aligned](#left-align-left-aligned)
+
 ## legacy
 ## let, lets
 ## let's
