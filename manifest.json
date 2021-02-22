@@ -625,4 +625,10 @@
 		"slug": "x",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/x.md"
 	},
+	"word-list/y": {
+		"title": "Y",
+		"parent": "word-list",
+		"slug": "y",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/y.md"
+	},
 }
