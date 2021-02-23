@@ -118,7 +118,34 @@ One word. Not *life time* or *life-time*.
 OK to use *like* or *such as* for comparisons or examples.
 
 ## -like
+
+In general, don't hyphenate words ending with *-like* unless the root word is a proper noun, ends in double *l*'s, has three or more syllables, or the deriving word is difficult to read.
+
+**Examples**  
+
+- ball-like
+- computer-like
+- WordPress-like
+- systemlike
+
 ## link
+
+Use *link* to describe text, graphic, button, or another element that users can select to go to another document, another place within the same document, or to a webpage.
+
+Don't use hot *spot, hot link*, or *shortcut* to refer to a link.
+
+As a verb, it is OK to use *link* to refer to the action of creating a link, but don't use *link* to describe connecting to a cross-reference.
+
+Use *go to* to describe the process of going to another webpage or document, place, or webpage.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+**Examples**  
+
+[warning] **Not recommended:** In case of any changes, link to the contributors guide. [/warning]  
+[tip] **Recommended:**  [/tip]  
+[tip] **Recommended:**  [/tip]  
+
 ## Linux
 
 Capitalize. OK to use lowercase in developer documentation, such as commands.
@@ -136,9 +163,13 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 
 
+See also [sign in, sign-in](s.md).
+
 ## log on, log off
 
+Don’t use. Instead, use *log in* and *log out*.
 
+See also [login, log in, logout, log out](login-log-in-logout-log-out).
 
 ## long press
 
