@@ -161,7 +161,19 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 ## login, log in, logout, log out
 
+Use to refer to start and end the procedure of starting use of a computer or device account.
 
+Use *log in to*, not *log into*.
+
+Don't use *log on, logon, log off, logoff, log out from*.
+
+**Examples**  
+
+[warning] **Not recommended:** Log into your computer. [/warning]  
+[tip] **Recommended:** Log in to your computer. [/tip]  
+
+[tip] **Recommended:** Go to the login screen. [/tip]  
+[tip] **Recommended:** Go to the login screen. [/tip]  
 
 See also [sign in, sign-in](s.md).
 
