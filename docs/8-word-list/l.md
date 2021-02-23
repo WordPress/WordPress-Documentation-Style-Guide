@@ -18,6 +18,18 @@ Acronym for *Local Area Network*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## later
+
+Avoid using in cross-references. Whenever possible, use a link for cross-references, so that readers can find the relevant information.
+
+Use *later* to refer to versions of software. Don't use *lower, higher, newer*, and *older*.
+
+**Examples**  
+
+[warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7 or higher. [/warning]  
+[warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7 or newer. [/warning]  
+[warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7+. [/warning]  
+[tip] **Recommended:** To use Block patterns, you must have Gutenberg 7.7 or later. [/tip]  
+
 ## latest
 
 Don't use to describe products, functions, features, technologies, standards, updates, or software. Instead, use only the version number or *later* to indicate a range of updates.
@@ -71,10 +83,23 @@ Don’t use. Instead, use *left-aligned*.
 See also [left align, left-aligned](#left-align-left-aligned)
 
 ## legacy
+
+Don't use to describe a previous version of a product, function, feature, technology, software, or standard. Instead, use *former, earlier*, a contextually relevant term, or the version number, if any.
+
 ## let, lets
+
+Don't use *let* or *lets* to refer to something that WordPress makes possible for the user. Instead, use a direct alternative describing what the user wants to do.
+
+**Examples**  
+
+[warning] **Not recommended:** Block patterns let you predefine block layouts. [/warning]  
+[tip] **Recommended:** You can predefine block layouts using block patterns. [/tip]  
+
 ## let's
 
-Don't use as a contraction of *let us*.
+Contraction of *let us*. Don't use.
+
+For more information about contractions, see [Abbreviations]().
 
 ## leverage
 
