@@ -1,6 +1,11 @@
 # L
 
 ## l10n, localization
+
+OK to abbreviate *localization* as *l10n*. Spell out on the first mention.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## labeled, labeling
 
 Use one *l*, not two. Not *labelled* or *labelling*.
@@ -140,17 +145,16 @@ Use *go to* to describe the process of going to another webpage or document, pla
 
 For more information, see [Interaction verbs](ui-elements.md).
 
-**Examples**  
-
-[warning] **Not recommended:** In case of any changes, link to the contributors guide. [/warning]  
-[tip] **Recommended:**  [/tip]  
-[tip] **Recommended:**  [/tip]  
-
 ## Linux
 
 Capitalize. OK to use lowercase in developer documentation, such as commands.
 
 ## list box
+
+Two words. Not *listbox* or *list-box*.
+
+For more information see [List box](ui-elements.md).
+
 ## load
 
 Don't use as a verb to mean *start, install, run, set up*, or *download* in user documentation.
@@ -172,8 +176,12 @@ Don't use *log on, logon, log off, logoff, log out from*.
 [warning] **Not recommended:** Log into your computer. [/warning]  
 [tip] **Recommended:** Log in to your computer. [/tip]  
 
+[tip] **Recommended:** You must log in as a multisite network administrator. [/tip]  
 [tip] **Recommended:** Go to the login screen. [/tip]  
-[tip] **Recommended:** Go to the login screen. [/tip]  
+
+[warning] **Not recommended:** After saving your changes, log out from the administrator dashboard. [/warning]  
+[warning] **Not recommended:** After saving your changes, log out the administrator dashboard. [/warning]  
+[tip] **Recommended:** After saving your changes, log out of the administrator dashboard. [/tip]  
 
 See also [sign in, sign-in](s.md).
 
@@ -181,7 +189,7 @@ See also [sign in, sign-in](s.md).
 
 Don’t use. Instead, use *log in* and *log out*.
 
-See also [login, log in, logout, log out](login-log-in-logout-log-out).
+See also [login, log in, logout, log out](login-log-in-logout-log-out), [sign in, sign-in](s.md).
 
 ## long press
 
@@ -198,6 +206,8 @@ Don't use. Instead, use *many*.
 ## lower
 
 Don't use to indicate product version numbers. Instead, use *earlier*.
+
+See also [earlier](e.md).
 
 ## lowercase
 
