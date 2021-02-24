@@ -2,6 +2,8 @@
 
 ## l10n, localization
 
+Acronym for *localization*.
+
 OK to abbreviate *localization* as *l10n*. Spell out on the first mention.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
