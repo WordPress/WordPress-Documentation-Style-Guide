@@ -3,6 +3,11 @@
 ## fail
 ## fail over, failover
 ## FAQ
+## far-left, far-right
+
+
+## field
+## file
 ## filename
 
 One word. Not *file name* or *file-name*.
@@ -11,8 +16,15 @@ For more information, see [Filenames]().
 
 ## filesystem
 ## fill in, fill out
+## finalize
+
+Don't use. Instead, use *finish* or *complete*.
+
+## find and replace
 ## firmware
 ## flag
+## flush, flush to
+## folder
 ## following
 ## font, font style
 ## foo, foobar, fubar
