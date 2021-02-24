@@ -20,6 +20,9 @@ One word. Not *file name* or *file-name*.
 For more information, see [Filenames]().
 
 ## filesystem
+
+One word. Not *file system* or *file-system*.
+
 ## fill in, fill out
 ## finalize
 
@@ -48,10 +51,14 @@ See also [header](h.md).
 
 ## foreign
 ## for instance
+
+Avoid when possible. Instead, use *for example* or *such as*.
+
 ## format, formatted, formatting
 ## freeze, frozen
 ## from
 ## frontend, front-end
 ## FTP
+## full-
 ## full screen, full-screen
 ## functionality
