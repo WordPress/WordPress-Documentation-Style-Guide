@@ -189,7 +189,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | F |   🔄   |
 | J |   ✔️ (⚠️ while publishing)   |
 | K |   ✔️ (⚠️ while publishing)   |
-| L |   🔄 (⚠️ while publishing)   |
+| L |   ✔️ (⚠️ while publishing)   |
 | Q |   ✔️ (⚠️ while publishing)   |
 | T |   ✔️ (⚠️ while publishing)   |
 | U |   ✔️ (⚠️ while publishing)   |
