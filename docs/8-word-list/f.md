@@ -34,7 +34,7 @@ OK to use in developer documentation and for a technical audience.
 
 ## file
 
-Whenever possible, use a more specific term, such as document, zip file, or CSS file. 
+Whenever possible, use a more specific term, such as document, zip file, or CSS file.
 
 See also [filename](#filename).
 
@@ -49,16 +49,42 @@ For more information, see [Filenames]().
 One word. Not *file system* or *file-system*.
 
 ## fill in, fill out
+
+Use *fill in* when referring to entering information in individual fields. Use *fill out* when referring to completing an entire form.
+
+**Example**  
+
+[tip] **Recommended:** Fill out the contact form. Be sure to fill in the required fields. [/tip]  
+
 ## finalize
 
 Don't use. Instead, use *finish* or *complete*.
 
 ## find and replace
+
+Use *find* and *replace* as separate verbs, not a single verb phrase such as *find and replace*.
+
+Don't use *find and replace* or *find-and-replace* as a noun or an adjective.
+
+**Examples**  
+
+[warning] **Not recommended:** Do a find and replace of the user ID. [/warning]  
+[tip] **Recommended:** Find the user ID and replace it with the username. [/tip]  
+
+Don't use *global* to describe finding and replacing. Instead, use *all instances* or *all occurrences*.
+
+Use *find characters* and *replacement characters* to describe what the customer enters into a find or replace box.
+
 ## firmware
 
 One word. Not *firm ware* or *firm-ware*.
 
 ## flag
+
+Don't use in a command-line context. Instead, use *option*.
+
+For more information, see [Command-line syntax]().
+
 ## flick
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *swipe* in user documentation.
