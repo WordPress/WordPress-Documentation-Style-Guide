@@ -111,6 +111,11 @@ For more instructions see [Procedures]() and [UI elements]().
 
 Use *following* to introduce a table, list, or other content. If *following* is the last word before what it introduces, follow it with a colon.
 
+**Examples**  
+
+[tip] **Recommended:** The following table shows the Block API reference: [/tip]  
+[tip] **Recommended:** Do the following: [/tip]  
+
 For more information, see [Table placement](tables.md) and [Lists]().
 
 ## font, font style
@@ -127,8 +132,21 @@ Avoid when possible. Instead, use *for example* or *such as*.
 ## format, formatted, formatting
 ## freeze, frozen
 ## from
+
+Use to indicate a specific place or time as a starting point.
+
+**Examples**  
+
+[tip] **Recommended:** The `$wpdb` object can be used to read data from any table in the WordPress database. [/tip]  
+[tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool. [/tip]  
+
 ## frontend, front-end
 ## FTP
+
+Initialism for *File Transfer Protocol*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## full-
 ## full screen, full-screen
 ## functionality
