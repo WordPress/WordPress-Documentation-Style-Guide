@@ -92,8 +92,27 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 See also [swipe](s.md).
 
 ## flush, flush to
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation. Don't use *flush, flush to, flush left*, or *flush right* to describe text alignment. Instead, use *even, left-aligned*, or *right-aligned*, as appropriate.
+
+See also [left align, left-aligned](l.md), [right align, right-aligned](r.md).
+
 ## folder
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. In developer content, folders are usually referred to as *directories*.
+
+Not all folders contain files or other folders. Describe the nature or appearance of the folder if necessary.
+
+In procedures and instructions, use bold formatting for the folder name if you're instructing the user to interact with the folder.
+
+For more instructions see [Procedures]() and [UI elements]().
+
 ## following
+
+Use *following* to introduce a table, list, or other content. If *following* is the last word before what it introduces, follow it with a colon.
+
+For more information, see [Table placement](tables.md) and [Lists]().
+
 ## font, font style
 ## foo, foobar, fubar
 ## footer
