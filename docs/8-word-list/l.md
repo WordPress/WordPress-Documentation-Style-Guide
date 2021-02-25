@@ -43,7 +43,7 @@ Don't use to describe products, functions, features, technologies, standards, up
 
 It's OK to use *latest* if you're instructing users to keep their software up to date.
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** To use the newest features, make sure you're using the latest version of WordPress. [/tip]  
 
@@ -219,7 +219,7 @@ When using both *uppercase* and *lowercase* together as a noun or to modify a no
 
 Hyphenate as adjectives. Use instead of *bottom left* and *bottom right*.
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** The lower-left corner [/tip]  
 
