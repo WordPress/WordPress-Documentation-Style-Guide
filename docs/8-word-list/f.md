@@ -1,8 +1,23 @@
 # F
 
 ## fail
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *stop responding* or a contextually relevant term in user documentation.
+
+See also [stop, stop responding](s.md).
+
 ## fail over, failover
+
+Two words as a verb, one word as a noun or an adjective. Avoid using in user documentation.
+
 ## FAQ
+
+Initialism for *Frequently Asked Questions*. Use uppercase.
+
+Use *an FAQ*, not *a FAQ*.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## far-left, far-right
 
 Don't use. Instead, use *leftmost* or *rightmost*.
@@ -12,7 +27,17 @@ In general, avoid using directional language such as *left, right, up, down* in 
 For more information, see [Procedures and instructions]().
 
 ## field
+
+Don't use to refer to a text-entry box. Instead, refer to the box by its label. If you have to use a descriptor, use *box* instead of *field*.
+
+OK to use in developer documentation and for a technical audience.
+
 ## file
+
+Whenever possible, use a more specific term, such as document, zip file, or CSS file. 
+
+See also [filename](#filename).
+
 ## filename
 
 One word. Not *file name* or *file-name*.
