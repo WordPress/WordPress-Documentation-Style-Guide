@@ -260,7 +260,7 @@ Initialism for *Universal Serial Bus*. Use uppercase.
 
 Don't spell out. Use only as an adjective.
 
-**Examples**  
+**Example**  
 
 [tip] **Recommended:** USB drive [/tip]  
 
