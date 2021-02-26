@@ -175,7 +175,7 @@ Use to indicate a specific place or time as a starting point.
 [tip] **Recommended:** The `$wpdb` object can be used to read data from any table in the WordPress database. [/tip]  
 [tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool. [/tip]  
 
-## frontend, front-end
+## front end, front-end
 
 Two words as a noun, hyphenate as an adjective.
 
@@ -188,5 +188,21 @@ Initialism for *File Transfer Protocol*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## full-
+
+Use a hyphen in compound adjectives beginning with full.
+
+**Examples**  
+
+- full-size
+- full-page
+- full-time
+
 ## full screen, full-screen
+
+Two words as a noun. Hyphenate as an adjective before a noun.
+
 ## functionality
+
+Avoid using. Use only to refer to a set of functions and their specified properties.
+
+Whenever possible, use a simpler term such as *features* instead.
