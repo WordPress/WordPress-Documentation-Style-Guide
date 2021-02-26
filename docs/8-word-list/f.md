@@ -150,7 +150,7 @@ Avoid when possible. Instead, use *for example* or *such as*.
 
 ## format, formatted, formatting
 
-Use *format* to refer to the overall layout of a document.
+Use *format* to refer to the overall layout, arrangement, or appearance of text, graphics and other elements in a document.
 
 Use *formatting* or *formatted* to refer to specific character formatting, paragraph formatting, and other types of formatting.
 
@@ -159,6 +159,13 @@ For more information, see [Document structure]() and [Text formatting]().
 See also [font, font style](#font-font-style).
 
 ## freeze, frozen
+
+Don't use *freeze* as a synonym for *stop responding*. Don't use frozen to describe the resulting state.
+
+Instead, use *stop* or *stop responding* when a program encounters a problem and can't close itself.
+
+See also [stop, stop responding](s.md).
+
 ## from
 
 Use to indicate a specific place or time as a starting point.
@@ -169,6 +176,11 @@ Use to indicate a specific place or time as a starting point.
 [tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool. [/tip]  
 
 ## frontend, front-end
+
+Two words as a noun, hyphenate as an adjective.
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *interface, program, app*, or a contextually relevant and accurate term in user documentation.
+
 ## FTP
 
 Initialism for *File Transfer Protocol*. Use uppercase.
