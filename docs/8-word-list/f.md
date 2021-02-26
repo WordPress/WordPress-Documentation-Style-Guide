@@ -105,11 +105,11 @@ Not all folders contain files or other folders. Describe the nature or appearanc
 
 In procedures and instructions, use bold formatting for the folder name if you're instructing the user to interact with the folder.
 
-For more instructions see [Procedures]() and [UI elements]().
+For more instructions, see [Procedures]() and [UI elements]().
 
 ## following
 
-Use *following* to introduce a table, list, or other content. If *following* is the last word before what it introduces, follow it with a colon.
+Use *following* as an adjective to introduce a table, list, or other content. If *following* is the last word before what it introduces, follow it with a colon.
 
 **Examples**  
 
@@ -118,8 +118,22 @@ Use *following* to introduce a table, list, or other content. If *following* is 
 
 For more information, see [Table placement](tables.md) and [Lists]().
 
-## font, font style
+## font, font style, font size
+
+Use *font*, not *font family, typeface*, or *face* for the name of a typeface design such as *Helvetica*.
+
+To refer to the formatting, such as bold, underlined, or italic, use *font style*, not *type style* or *typeface attribute*.
+
+Use *font size*, not *type size* for the point size such as 10 points or 12 points.
+
+For information about when to use various font styles, see [Text formatting](text.md).
+
 ## foo, foobar, fubar
+
+Avoid using. Instead, use a clearer and more meaningful placeholder with relevant text.
+
+For more information, see [Placeholders]().
+
 ## footer
 
 See also [header](h.md).
