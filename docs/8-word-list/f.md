@@ -136,14 +136,28 @@ For more information, see [Placeholders]().
 
 ## footer
 
+Use instead of *bottom running head* or *running foot*.
+
 See also [header](h.md).
 
 ## foreign
+
+Don't use to describe any geographic locations. Instead, use the names of the respective countries or regions, or use phrases such as *countries other than the US* and *US only*.
+
 ## for instance
 
 Avoid when possible. Instead, use *for example* or *such as*.
 
 ## format, formatted, formatting
+
+Use *format* to refer to the overall layout of a document.
+
+Use *formatting* or *formatted* to refer to specific character formatting, paragraph formatting, and other types of formatting.
+
+For more information, see [Document structure]() and [Text formatting]().
+
+See also [font, font style](#font-font-style).
+
 ## freeze, frozen
 ## from
 
