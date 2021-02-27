@@ -109,20 +109,34 @@ For more information, see [UI elements](ui-elements.md).
 
 ## OS, operating system
 
-Initialism for *Operating System*. Use uppercase.
+Initialism for *operating system*. Use uppercase for the initialism.
 
 For the spelled out version, use two words as a noun, and hyphenate as an adjective.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## output
+
+Avoid as a verb. Instead, use *write to, display on, print on, print to*, or a contextually relevant and accurate term.
+
 ## outside
 
 Not *outside of*.
 
 ## over
+
+Use to refer to a location or position above something.
+
+In context of quantities, don't use as a synonym for *more than*.
+
+Don't use to refer to version numbers. Instead, use *later*.
+
 ## ⁠override
 
 One word. Not *over ride* or *over-ride*.
 
 ## overwrite
+
+Use only to describe existing data with new data. Use *replace* to describe replacing an existing file with a new one that has the same name.
+
+Don't use as a synonym for *type over*.
