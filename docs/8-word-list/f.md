@@ -28,6 +28,8 @@ For more information, see [Procedures and instructions]().
 
 ## field
 
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
 Don't use to refer to a text-entry box. Instead, refer to the box by its label. If you have to use a descriptor, use *box* instead of *field*.
 
 OK to use in developer documentation and for a technical audience.
