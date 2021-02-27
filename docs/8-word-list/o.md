@@ -18,7 +18,7 @@ Don't use after another preposition in phrases such as *off of* or *outside of*.
 
 ## offline
 
-One word. Not *off line* or *off-line*.
+One word, both as an adjective and adverb. Not *off line* or *off-line*.
 
 Use only to describe not being connected to the internet or a particular network.
 
@@ -34,12 +34,20 @@ One word. Not *off site* or *off-site*.
 
 See also [off-premises, on-premises](#off-premises-on-premises), [onsite](#onsite).
 
-## OK, okay
+## OK
 
-
+Not *ok, okay, Okay, alright*, or *all right*. Use uppercase.
 
 ## once
+
+Use only to describe *one time*. Don't use as a synonym for *after* or *when*.
+
 ## online
+
+One word, both as an adjective and adverb. Not *on line* or *on-line*.
+
+Use to describe content or services that are available on the internet or a particular network. It is OK to use *online* to describe being on or connected to the internet or a particular network; but in most cases, use a contextually relevant and accurate term such as *signed in* or *connected to the internet*.
+
 ## onscreen
 ## onsite
 
@@ -51,9 +59,19 @@ See also [off-premises, on-premises](#off-premises-on-premises), [offsite](#offs
 ## open
 ## open source
 ## option
-## OS
+## OS, operating system
+
+Initialism for *Operating System*. Use uppercase.
+
+For the spelled out version, use two words as a noun, and hyphenate as an adjective.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## output
 ## outside
+
+Not *outside of*.
+
 ## over
 ## ⁠override
 
