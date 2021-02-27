@@ -79,9 +79,34 @@ Use *on to* when *on* is part of the verb.
 [tip] **Recommended:** Drag the image onto the desktop. [/tip]  
 [tip] **Recommended:** Pass on to the next item. [/tip]  
 
+See also [into, in to](i.md).
+
 ## open
+
+Use *open*, not *start* or *launch* to describe opening a program, application, folder, or a similar target. Don't use *open* for menus and commands.
+
+Use *open*, not *opened*, to describe the open state, such as *an open folder*.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
+See also [close](c.md).
+
 ## open source
+
+Two words, both as an adjective and verb. Not *opensource* or *open-source*. Use lowercase and don't hyphenate.
+
 ## option
+
+OK to use in developer documentation and for a technical audience.
+
+In a command-line context, use *option* instead of *flag, argument*, or *parameter*.
+
+For more information, see [Command-line syntax]().
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to an option by its label. If you have to use a descriptor, use *option* or *option button*.
+
+For more information, see [UI elements](ui-elements.md).
+
 ## OS, operating system
 
 Initialism for *Operating System*. Use uppercase.
