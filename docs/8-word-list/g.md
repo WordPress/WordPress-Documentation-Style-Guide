@@ -1,5 +1,9 @@
 # G
 
+## gallery
+
+
+
 ## GB, gigabyte
 
 Initialism for *gigabyte*. Use uppercase.
@@ -60,9 +64,22 @@ See also [GB, gigabyte](#gb-gigabyte).
 ##
 ##
 ##
-##
-##
+## Git
+## GitHub
+## given
 ## global
 
 
 See also [worldwide]().
+
+## glyph
+## go to
+## GPL
+## graphic, graphics, graphical
+## Gravatar
+## gray
+## grayed, grayed out
+## GTE
+## GUI
+## Gutenberg
+## gzip
