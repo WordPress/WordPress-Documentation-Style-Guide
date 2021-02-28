@@ -1,20 +1,20 @@
 {
 	"introduction": {
-		"title": "About the WordPress Documentation Style Guide",
-		"slug": "introduction",
+		"title": "Introduction",
+		"slug": "welcome",
 		"parent": null,
 		"order": 1,
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
 	},
 	"introduction/highlights": {
 		"title": "Highlights",
-		"parent": "introduction",
+		"parent": "welcome",
 		"slug": "highlights",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/highlights.md"
 	},
 	"introduction/changelog": {
 		"title": "Changelog",
-		"parent": "introduction",
+		"parent": "welcome",
 		"slug": "changelog",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/changelog.md"
 	},
@@ -240,7 +240,7 @@
 	"punctuation/periods": {
 		"title": "Periods",
 		"parent": "punctuation",
-		"slug": "preiods",
+		"slug": "periods",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/periods.md"
 	},
 	"punctuation/question-marks": {
@@ -533,7 +533,7 @@
 		"title": "I",
 		"parent": "word-list",
 		"slug": "i",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/I.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/i.md"
 	},
 	"word-list/j": {
 		"title": "J",
