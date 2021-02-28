@@ -21,14 +21,6 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
-## kBps (kB/s), KBps (KB/s), kilobytes per second
-
-Abbreviation for *kilobytes per second*.
-
-For more information, see [Units of measurement]().
-
-See also [kB, KB, kilobyte](#kB-kb-kilobyte).
-
 ## kbit, Kbit, kilobit
 
 Initialism for *kilobit*.
@@ -49,6 +41,14 @@ Don’t hyphenate the adjective form.
 [tip] **Recommended:** a 256 KBit file [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations]().
+
+## kBps (kB/s), KBps (KB/s), kilobytes per second
+
+Abbreviation for *kilobytes per second*.
+
+For more information, see [Units of measurement]().
+
+See also [kB, KB, kilobyte](#kB-kb-kilobyte).
 
 ## kbps (kbit/s), Kbps (Kbit/s), kilobits per second
 
