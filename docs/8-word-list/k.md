@@ -25,8 +25,8 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 Initialism for *kilobit*.
 
-In the decimal system, *kilobit* is abbreviated as *kbit*, where one *kbit* equals 1000 bytes in the context of file size or storage capacity.
-In the binary system, *kilobit* is abbreviated as *Kbit*, where one *Kbit* equals 1024 bytes in the context of computer memory.
+In the decimal system, *kilobit* is abbreviated as *kbit*, where one *kbit* equals 1000 bits in the context of file size or storage capacity.
+In the binary system, *kilobit* is abbreviated as *Kbit*, where one *Kbit* equals 1024 bits in the context of computer memory.
 
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
