@@ -60,10 +60,8 @@ For more information, see [Units of measurement]().
 
 See also [GB, gigabyte](#gb-gigabyte).
 
-##
-##
-##
-##
+## generally
+## GIF
 ## Git
 ## GitHub
 ## given
@@ -73,12 +71,17 @@ See also [GB, gigabyte](#gb-gigabyte).
 See also [worldwide]().
 
 ## glyph
+## GNU
+## Google
 ## go to
 ## GPL
+## GPU
 ## graphic, graphics, graphical
+## graphics adapter, graphics card
 ## Gravatar
 ## gray
 ## grayed, grayed out
+## greater
 ## GTE
 ## GUI
 ## Gutenberg
