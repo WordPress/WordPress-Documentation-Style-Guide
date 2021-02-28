@@ -62,6 +62,13 @@ See also [GB, gigabyte](#gb-gigabyte).
 
 ## generally
 ## GIF
+
+Abbreviation for *Graphics Interchange Format*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *GIF file* rather than *.gif file*.
+
+For more information, see [Referring to file types](//filenames.md).
+
 ## Git
 ## GitHub
 ## given
@@ -72,9 +79,21 @@ See also [worldwide]().
 
 ## glyph
 ## GNU
+
+Recursive initialism for *GNU's Not UNIX*. Use uppercase. Not *Gnu* or *gnu*.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## Google
 ## go to
 ## GPL
+
+Initialism for *GNU Public License*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
+See also [GNU](#gnu).
+
 ## GPU
 ## graphic, graphics, graphical
 ## graphics adapter, graphics card
@@ -83,6 +102,25 @@ See also [worldwide]().
 ## grayed, grayed out
 ## greater
 ## GTE
+
+Initialism for *General Translation Editor*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Translate WordPress](https://make.wordpress.org/polyglots/) and [WordPress Polyglots handbook](https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor).
+
 ## GUI
+
+Abbreviation for *graphical user interface*. Use uppercase.
+
+Avoid using. Instead, use UI in developer documentation and interface in user documentation.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## Gutenberg
 ## gzip
+
+Don't use a filename extension to refer to a type of file. For example, use *gzip file* rather than *.gzip file*.
+
+Don't use *gzip, zip*, or *unzip* as a verb. Instead, use *compress* and *extract*.
+
+For more information, see [Referring to file types](//filenames.md).
