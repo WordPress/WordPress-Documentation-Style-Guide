@@ -93,6 +93,22 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
+## Tbps (Tbit/s), terabits per second
+
+Abbreviation for *terabits per second*.
+
+For more information, see [Units of measurement]().
+
+See also [Tbit, terabit](#tbit-terabit).
+
+## TBps (TB/s), terabytes per second
+
+Abbreviation for *terabytes per second*.
+
+For more information, see [Units of measurement]().
+
+See also [TB, terabyte](#tb-terabyte).
+
 ## TCP/IP
 
 Initialism for *Transmission Control Protocol/Internet Protocol*. Use uppercase.
