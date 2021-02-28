@@ -73,6 +73,26 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
+## Tbit, terabit
+
+Initialism for *terabit*.
+
+One *Tbit* equals 1000<sup>4</sup> bits in the context of file size or storage capacity, and 1024<sup>4</sup> bits in the context of computer memory.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** 10 TBit of memory [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** 10 TBit switch [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## TCP/IP
 
 Initialism for *Transmission Control Protocol/Internet Protocol*. Use uppercase.
