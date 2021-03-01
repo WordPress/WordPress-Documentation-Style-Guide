@@ -48,23 +48,43 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## Gbps (Gbit/s), gigabits per second
 
-Abbreviation for *gigabits per second*.
+Initialism for *gigabits per second*.
 
 For more information, see [Units of measurement]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [Gbit, gigabit](#gbit-gigabit).
 
 ## GBps (GB/s), gigabytes per second
 
-Abbreviation for *gigabytes per second*.
+Initialism for *gigabytes per second*.
 
 For more information, see [Units of measurement]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [GB, gigabyte](#gb-gigabyte).
 
 ## generally
 
 Use to mean *usually, typically, in most cases*, or *normally*. When *generally* is used, there might be exceptions or specific instances which might differ from usual practices. Use proper judgement to choose a contextually relevant term.
+
+## GHz, gigahertz
+
+Initialism for *gigahertz*.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** a rate of 5.0 GHz [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 5.0 GHz rate [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## GIF
 
@@ -88,10 +108,18 @@ Don't use to mean *specified, following, particular*, or *fixed*.
 
 ## global
 
+OK to use *global* to mean *worldwide*, in developer documentation, and for a technical audience.
 
-See also [worldwide]().
+Don't use *global* to describe the process of finding and replacing. Instead, describe the action or use *all instances* or *all occurrences*.
+
+See also [find and replace](), [worldwide]().
 
 ## glyph
+
+Don't use to generically refer to
+
+See also [font](),
+
 ## GNU
 
 Recursive initialism for *GNU's Not UNIX*. Use uppercase. Not *Gnu* or *gnu*.
