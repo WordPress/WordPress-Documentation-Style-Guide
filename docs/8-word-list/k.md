@@ -91,7 +91,21 @@ Hyphenate. Not *key value* or *key/value pair*.
 
 ## kHz, kilohertz
 
+Initialism for *kilohertz*.
 
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** a rate of 96 kHz [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 96 kHz rate [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## kill
 
