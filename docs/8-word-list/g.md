@@ -2,7 +2,9 @@
 
 ## gallery
 
+Use to refer to a collection of images, graphics, pictures, charts, or other media items that the user can view or interact with. Use the verb *select* for items in a gallery.
 
+For more information, see [Interaction verbs](ui-elements.md).
 
 ## GB, gigabyte
 
@@ -61,6 +63,9 @@ For more information, see [Units of measurement]().
 See also [GB, gigabyte](#gb-gigabyte).
 
 ## generally
+
+Use to mean *usually, typically, in most cases*, or *normally*. When *generally* is used, there might be exceptions or specific instances which might differ from usual practices. Use proper judgement to choose a contextually relevant term.
+
 ## GIF
 
 Abbreviation for *Graphics Interchange Format*. Use uppercase.
@@ -70,8 +75,17 @@ Don't use a filename extension to refer to a type of file. For example, use *GIF
 For more information, see [Referring to file types](//filenames.md).
 
 ## Git
+
+Capitalize. OK to use lowercase in developer documentation, such as commands.
+
 ## GitHub
+
+Capitalize *G* and *H*. Capitalize. OK to use lowercase in developer documentation, such as commands.
+
 ## given
+
+Don't use to mean *specified, following, particular*, or *fixed*.
+
 ## global
 
 
@@ -98,7 +112,13 @@ See also [GNU](#gnu).
 ## graphic, graphics, graphical
 ## graphics adapter, graphics card
 ## Gravatar
+
+Acronym for *Globally Recognized Avatar*. Capitalize.
+
 ## gray
+
+Not *grey*.
+
 ## grayed, grayed out
 ## greater
 ## GTE
@@ -117,6 +137,9 @@ Avoid using. Instead, use UI in developer documentation and interface in user do
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## Gutenberg
+
+Capitalize. OK to use lowercase in developer documentation, such as commands.
+
 ## gzip
 
 Don't use a filename extension to refer to a type of file. For example, use *gzip file* rather than *.gzip file*.
