@@ -116,9 +116,11 @@ See also [find and replace](), [worldwide]().
 
 ## glyph
 
-Don't use to generically refer to
+Don't use to generically refer to an icon, illustration, or graphic. Instead, use *symbol*.
 
-See also [font](),
+It's OK to use *glyph* when referring to the appearance of characters in a context of typography or fonts.
+
+See also [character](), [font]().
 
 ## GNU
 
@@ -127,7 +129,15 @@ Recursive initialism for *GNU's Not UNIX*. Use uppercase. Not *Gnu* or *gnu*.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## Google
+
+Capitalize. Don't use *Google* as a verb or gerund. Instead, use *search with Google*.
+
 ## go to
+
+Use to refer to the action of opening a menu, going to a website, webpage, a tab, or another place in the UI.
+
+For more information, see [Interaction verbs](ui-elements.md).
+
 ## GPL
 
 Initialism for *GNU Public License*. Use uppercase.
@@ -137,8 +147,20 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 See also [GNU](#gnu).
 
 ## GPU
+
+Initialism for *graphics processing unit*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
+See also [video card]().
+
 ## graphic, graphics, graphical
 ## graphics adapter, graphics card
+
+Don't use. Instead, use *video card*.
+
+See also [video card]().
+
 ## Gravatar
 
 Acronym for *Globally Recognized Avatar*. Capitalize.
