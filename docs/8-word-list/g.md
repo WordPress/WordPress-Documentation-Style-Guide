@@ -155,6 +155,26 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 See also [video card]().
 
 ## graphic, graphics, graphical
+
+As a noun, use *graphic* or *graphics* to refer to one or more computer-generated images such as pictures and charts used for illustration or visual representation.
+
+**Example**  
+
+[tip] **Recommended:** Select the graphic you want to display. [/tip]  
+
+As an adjective, use *graphic* to refer to the field of visual art. Use *graphics* to refer to software or hardware used to generate computer-generated images such as pictures and charts.
+
+**Examples**  
+
+[tip] **Recommended:** The website implements intuitive graphic design. [/tip]  
+[tip] **Recommended:** This website uses the latest graphics software. [/tip]  
+
+Generally, use *graphical* as an adjective to refer to visual art.
+
+**Example**  
+
+[tip] **Recommended:** You can include a graphical representation, such as a picture or chart, on your website. [/tip]  
+
 ## graphics adapter, graphics card
 
 Don't use. Instead, use *video card*.
@@ -165,12 +185,28 @@ See also [video card]().
 
 Acronym for *Globally Recognized Avatar*. Capitalize.
 
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## gray
 
 Not *grey*.
 
 ## grayed, grayed out
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+Don't use *grayed* or *grayed out* to describe UI elements that are in an unusable state; instead, use *not available* or *unusable*. If you have to use a descriptor, use *dimmed* or *appears dimmed*.
+
+See also [disabled](), [disable, disabled](), [unavailable]().
+
+For more information, see [UI elements](ui-elements.md).
+
 ## greater
+
+Don't use *greater* or *better* to mean *or later* when describing multiple versions of programs or apps.
+
+See also [later]().
+
 ## GTE
 
 Initialism for *General Translation Editor*. Use uppercase.
