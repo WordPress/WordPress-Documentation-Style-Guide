@@ -44,17 +44,19 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## kbps (kbit/s), Kbps (Kbit/s), kilobits per second
 
-Abbreviation for *kilobits per second*.
+Initialism for *kilobits per second*.
 
 For more information, see [Units of measurement]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [kbit, Kbit, kilobit](#kbit-kbit-kilobit).
 
 ## kBps (kB/s), KBps (KB/s), kilobytes per second
 
-Abbreviation for *kilobytes per second*.
+Initialism for *kilobytes per second*.
 
 For more information, see [Units of measurement]().
+For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [kB, KB, kilobyte](#kB-kb-kilobyte).
 
@@ -86,6 +88,10 @@ One word. Not *key stroke* or *key-stroke*.
 ## key-value pair
 
 Hyphenate. Not *key value* or *key/value pair*.
+
+## kHz, kilohertz
+
+
 
 ## kill
 
