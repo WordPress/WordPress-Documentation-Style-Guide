@@ -53,25 +53,25 @@ For more information about a specific guideline, visit the link.
 
 ## Formatting
 
-- [Use the *day of week, month dd, year* date format to express dates](//dates-times.md).
-- [Express time in the 12-hour format and always include *AM* and *PM*](//dates-times.md). [Use Coordinated Universal Time (UTC) and always include the time zone for real times](//dates-times.md).
-- [Write unbiased examples without revealing personally identifiable information](//examples.md).
-- [Use all-lowercase filenames and separate words in filenames with hyphens](//filenames.md).
-- [Avoid writing footnotes in documentation](//footnotes.md).
-- [Use sentence case for headings, and follow proper heading hierarchy](//headings.md).
-- [Use italics to emphasize or introduce a particular word or phrase in your content](//key-terms.md).
-- [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data](//lists.md).
-- [Use SVG or PNG files and provide alt text for images](//media.md).
-- [Use notices to warn, alert, notify, or provide useful information to the reader](//notices.md).
-- [Spell out whole numbers from zero through nine. Follow proper formatting for numbers](//numbers.md).
-- [Use a warning notice type to mark content as outdated](//obsolete-content.md).
-- [Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers](//phone-numbers.md).
-- [Use procedures to provide a sequence of numbered steps or instructions for achieving a particular task](//procedures.md).
-- [Use tables to present lengthy and complex pieces of data that are related, in a well-structured format](//tables.md).
-- [Maintain consistent type and text formatting](//text.md).
-- [Follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks](//trademarks.md).
-- [Insert a nonbreaking space between the number and a unit of measurement](//units-of-measurement.md).
-- [Italicize words used as words](//words-as-words.md).
+- [Use the *day of week, month dd, year* date format to express dates](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
+- [Express time in the 12-hour format and always include *AM* and *PM*](https://make.wordpress.org/docs/style-guide/formatting/dates-times/). [Use Coordinated Universal Time (UTC) and always include the time zone for real times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
+- [Write unbiased examples without revealing personally identifiable information](https://make.wordpress.org/docs/style-guide/formatting/examples/).
+- [Use all-lowercase filenames and separate words in filenames with hyphens](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
+- [Avoid writing footnotes in documentation](https://make.wordpress.org/docs/style-guide/formatting/footnotes/).
+- [Use sentence case for headings, and follow proper heading hierarchy](https://make.wordpress.org/docs/style-guide/formatting/headings/).
+- [Use italics to emphasize or introduce a particular word or phrase in your content](https://make.wordpress.org/docs/style-guide/formatting/key-terms/).
+- [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data](https://make.wordpress.org/docs/style-guide/formatting/lists/).
+- [Use SVG or PNG files and provide alt text for images](https://make.wordpress.org/docs/style-guide/formatting/media/).
+- [Use notices to warn, alert, notify, or provide useful information to the reader](https://make.wordpress.org/docs/style-guide/formatting/notices/).
+- [Spell out whole numbers from zero through nine. Follow proper formatting for numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
+- [Use a warning notice type to mark content as outdated](https://make.wordpress.org/docs/style-guide/formatting/obsolete-content/).
+- [Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers](https://make.wordpress.org/docs/style-guide/formatting/phone-numbers/).
+- [Use procedures to provide a sequence of numbered steps or instructions for achieving a particular task](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
+- [Use tables to present lengthy and complex pieces of data that are related, in a well-structured format](https://make.wordpress.org/docs/style-guide/formatting/tables/).
+- [Maintain consistent type and text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
+- [Follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks](https://make.wordpress.org/docs/style-guide/formatting/trademarks/).
+- [Insert a nonbreaking space between the number and a unit of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+- [Italicize words used as words](https://make.wordpress.org/docs/style-guide/formatting/words-as-words/).
 
 ## Linking
 
