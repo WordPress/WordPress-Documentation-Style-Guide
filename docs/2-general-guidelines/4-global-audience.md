@@ -4,7 +4,7 @@ WordPress is a global project, with its developer community and users spanning t
 
 Both developer and end-user WordPress documentation is written in US English. Just about [half of WordPress installs](https://wordpress.org/about/stats/) are in non-English locales. It is presumable that your documentation would be read by developers and users whose primary language is not English. Hence, writing documentation considering internationalization, localization, and translation is essential.
 
-## What is internationalization, localization and translation?
+## What is internationalization, localization, and translation?
 
 Internationalization and localization (commonly abbreviated as *i18n* and *l10n* respectively) are terms used to describe the effort to make WordPress (and other such projects) available in languages other than the source, or original, language for people from different locales, who have different dialects and local preferences.
 
