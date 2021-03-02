@@ -37,19 +37,19 @@ For more information about a specific guideline, visit the link.
 
 ## Punctuation
 
-- [Use straight apostrophes](//apostrophes.md).
-- [Use colons to initiate closely-related content that follows](//colons.md).
-- [Use commas to separate items in a series, and to separate certain kinds of clauses](/commas.md). [Use serial commas](commas.md).
-- [Use an em dash, to set off a break in the flow of a sentence](//dashes.md). [Use an en dash to indicate a range of numbers, the minus sign, or negative numbers](//dashes.md).
-- [Avoid using ellipses, in general](//ellipses.md).
-- [Only use exclamation points unless absolutely needed, except in code examples](//exclamation-points.md).
-- [Hyphenate words only when needed for clarity](//hyphens.md).
-- [Use parentheses sparingly](//parentheses.md).
-- [End all independent sentences with a period, and insert one space after the period](//periods.md).
-- [Use questions sparingly](//question-marks.md).
-- [Use straight double quotation marks](//quotation-marks.md).
-- [Use semicolons to separate independent clauses](//semicolons.md).
-- [Avoid using slashes except in code examples, file paths, and URLs](//slashes.md).
+- [Use straight apostrophes](https://make.wordpress.org/docs/style-guide/punctuation/apostrophes/).
+- [Use colons to initiate closely-related content that follows](https://make.wordpress.org/docs/style-guide/punctuation/colons/).
+- [Use commas to separate items in a series, and to separate certain kinds of clauses](/commas.md). [Use serial commas](https://make.wordpress.org/docs/style-guide/punctuation/commas/).
+- [Use an em dash, to set off a break in the flow of a sentence](https://make.wordpress.org/docs/style-guide/punctuation/dashes/). [Use an en dash to indicate a range of numbers, the minus sign, or negative numbers](https://make.wordpress.org/docs/style-guide/punctuation/dashes/).
+- [Avoid using ellipses, in general](https://make.wordpress.org/docs/style-guide/punctuation/ellipses/).
+- [Only use exclamation points unless absolutely needed, except in code examples](https://make.wordpress.org/docs/style-guide/punctuation/exclamation-points/).
+- [Hyphenate words only when needed for clarity](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+- [Use parentheses sparingly](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/).
+- [End all independent sentences with a period, and insert one space after the period](https://make.wordpress.org/docs/style-guide/punctuation/periods/).
+- [Use questions sparingly](https://make.wordpress.org/docs/style-guide/punctuation/question-marks/).
+- [Use straight double quotation marks](https://make.wordpress.org/docs/style-guide/punctuation/quotation-marks/).
+- [Use semicolons to separate independent clauses](https://make.wordpress.org/docs/style-guide/punctuation/semicolons/).
+- [Avoid using slashes except in code examples, file paths, and URLs](https://make.wordpress.org/docs/style-guide/punctuation/slashes/).
 
 ## Formatting
 
