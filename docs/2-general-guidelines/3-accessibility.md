@@ -1,4 +1,4 @@
-# Accessibility Guidelines
+# Accessibility guidelines
 
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
@@ -14,7 +14,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Take a pragmatic approach to HTML semantics. Don’t add semantics purely for the sake of semantics; but if there is an HTML structure that clearly matches the content, use that element. For example, if you have a group of links, it should most likely use a list element.
 - Use simple tables and tabular formats. Avoid span tags (such as `rowspan` and `colspan`). Tables prove to be difficult for screen readers.
 
-## Text Accessibility
+## Text accessibility
 
 - Use concise and simple sentences.
 - Avoid camel case and all caps text; follow [capitalization]() guidelines.
@@ -28,7 +28,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Define and spell out symbols, abbreviations or acronyms.
 - Don't limit the reader to forcefully open links in a new tab. When a link opens in a new tab, the user may lose the ability to go back in the browser. If the links do open in a new tab, indicate it using text or an icon.
 
-## Media Accessibility
+## Media accessibility
 
 - Provide clear alternative descriptions for images.
   - Anything that the reader needs to know or do, must be in text as well.
@@ -39,14 +39,14 @@ The WordPress community and the open source WordPress project is committed to be
 - Avoid auto-playing media. Provide controls to start, stop, and pause media.
 - Don't use flickering or flashing elements. Using them can cause seizures and/or motion sickness.
 
-## UI Accessibility
+## UI accessibility
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and ways to fix them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
 - Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on [aria-label]().
 
-## Document Rendering
+## Document rendering
 
 - Consider that your document will be used on a multitude of devices.
 - Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
@@ -59,7 +59,7 @@ The WordPress community and the open source WordPress project is committed to be
   - With screen magnification
   - Without punctuation
 
-## Additional Resources
+## Additional resources
 
 - [WordPress Accessibility About page](https://wordpress.org/about/accessibility/)
 - [WordPress Accessibility Team Homepage](https://make.wordpress.org/accessibility/)
