@@ -38,7 +38,7 @@
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/2-style-voice-tone.md"
 	},
 	"general-guidelines/accessibility": {
-		"title": "Accessibility guidelines",
+		"title": "Accessibility",
 		"parent": "general-guidelines",
 		"slug": "accessibility",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/3-accessibility.md"

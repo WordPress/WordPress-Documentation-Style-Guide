@@ -1,4 +1,4 @@
-# Accessibility guidelines
+# Accessibility
 
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
@@ -51,7 +51,7 @@ The WordPress community and the open source WordPress project is committed to be
 - Consider that your document will be used on a multitude of devices.
 - Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
 - Don't rely on color solely to convey documentation.
-- Similarly, ensure that  the document conveys all the information you intended when you view it in the following contexts:
+- Similarly, ensure that the document conveys all the information you intended when you view it in the following contexts:
   - Without sound
   - Using only sound
   - Without color
