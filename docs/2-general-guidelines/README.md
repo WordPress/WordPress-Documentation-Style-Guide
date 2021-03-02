@@ -1,1 +1,1 @@
-# Document guidelines
+# General guidelines
