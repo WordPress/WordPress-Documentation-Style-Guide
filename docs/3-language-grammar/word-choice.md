@@ -1,4 +1,4 @@
-# Word Choice
+# Word choice
 
 Choose words that enhance readability and increase simplicity in your documentation.  
 For more information about writing simple, easy-to-understand documentation, see [Style and Tone]().
