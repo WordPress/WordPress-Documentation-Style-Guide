@@ -98,11 +98,11 @@
 		"slug": "capitalization",
 		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/capitalization.md"
 	},
-	"language-grammar/clause": {
-		"title": "Clause",
+	"language-grammar/clauses": {
+		"title": "Clauses",
 		"parent": "language-grammar",
-		"slug": "clause",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/clause.md"
+		"slug": "clauses",
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/clauses.md"
 	},
 	"language-grammar/contractions": {
 		"title": "Contractions",
