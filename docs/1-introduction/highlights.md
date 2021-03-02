@@ -83,14 +83,14 @@ For more information about a specific guideline, visit the link.
 
 ## Developer content
 
-- [Use code blocks, preformatted text, and code fences to write code examples](//code-examples.md).
-- [Insert code-related content in monospace code font](//code-in-text.md).
-- [Follow WordPress coding standards](//coding-standards.md).
-- [Follow proper command-line syntax and formatting](//command-line-syntax.md).
-- [Enclose placeholders in a `<var>` element and use uppercase characters with underscore delimiters](//placeholders.md).
-- [Emphasize on the task to be accomplished, rather than how the user should interact with the UI element](//ui-elements.md).
-- [Format UI element names in bold, and use appropriate nouns and verbs to describe how to interact with them](//ui-elements.md).
+- [Use code blocks, preformatted text, and code fences to write code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/).
+- [Insert code-related content in monospace code font](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/).
+- [Follow WordPress coding standards](https://make.wordpress.org/docs/style-guide/developer-content/coding-standards/).
+- [Follow proper command-line syntax and formatting](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
+- [Enclose placeholders in a `<var>` element and use uppercase characters with underscore delimiters](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
+- [Emphasize on the task to be accomplished, rather than how the user should interact with the UI element](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+- [Format UI element names in bold, and use appropriate nouns and verbs to describe how to interact with them](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## Word list and usage dictionary
 
-- [Refer the word list for spellings and word usage guidelines for specific words]().
+- [Refer the word list for spellings and word usage guidelines for specific words](https://make.wordpress.org/docs/style-guide/word-list/).
