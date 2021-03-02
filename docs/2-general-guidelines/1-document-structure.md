@@ -5,13 +5,13 @@
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Use concise and simple sentence structures. Ensure that your tone is succinct, natural, and friendly towards the reader.  
 
-For more information, see [Accessibility]().
+For more information, see the [Accessibility guidelines](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/).
 
 ## Text formatting
 
 - Use consistent typographic formatting and font sizes for your documentation.
 - Use bold formatting for word emphasis and UI elements. Additionally, use italics formatting for names, terminology, etc.
-- For more information, see the [Formatting]() and [Accessibility]() sections.
+- For more information, see [Accessibility guidelines](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/) and the [Formatting](https://make.wordpress.org/docs/style-guide/formatting/) section.
 
 ## Encoding
 
