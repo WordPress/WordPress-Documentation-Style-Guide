@@ -17,23 +17,23 @@ For more information about a specific guideline, visit the link.
 
 ## Language and grammar
 
-- [Spell out and declare abbreviations whenever they are used for the first time. Avoid internet slang and jargon](//abbreviations.md).
-- [Include definite and indefinite articles in your documentation](//articles.md).
-- [Follow standard American (US) English capitalization rules. In general, use sentence case capitalization](//capitalization.md).
-- [Put conditional clauses before instructions, not after](//clauses.md).
-- [In most cases, using contractions is completely acceptable, but be watchful of some exceptions](//contractions.md).
-- [In general, use indirect speech](//direct-indirect-speech.md).
-- [In general, use second person](//grammatical-person.md).
-- [Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs](//nouns.md).
-- [Pluralize a singular noun by adding *-s* at the end](//plurals.md).
-- [To form a singular possessive, add an *apostrophe-s*](//possesives.md).
-- [Don't use three or more affixes in a single word](//prefixes-suffixes.md).
-- [Use prepositions as needed, even at the ends of sentences](//prepositions.md).
-- [Ensure that a pronoun clearly refers to its antecedent](//pronouns.md).
-- [In general, write in present tense rather than future tense](//tense.md).
-- [Use precise verbs to write clear, succinct sentences](//verbs.md).
-- [In general, use active voice rather than passive voice](//voice.md).
-- [Use common and simple technical terms that can be understood by the majority of readers](//word-choice.md).
+- [Spell out and declare abbreviations whenever they are used for the first time. Avoid internet slang and jargon](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+- [Include definite and indefinite articles in your documentation](https://make.wordpress.org/docs/style-guide/language-grammar/articles/).
+- [Follow standard American (US) English capitalization rules. In general, use sentence case capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/).
+- [Put conditional clauses before instructions, not after](https://make.wordpress.org/docs/style-guide/language-grammar/clauses/).
+- [In most cases, using contractions is completely acceptable, but be watchful of some exceptions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/).
+- [In general, use indirect speech](https://make.wordpress.org/docs/style-guide/language-grammar/direct-indirect-speech/).
+- [In general, use second person](https://make.wordpress.org/docs/style-guide/language-grammar/grammatical-person/).
+- [Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs](https://make.wordpress.org/docs/style-guide/language-grammar/nouns/).
+- [Pluralize a singular noun by adding *-s* at the end](https://make.wordpress.org/docs/style-guide/language-grammar/plurals/).
+- [To form a singular possessive, add an *apostrophe-s*](https://make.wordpress.org/docs/style-guide/language-grammar/possessives/).
+- [Don't use three or more affixes in a single word](https://make.wordpress.org/docs/style-guide/language-grammar/prefixes-suffixes/).
+- [Use prepositions as needed, even at the ends of sentences](https://make.wordpress.org/docs/style-guide/language-grammar/prepositions/).
+- [Ensure that a pronoun clearly refers to its antecedent](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/).
+- [In general, write in present tense rather than future tense](https://make.wordpress.org/docs/style-guide/language-grammar/tense/).
+- [Use precise verbs to write clear, succinct sentences](https://make.wordpress.org/docs/style-guide/language-grammar/verbs/).
+- [In general, use active voice rather than passive voice](https://make.wordpress.org/docs/style-guide/language-grammar/voice/).
+- [Use common and simple technical terms that can be understood by the majority of readers](https://make.wordpress.org/docs/style-guide/language-grammar/word-choice/).
 
 ## Punctuation
 
