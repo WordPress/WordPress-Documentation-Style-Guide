@@ -1,4 +1,4 @@
-# Document Layout
+# Document layout
 
 - Don't write walls of text in your documentation. Follow a defined structure throughout your documentation.
 - Break up long pages of text into paragraphs, lists, and illustrations. Use proper heading hierarchy.
@@ -7,7 +7,7 @@
 
 For more information, see [Accessibility]().
 
-## Text Formatting
+## Text formatting
 
 - Use consistent typographic formatting and font sizes for your documentation.
 - Use bold formatting for word emphasis and UI elements. Additionally, use italics formatting for names, terminology, etc.
