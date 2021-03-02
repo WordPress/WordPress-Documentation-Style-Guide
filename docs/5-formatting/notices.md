@@ -1,4 +1,6 @@
-# Cautions, warnings, notes, and other notices
+# Notices
+
+## Cautions, warnings, notes, and other notices
 
 To warn, alert, notify, or provide useful information to the reader that isn't part of the flow of text or needs to be highlighted, use one of the following notice types:
 
@@ -21,7 +23,7 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
   **Example**  
 
-  [alert] **Caution:** Using a deprecated version may cause  [/alert]  
+  [alert] **Caution:** Using a deprecated version may cause different outcomes. [/alert]  
 
 - **Warning**  
   When something is particularly precarious use this notice type with the `[warning][/warning]` short code. A warning is generally stricter and more rigid than a caution.
