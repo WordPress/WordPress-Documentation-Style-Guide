@@ -6,7 +6,7 @@ The WordPress community and the open source WordPress project is committed to be
 
 - Emphasize the reader rather than underlining their inconveniences.
   - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
-  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). Read more about [Inclusivity]().
+  - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). For more information, see [Writing inclusive documentation](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Consider multi-platform accessibility for all types of devices and operating systems.
 - Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc.
@@ -17,8 +17,8 @@ The WordPress community and the open source WordPress project is committed to be
 ## Text accessibility
 
 - Use concise and simple sentences.
-- Avoid camel case and all caps text; follow [capitalization]() guidelines.
-- Don't format fonts unnecessarily. More information on [Text Formatting]().
+- Avoid camel case and all caps text; follow [capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/) guidelines.
+- Don't format fonts unnecessarily. For more information, see [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
 - Use proper heading hierarchy. The H1 is the main heading representing the page title on every page or post (article). For subsections, use a correct HTML, Markdown, or relevant heading structure — including the use of heading elements for page subsections. Heading markup should not be used for presentational purposes.
   - Use H2 through H6 to give internal structure to the page.
   - Don’t skip heading levels.
