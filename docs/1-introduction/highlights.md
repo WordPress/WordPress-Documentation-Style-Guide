@@ -75,11 +75,11 @@ For more information about a specific guideline, visit the link.
 
 ## Linking
 
-- [Write detailed and expressive link text that provides context](//link-text.md).
-- [Use cross-references to guide readers to related information](//cross-references.md).
-- [*`External linking`*](//external-links.md).
-- [Use heading anchors](//heading-targets.md).
-- [Use root-relative URLs for image links](//image-links.md).
+- [Use cross-references to guide readers to related information](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
+- [*`External linking`*](https://make.wordpress.org/docs/style-guide/linking/external-links/).
+- [Use heading anchors](https://make.wordpress.org/docs/style-guide/linking/heading-targets/).
+- [Use root-relative URLs for image links](https://make.wordpress.org/docs/style-guide/linking/image-links/).
+- [Write detailed and expressive link text that provides context](https://make.wordpress.org/docs/style-guide/linking/link-text/).
 
 ## Developer content
 
