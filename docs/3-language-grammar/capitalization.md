@@ -1,6 +1,6 @@
 # Capitalization
 
-WordPress follows American (US) English capitalization rules. In general, sentence case capitalization is used. Sentence case capitalization means capitalizing the first word of a sentence or a phrase and the proper nouns.
+WordPress follows American (US) English capitalization rules. In general, sentence-case capitalization is used. Sentence case capitalization means capitalizing the first word of a sentence or a phrase and the proper nouns.
 
 ## General do's and don'ts
 
@@ -23,9 +23,9 @@ Lowercase all other words and terms. Don't end the title or heading with a perio
 
 When linking to a title, heading, or subheading as a reference from a document that follows this guide, use sentence-case capitalization even if the title or heading itself uses title case. That way, when the title or heading is eventually updated to sentence case, the reference will match.
 
-In references to titles, headings, or subheadings that don't follow this guide or external sources, retain the original capitalization. For additional information about formatting third-party links, see [Formatting cross-references]().
+In references to titles, headings, or subheadings that don't follow this guide or external sources, retain the original capitalization. For additional information about formatting third-party links, see [Formatting cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/#formatting-cross-references).
 
-For more information about internal and external references, see [Cross-references]().
+For more information about internal and external references, see [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
 
 ## Capitalization in indexes and glossaries
 
@@ -62,7 +62,7 @@ For words using a slash, capitalize the word after the slash if the word before 
 
 ## Title case capitalization
 
-Title case capitalization may be used at times, depending on the context. Title case capitalization is sometimes used in article, book, or blog titles, research paper titles, and titles of people (such as *Managing Director*). In most cases, sentence case capitalization is used.
+Title case capitalization may be used at times, depending on the context. Title case capitalization is sometimes used in article, book, or blog titles, research paper titles, and titles of people (such as *Managing Director*). In most cases, sentence-case capitalization is used.
 The general rules for title case capitalization are:
 - Capitalize the first and last words.
 - Capitalize all words including nouns, verbs, adverbs, adjectives, and pronouns.
@@ -71,4 +71,4 @@ The general rules for title case capitalization are:
 
 ## Additional resources
 
-[Purdue Online Writing Lab - Capitals](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html)
+- [Purdue Online Writing Lab - Capitals](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html)
