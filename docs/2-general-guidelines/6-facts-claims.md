@@ -1,4 +1,6 @@
-# Avoid excessive claims
+# Facts and claims
+
+## Avoid excessive claims
 
 Avoid making excessive claims about WordPress' products and services. Abide with proven facts as frequently as possible. If you are unsure about some details, research about it. Reach out to the respective people via the communication channels for further clarifications.
 
