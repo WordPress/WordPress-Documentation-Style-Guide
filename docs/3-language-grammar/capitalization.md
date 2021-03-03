@@ -69,6 +69,6 @@ The general rules for title case capitalization are:
 - Don't capitalize articles (*a*, *an*, *the*) unless it's the first word.
 - Don't capitalize prepositions such as *of, to, on, in, for*, etc. as long as they are four or fewer lettered words. Don't capitalize *but, or, yet*, etc. unless it's the first or last word.
 
-## Additional Resources
+## Additional resources
 
 [Purdue Online Writing Lab - Capitals](https://owl.purdue.edu/owl/general_writing/mechanics/help_with_capitals.html)
