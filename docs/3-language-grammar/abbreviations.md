@@ -16,7 +16,7 @@ Abbreviations include acronyms, initialisms, contractions, and shortened phrases
   - *I'm - I am*
   - *they've - they have*
   - *wanna - want to*
-  - Additional information about [Contractions]().
+  - For more information, see [Contractions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/).
 - A shortened word or phrase which is part of the word or phrase, but condensed; sometimes with a period at the end.
   - *Dr. - Doctor*
   - *Rd. - Road*
@@ -55,7 +55,7 @@ The article (*a* or *an*) that goes along with an abbreviation depends on whethe
 
 ## Capitalization
 
-Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. On the contrary, the *DOT - Department of Transportation* includes an *of* in its abbreviation while also capitalizing it. Therefore, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the [A-Z Word List]() for more information.
+Lowercase all the words in the spelled-out form except for the proper nouns. Words like *as*, *of*, *the*, in abbreviations are rarely capitalized - sometimes not even included in the abbreviations. For example, *NASA - National Aeronautics and Space Administration* doesn't include *and* in its abbreviation. On the contrary, the *DOT - Department of Transportation* includes an *of* in its abbreviation while also capitalizing it. Therefore, confirm the abbreviation and its spelled-out form for the concerned terms. Refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/) for more information.
 
 ## Periods
 

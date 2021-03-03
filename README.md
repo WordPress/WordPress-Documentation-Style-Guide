@@ -53,9 +53,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 
 | Component                                         | Status |
 |---------------------------------------------------|--------|
-| Abbreviations and acronyms                        |   ✔️ (⚠️ while publishing)   |
+| Abbreviations and acronyms                        |   ✔️   |
 | Affirmation and negation                          |   ❌   |
-| Articles                                          |   ✔️ (⚠️ while publishing)   |
+| Articles                                          |   ✔️   |
 | Capitalization                                    |   ✔️ (⚠️ while publishing)   |
 | Clause                                            |   ✔️   |
 | Contractions (New component)                      |   ✔️ (⚠️ while publishing)   |
