@@ -11,7 +11,7 @@ Avoid using personal pronouns such as *I, we, us, our,* and *ours* except in the
 
 Use second person (*you*) instead of first-person pronouns.
 
-## Pronouns and genders
+## Pronouns and genders {:#pronouns-genders}
 
 Don't use gender-specific pronouns unless the person being referred actually uses that gender. If you're unsure which gender-specific pronoun to use, rewrite the sentence using second person (*you*).
 
