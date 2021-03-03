@@ -64,9 +64,9 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Glossary                                          |   (Moved to Word Usage Dictionary)   |
 | Grammatical person                                |   ✔️   |
 | Nouns                                             |   ✔️ (⚠️ while publishing)   |
-| Plurals (New component)                           |   ✔️ (⚠️ while publishing)   |
+| Plurals (New component)                           |   ✔️   |
 | Possessives (New component)                       |   ✔️   |
-| Prefixes and suffixes                             |   ✔️ (⚠️ while publishing)   |
+| Prefixes and suffixes                             |   ✔️   |
 | Prepositions                                      |   ✔️   |
 | Pronouns                                          |   ✔️   |
 | Referencing                                       |   ✔️ (Moved to Formatting)   |

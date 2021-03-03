@@ -1,5 +1,7 @@
 # Plurals
 
+## Plurals and nouns
+
 If a singular noun ends without an *-s*, add an *s* at the end to get its plural form. If a singular noun ends with an *-s, -ss, -sh, -ch, -x, or -z*, add an *es* at the end to get its plural from. Additional information on plurals and their exceptions can be found [on Wikipedia](https://wikipedia.org/wiki/English_plurals).
 - computer - *computers*
 - page - *pages*
@@ -21,7 +23,7 @@ Don't use apostrophes to form plurals of abbreviations. The plural of an abbrevi
 - CMSs
 - IDEs  
 
-For additional information, see [Abbreviations]().
+For additional information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Plurals and symbols
 
