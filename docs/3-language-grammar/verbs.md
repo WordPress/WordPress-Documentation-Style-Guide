@@ -1,7 +1,7 @@
 # Verbs
 
-Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For additional information, refer [Voice]().  
-Also, write in present tense rather than future tense. For additional information, refer [Tense]().
+Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For more information, see [Voice](https://make.wordpress.org/docs/style-guide/language-grammar/voice/).  
+Also, write in present tense rather than future tense. For more information, see [Tense](https://make.wordpress.org/docs/style-guide/language-grammar/tense/).
 
 ## Verb forms in reference documentation
 
@@ -17,7 +17,7 @@ Usually, the only difference between the two verb forms is an *-s* at the end of
 
 Don't use verbs as nouns or nouns as verbs.
 
-For additional information, see [Verbs as nouns](//nouns.md).
+For more information, see [Verbs as nouns](https://make.wordpress.org/docs/style-guide/language-grammar/nouns/#verbs-as-nouns).
 
 ## Moods of verbs
 
