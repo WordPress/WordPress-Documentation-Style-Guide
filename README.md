@@ -1,6 +1,6 @@
 # WordPress Documentation Style Guide
 
-The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) for 2020.  
+The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic) for 2020.  
 **⚠️ The Style Guide is currently under development.**
 
 - Technical writer: Atharva Dhekne ([@tacitonic](https://github.com/tacitonic))

@@ -10,7 +10,7 @@ This section shows recent updates and changes to the WordPress Style Guide.
 |----------|-------------|-----------------|
 | **xx-xx-2021** | <code><var>PAGE_NAME</code></var> | Updated title. |
 
-## Release History
+## Release history
 
 | **Date** | **Description** |
 |----------|-----------------|

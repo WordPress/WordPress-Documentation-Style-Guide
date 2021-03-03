@@ -22,20 +22,20 @@ First try to rewrite the sentence—for example, by using the plural form, omitt
 
 **Examples**
 
-[warning] **Not recommended:** Contact the administrator using his or her email address. [/warning]
-[tip] **Recommended (Using the plural form):** Contact the administrator using their email address. [/tip]
-[tip] **Recommended (Omitting the pronoun):** Contact the administrator by email address. [/tip]
-[tip] **Recommended (Replacing pronoun with article):** Contact the administrator using an email address. [/tip]
-[tip] **Recommended (Repeating the noun):** Contact the administrator using the administrator's email address. [/tip]
+[warning] **Not recommended:** Contact the administrator using his or her email address. [/warning]  
+[tip] **Recommended (Using the plural form):** Contact the administrator using their email address. [/tip]  
+[tip] **Recommended (Omitting the pronoun):** Contact the administrator by email address. [/tip]  
+[tip] **Recommended (Replacing pronoun with article):** Contact the administrator using an email address. [/tip]  
+[tip] **Recommended (Repeating the noun):** Contact the administrator using the administrator's email address. [/tip]  
 
 If revising a sentence isn’t feasible, use *they, their,* or *them* as a singular, gender-neutral pronoun.
 
-[warning] **Not recommended:** Once a visitor submits his or her comment, WordPress follows your preferences and either holds the comment for your approval or posts it immediately. [/warning]
-[tip] **Recommended:** Once a visitor submits their comment, WordPress follows your preferences and either holds the comment for your approval, or posts it immediately. [/tip]
+[warning] **Not recommended:** Once a visitor submits his or her comment, WordPress follows your preferences and either holds the comment for your approval or posts it immediately. [/warning]  
+[tip] **Recommended:** Once a visitor submits their comment, WordPress follows your preferences and either holds the comment for your approval, or posts it immediately. [/tip]  
 
 Whether used as singular or plural, *they* always takes the plural verb.
 
-[tip] **Recommended:** When visitors comment on your blog, they too get cookies stored on their computer. [/tip]
+[tip] **Recommended:** When visitors comment on your blog, they too get cookies stored on their computer. [/tip]  
 
 For more guidelines about writing using gender-neutral pronouns, see [Writing about genders](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#writing-about-genders) and [they, their, them](https://make.wordpress.org/docs/style-guide/word-list/t/#they-their-them).
 
@@ -83,10 +83,10 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 [tip] **Recommended:** Create a new post with the plugin, You can see the post on the blog page. [/tip]  
 
 [warning] **Not recommended:** The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/. [/warning]  
-[tip] **Recommended:** The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]
+[tip] **Recommended:** The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]  
 
 [warning] **Not recommended:** Toggle this to *on.* [/warning]  
-[tip] **Recommended:** Toggle this button to *on.* [/tip]
+[tip] **Recommended:** Toggle this button to *on.* [/tip]  
 
 Use optional pronouns, such as that and who, to avoid ambiguity and clarify meaning in sentences.
 
