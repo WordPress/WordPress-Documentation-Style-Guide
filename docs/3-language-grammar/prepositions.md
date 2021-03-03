@@ -5,9 +5,9 @@ Avoid prepositions that complicate sentences unnecessarily.
 
 **Examples**  
 
-- Select the block you want the text to be copied to.
-- For further information, refer the handbook that the article links to.
-- Find the directory that you want the content to be extracted from.
+[tip] **Recommended:** Select the block you want the text to be copied to. [/tip]  
+[tip] **Recommended:** For further information, refer the handbook that the article links to. [/tip]  
+[tip] **Recommended:** Find the directory that you want the content to be extracted from. [/tip]  
 
 ## Prepositional phrases
 
@@ -15,6 +15,6 @@ A prepositional phrase consists of a preposition and the words that follow it. I
 
 **Example**  
 
-- The preview shows how the page will look on the front end.
+[tip] **Recommended:** The preview shows how the page will look on the front end. [/tip]  
 
 Avoid making long prepositional phrases. Long prepositional phrases are difficult to read and interpret.
