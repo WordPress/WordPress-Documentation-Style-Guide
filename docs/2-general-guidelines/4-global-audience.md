@@ -37,7 +37,7 @@ Translation is simply changing the language of the content to another language. 
 
 ## Additional resources
 
-[WordPress Polyglots Homepage](https://make.wordpress.org/polyglots/)  
-[WordPress Polyglots Handbook](https://make.wordpress.org/polyglots/handbook/)  
-[Translating WordPress Homepage](http://translate.wordpress.org/)  
-[Getting involved with WordPress translation](https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/)  
+- [WordPress Polyglots Homepage](https://make.wordpress.org/polyglots/)  
+- [WordPress Polyglots Handbook](https://make.wordpress.org/polyglots/handbook/)  
+- [Translating WordPress Homepage](http://translate.wordpress.org/)  
+- [Getting involved with WordPress translation](https://make.wordpress.org/polyglots/handbook/about/get-involved/first-steps/)  
