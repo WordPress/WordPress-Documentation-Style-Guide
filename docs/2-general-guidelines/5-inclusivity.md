@@ -9,7 +9,7 @@ Write documentation that is unbiased towards the reader and any kind of person i
 While writing unbiased documentation:
 - Be inclusive of gender identity, race, culture, ability, age, sexual orientation, and socioeconomic class. Include a wide variety of professions, educational settings, locales, and economic settings in examples.
 - Avoid politicized content. In case political content is to be included, remain neutral.
-- Follow [Accessibility]() guidelines.
+- Follow [accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/) guidelines.
 - Avoid content that would insult or cause harm to people.
 - Don't make any generalizations about people, countries, and cultures, not even positive or neutral generalizations.
 - Don't write prejudiced and discriminatory content against minority communities.

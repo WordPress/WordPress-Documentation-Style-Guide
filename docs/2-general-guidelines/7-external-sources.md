@@ -13,7 +13,7 @@ Don't copy content from external sources because it might infringe copyright. In
 
 ## Avoiding third-party content
 
-Avoid copying third-party content, unless you're sure that you or your organization own the assets, or the rights to use those assets. However, you can reference external third-party content by linking to it. For additional information about linking to other sites, see [External links]().
+Avoid copying third-party content, unless you're sure that you or your organization own the assets, or the rights to use those assets. However, you can reference external third-party content by linking to it. For additional information about linking to other sites, see [External links](https://make.wordpress.org/docs/style-guide/linking/external-links/).
 
 Avoid copying content from these sources:
 - Third-party sources: Avoid copying from third-party sources which include but are not limited to documentation, websites, books, images, videos, papers, blogs, podcasts, and other works.
