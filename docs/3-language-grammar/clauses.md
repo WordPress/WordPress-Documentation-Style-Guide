@@ -9,11 +9,11 @@ In this particular example, the reader would have to read the entire sentence to
 
 **Examples**    
 
-[warning] **Not recommended:** Click **Install** if you want to install the plugin.  [/warning]  
+[warning] **Not recommended:** Click **Install** if you want to install the plugin. [/warning]  
 [tip] **Recommended:** To install the plugin, click **Install**. [/tip]
 
 [warning] **Not recommended:** WordPress will need write access to the `.htaccess` file if you want to update it automatically. [/warning]  
 [tip] **Recommended:** If you want WordPress to update the `.htaccess` file automatically, WordPress will need write access to the file. [/tip]
 
-[warning] **Not recommended:** Refer https://wordpress.org/about/accessibility/ for more information on accessibility. [/warning]  
-[tip] **Recommended:** For more information on accessibility, refer https://wordpress.org/about/accessibility/. [/tip]
+[warning] **Not recommended:** See https://wordpress.org/about/accessibility/ for more information on accessibility. [/warning]  
+[tip] **Recommended:** For more information on accessibility, see https://wordpress.org/about/accessibility/. [/tip]
