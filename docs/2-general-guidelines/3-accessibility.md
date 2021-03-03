@@ -8,6 +8,7 @@ The WordPress community and the open source WordPress project is committed to be
   - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
   - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). For more information, see [Writing inclusive documentation](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
+- Use a screen reader to test your documentation. To test a screen reader, see [List of screen readers](https://wikipedia.org/wiki/List_of_screen_readers).
 - Consider multi-platform accessibility for all types of devices and operating systems.
 - Document all types of input devices such as voice and gesture based devices, controllers, mice, and keyboards. Avoid conventional verbs like *click*, *type*, and *touch/swipe* for interaction. Use inclusive verbs like *input*, *select*, etc.
 - Don't use ableist language. Be inclusive and unbiased while writing about accessibility and disability.
@@ -28,6 +29,8 @@ The WordPress community and the open source WordPress project is committed to be
 - Define and spell out symbols, abbreviations or acronyms.
 - Don't limit the reader to forcefully open links in a new tab. When a link opens in a new tab, the user may lose the ability to go back in the browser. If the links do open in a new tab, indicate it using text or an icon.
 
+For more information, see [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
+
 ## Media accessibility
 
 - Provide clear alternative descriptions for images.
@@ -39,17 +42,21 @@ The WordPress community and the open source WordPress project is committed to be
 - Avoid auto-playing media. Provide controls to start, stop, and pause media.
 - Don't use flickering or flashing elements. Using them can cause seizures and/or motion sickness.
 
+For more information, see [Media](https://make.wordpress.org/docs/style-guide/formatting/media/).
+
 ## UI accessibility
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and ways to fix them.
 - Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. More on [aria-label]().
+- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. For more information, see [aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
+
+For more information, see [UI elements and interaction](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## Document rendering
 
 - Consider that your document will be used on a multitude of devices.
-- Use proper color combinations and contrast ratios, with a minimum ratio of 4.5:1. Certain colors and patterns may cause problems for some people.
+- Use proper color combinations and contrast ratios, with a [minimum ratio of 4.5:1](https://webaim.org/resources/contrastchecker/). Certain colors and patterns may cause problems for some people.
 - Don't rely on color solely to convey documentation.
 - Similarly, ensure that the document conveys all the information you intended when you view it in the following contexts:
   - Without sound
@@ -71,3 +78,4 @@ The WordPress community and the open source WordPress project is committed to be
 - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
 - [Authoring Tool Accessibility Guidelines (ATAG) 2.0](https://www.w3.org/TR/ATAG20/)
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/WAI/WCAG20/glance/)
+- [Using ARIA](https://www.w3.org/TR/using-aria/)
