@@ -46,7 +46,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Security                           |   ✔️   |
 | Sentence structure                 |   ✔️   |
 | Succinct writing                   |   ✔️   |
-| Tone and style                     |   ✔️ (⚠️ while publishing)   |
+| Tone and style                     |   ✔️   |
 | Unbiased                           |   ✔️   |
 
 ### Language and grammar ✔️
@@ -68,7 +68,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Possessives (New component)                       |   ✔️   |
 | Prefixes and suffixes                             |   ✔️ (⚠️ while publishing)   |
 | Prepositions                                      |   ✔️   |
-| Pronouns                                          |   ✔️ (⚠️ while publishing)   |
+| Pronouns                                          |   ✔️   |
 | Referencing                                       |   ✔️ (Moved to Formatting)   |
 | Slang and jargon                                  |   ✔️ (Moved to Word Choice)   |
 | Spellings                                         |   ✔️ (Moved to Word Choice)   |

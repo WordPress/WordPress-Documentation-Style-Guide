@@ -34,13 +34,13 @@ Not complying to these guidelines may result in increased document perplexity an
 - Proof-reading the document for the tone and structure.
 - Overall simplicity of the document.
 - Using transition words such as *moreover, although, hence,* and *therefore*.
-- Using [active voice](//voice.md) wherever possible.
-- Using [contractions]() such as *they've* and *don't*.
+- Using [active voice](https://make.wordpress.org/docs/style-guide/language-grammar/voice/) whenever possible.
+- Using [contractions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/) such as *they've* and *don't*.
 - Brief and concise sentences.
-- Using [second person](//grammatical-person.md) by keeping emphasis on the reader such as *you*.
+- Using [second person](https://make.wordpress.org/docs/style-guide/language-grammar/grammatical-person/#second-person) by keeping emphasis on the reader such as *you*.
 - Using conditional phrases.
-- Defining technical terms, jargon, and [abbreviations]().
-- Referring proven [research and facts](//facts-claims.md).
+- Defining technical terms, jargon, and [abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+- Referring proven [research and facts](https://make.wordpress.org/docs/style-guide/general-guidelines/facts-claims/).
 
 ## Tone for specific documentation types
 
