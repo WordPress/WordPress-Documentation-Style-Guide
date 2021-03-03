@@ -6,13 +6,13 @@ Update the changelog with an outline of significant changes to pages and compone
 
 This section shows recent updates and changes to the WordPress Style Guide.
 
-| Date | Article | Description |
-|------|---------|-------------|
+| **Date** | **Article** | **Description** |
+|----------|-------------|-----------------|
 | **xx-xx-2021** | <code><var>PAGE_NAME</code></var> | Updated title. |
 
 ## Release History
 
-| Date | Description |
-|------|-------------|
+| **Date** | **Description** |
+|----------|-----------------|
 | **xx-xx-2021** | Initial Public Release |
 | **xx-xx-2021** | First Edition completed as part of [Google Season of Docs 2020](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) by Atharva Dhekne ([@tacitonic](https://github.com/tacitonic)). |

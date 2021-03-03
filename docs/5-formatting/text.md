@@ -59,8 +59,8 @@ For additional information, see [Capitalization](), [Headings](), [Procedures]()
 
 ### Formatting common text elements
 
-| Text element | Convention | Example |
-|--------------|------------|---------|
+| **Text element** | **Convention** | **Example** |
+|------------------|----------------|-------------|
 | Code and console output | Use code text. Refer [Code text](). | `alt="The WordPress mascot Wapuu."` |  
 | Company-, product-, brand-names, and trademarks | Title-style capitalization is generally used if there are two or more proper nouns. Refer [Trademarks](). | WordPress<br /><br />WordCamp Central  |
 | Emphasis | Sometimes it's acceptable to use italic text for emphasis. | Use the 24-hour format only when *absolutely* needed. |

@@ -26,8 +26,8 @@ Various words that are deemed to be non-inclusive are often used in documentatio
 
 [tip] **Recommended:** The comment blocklist (sometimes called a *blacklist*) shows blocked and spam comments. Comments that are not on the blocklist are published. [/tip]  
 
-| Recommended | Not Recommended |
-|-----------|-----------|
+| **Recommended** | **Not Recommended** |
+|-----------------|---------------------|
 | deny list, blocklist, disallowed, unapproved | blacklist |
 | allowlist, allowed, approved | whitelist |
 | main | master |
@@ -53,8 +53,8 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 
 **Examples**  
 
-| Recommended          | Not Recommended |
-|----------------------|-----------------|
+| **Recommended**      | **Not Recommended** |
+|----------------------|---------------------|
 | human-power, staff, personnel, workforce | manpower |
 | humankind, humanity, people | man, mankind |
 | operates, controls, utilizes | mans |
@@ -84,8 +84,8 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 
 ### Accessibility terminology
 
-| Recommended          | Not Recommended |
-|----------------------|-----------------|
+| **Recommended**          | **Not Recommended** |
+|--------------------------|---------------------|
 | person with disability | the disabled, handicapped, differently abled, challenged, abnormal |
 | person without disability | normal person, healthy person, able-bodied |
 | has [disability] | victim of, suffering from, affected by, stricken with |

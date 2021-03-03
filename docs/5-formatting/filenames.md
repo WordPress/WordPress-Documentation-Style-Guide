@@ -60,8 +60,8 @@ Use the formal file type instead of the file extension while referring to file t
 
 The following table lists filename extensions and the corresponding file type names to use:
 
-| Extension       | File type name  |
-|-----------------|-----------------|
+| **Extension**   | **File type name** |
+|-----------------|--------------------|
 | `.css`          | CSS file        |
 | `.csv`          | CSV file        |
 | `.dmg`          | DMG file        |
