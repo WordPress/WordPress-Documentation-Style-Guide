@@ -11,7 +11,7 @@ Avoid using personal pronouns such as *I, we, us, our,* and *ours* except in the
 
 Use second person (*you*) instead of first-person pronouns.
 
-## Pronouns and genders {:#pronouns_genders}
+## Pronouns and genders
 
 Don't use gender-specific pronouns unless the person being referred actually uses that gender. If you're unsure which gender-specific pronoun to use, rewrite the sentence using second person (*you*).
 
@@ -37,7 +37,7 @@ Whether used as singular or plural, *they* always takes the plural verb.
 
 [tip] **Recommended:** When visitors comment on your blog, they too get cookies stored on their computer. [/tip]
 
-For more guidelines about writing using gender-neutral pronouns, refer [Inclusivity - Writing about genders](inclusivity), [they, them, their](word list t.md).
+For more guidelines about writing using gender-neutral pronouns, see [Writing about genders](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#writing-about-genders) and [they, their, them](https://make.wordpress.org/docs/style-guide/word-list/t/#they-their-them).
 
 ## Relative pronouns
 
@@ -81,7 +81,7 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 [warning] **Not recommended:** Create a new post with the plugin. You can see it on the blog page. [/warning]  
 [tip] **Recommended:** Create a new post with the plugin, You can see the post on the blog page. [/tip]  
 
-[warning] **Not recommended:** The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/.  [/warning]  
+[warning] **Not recommended:** The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/. [/warning]  
 [tip] **Recommended:** The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]
 
 [warning] **Not recommended:** Toggle this to *on.* [/warning]  
