@@ -2,7 +2,7 @@
 
 <!--Key point: In general, avoid using ellipses. -->
 
-An *ellipsis* (plural: *ellipses*) is a set of three contiguous dots that are used to indicate omission of part of a sentence, phrase, paragraph, or content. For documentation purposes use three periods as the dots in an ellipse, unless you use an ellipsis character. An ellipsis is also used in informal writing to connote a subsiding, hesitating, or fading expression. The word ellipsis originates from the Greek word meaning "omission".
+An *ellipsis* (plural: *ellipses*) is a set of three contiguous dots that are used to indicate omission of part of a sentence, phrase, paragraph, or content. For documentation purposes, use three periods as the dots in an ellipse, unless you use an ellipsis character. An ellipsis is also used in informal writing to connote a subsiding, hesitating, or fading expression. The word ellipsis originates from the Greek word meaning "omission".
 
 ## Using ellipses
 
@@ -13,7 +13,7 @@ Use three contiguous periods in a row while writing an ellipsis. Avoid using the
 **Examples**  
 
 [warning] **Not recommended:** You need to wait for the post to save...and then publish the post. [/warning]  
-[tip] **Recommended:** You need to wait for the post to save ... and then publish the post. [/tip]
+[tip] **Recommended:** You need to wait for the post to save ... and then publish the post. [/tip]  
 
 ### In text
 

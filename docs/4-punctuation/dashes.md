@@ -17,7 +17,7 @@ You can also use one em dash to initiate a phrase at the end of a sentence.
 
 [tip] **Recommended:** If you're stuck on a particular step, visit the FAQs page—it has a comprehensive list of common errors, problems, and  their solutions. [/tip]
 
-Don't use an em dash as a bullet in a list. See [Lists]() for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
+Don't use an em dash as a bullet in a list. For more information, see [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/). Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
 ### Typing em dashes
 
@@ -59,9 +59,9 @@ Use an en dash to indicate negative numbers and the minus sign. While writing an
 [warning] **Not recommended:** The value of the variable must be– 3.  [/warning]  
 [tip] **Recommended:** The value of the variable must be –3. [/tip]
 
-For additional information, see [Range of numbers]().
+For more information, see [Range of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#range-of-numbers).
 
-Don't use an en dash as a bullet in a list. See [Lists]() for additional information. Avoid using an em dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
+Don't use an en dash as a bullet in a list. For more information, see [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/). Avoid using an en dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
 Don't use an en dash to indicate a range of times. Use the word *to* instead of the en dash. Use an en dash with no surrounding spaces for a schedule or listing.
 
@@ -77,7 +77,7 @@ In contrast, for date ranges consisting of two dates and times, use an en dash w
 [tip] **Recommended:** 7:30 AM–9:15 AM 05/11/2020 (time range on a single day) [/tip]  
 [tip] **Recommended:** 7:30 AM 04/11/2020 – 9:15 AM 05/11/2020 (date and time range) [/tip]  
 
-For additional information, refer [Dates and Times]().
+For more information, refer [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
 
 ### Typing en dashes
 
@@ -99,7 +99,7 @@ Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0150<
 
 ## Colons instead of dashes in lists
 
-Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use colons or [description lists]() for separating them.
+Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in lists to separate a title or heading with its description. Ideally, use [colons](https://make.wordpress.org/docs/style-guide/punctuation/colons/) or [description lists](https://make.wordpress.org/docs/style-guide/formatting/lists/#description-list) for separating them.
 
 **Examples**  
 
@@ -112,4 +112,4 @@ Sometimes writers use em dashes, en dashes, or hyphens surrounded by spaces in l
 
 ## Additional resources
 
-[Hyphens]()
+- [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/)
