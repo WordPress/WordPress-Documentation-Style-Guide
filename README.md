@@ -87,8 +87,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Commas                       |   ✔️   |
 | Dashes (split from Hyphens)  |   ✔️   |
 | Ellipses                     |   ✔️   |
-| Exclamation points           |   ✔️ (⚠️ while publishing)   |
-| Hyphens                      |   ✔️ (⚠️ while publishing)   |
+| Exclamation points           |   ✔️   |
+| Hyphens                      |   ✔️   |
 | Parentheses                  |   ✔️ (⚠️ while publishing)   |
 | Periods                      |   ✔️ (⚠️ while publishing)   |
 | Question marks               |   ✔️   |
