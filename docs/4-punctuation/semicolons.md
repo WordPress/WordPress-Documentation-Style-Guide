@@ -6,7 +6,7 @@ Generally, sentences with semicolons are complicated and are often difficult to 
 
 Use a semicolon between two closely associated independent clauses that aren't joined by a conjunction, where a comma or period isn't quite pertinent.
 
-**Examples**
+**Examples**  
 
 [tip] Recommended: Upload the file; then click **Continue**. [/tip]  
 [tip] Recommended: There are multiple different block types that are available; a list of blocks can be found [here](https://wordpress.org/support/article/blocks/). [/tip]
@@ -15,16 +15,16 @@ Use a semicolon between two closely associated independent clauses that aren't j
 
 Use a semicolon before an independent clause that is set off with phrases such as *for example, that is, in particular*, or *to illustrate*.
 
-**Examples**
+**Examples**  
 
-[tip] Recommended: The preview shows how the page will look on the front end; that is, the final published website.  [/tip]  
+[tip] Recommended: The preview shows how the page will look on the front end; that is, the final published website. [/tip]  
 [tip] Recommended: Making changes to the code while running the server could cause errors in your databases; specifically, corrupted tables or duplicate values. [/tip]
 
 ## Semicolons before a conjunctive adverb
 
 Insert a semicolon before conjunctive adverbs that join two independent clauses. Examples of commonly used conjunctive adverbs include *accordingly, additionally, also, besides, consequently, finally, furthermore, hence, however, indeed, in fact, likewise, similarly, therefore*, and *thus*.
 
-**Examples**
+**Examples**  
 
 [tip] Recommended: You can drag and drop the block if you select it; similarly, you can also use the **Move Up** and **Move Down** buttons to move the block. [/tip]  
 [tip] Recommended: After you re-run the application, the page gets updated; however, you'll need to refresh the page in the browser too. [/tip]
@@ -33,7 +33,7 @@ Insert a semicolon before conjunctive adverbs that join two independent clauses.
 
 Use a semicolon between two contrasting statements that aren't joined by a conjunction.
 
-**Example**
+**Example**  
 
 [tip] Recommended: You don't need top specs to run WordPress locally; a simple configuration would be totally adequate. [/tip]  
 
@@ -41,7 +41,7 @@ Use a semicolon between two contrasting statements that aren't joined by a conju
 
 When you have separate items in a series that contain their own punctuation such as commas or periods, use semicolons to separate out the complex series. You can also segregate the series into a list.
 
-**Examples**
+**Examples**  
 
 [tip] Recommended:  
 

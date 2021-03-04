@@ -81,4 +81,4 @@ Don't use abbreviations utilizing slashes. Instead, spell the abbreviation out.
 
 Don't use date formats with slashes.
 
-See [Dates and Times]() for additional information.
+For more information, see [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/#things-to-avoid-while-expressing-dates).
