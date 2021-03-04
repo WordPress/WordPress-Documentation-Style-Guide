@@ -31,6 +31,7 @@ For a range of numbers that have units, repeat the unit for each number in the r
 [warning] **Not recommended:** The recommended file size is 50 - 100 MB. [/warning]  
 [tip] **Recommended:** The recommended file size is 50 MB to 100 MB. [/tip]  
 
+For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Range of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#range-of-numbers), and [Numbers and fractions](hyphens).
 ## Rates
 
 Use the word *per* instead of the division slash (/) while indicating rates. It's acceptable to use the division slash where space is too limited.
