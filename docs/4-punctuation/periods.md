@@ -6,13 +6,15 @@ End all independent sentences with a period, and insert one space after the peri
 
 Ending a list item with a period depends on several factors including the kind of list the item appears in.
 
-For more information about lists, see [Lists]().
+For more information, see [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/).
 
 ### Bulleted and numbered lists
 
-In general, use a period at the end of each item in bulleted and numbered lists.
-**Exceptions:** Single-word items, items entirely in code font, and items with no verbs.
-For additional information, see [Capitalization and end punctuation in Lists]().
+In general, use a period at the end of each item in bulleted and numbered lists.  
+
+**Exceptions:** Single-word items, items entirely in code font, and items with no verbs.  
+
+For more information, see [Capitalization and punctuation in lists](https://make.wordpress.org/docs/style-guide/formatting/lists/#capitalization-and-punctuation).
 
 ### Description lists
 
@@ -52,28 +54,28 @@ If a sentence or phrase ends with content inside quotation marks, place the peri
 [tip] **Recommended:** The developer said, "This API is the newest version." [/tip]  
 [tip] **Recommended:** Regarding regular updates, the user asked, "When can we expect a version update?" [/tip]  
 
-For more information about quotation marks, see Quotation Marks.
+For more information, see [Quotation marks](https://make.wordpress.org/docs/style-guide/punctuation/quotation-marks/#quotation-marks-with-commas-and-periods).
 
 ## Periods with abbreviations
 
 Use periods at the end of shortened words. Don't use periods with acronyms and initialisms. Similarly, don't use periods with commons words that are abbreviations such as *app* or *demo*.
 
-Refer [Abbreviations]() for additional information.
+For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#periods).
 
 ## Periods with numbers
 
 Use a period to represent a decimal point.
 
-For more information about numbers, see [Numbers]().
+For more information, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#commas-and-decimal-points-in-numbers).
 
 ## Periods with headings
 
 Don't end headings, subheadings, or titles with periods.
 
-For additional information about headings, see [Headings]()
+For more information, see [Headings and titles](https://make.wordpress.org/docs/style-guide/formatting/headings/#formatting-headings).
 
 ## Periods with captions
 
-In general, don't use periods with captions.
+In general, avoid using periods with captions.
 
-For more information, see [Figures]().
+For more information, see [Text associated with images](https://make.wordpress.org/docs/style-guide/formatting/media/#text-associated-with-images).
