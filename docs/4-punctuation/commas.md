@@ -7,7 +7,7 @@ Use the Oxford comma before the conjunction in a series of three or more items.
 **Examples**
 
 [warning] **Not recommended:** Ensure that your tone is succinct, natural and friendly towards the reader. [/warning]  
-[tip] **Recommended:** Ensure that your tone is succinct, natural, and friendly towards the reader. [/tip]
+[tip] **Recommended:** Ensure that your tone is succinct, natural, and friendly towards the reader. [/tip]  
 
 ## Commas following an introductory phrase
 
@@ -16,7 +16,7 @@ Use a comma after an introductory word or phrase.
 **Examples**
 
 [warning] **Not recommended:** Ultimately this simplifies the reader's comprehension. [/warning]  
-[tip] **Recommended:** Ultimately, this simplifies the reader's comprehension. [/tip]
+[tip] **Recommended:** Ultimately, this simplifies the reader's comprehension. [/tip]  
 
 ## Commas separating two independent clauses
 
@@ -25,12 +25,12 @@ Use a comma to join two independent clauses which are separated by a conjunction
 **Examples**
 
 [warning] **Not recommended:** Copy the file, and continue.[/warning]  
-[tip] **Recommended:** Copy the file and continue. [/tip]
+[tip] **Recommended:** Copy the file and continue. [/tip]  
 
 [warning] **Not recommended:** Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
-[tip] **Recommended:** Either download a theme suiting your needs, or use one that is preinstalled. [/tip]
+[tip] **Recommended:** Either download a theme suiting your needs, or use one that is preinstalled. [/tip]  
 
-**Note:** Don't use a comma to join independent clauses when you don't use a conjunction. Use a semicolon instead.
+[info] **Note:** Don't use a comma to join independent clauses when you don't use a conjunction. Use a [semicolon](https://make.wordpress.org/docs/style-guide/punctuation/semicolons/#semicolons-between-two-independent-clauses) instead. [/info]  
 
 **Examples**
 
@@ -64,13 +64,13 @@ Rewrite sentences for a conversational style and tone if possible.
 
 **Examples**
 
-[tip] Sometimes okay: Write accessible, inclusive documentation. [/tip]  
+[tip] **Sometimes okay:** Write accessible, inclusive documentation. [/tip]  
 [tip] **Recommended:** Write documentation that is accessible and inclusive of all readers. [/tip]  
 
 ## Commas and other clauses
 
 Generally, it is beneficial to use commas for setting off specific kinds of clauses for better comprehension.
-- Use a comma before the word *which* at the beginning of a nonrestrictive clause. See [Pronouns - Relative pronouns]() for additional details.
+- Use a comma before the word *which* at the beginning of a nonrestrictive clause. For more information, see [Relative pronouns](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#relative-pronouns).
 - Put a semicolon, period, or a dash before a conjunctive adverb such as *therefore, hence, besides, however*, and insert a comma after the adverb.
 - Don't use a comma before the causal conjunction *because* unless it is being used at the start of a nonrestrictive clause.
 
@@ -97,7 +97,7 @@ Use a comma to separate the year when writing a complete date. Don't insert a co
 [warning] **Not recommended:** This article was updated on September 13 2020 by the author. [/warning]  
 [tip] **Recommended:** This article was updated on September 13, 2020, by the author.  [/tip]  
 
-For more information about punctuating numbers, refer [Numbers]().
+For more information about punctuating numbers, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#commas-and-decimal-points-in-numbers).
 
 ## Commas with verbs in a compound predicate
 

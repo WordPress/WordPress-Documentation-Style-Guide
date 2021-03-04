@@ -62,6 +62,7 @@ If non-italic text preceding a colon is bold, then make the colon bold too.
 ## Code text preceding colon
 
 Don't include a colon in text preceding code, code back-ticks (``` ` ```), or a `<code>` tag unless it is part of the code.
+
 For more information about code formatting, see [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/) and [Code in text](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/).
 
 ## Additional Resources
