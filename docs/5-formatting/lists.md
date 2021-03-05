@@ -2,10 +2,10 @@
 
 Lists are useful to present lengthy and complex content in a clear, well-structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
 
-For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures]().
+For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 [info] **Note:** Don't use a list to express just one item; a single item isn't really a list. If you want to distinguish a single item from other text, use a different type of formatting.  
-For additional information on whether lists or tables are ideal, see [Choosing between a list or a table](). [/info]
+For additional information about whether lists or tables are ideal, see [Choosing between a list or a table](https://make.wordpress.org/docs/style-guide/formatting/tables/#choosing-between-a-list-or-a-table). [/info]
 
 ## Types of lists
 
@@ -39,7 +39,7 @@ To set up your development environment, follow these steps:
 
 [/tip]  
 
-For more information on nested procedures, see [Sub-steps in numbered procedures]().
+For more information about nested procedures, see [Sub-steps in numbered procedures](https://make.wordpress.org/docs/style-guide/formatting/procedures/#sub-steps-in-numbered-procedures).
 
 ### Lettered list
 
@@ -96,7 +96,7 @@ Use a bulleted description list with run-in headings for listing down items with
 
 A list item can contain more than one paragraph.  
 
-To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element) for more information on which uses of `<br>` are correct and which ones aren't.
+To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. For more information on which uses of `<br>` are correct and which ones aren't, see the [HTML specification for `<br>`](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element).
 
 **Example**  
 
@@ -114,7 +114,7 @@ In most cases, introduce a list with an introductory sentence that initiates the
 
 The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the list. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a list with a partial statement.
 
-For information regarding punctuation and capitalization of lists, see [Capitalization and end punctuation]().
+For more information about punctuation and capitalization of lists, see [Capitalization and end punctuation](https://make.wordpress.org/docs/style-guide/formatting/lists/#capitalization-and-punctuation).
 
 **Examples**  
 
@@ -128,7 +128,7 @@ For information regarding punctuation and capitalization of lists, see [Capitali
 
 ## Sub-steps in numbered procedures
 
-For additional information about sub-steps in numbered procedures, refer [Procedures]().
+For more information about sub-steps in numbered procedures, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/#sub-steps-in-numbered-procedures).
 
 ## Capitalization and punctuation
 
@@ -201,7 +201,7 @@ End the introductory term or phrase with a period or colon. If a description fol
 
 In most contexts, capitalize each list item. For the item descriptions, write text that follows a colon in lowercase and capitalize text that follows a period.
 
-Don't use a dash or hyphen to set off an item description in a description list. For additional information, see [Colons instead of dashes in lists]().
+Don't use a dash or hyphen to set off an item description in a description list. For more information, see [Colons instead of dashes in lists](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#colons-instead-of-dashes-in-lists).
 
 **Examples**  
 
