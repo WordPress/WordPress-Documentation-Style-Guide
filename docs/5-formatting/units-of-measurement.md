@@ -31,7 +31,7 @@ For a range of numbers that have units, repeat the unit for each number in the r
 [warning] **Not recommended:** The recommended file size is 50 - 100 MB. [/warning]  
 [tip] **Recommended:** The recommended file size is 50 MB to 100 MB. [/tip]  
 
-For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Range of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#range-of-numbers), and [Numbers and fractions](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/#numbers-and-fractions).
+For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Ranges of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#ranges-of-numbers), and [Numbers and fractions](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/#numbers-and-fractions).
 
 ## Rates
 

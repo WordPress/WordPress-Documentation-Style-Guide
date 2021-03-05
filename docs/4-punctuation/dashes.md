@@ -59,7 +59,7 @@ Use an en dash to indicate negative numbers and the minus sign. While writing an
 [warning] **Not recommended:** The value of the variable must be– 3.  [/warning]  
 [tip] **Recommended:** The value of the variable must be –3. [/tip]
 
-For more information, see [Range of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#range-of-numbers), [Range of numbers with units](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/#ranges-of-numbers-with-units), and [Numbers and fractions](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/#numbers-and-fractions).
+For more information, see [Ranges of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#ranges-of-numbers), [Range of numbers with units](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/#ranges-of-numbers-with-units), and [Numbers and fractions](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/#numbers-and-fractions).
 
 Don't use an en dash as a bullet in a list. For more information, see [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/). Avoid using an en dash to indicate empty or unoccupied elements such as text fields, cells, and other values.
 
