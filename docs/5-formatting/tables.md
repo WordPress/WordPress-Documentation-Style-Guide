@@ -8,8 +8,8 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 
 | **Item type** | **Example** | **List or table** |
 |---------------|-------------|-------------------|
-| Each item is a single unit. | A procedure with instructions. | Use a [bulleted list](), [numbered list](), or [lettered list](). |
-| Each item consists of a two related pieces of data. | A glossary with term and description pairs. | Use a [description list](). |
+| Each item is a single unit. | A procedure with instructions. | Use a [bulleted list](https://make.wordpress.org/docs/style-guide/formatting/lists/#bulleted-lists), [numbered list](https://make.wordpress.org/docs/style-guide/formatting/lists/#numbered-lists), or [lettered list](https://make.wordpress.org/docs/style-guide/formatting/lists/#lettered-list). |
+| Each item consists of a two related pieces of data. | A glossary with term and description pairs. | Use a [description list](https://make.wordpress.org/docs/style-guide/formatting/lists/#description-list). |
 | Each item consists of three or more related pieces of data. | A set of parameters with multiple values, data, categories, and descriptions. | Use a table. |  
 
 ### When not to use tables
@@ -25,7 +25,7 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 
 A table cell can contain more than one paragraph.
 
-To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. See the [HTML specification](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element) for more information on which uses of `<br>` are correct and which ones aren't.
+To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. For more information on which uses of `<br>` are correct and which ones aren't, see the [HTML specification for `<br>`](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element).
 
 **Example**  
 

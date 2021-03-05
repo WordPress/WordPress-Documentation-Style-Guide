@@ -124,7 +124,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Polyglots, translation, language scripts                          |   ✔️   |
 | Referencing                                                       |   ✔️ (Moved to Linking)   |
 | Spacing                                                           |   ✔️ (Moved to Text formatting)   |
-| Tables                                                            |   ✔️ (⚠️ while publishing)   |
+| Tables                                                            |   ✔️   |
 | Text formatting                                                   |   ✔️ (⚠️ while publishing)   |
 | Trademarks, copyrights, patents, citations                        |   ✔️ (⚠️ while publishing)   |
 | Tutorials and procedures                                          |   ✔️ (⚠️ while publishing)   |
