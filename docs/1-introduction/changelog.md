@@ -15,4 +15,4 @@ This section shows recent updates and changes to the WordPress Style Guide.
 | **Date** | **Description** |
 |----------|-----------------|
 | **xx-xx-2021** | Initial Public Release |
-| **xx-xx-2021** | First Edition completed as part of [Google Season of Docs 2020](https://developers.google.com/season-of-docs/docs/participants/project-wordpress-tacitonic) by Atharva Dhekne ([@tacitonic](https://github.com/tacitonic)). |
+| **xx-xx-2021** | First Edition completed as part of [Google Season of Docs 2020](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic) by Atharva Dhekne ([@tacitonic](https://github.com/tacitonic)). |
