@@ -41,7 +41,7 @@ To warn, alert, notify, or provide useful information to the reader that isn't p
 
 Avoid grouping two or more notices together. Consider rewriting or rearranging the content to avoid confusion.  
 
-For additional information on short codes and code samples, see [Code Samples]() and [Syntax Highlighting short codes](https://plugins.trac.wordpress.org/browser/syntaxhighlighter/trunk/syntaxhighlighter.php#L173).
+For more information about short codes and code examples, see [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/) and [Syntax highlighting short codes](https://plugins.trac.wordpress.org/browser/syntaxhighlighter/trunk/syntaxhighlighter.php#L173).
 
 ## Other formatting style for notices
 
