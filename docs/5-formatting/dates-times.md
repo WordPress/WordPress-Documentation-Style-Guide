@@ -2,12 +2,12 @@
 
 In general, spell out months and days whenever possible. Use the *day of week, month dd, year* date format. For example, use *Sunday, August 16, 2020*. Express time in the 12-hour format, capitalize AM and PM, and include the time zone.
 
-Expressing dates and times in a clearly defined manner reduces confusion and improves translation support for a [global audience](/2-document-guidelines/4-global-audience.md).
+Expressing dates and times in a clearly defined manner reduces confusion and improves translation support for a [global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
 
 ## Expressing times
 
 Use the following guidelines to express time:
-- Express time in the 12-hour format. Use the 24-hour format only when absolutely needed. If a particular UI, statement or code example uses the 24-hour format, then use that format throughout the page for consistency. [review]
+- Express time in the 12-hour format. Use the 24-hour format only when absolutely needed. If a particular UI, statement or code example uses the 24-hour format, then use that format throughout the page for consistency.
 - Use numerals to express times of the day.
 - Always include *AM* and *PM*. Insert a space between the time and *AM* or *PM* and ensure that it is capitalized.  
   **Example**  
