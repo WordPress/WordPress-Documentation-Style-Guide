@@ -28,9 +28,9 @@ It's acceptable to have some inconsistency in file and folder names if it can't 
 
 While referring to a file, follow these guidelines:
 
-- Use [code font]().
+- Use [code font](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/).
 - Use the exact name of the file, even if it doesn't follow the [file naming guidelines](#naming-files).
-- If content from the file is included in the page, follow the [code sample]() guidelines and precede the code sample or content with an introductory statement that states the filename.
+- If content from the file is included in the page, follow the [code example](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/) guidelines and precede the code sample or content with an introductory statement that states the filename.
 
 **Examples**  
 
