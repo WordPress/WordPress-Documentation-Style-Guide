@@ -13,7 +13,7 @@ Obsolete content can be determined by the following contexts:
 
 ### Outdated page
 
-Use a **Warning** [notice type]() to mark a page as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
+Use a **Warning** [notice type](https://make.wordpress.org/docs/style-guide/formatting/notices/#cautions-warnings-notes-and-other-notices) to mark a page as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
 *__Warning:__ This page is outdated as of WordPress <code><var>VERSION</code></var>. It is maintained for archival purposes only.*
 
 Replace <code><var>VERSION</code></var> with the WordPress version since the page was marked obsolete.
@@ -24,7 +24,7 @@ Replace <code><var>VERSION</code></var> with the WordPress version since the pag
 
 ### Outdated section from a page or article
 
-Use a **Warning** [notice type]() to mark a section from a page as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
+Use a **Warning** [notice type](https://make.wordpress.org/docs/style-guide/formatting/notices/#cautions-warnings-notes-and-other-notices) to mark a section from a page as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
 *__Warning:__ The <code><var>SECTION_NAME</code></var> section is outdated as of WordPress <code><var>VERSION</code></var>. It is maintained for archival purposes only.*
 
 Replace <code><var>SECTION_NAME</code></var> with the title, heading, subheading, or description of the outdated section. Replace <code><var>VERSION</code></var> with the WordPress version since the page was marked obsolete.
@@ -35,7 +35,7 @@ Replace <code><var>SECTION_NAME</code></var> with the title, heading, subheading
 
 ### Outdated part of a section, page, or article
 
-Use a **Warning** [notice type]() to mark specific content of a section as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
+Use a **Warning** [notice type](https://make.wordpress.org/docs/style-guide/formatting/notices/#cautions-warnings-notes-and-other-notices) to mark specific content of a section as obsolete, by enclosing the following phrase inside the `[warning]` short code:  
 *__Warning:__ The following content on <code><var>SECTION_NAME</code></var> is outdated as of WordPress <code><var>VERSION</code></var>. It is maintained for archival purposes only.*  
 
 Replace <code><var>SECTION_NAME</code></var> with the title, heading, subheading, or description of the outdated part. Replace <code><var>VERSION</code></var> with the WordPress version since the page was marked obsolete.

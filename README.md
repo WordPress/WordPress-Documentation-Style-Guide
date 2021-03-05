@@ -119,8 +119,8 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Media (Images, videos) and illustrations                          |   ✔️   |
 | Notices (Notes, warnings, tips)                                   |   ✔️   |
 | Numbers                                                           |   ✔️   |
-| Obsolete content (New component)                                  |   ✔️ (⚠️ while publishing)   |
-| Phone numbers                                                     |   ✔️ (⚠️ while publishing)   |
+| Obsolete content (New component)                                  |   ✔️   |
+| Phone numbers                                                     |   ✔️   |
 | Polyglots, translation, language scripts                          |   ✔️   |
 | Referencing                                                       |   ✔️ (Moved to Linking)   |
 | Spacing                                                           |   ✔️ (Moved to Text formatting)   |
