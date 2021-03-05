@@ -6,8 +6,8 @@ In general, use consistent and descriptive headings and titles in any type of co
 
 ## Formatting headings
 
-- Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings]().
-- When using abbreviations in headings, spell out and declare the abbreviation in the succeeding body text. For more information, see [Abbreviations]().
+- Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-titles-and-headings).
+- When using abbreviations in headings, spell out and declare the abbreviation in the succeeding body text. For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
 - Don't end headings with a period. Avoid using other punctuation at the end of headings unless absolutely necessary.  
   **Examples**  
 
@@ -54,7 +54,7 @@ In general, use consistent and descriptive headings and titles in any type of co
     [/tip]  
 
 - Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting. Ensure that heading markup is not used for presentational purposes.
-- Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Code in text - Keywords]().
+- Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Keywords](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/#keywords).
 - Don’t add extra functionality inside a heading, like links or buttons.
 - Break two-line headings carefully. In a non-responsive design, when the heading exceeds one line, break it so that the text is appropriately balanced. In responsive designs, the content is dynamically fit to the screen.
   - Break the line at the end of a phrase, if possible.
