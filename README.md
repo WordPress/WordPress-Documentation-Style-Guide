@@ -106,7 +106,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Code snippets, code blocks                                        |   ✔️ (Moved to Code)   |
 | Currencies                                                        |   ✔️ (Moved to Numbers)   |
 | Date and time, time zones, places                                 |   ✔️   |
-| Examples and scenarios (New component)                            |   ✔️ (⚠️ while publishing)   |
+| Examples and scenarios (New component)                            |   ✔️   |
 | Filenames                                                         |   ✔️ (⚠️ while publishing)   |
 | Footnotes                                                         |   ✔️ (⚠️ while publishing)   |
 | Headings and titles                                               |   ✔️ (⚠️ while publishing)   |
