@@ -2,7 +2,7 @@
 
 ## Numbers as words
 
-- Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals]().  
+- Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals](#numbers-as-numerals).  
   **Examples**  
   - three databases
   - zero percent
@@ -55,7 +55,7 @@
   - 2 feet, 2 inches
   - 39 lb
   - 55 square meters
-- Use numerals for describing [dimensions]().
+- Use numerals for describing [dimensions](#dimensions).
 - When numerals less than 10 appear in the same sentence along with numbers greater than 9, use numerals.  
   **Example**  
   [tip] **Recommended:** Of the 22 users online, 8 have registered accounts. [/tip]  
@@ -68,10 +68,10 @@
 - If you direct the user or reader to enter a number, use numerals.  
   **Examples**  
   [tip] **Recommended:** Enter **3** as the value. [/tip]  
-- When you write [numbers in a range](), use numerals.
-- While indicating the [time of day](), use numerals.
-- Use numerals for [percentages]().
-- Use numerals for [fractions]().
+- When you write [numbers in a range](#ranges-of-numbers), use numerals.
+- While indicating the [time of day](https://make.wordpress.org/docs/style-guide/formatting/dates-times/#expressing-times), use numerals.
+- Use numerals for [percentages](#percentages).
+- Use numerals for [fractions](#fractions).
 
 ## Ordinal numbers
 
@@ -86,7 +86,7 @@ Write all ordinal numbers as fully-spelled words.
 
 Avoid using Roman numerals. Instead use standard Arabic numerals in your documentation.
 
-You can use Roman numerals to denote [steps or sub-steps in procedures]().
+You can use Roman numerals to denote [steps or sub-steps in procedures](https://make.wordpress.org/docs/style-guide/formatting/procedures/#sub-steps-in-numbered-procedures).
 
 ## Commas and decimal points in numbers
 
@@ -202,9 +202,9 @@ Write exponents using [standard mathematical notation](https://wikipedia.org/wik
 
 [tip] **Recommended:** 3<sup>4</sup> [/tip]  
 
-## Range of numbers
+## Ranges of numbers
 
-[En dashes]() are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
+[En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
 
 Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen.
 
@@ -214,11 +214,11 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 [tip] **Recommended:** The program was under active development from 2012–2017. [/tip]  
 [tip] **Recommended:** Select a range from 10–60 px as the width of the button. [/tip]  
 
-For additional information, see [En dashes](), [Hyphens](), and [Units of Measurement]().
+For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/), and [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
 
 ## Suspended hyphens
 
-Use [suspended hyphens]() for two or more suspended compound modifiers that start with numbers.
+Use [suspended hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/#suspended-hyphens) for two or more suspended compound modifiers that start with numbers.
 
 **Example**  
 
