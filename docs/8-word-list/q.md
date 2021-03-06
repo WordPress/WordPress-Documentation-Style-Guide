@@ -16,7 +16,7 @@ Don't use to refer to the action of closing a program, window, or a connection. 
 
 Not *quotes* or *quote marks*. *Quote* is a verb, and *quotation* is an adjective or a noun.
 
-For additional information, see [Quotation marks]().
+For more information, see [Quotation marks](https://make.wordpress.org/docs/style-guide/punctuation/quotation-marks/).
 
 ## quote
 

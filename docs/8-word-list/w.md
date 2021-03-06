@@ -6,19 +6,19 @@ Acronym for *Waveform Audio File Format*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *WAV file* rather than *.wav file*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## W3C
 
 Initialism for *World Wide Web Consortium*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## WAN
 
 Acronym for *Wide Area Network*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## want
 
@@ -37,7 +37,7 @@ One word. Not *walk through* or *walk-through*.
 
 Initialism for *Web Content Accessibility Guidelines*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## we
 
