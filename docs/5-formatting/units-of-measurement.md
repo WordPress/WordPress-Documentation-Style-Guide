@@ -2,7 +2,7 @@
 
 ## Spaces in units of measurement
 
-Insert a nonbreaking space between the number and a unit for most units of measurement. Refer [Abbreviations]() for more information on when to spell out units.
+Insert a nonbreaking space between the number and a unit for most units of measurement. For more information about when to spell out units, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
 
 **Examples**  
 
@@ -48,8 +48,8 @@ Shorten *per* to *p* only for well-established abbreviations such as *Gbps* for 
 
 Mention to the reader distinctly what country's currency that you're referring to. For example, the dollar sign ($) can be mistaken for US dollars, Canadian dollars, Australian dollars, and multiple other currencies. Use [ISO defined country or region codes](https://wikipedia.org/wiki/ISO_4217#Active_codes) to depict international currencies, if possible.
 
-See [Currency in Numbers]() for additional information.
+For more information, see [Currency](https://make.wordpress.org/docs/style-guide/formatting/numbers/#currency).
 
 ## Using abbreviations to denote numbers
 
-In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. In some contexts, using the abbreviations may be more relevant or suited. If you use abbreviations, see [Numbers - Abbreviations]() for more information.
+In general, don't abbreviate *thousand, million*, and *billion* as *K, M*, and *B* or *K, mn* and *bn*. In some contexts, using the abbreviations may be more relevant or suited. If you use abbreviations, see [Abbreviations in numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#abbreviations) for more information.
