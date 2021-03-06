@@ -20,7 +20,7 @@ However, be watchful of the context and the reader demographic and how that infl
 
 ## Formatting UI element names
 
-When referring to a UI element by name, format the name in bold using the `<b>` element in HTML or `**` in Markdown. UI element names include those of buttons, windows, menus, dialogs, or any other element in the page or console that has a visible name. Don't use code font for UI element names, unless it is an element that [requires code font](//code-in-text.md); in which case use both code font and bold text formatting. Capitalize UI element names as per document context, but if the element names are inconsistent, use sentence-case capitalization.
+When referring to a UI element by name, format the name in bold using the `<b>` element in HTML or `**` in Markdown. UI element names include those of buttons, windows, menus, dialogs, or any other element in the page or console that has a visible name. Don't use code font for UI element names, unless it is an element that [requires code font](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/); in which case use both code font and bold text formatting. Capitalize UI element names as per document context, but if the element names are inconsistent, use sentence-case capitalization.
 
 Don't apply bold formatting to an official feature name or product name, except when it directly refers to an element in the page that uses the name (such as a window title or button name).
 
@@ -45,7 +45,7 @@ The text renders as follows:
 
 If you're using non-HTML markup, use monospace text formatting, which is how `<kbd>` renders. In Markdown, enclose the key name in backticks (``` ` ```).
 
-To express a key that the user has to type to enter that key's value as text input, use the `<code>` element instead of the `<kbd>` element. For more information, see [Code font](//text.md).
+To express a key that the user has to type to enter that key's value as text input, use the `<code>` element instead of the `<kbd>` element. For more information, see [Code font](https://make.wordpress.org/docs/style-guide/formatting/text/#text-highlighting).
 
 To refer to a keyboard key, use the key's name. If the key's name is ambiguous, use the form *the <code><var>KEY_NAME</code></var> key.*
 
@@ -152,7 +152,7 @@ An *icon* is a image, sign, or symbol that depicts a function. An icon can also 
 [warning] **Not recommended:** Click the <span class="dashicons dashicons-search"></span> icon. [/warning]  
 [tip] **Recommended:** Click <span class="dashicons dashicons-search"></span> **Search**. [/tip]  
 
-If a UI element name ends with an [ellipsis]() (...), exclude the ellipsis.
+If a UI element name ends with an [ellipsis](https://make.wordpress.org/docs/style-guide/punctuation/ellipses/) (...), exclude the ellipsis.
 
 **Examples**  
 
@@ -175,7 +175,7 @@ When combining multiple small actions into a single sequential step use angle br
 - Don't use bold text formatting for each individual menu name. Instead, enclose the entire sequential step in a single bold element; for example, in HTML use `<b>Settings > Media</b>` and in Markdown, use `**Settings > Media**`.
 - Enclose the angle bracket with a `<span>` tag and add an `aria-label` attribute with *and then* text (`<span aria-label="and then">></span>`). Otherwise, some screen readers may skip over brackets or read `>` as *greater than*.
 
-For more information, see [Instructions with multiple actions](//procedures.md).
+For more information, see [Instructions with multiple actions](https://make.wordpress.org/docs/style-guide/formatting/procedures/#instructions-with-multiple-actions).
 
 **Examples**  
 
@@ -275,7 +275,7 @@ A *toggle button* is a UI element that switches back and forth between on and of
 
 ## Interaction verbs
 
-For more information about interactive words to describe the UI, see the [Word list]().
+For more information about interactive words to describe UI, see the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/).
 
 To describe interactions with UI elements, use the following verbs:
 
