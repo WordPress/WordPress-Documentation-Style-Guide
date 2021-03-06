@@ -4,7 +4,7 @@
 
 Don't use. Instead use 24 hours a day, seven days a week.
 
-For more information, see [Dates and times]().
+For more information, see [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
 
 ## 2D
 
@@ -12,7 +12,7 @@ Abbreviation for *two-dimensional*. Spell out the first mention of the term as *
 
 Always hyphenate *two-dimensional*. Don't hyphenate the abbreviation as *2-D*.
 
-For more information, see [Abbreviations]().
+For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## 3D
 
@@ -20,4 +20,4 @@ Abbreviation for *three-dimensional*. Spell out the first mention of the term as
 
 Always hyphenate *three-dimensional*. Don't hyphenate the abbreviation as *3-D*.
 
-For more information, see [Abbreviations]().
+For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
