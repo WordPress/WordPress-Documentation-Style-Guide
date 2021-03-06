@@ -49,7 +49,7 @@ Be thoughtful of word choice - particularly slang and ableist language. Don't us
 
 ## Writing about genders
 
-Use gender-neutral language, including pronouns. When writing about a real individual, use their preferred pronouns. Avoid gendered language such as *manpower*, *man-hours*, *chairman*, etc. For more information, see [Genders]() and [they, their, them](https://make.wordpress.org/docs/style-guide/word-list/t/#they-their-them).  
+Use gender-neutral language, including pronouns. When writing about a real individual, use their preferred pronouns. Avoid gendered language such as *manpower*, *man-hours*, *chairman*, etc. For more information, see [Pronouns and genders](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-genders) and [they, their, them](https://make.wordpress.org/docs/style-guide/word-list/t/#they-their-them).  
 
 **Examples**  
 
@@ -95,4 +95,4 @@ Represent diverse perspectives and scenarios in text and media. Make use of incl
 | cognitive or developmental disabilities | mentally-challenged, slow-learner |
 | person with limited mobility, person with a physical disability | crippled, handicapped |
 
-See [Accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/) for more information.
+For more information, see [Accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/).

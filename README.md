@@ -36,7 +36,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Facts                              |   ✔️   |
 | Fonts                              |   ✔️ (Moved to Formatting)   |
 | Global audience                    |   ✔️   |
-| Inclusivity                        |   ✔️ (⚠️ while publishing)   |
+| Inclusivity                        |   ✔️   |
 | Legality, licensing, trademarks    |   ✔️ (Moved to Formatting)   |
 | Multi-platform accessibility       |   ✔️   |
 | Non-ambiguous, no excessive claims |   ✔️   |
