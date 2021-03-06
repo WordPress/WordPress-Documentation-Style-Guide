@@ -6,7 +6,7 @@ Use lowercase and use italic formatting when using as a variable or placeholder.
 
 It is OK to use *x* instead of the multiplication sign (×).
 
-For more information, see [Dimensions](//numbers.md).
+For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions).
 
 ## x-
 
@@ -32,4 +32,4 @@ Initialism for *Extensible Markup Language*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *XML file* rather than *.xml file*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).

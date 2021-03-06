@@ -24,4 +24,4 @@ Recursive acronym for *YAML Ain't Markup Language*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *YAML file* rather than *.yaml file*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
