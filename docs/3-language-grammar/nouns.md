@@ -13,7 +13,7 @@ Proper nouns include:
 - Names and titles of works such as books, articles, songs, etc.
 - Trademarks and standards.
 
-For additional information about capitalizing words and proper nouns, see [Capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/).
+For more information about capitalizing words and proper nouns, see [Capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/).
 
 ## Common nouns
 
@@ -36,4 +36,4 @@ Don't use verbs as nouns or nouns as verbs.
 ## Additional resources
 
 - [Pronouns and collective nouns](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-collective-nouns)  
-- [Pluralizing nouns](plurals)
+- [Plurals and nouns](https://make.wordpress.org/docs/style-guide/language-grammar/plurals/#plurals-and-nouns)

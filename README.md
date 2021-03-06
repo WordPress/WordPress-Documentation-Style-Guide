@@ -63,7 +63,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Genders                                           |   ✔️ (Moved to Pronouns)   |
 | Glossary                                          |   (Moved to Word Usage Dictionary)   |
 | Grammatical person                                |   ✔️   |
-| Nouns                                             |   ✔️ (⚠️ while publishing)   |
+| Nouns                                             |   ✔️   |
 | Plurals (New component)                           |   ✔️   |
 | Possessives (New component)                       |   ✔️   |
 | Prefixes and suffixes                             |   ✔️   |
