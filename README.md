@@ -166,7 +166,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Code in text (New component) |   ✔️   |
 | Code examples |   ✔️   |
 | Coding standards (New component) |   ✔️   |
-| Command-line syntax |   ✔️ (⚠️ while publishing)   |
+| Command-line syntax |   ✔️   |
 | CSS         |   ✔️ (Moved to Coding standards)   |
 | HTML        |   ✔️ (Moved to Coding standards)   |
 | JS          |   ✔️ (Moved to Coding standards)   |

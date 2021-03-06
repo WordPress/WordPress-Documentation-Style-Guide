@@ -1,6 +1,6 @@
 # Command-line syntax
 
-This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [Code in text](), [Placeholders](), and [Code examples]().
+This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [Code in text](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/), [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/), and [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/).
 
 ## Command prompt
 
@@ -66,7 +66,7 @@ $ wp core check-update
 [/tip]  
 In these examples, all words and arguments are required.
 
-For additional information, see [Anatomy of a command](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/#anatomy-of-a-command).
+For more information, see [Anatomy of a command](https://make.wordpress.org/cli/handbook/guides/commands-cookbook/#anatomy-of-a-command).
 
 ## Optional arguments
 
@@ -151,7 +151,7 @@ Press Ctrl-C to quit.
 ```  
 [/tip]  
 
-For information about explaining placeholders in output, see [Placeholders in output]().
+For more information about explaining placeholders in output, see [Placeholders in output](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/#placeholders-in-output).
 
 ## Additional resources
 
