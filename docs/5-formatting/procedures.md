@@ -2,8 +2,8 @@
 
 A procedure is a sequence of numbered steps or instructions for achieving a particular task. Procedures can be presented in various formats such as illustrations, infographics, videos, single-step instructions, and numbered procedures.
 
-For more information about lists of items that aren't part of a procedure, see [Lists]().
-For more information on expressing UI elements, see [UI elements and interaction]().
+For more information about lists of items that aren't part of a procedure, see [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/).
+For more information about expressing UI elements, see [UI elements and interaction](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## Introductory sentences
 
@@ -71,7 +71,7 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
 
 ## Instructions with multiple actions
 
-In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences. Insert a nonbreaking space (`&nbsp;`) around each bracket, and enclose the entire sequence in a single bold element. For more information, see [Menu bar](//ui-elements.md)
+In general, use one step per action. However, you can combine multiple small actions into a single sequential step using angle brackets (>) to make simple sentences. Insert a nonbreaking space (`&nbsp;`) around each bracket, and enclose the entire sequence in a single bold element. For more information, see [Menu bar](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#menu-bar)
 
 **Examples**  
 
@@ -117,7 +117,7 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 
 - Capitalize the first word in each step and end the step with a period; except where the step doesn't include end punctuation.
 - Write complete sentences with a consistent sentence structure. Use a standard writing style for headings and instructions in procedures.
-- Use [imperative verb forms]() in procedures.
+- Use [imperative verb forms](https://make.wordpress.org/docs/style-guide/formatting/procedures/#introductory-sentences) in procedures.
 - Don't use *please* in instructions.
 - Individually [number each step](#sub-steps-in-numbered-procedures) in a procedure. It is acceptable to combine short steps that occur in the same place in the UI.
 - State the purpose of the actions before stating the action.  
