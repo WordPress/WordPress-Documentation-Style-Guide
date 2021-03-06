@@ -2,39 +2,39 @@
 
 In text content, use monospace code font to highlight and distinguish code content from standard text. To express code font in HTML, use the `<code>` element. In Markdown, use backticks (``` ` ```) for code font.
 
-This page explains how to format code in standard text sentences. For more information about other code-related documentation, see [Code examples](), [Placeholders](), and [Command line interface syntax]().
+This page explains how to format code in standard text sentences. For more information about other code-related documentation, see [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/), [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/), and [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 ## Items to put in code font
 
 Use monospace code font while expressing the following items, which include but are not limited to:
 -  Attribute names and values.
 - Class names.
-- [Command-line utility names]().
+- Command-line utility names.
 - Data types.
 - Defined (constant) values for an element or attribute.
 - [DNS record types](https://wikipedia.org/wiki/List_of_DNS_record_types).
 - Enum (enumerator) names.
 - Environment variable names.
 - Element names in XML and HTML. Place angle brackets (`<>`) around the element name; you may have to escape the angle brackets to make them appear in the document.
-- [Filenames](), [filename extensions](), and paths.
+- [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/), [filename extensions](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types), and paths.
 - Folders and directories.
 - HTTP verbs, status codes, and content-type values.
 - Language keywords.
 - Method and function names.
 - Namespace aliases.
-- [Placeholder variables]().
+- [Placeholder variables](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/#placeholder-variables).
 - Query parameter names and values.
 - Text input.
-- [UI elements]() that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*.
+- [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/) that implement previously entered text input. For example, if the user was instructed to enter a name for a UI element as `post-name`, then when you tell them to click the element, use code font and bold: *Click __`post-name`__*.
 
-For more information, see [Code text preceding colon]().
+For more information, see [Code text preceding colon](https://make.wordpress.org/docs/style-guide/punctuation/colons/#code-text-preceding-colon).
 
 ## Items to put in regular (non-code) font
 
 Use standard font while expressing the following items, which include but are not limited to:
 - Email addresses.
 - Names of products, services, and organizations.
-- URLs. For more information, see [Link text]().
+- URLs. For more information, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/).
 
 ## Method names
 
@@ -56,8 +56,8 @@ Formatting a command with multiple elements:
 - If you split a command line with a line break, each line except the last line must end with the command-continuation character. Commands that don't have the command-continuation character don't work. Command-continuation characters are:
   - Linux or shell: A backslash preceded with a space (` \`)
   - Windows: A caret preceded with a space (` ^`)
-- Use placeholder text with [placeholder variables]().
-- Write a descriptive list of the placeholder variables used in the command line succeeding the command line. For additional information, see [Explaining placeholders]().
+- Use placeholder text with [placeholder variables](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/#placeholder-variables).
+- Write a descriptive list of the placeholder variables used in the command line succeeding the command line. For more information, see [Describing placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/#describing-placeholders).
 
 ## Keywords
 
@@ -90,4 +90,4 @@ Insert the HTTP status code number in code font.
 
 ## Coding standards
 
-For more information about coding standards for WordPress, see [Coding standards]().
+For more information about coding standards for WordPress, see [Coding standards](https://make.wordpress.org/docs/style-guide/developer-content/coding-standards/).
