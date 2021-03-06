@@ -2,7 +2,7 @@
 
 Italicize words used as words.
 
-While referring to a particular word or phrase as the word or phrase itself, use italic formatting. For additional information on italics, see [Text highlighting]().
+While referring to a particular word or phrase as the word or phrase itself, use italic formatting. For additional information about italics, see [Text highlighting](https://make.wordpress.org/docs/style-guide/formatting/text/#text-highlighting).
 
 **Examples**  
 

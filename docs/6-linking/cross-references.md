@@ -1,6 +1,6 @@
 # Cross-references
 
-Cross-references guide the reader to information related to the content. For additional information about internal and external references, see [Link text]() and [Capitalization in titles and headings]().
+Cross-references guide the reader to information related to the content. For additional information about internal and external references, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/) and [Capitalization in titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-titles-and-headings).
 
 ## References to other documents
 
@@ -37,8 +37,8 @@ While writing descriptions for what the cross-references link to, use *about* in
 
 **Examples**  
 
-[warning] **Not recommended:** For more information on procedural steps that provide instructions to achieve a particular task, see [Procedures](). [/warning]  
-[tip] **Recommended:** For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures](). [/tip]  
+[warning] **Not recommended:** For more information on procedural steps that provide instructions to achieve a particular task, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/). [/warning]  
+[tip] **Recommended:** For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/). [/tip]  
 
 ## Formatting cross-references
 
@@ -60,7 +60,7 @@ When you're linking to another section in the same page, mention that the link g
 
 **Examples**  
 
-[tip] **Recommended:** In this document, see [References to other documents](). [/tip]  
+[tip] **Recommended:** In this document, see [References to other documents](#). [/tip]  
 
 ### Links to pages on the same server
 
@@ -71,7 +71,7 @@ When you're linking to another page on the same server, use root-relative URLs s
 - When you're linking to pages on a different domain or server, use absolute URLs. Start the URL with `https` if the server you're linking to supports HTTPS. If the server doesn't support HTTPS, start the URL with `http`.
 - Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window.  
 **Examples**  
-[tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](). [/tip]  
+[tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/). [/tip]  
 - Use an external link icon to indicate that the link goes to a different domain or server. Examples of internal links are, a link from make.wordpress.org to developer.wordpress.org or a link from wordpress.org/news to the make.wordpress.org/docs subdomain. A link from developer.wordpress.org to github.com/WordPress is an example of an external link.  
 **Examples**  
 [tip] **Recommended:** For more information, see the [Gutenberg project repository](https://github.com/WordPress/gutenberg). [/tip]  

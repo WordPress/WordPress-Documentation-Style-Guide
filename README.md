@@ -131,13 +131,13 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Typography and fonts                                              |   ✔️ (Moved to Text formatting)   |
 | UI elements                                                       |   ✔️ (Moved to User interface)   |
 | Units of measurement                                              |   ✔️   |
-| Words as words (New component)                                    |   ✔️ (⚠️ while publishing)   |
+| Words as words (New component)                                    |   ✔️   |
 
 ### Linking (New section) 🔄
 
 | Component                  | Status |
 |----------------------------|--------|
-| Cross-references           |   ✔️ (⚠️ while publishing)   |
+| Cross-references           |   ✔️   |
 | External links             |   🔄   |
 | Heading links              |   ✔️   |
 | Image links                |   ✔️   |
