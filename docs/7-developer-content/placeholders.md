@@ -4,7 +4,7 @@ Placeholders in code and commands represent values that the user must input or r
 
 For example, *`POST_ID`* represents a post ID in a code example, command, and example output. In example output, *`VERSION`* represents the version of a plugin, theme, or software; the reader is not expected to set this to a specific value.
 
-This page explains how to format placeholder variables in commands and code examples. For more information about other code-related documentation, see [Code in text](), [Code examples](), and [Command line interface syntax]().
+This page explains how to format placeholder variables in commands and code examples. For more information about other code-related documentation, see [Code in text](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/), [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/), and [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 ## Placeholder variables
 
@@ -110,7 +110,7 @@ Don't use possessive pronouns in placeholder variables.
 [/warning]  
 {% end %}
 
-For more information about placeholder text in commands, see [Optional arguments](), [Mutually exclusive arguments](), and [Multiple value arguments]().
+For more information about placeholder text in commands, see [Optional arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#optional-arguments), [Mutually exclusive arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#mutually-exclusive-arguments), and [Multiple value arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#multiple-value-arguments).
 
 ## Describing placeholders
 
@@ -201,7 +201,7 @@ When you specify placeholders in output examples, use the following formatting:
   <li><code><var>PLACEHOLDER</var></code>: description</li>
   ```
 
-For more information, see [Output from commands]().
+For more information, see [Command output](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#command-output).
 
 **Example**  
 
