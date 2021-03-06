@@ -2,18 +2,18 @@
 
 Write detailed and expressive link text that describes where the reader will be guided to, and what the reader will see after following the link. Links, by themselves, should be coherent without the surrounding text.  
 Links can be of two forms:
-- The exact text of the title, heading, or subheading you're linking to. For additional information about capitalizing such references, see [Capitalization in references to titles and headings]().
+- The exact text of the title, heading, or subheading you're linking to. For more information about capitalizing such references, see [Capitalization in references to titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-references-to-titles-and-headings).
 - A description of the linked document or page, with standard text capitalization.
 
-For additional information about link text, see [Cross-references]().
+For more information about link text, see [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
 
 ## General guidelines for link text
 
 - You can rewrite or rephrase a sentence to include a phrase to get well-articulated and clear link text.
 - Don't use a URL as link text. Instead, use the page title or a description of the page.
 - Don't use the phrase *click here* or *this document*. It impedes scannability and accessibility.
-- Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window. For more information, see [Links to pages on a different domain or server]().
-- Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Cross references]().
+- Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window. For more information, see [Links to pages on a different domain or server](https://make.wordpress.org/docs/style-guide/linking/cross-references/#links-to-pages-on-a-different-domain-or-server).
+- Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Links to pages on a different domain or server](https://make.wordpress.org/docs/style-guide/linking/cross-references/#links-to-pages-on-a-different-domain-or-server).
 - If the link downloads a file, explicitly mention it, and the type of file being downloaded.
 - If you're referencing a link with an abbreviation, include both the spelled-out term or phrase and the abbreviation in the link text. For example, link to [WordPress Command Line Interface (WP-CLI)](https://make.wordpress.org/cli/), not [WordPress Command Line Interface](https://make.wordpress.org/cli/) (WP-CLI).
 
