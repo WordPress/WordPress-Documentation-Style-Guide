@@ -29,7 +29,7 @@ Don't use a filename extension to refer to a type of file. For example, use *zip
 
 Don't use *zip* or *unzip* as a verb. Instead, use *compress* and *extract*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## ZIP code
 
@@ -41,4 +41,4 @@ Use uppercase capitalization for *ZIP*.
 
 OK to use *zoom, zoom in, zoom out*.
 
-For more information, see [Interaction verbs](//ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#zoom).
