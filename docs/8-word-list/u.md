@@ -11,8 +11,8 @@ Don't use *UI* to generically refer to UI elements. Instead, use the specific UI
 [warning] **Not recommended:** In the **Link** UI, enter your sitemap link. [/warning]  
 [tip] **Recommended:** In the **Link** box, enter your sitemap link.  [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().  
-For more information, see [UI elements]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).  
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## UK
 
@@ -20,13 +20,13 @@ Initialism for *United Kingdom*. Use uppercase.
 
 Don't use as a synonym for *Great Britain (GB)* or *England*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## un-
 
 In general, don't hyphenate words beginning with *un-* such as *unable* and *undo*, unless absolutely necessary, to avoid confusion. For example, hyphenate in cases such as *un-fitting*, or where *un-* is followed by a proper noun such as *un-American*.
 
-For more information about hyphenation, see [Hyphens]().
+For more information about hyphenation, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
 ## unarchive
 
@@ -43,7 +43,7 @@ In general, describe how the user should interact with the UI rather than descri
 [tip] **Recommended:** If the editor permissions are unavailable, contact your site administrator. [/tip]  
 [tip] **Recommended:** The **Update** button is unavailable unless you change the post contents. [/tip]  
 
-For additional information, see [UI elements](ui-elements.md).
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 See also [dimmed](d.md), [disable, disabled](d.md).
 
@@ -56,13 +56,13 @@ Don't use to refer to the action of clearing a check mark from a checkbox. Inste
 [warning] **Not recommended:** Uncheck the **Crop thumbnail** checkbox. [/warning]  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## unclick
 
 Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## uncompress
 
@@ -106,7 +106,7 @@ Don't use *undo* as a noun.
 
 Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## uninstall
 
@@ -133,7 +133,7 @@ Use rather than *UNIX time* or *epoch time* to refer to a point in time represen
 
 Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 See also [uncheck](#uncheck).
 
@@ -147,7 +147,7 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 
 Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 See also [uncheck](#uncheck).
 
@@ -155,7 +155,7 @@ See also [uncheck](#uncheck).
 
 Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## untar
 
@@ -213,7 +213,7 @@ Hyphenate as adjectives. Use instead of *top left* and *top right*.
 
 In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
 
-For more information, see [Procedures and instructions]().
+For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 ## upsize
 
@@ -231,7 +231,7 @@ Not *upwards*.
 
 Initialism for *Uniform Resource Identifier*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## URL
 
@@ -239,8 +239,8 @@ Initialism for *Uniform Resource Locator*. Use uppercase. Plural is *URLs*.
 
 Write *a URL* instead of *an URL*, as the most common pronunciation starts with a consonant sound. For more information, see [Articles](articles.md).
 
-For more information about spelling out abbreviations, see [Abbreviations]().
-For more information about styling and formatting URLs, see the [Linking section]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+For more information about styling and formatting URLs, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
 ## US
 
@@ -248,7 +248,7 @@ Initialism for *United States*. OK to use as an abbreviation for *United States*
 
 Not *U.S., U.S.A.*, or *USA*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## usable
 
@@ -264,7 +264,7 @@ Don't spell out. Use only as an adjective.
 
 [tip] **Recommended:** USB drive [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## user
 
@@ -275,7 +275,7 @@ Use *you* when addressing the reader instead of *user*. If your documentation au
 [warning] **Not recommended:** The user can click the **Save** button to save changes. [/warning]  
 [tip] **Recommended:** You can click the **Save** button to save changes. [/tip]  
 
-For more information, see [Grammatical person]().
+For more information, see [Grammatical person](https://make.wordpress.org/docs/style-guide/language-grammar/grammatical-person/).
 
 ## user base
 
@@ -295,7 +295,7 @@ Initialism for *Unicode Transformation Format*. Use uppercase.
 
 Include the hyphen in the names of Unicode encodings, such as *UTF-8, UTF-16*, and *UTF-32*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## utility
 
@@ -316,6 +316,6 @@ Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utili
 
 Initialism for *User Experience*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [UI](#ui).
