@@ -147,7 +147,7 @@ See also [which](w.md).
 
 Use *they, their, them* as gender-neutral pronouns when referring to people of unspecified gender. Don't use *he, him, she, her,* or renditions like *s/he, he/she,* or *(s)he* for people of unspecified gender.
 
-For more information, see [Pronouns and gender](pronouns.md), [Inclusivity- Writing about genders](inclusivity.md).
+For more information, see [Pronouns and gender](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-genders), [Inclusivity- Writing about genders](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 
 ## third party
 
@@ -161,11 +161,11 @@ Insert a noun after *this* for clarity, whenever possible. It is acceptable to o
 
 Don't abbreviate *thousand* as *K* or *k*. Spell out the word or denote the entire number.
 
-For more information, see [Abbreviations](numbers.md).
+For more information, see [Abbreviations in numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#abbreviations).
 
 ## three-dimensional
 
-See [3D](numbers.md).
+See [3D](https://make.wordpress.org/docs/style-guide/word-list/numbers/#3d).
 
 ## thru
 
@@ -191,7 +191,7 @@ One word. Not *time stamp* or *time-stamp*.
 
 Not *time-to-live*. Abbreviate as *TTL* after first use.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## time zone, time-zone
 
@@ -209,7 +209,7 @@ As a verb, it is OK to use *toggle* in developer documentation and for a technic
 
 OK to use as a noun or an adjective, as in *toggle button* or *toggle switch*. A *toggle button* is a UI element that switches back and forth between on and off options or states.
 
-For more information, see [Toggle button](ui-elements.md) and [Formatting UI element names](ui-elements.md).
+For more information, see [Toggle button](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#toggle-button) and [Formatting UI element names](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#formatting-ui-element-names).
 
 ## tool
 
@@ -227,7 +227,7 @@ One word. Not *tool kit* or *tool-kit*.
 
 Don't use.
 
-See [upper left, upper right](u.md).
+See [upper left, upper right](https://make.wordpress.org/docs/style-guide/word-list/u/#upper-left-upper-right).
 
 ## touch
 
@@ -241,7 +241,7 @@ When the environment is presumably a touch device, use *touch and hold* to descr
 
 Don’t use *tap and hold*.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 See also [tap, double-tap](#tap-double-tap).
 
@@ -290,7 +290,7 @@ Use to describe turning a device on or off. Don't use *power on/power off* or *s
 
 OK to use when referring to the action of turning a switch or toggle key on or off.
 
-For more information, see [Switch, turn on, turn off, enable](ui-elements.md).
+For more information, see [Switch, turn on, turn off, enable](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#switch-turn-on-turn-off-enable).
 
 See also [enable, enabled](), [disable, disabled]().
 
@@ -298,17 +298,17 @@ See also [enable, enabled](), [disable, disabled]().
 
 OK to use.
 
-For more information, see [Procedures]().
+For more information, see [Procedures](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 ## two-dimensional
 
-See [2D](numbers.md).
+See [2D](https://make.wordpress.org/docs/style-guide/word-list/numbers/#2d).
 
 ## type
 
 OK to use.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input).
 
 See also [enter](e.md).
 
