@@ -71,7 +71,7 @@ One word. Not *web mail* or *web-mail*.
 
 Don't use. Instead use *site admin, website author*, or *web developer*.
 
-For more information, see [Replacing established terms](//inclusivity.md).
+For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
 
 ## webpage
 
@@ -85,7 +85,7 @@ Two words. Not *webserver* or *web-server*.
 
 One word. Not *web site* or *web-site*.
 
-For more information about which action verbs to use for *website*, see [Interaction verbs](//ui-elements.md).
+For more information about which action verbs to use for *website*, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 ## where
 
@@ -117,7 +117,7 @@ Use only to refer to something occurring in a period of time. Don't use as a syn
 
 Don't use. Instead, use *allowlist, allowed*, or *approved*.
 
-For more information, see [Replacing established terms](//inclusivity.md).
+For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
 
 ## white paper
 
@@ -158,13 +158,13 @@ Avoid using. *Will* indicates future tense.
 
 Also avoid using *would*, as it indicates past tense.
 
-For more information, see [Tense]() and [Documenting future features](//facts-claims.md).
+For more information, see [Tense](https://make.wordpress.org/docs/style-guide/language-grammar/tense/) and [Documenting future features](https://make.wordpress.org/docs/style-guide/general-guidelines/facts-claims/#documenting-future-features).
 
 ## window
 
 Don't use as a verb.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## Windows
 
@@ -260,7 +260,7 @@ Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
 Initialism for *WordPress command-line interface*. Use uppercase and hyphenate.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## write
 
