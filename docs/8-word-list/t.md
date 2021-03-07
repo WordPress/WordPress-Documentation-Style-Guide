@@ -6,7 +6,7 @@ Don't use as a verb.
 
 As a noun, use to refer to tabs that show a separate view or subpages on a webpage, dialog box, browser, or menu. For other uses of the term, clarify the meaning with a descriptor, such as *the Tab key, a tab character, a tab stop*, or *a tab mark on the ruler*.
 
-For more information, see [UI elements]().
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## tablet
 
@@ -18,7 +18,7 @@ Use *tap* to describe selecting, opening, or enabling targets such as buttons, l
 
 Use *double-tap* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping it twice in quick succession. Hyphenate *double-tap*. Don’t use *double-tap* on.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 See also [touch and hold](#touch-and-hold).
 
@@ -38,7 +38,7 @@ Acronym for *Tape Archive* file.
 
 Don't use a filename extension to refer to a type of file. For example, use *tar file* rather than *.tar file*.
 
-For more information, see [Referring to file types](filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## target
 
@@ -71,7 +71,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 2 TB SSD [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Tbit, terabit
 
@@ -91,13 +91,13 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** 10 TBit switch [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Tbps (Tbit/s), terabits per second
 
 Abbreviation for *terabits per second*.
 
-For more information, see [Units of measurement]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
 
 See also [Tbit, terabit](#tbit-terabit).
 
@@ -105,7 +105,7 @@ See also [Tbit, terabit](#tbit-terabit).
 
 Abbreviation for *terabytes per second*.
 
-For more information, see [Units of measurement]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
 
 See also [TB, terabyte](#tb-terabyte).
 
@@ -113,7 +113,7 @@ See also [TB, terabyte](#tb-terabyte).
 
 Initialism for *Transmission Control Protocol/Internet Protocol*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## terminate
 
@@ -123,13 +123,13 @@ OK to use in developer documentation and for a technical audience. Don't use as 
 
 Don't use. Instead, refer to the box by its UI label or use *box*.
 
-For more information, see [Text box](ui-elements.md).
+For more information, see [Text box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#text-box).
 
 ## text file
 
 Don't use a filename extension to refer to a type of file. For example, use *text file* rather than *.txt file*.
 
-For more information, see [Referring to file types](filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## that
 
