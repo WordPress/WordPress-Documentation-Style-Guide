@@ -50,13 +50,13 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 
 Use *virtual machine* when introducing the term for the first time. On subsequent mentions, it is OK to use *VM* or *VM instance*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## visit
 
 Don't use to refer to the action of opening a website or webpage. Instead, use *go to*.
 
-For more information, see [Interaction verbs](//ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 ## volume (disk)
 
@@ -70,10 +70,10 @@ See also [disk]().
 
 Initialism for *Virtual Private Network*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## VVV
 
 Initialism for *Varying Vagrant Vagrants*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
