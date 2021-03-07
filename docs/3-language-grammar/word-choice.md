@@ -55,5 +55,5 @@ If you have to use a word in a definition that is different from its widely used
 
 ## Additional resources
 
-- [Accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/).
-- [Contractions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/).
+- [Accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/)
+- [Contractions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/)
