@@ -1,6 +1,8 @@
 # M
 
+## machine
 ## macOS
+## manipulate
 ## Markdown
 ## markup, mark up
 ## master
@@ -64,8 +66,17 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [MB, megabyte](#mb-megabyte).
 
+## metadata
+## method
+##
 ## million, M
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
 
 For more information, see [Abbreviations](numbers.md).
+
+## ML
+## mobile, mobile device, mobile phone
+## mobile data
+## mobile network
+## multi-
