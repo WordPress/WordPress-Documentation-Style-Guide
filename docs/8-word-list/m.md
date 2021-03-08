@@ -10,7 +10,7 @@
 
 Initialism for *megabyte*. Use uppercase.
 
-One *GB* equals 1000<sup>2</sup> bytes in the context of file size or storage capacity, and 1024<sup>2</sup> bytes in the context of computer memory.
+One *MB* equals 1000<sup>2</sup> bytes in the context of file size or storage capacity, and 1024<sup>2</sup> bytes in the context of computer memory.
 
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
@@ -27,6 +27,25 @@ Don’t hyphenate the adjective form.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## Mbit, megabit
+
+Initialism for *megabit*.
+
+One *Mbit* equals 1000<sup>2</sup> bits in the context of file size or storage capacity, and 1024<sup>2</sup> bits in the context of computer memory.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** 10 MBit of memory [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** 10 MBit memory [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## Mbps (Mbit/s), megabits per second
 
 Initialism for *megabits per second*.
