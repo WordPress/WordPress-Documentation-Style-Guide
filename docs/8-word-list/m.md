@@ -4,9 +4,11 @@
 ## macOS
 ## manipulate
 ## Markdown
+## marquee
 ## markup, mark up
-## master
-## matrix
+## master, master/slave
+## mathematical
+## matrix, matrices
 ## may
 ## MB, megabyte
 
@@ -66,9 +68,27 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [MB, megabyte](#mb-megabyte).
 
+## medium, media
 ## metadata
 ## method
-##
+## MHz, megahertz
+
+Initialism for *megahertz*.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** a rate of 5.0 MHz [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 5.0 MHz rate [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## million, M
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
