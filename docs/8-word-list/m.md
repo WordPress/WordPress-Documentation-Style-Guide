@@ -111,7 +111,14 @@ For more information, see [Abbreviations](numbers.md).
 ## monospace
 ## more than
 ## mouse
+## mouse button
 ## mouse over
 ## movable
 ## move
+## MPEG
+## MP4
 ## multi-
+## multiplication sign
+## multitask, multitasking
+## must
+## MySQL
