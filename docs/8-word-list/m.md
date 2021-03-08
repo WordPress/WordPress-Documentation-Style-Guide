@@ -3,6 +3,7 @@
 ## machine
 ## macOS
 ## manipulate
+## MariaDB
 ## Markdown
 ## marquee
 ## markup, mark up
@@ -69,10 +70,13 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 See also [MB, megabyte](#mb-megabyte).
 
-## medium, media
+## media, medium
+## mega-
 ## memory
+## menu bar
 ## menu item
 ## message
+## meta
 ## metadata
 ## method
 ## MHz, megahertz
@@ -96,12 +100,14 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 ## micro-
 ## Microsoft
 ## midnight
+## migrate
 ## million, M
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
 
 For more information, see [Abbreviations](numbers.md).
 
+## MIME
 ## minimize
 ## minus sign
 ## ML
@@ -110,15 +116,18 @@ For more information, see [Abbreviations](numbers.md).
 ## mobile network
 ## monospace
 ## more than
+## mount
 ## mouse
 ## mouse button
 ## mouse over
 ## movable
 ## move
-## MPEG
+## MP3
 ## MP4
+## MPEG
 ## multi-
 ## multiplication sign
+## multisite
 ## multitask, multitasking
 ## must
 ## MySQL
