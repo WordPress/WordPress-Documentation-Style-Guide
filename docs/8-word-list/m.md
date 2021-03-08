@@ -10,6 +10,7 @@
 ## mathematical
 ## matrix, matrices
 ## may
+## maximize
 ## MB, megabyte
 
 Initialism for *megabyte*. Use uppercase.
@@ -69,6 +70,9 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 See also [MB, megabyte](#mb-megabyte).
 
 ## medium, media
+## memory
+## menu item
+## message
 ## metadata
 ## method
 ## MHz, megahertz
@@ -89,14 +93,25 @@ Don’t hyphenate the adjective form.
 
 For more information about spelling out abbreviations, see [Abbreviations]().
 
+## micro-
+## Microsoft
+## midnight
 ## million, M
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
 
 For more information, see [Abbreviations](numbers.md).
 
+## minimize
+## minus sign
 ## ML
 ## mobile, mobile device, mobile phone
 ## mobile data
 ## mobile network
+## monospace
+## more than
+## mouse
+## mouse over
+## movable
+## move
 ## multi-
