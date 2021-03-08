@@ -7,6 +7,25 @@
 ## matrix
 ## may
 ## MB, megabyte
+
+Initialism for *megabyte*. Use uppercase.
+
+One *GB* equals 1000<sup>2</sup> bytes in the context of file size or storage capacity, and 1024<sup>2</sup> bytes in the context of computer memory.
+
+In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
+
+**Example**  
+
+[tip] **Recommended:** 128 MB of storage [/tip]  
+
+Don’t hyphenate the adjective form.
+
+**Example**  
+
+[tip] **Recommended:** a 16 MB storage drive [/tip]  
+
+For more information about spelling out abbreviations, see [Abbreviations]().
+
 ## Mbit, megabit
 ## Mbps (Mbit/s), megabits per second
 
