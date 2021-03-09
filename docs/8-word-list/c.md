@@ -2,3 +2,4 @@
 
 ## character
 ## cut, cut-paste
+## close
