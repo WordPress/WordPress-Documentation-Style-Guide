@@ -11,3 +11,6 @@ The use of `&` in code is completely fine.
 Use code font.
 
 For more information, see [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
+
+## - (minus sign)
+## × (multiplication sign)
