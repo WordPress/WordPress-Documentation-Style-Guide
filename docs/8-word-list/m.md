@@ -5,15 +5,35 @@
 Don't use as a synonym for computer.
 
 ## macOS
+
+Operating system used on Apple Macintosh computers. Use lowercase for *mac* and uppercase for *OS*
+
+See also [OS]().
+
 ## manipulate
 ## MariaDB
 
 Capitalize *M* and use uppercase for *DB*.
 
 ## Markdown
+
+Capitalize.
+
+Don't use a filename extension to refer to a type of file. For example, use *Markdown file* rather than *.md file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## marquee
 ## markup, mark up
+
+One word as a noun. As a verb, use two words such as *mark up*. Don't hyphenate in any form.
+
 ## master, master/slave
+
+Avoid whenever possible. Instead, replace *master* with a contextually relevant term such as *primary, main, original, parent, initiator, driver, controller, manager, mixer, aggregator, publisher, leader*, or *active*. Use *primary/secondary, primary/subordinate, principal/agent* or other relevant terms instead of *master/slave*.
+
+For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
+
 ## mathematical
 ## matrix, matrices
 ## may
