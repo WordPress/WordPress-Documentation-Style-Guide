@@ -2,7 +2,7 @@
 
 ## O2
 
-See [P2](p.md).
+See [P2](https://make.wordpress.org/docs/style-guide/word-list/p/#p2).
 
 ## object
 
@@ -79,7 +79,7 @@ Use *on to* when *on* is part of the verb.
 [tip] **Recommended:** Drag the image onto the desktop. [/tip]  
 [tip] **Recommended:** Pass on to the next item. [/tip]  
 
-See also [into, in to](i.md).
+See also [into, in to](https://make.wordpress.org/docs/style-guide/word-list/i/#into-in-to).
 
 ## open
 
@@ -87,9 +87,9 @@ Use *open*, not *start* or *launch* to describe opening a program, application, 
 
 Use *open*, not *opened*, to describe the open state, such as *an open folder*.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs]https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#open).
 
-See also [close](c.md).
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close).
 
 ## open source
 
@@ -101,11 +101,11 @@ OK to use in developer documentation and for a technical audience.
 
 In a command-line context, use *option* instead of *flag, argument*, or *parameter*.
 
-For more information, see [Command-line syntax]().
+For more information, see [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to an option by its label. If you have to use a descriptor, use *option* or *option button*.
 
-For more information, see [UI elements](ui-elements.md).
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## OS, operating system
 
@@ -113,7 +113,7 @@ Initialism for *operating system*. Use uppercase for the initialism.
 
 For the spelled out version, use two words as a noun, and hyphenate as an adjective.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## output
 
