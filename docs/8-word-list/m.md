@@ -108,6 +108,11 @@ Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the 
 For more information, see [Abbreviations](numbers.md).
 
 ## MIME
+
+Abbreviation for *Multipurpose Internet Mail Extension*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## minimize
 ## minus sign
 ## ML
@@ -123,8 +128,31 @@ For more information, see [Abbreviations](numbers.md).
 ## movable
 ## move
 ## MP3
+
+Initialism for *MPEG Audio Layer 3*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *MP3 file* rather than *.mp3 file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## MP4
+
+Initialism for *MPEG-4*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *MP4 file* rather than *.mp4 file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
+See also [MPEG](#mpeg).
+
 ## MPEG
+
+Initialism for *Moving Picture Experts Group*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *MPEG file* rather than *.mpg file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## multi-
 ## multiplication sign
 ## multisite
