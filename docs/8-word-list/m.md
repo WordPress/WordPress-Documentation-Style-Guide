@@ -1,9 +1,15 @@
 # M
 
 ## machine
+
+Don't use as a synonym for computer.
+
 ## macOS
 ## manipulate
 ## MariaDB
+
+Capitalize *M* and use uppercase for *DB*.
+
 ## Markdown
 ## marquee
 ## markup, mark up
@@ -116,6 +122,11 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## minimize
 ## minus sign
 ## ML
+
+Abbreviation for *machine learning*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## mobile, mobile device, mobile phone
 ## mobile data
 ## mobile network
@@ -147,7 +158,7 @@ See also [MPEG](#mpeg).
 
 ## MPEG
 
-Initialism for *Moving Picture Experts Group*. Use uppercase.
+Acronym for *Moving Picture Experts Group*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *MPEG file* rather than *.mpg file*.
 
@@ -159,3 +170,5 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## multitask, multitasking
 ## must
 ## MySQL
+
+Capitalize *M* and use uppercase for *SQL*.
