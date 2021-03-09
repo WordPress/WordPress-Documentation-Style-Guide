@@ -36,7 +36,13 @@ For more information, see [Replacing established terms](https://make.wordpress.o
 
 ## mathematical
 ## matrix, matrices
+
+Use the plural *matrixes* unless there is a domain-specific reason (for example, a mathematical context) to use *matrices*.
+
 ## may
+
+Avoid using in standard documentation; reserve *may* for official policy or legal considerations. To convey possibility, use *might* instead. To convey permission, use *can* instead.
+
 ## maximize
 ## MB, megabyte
 
@@ -104,6 +110,9 @@ See also [MB, megabyte](#mb-megabyte).
 ## message
 ## meta
 ## metadata
+
+One word. Not *meta data* or *meta-data*.
+
 ## method
 ## MHz, megahertz
 
@@ -140,7 +149,6 @@ Abbreviation for *Multipurpose Internet Mail Extension*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## minimize
-## minus sign
 ## ML
 
 Abbreviation for *machine learning*. Use uppercase.
@@ -185,7 +193,6 @@ Don't use a filename extension to refer to a type of file. For example, use *MPE
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## multi-
-## multiplication sign
 ## multisite
 ## multitask, multitasking
 ## must
