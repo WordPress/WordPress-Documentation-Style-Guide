@@ -1,5 +1,7 @@
 # Abbreviations
 
+[info] **Highlight:** Spell out and declare abbreviations whenever they are used for the first time. Avoid internet slang and jargon. [/info]
+
 Abbreviations include acronyms, initialisms, contractions, and shortened phrases and words.
 
 - An acronym is formed from the initial letters of words from a particular phrase. Acronyms are pronounced as words themselves.
