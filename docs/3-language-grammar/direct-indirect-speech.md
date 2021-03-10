@@ -1,5 +1,7 @@
 # Direct and indirect speech
 
+[info] **Highlight:** In general, use indirect speech. [/info]
+
 In documentation, sometimes you have to convey what someone has expressed from a previous conversation, to the reader. This can be done in two methods, direct speech or indirect speech. In general, use indirect speech so that readers don't have to distinguish between speakers and their quotes.
 
 ## Direct speech
