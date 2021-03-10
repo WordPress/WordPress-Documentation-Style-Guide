@@ -1,5 +1,7 @@
 # Accessibility
 
+[info] **Highlight:** Write documentation that is accessible to everyone. [/info]
+
 The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
 
 ## General guidelines

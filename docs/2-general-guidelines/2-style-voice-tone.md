@@ -1,5 +1,7 @@
 # Style, voice, and tone
 
+[info] **Highlight:** Write in a conversational tone that is succinct, natural, and friendly towards the reader. [/info]
+
 Always write your documents in simple, easy-to-understand sentences. *Voice* and *tone* refer to the mood or attitude of a specific work of writing. Ensure that your voice and tone is succinct, natural, and friendly towards the reader. Avoid a tone that is commanding or too pushy. Try to keep the document contents straightforward and effortless to understand.
 
 Don't try to be overly colloquial. On the other hand, don't overdo a professional tone; a formal or robotic tone is unfit as well. Try to achieve a balance between colloquial and formal language, that is suitable for providing knowledge and information. The document should persuade readers, rather than overwhelm them with verbiage.
