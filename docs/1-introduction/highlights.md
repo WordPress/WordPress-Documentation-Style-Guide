@@ -1,8 +1,10 @@
 # Highlights
 
+[info] **Highlight:** An overview of some of the highlights of the Style Guide. [/info]
+
 This page provides a synopsis of the WordPress Style Guide.
 
-For more information about a specific guideline, visit the link.
+For more information about guidelines or topics, follow the links.
 
 ## General guidelines
 
