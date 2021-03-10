@@ -1,4 +1,6 @@
-# Document layout
+# Document structure
+
+
 
 - Don't write walls of text in your documentation. Follow a defined structure throughout your documentation.
 - Break up long pages of text into paragraphs, lists, and illustrations. Use proper heading hierarchy.
