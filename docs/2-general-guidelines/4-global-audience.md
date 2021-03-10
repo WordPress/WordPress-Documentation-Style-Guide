@@ -1,5 +1,7 @@
 # Writing documentation for an international audience
 
+[info] **Highlight:** Write documentation for a global audience considering translation. [/info]
+
 WordPress is a global project, with its developer community and users spanning the globe. Both developers and users speak a variety of languages. Approaching documentation from a global perspective helps the understanding of readers around the globe; while also increasing its reach.
 
 Both developer and end-user WordPress documentation is written in US English. Just about [half of WordPress installs](https://wordpress.org/about/stats/) are in non-English locales. It is presumable that your documentation would be read by developers and users whose primary language is not English. Hence, writing documentation considering internationalization, localization, and translation is essential.

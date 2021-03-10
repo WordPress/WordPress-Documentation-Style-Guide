@@ -1,5 +1,7 @@
 # Writing inclusive documentation
 
+[info] **Highlight:** Write documentation using inclusive language, word choice, and examples. [/info]
+
 The WordPress community is welcoming and inclusive. Write WordPress documentation considering inclusivity of people of all demographics.
 
 ## Unbiased documentation
