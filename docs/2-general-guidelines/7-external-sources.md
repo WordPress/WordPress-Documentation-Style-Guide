@@ -1,5 +1,7 @@
 # External sources
 
+[info] **Highlight:** Write using your own words. Don't copy content from external sources because it might infringe copyright. [/info]
+
 Don't copy content from external sources because it might infringe copyright. Instead, paraphrase and link to their content. The types of content that may be copyrighted, include and are not limited to:
 - Text
 - Media (Images, audio, video)
