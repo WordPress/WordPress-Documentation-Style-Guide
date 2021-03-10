@@ -10,7 +10,7 @@ For more information about a specific guideline, visit the link.
 - [Write in a conversational tone that is succinct, natural, and friendly towards the reader](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
 - [Write documentation that is accessible to everyone](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/).
 - [Write documentation for a global audience considering translation](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
-- [Write using inclusive language, word choice, and examples](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
+- [Write documentation using inclusive language, word choice, and examples](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 - [Avoid making excessive claims about WordPress' products and services. Don't document or attempt to predict WordPress' future features, products, or services](https://make.wordpress.org/docs/style-guide/general-guidelines/facts-claims/).
 - [Write using your own words. Don't copy content from external sources because it might infringe copyright](https://make.wordpress.org/docs/style-guide/general-guidelines/external-sources/).
 - [You can contribute to the WordPress Documentation Style Guide by opening a pull request on its GitHub repository](https://make.wordpress.org/docs/style-guide/general-guidelines/contributing-to-style-guide/).
