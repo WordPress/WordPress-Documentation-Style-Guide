@@ -1,5 +1,7 @@
 # Pronouns
 
+[info] **Highlight:** Ensure that a pronoun clearly refers to its antecedent. [/info]
+
 A pronoun is a word that is used as a substitute for a noun or a noun phrase, which are contextually understood. Pronouns are used so that a particular noun isn't repeatedly used.
 
 ## Personal pronouns
