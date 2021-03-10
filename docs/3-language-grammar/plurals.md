@@ -1,5 +1,7 @@
 # Plurals
 
+[info] **Highlight:** Pluralize a singular noun by adding *-s* at the end. [/info]
+
 ## Plurals and nouns
 
 If a singular noun ends without an *-s*, add an *s* at the end to get its plural form. If a singular noun ends with an *-s, -ss, -sh, -ch, -x, or -z*, add an *es* at the end to get its plural from. Additional information on plurals and their exceptions can be found [on Wikipedia](https://wikipedia.org/wiki/English_plurals).

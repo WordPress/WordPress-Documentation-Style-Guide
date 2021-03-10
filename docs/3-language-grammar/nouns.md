@@ -1,5 +1,7 @@
 # Nouns
 
+[info] **Highlight:** Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs. [/info]
+
 A noun is a word used to identify people, places, or things (common noun), or particular person, place, or thing (proper noun).
 
 ## Proper nouns
