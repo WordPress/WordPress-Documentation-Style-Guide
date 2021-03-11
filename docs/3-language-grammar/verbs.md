@@ -1,5 +1,7 @@
 # Verbs
 
+[info] **Highlight:** Use precise verbs to write clear, succinct sentences. [/info]
+
 Use precise verbs to write clear, succinct sentences. Use active voice while writing documentation. Some exceptions for using passive voice can be made. For more information, see [Voice](https://make.wordpress.org/docs/style-guide/language-grammar/voice/).  
 Also, write in present tense rather than future tense. For more information, see [Tense](https://make.wordpress.org/docs/style-guide/language-grammar/tense/).
 

@@ -1,5 +1,7 @@
 # Voice
 
+[info] **Highlight:** In general, use active voice rather than passive voice. [/info]
+
 In general, use active voice rather than passive voice.
 - When the subject (person or thing) of a sentence is performing the action, the sentence uses active voice.
 - When the subject (person or thing) of a sentence is being acted upon, then the sentence uses passive voice. The subject is the receiver of the action.
