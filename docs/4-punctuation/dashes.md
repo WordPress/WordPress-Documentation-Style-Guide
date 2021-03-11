@@ -1,5 +1,7 @@
 # Dashes
 
+[info] **Highlight:** Use an em dash, to set off a break in the flow of a sentence. Use an en dash to indicate a range of numbers, the minus sign, or negative numbers. [/info]
+
 ## Em dashes
 
 Use an em dash (—) also known as a long dash, to set off a break in the flow of a sentence. Em dashes are also used to provide emphasis for parenthetical phrases more than parentheses themselves. Don't add spaces before and after the em dash. Don’t capitalize the first word after an em dash unless the word is a proper noun.
