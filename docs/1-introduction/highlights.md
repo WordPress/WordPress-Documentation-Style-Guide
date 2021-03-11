@@ -55,8 +55,7 @@ For more information about guidelines or topics, follow the links.
 
 ## Formatting
 
-- [Use the *day of week, month dd, year* date format to express dates](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
-- [Express time in the 12-hour format and always include *AM* and *PM*](https://make.wordpress.org/docs/style-guide/formatting/dates-times/). [Use Coordinated Universal Time (UTC) and always include the time zone for real times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
+- [Use the *day of week, month dd, year* date format to express dates. Express time in the 12-hour format and always include *AM* and *PM*. Use Coordinated Universal Time (UTC) and always include the time zone for real times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
 - [Write unbiased examples without revealing personally identifiable information](https://make.wordpress.org/docs/style-guide/formatting/examples/).
 - [Use all-lowercase filenames and separate words in filenames with hyphens](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
 - [Avoid writing footnotes in documentation](https://make.wordpress.org/docs/style-guide/formatting/footnotes/).
