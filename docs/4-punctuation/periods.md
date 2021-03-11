@@ -1,5 +1,7 @@
 # Periods
 
+[info] **Highlight:** End all independent sentences with a period, and insert one space after the period. [/info]
+
 End all independent sentences with a period, and insert one space after the period. If the sentence or phrase ends with punctuation other than a period, such as a question mark or exclamation point, don't use a period.
 
 ## Periods with lists

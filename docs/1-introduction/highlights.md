@@ -48,7 +48,7 @@ For more information about guidelines or topics, follow the links.
 - [Hyphenate words only when needed for clarity](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 - [Use parentheses sparingly](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/).
 - [End all independent sentences with a period, and insert one space after the period](https://make.wordpress.org/docs/style-guide/punctuation/periods/).
-- [Use questions sparingly](https://make.wordpress.org/docs/style-guide/punctuation/question-marks/).
+- [Use question marks sparingly](https://make.wordpress.org/docs/style-guide/punctuation/question-marks/).
 - [Use straight double quotation marks](https://make.wordpress.org/docs/style-guide/punctuation/quotation-marks/).
 - [Use semicolons to separate independent clauses](https://make.wordpress.org/docs/style-guide/punctuation/semicolons/).
 - [Avoid using slashes except in code examples, file paths, and URLs](https://make.wordpress.org/docs/style-guide/punctuation/slashes/).

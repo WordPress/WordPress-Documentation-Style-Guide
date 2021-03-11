@@ -1,5 +1,7 @@
 # Parentheses
 
+[info] **Highlight:** Use parentheses sparingly. [/info]
+
 Avoid using parentheses in standard sentences unless absolutely needed. Readers tend to overlook content inside parentheses, so avoid enclosing important information in them. Consider rephrasing your sentences even for lesser important information as well. You can use [em dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#em-dashes), [commas](https://make.wordpress.org/docs/style-guide/punctuation/commas/), [semicolons](https://make.wordpress.org/docs/style-guide/punctuation/semicolons/), or [periods](https://make.wordpress.org/docs/style-guide/punctuation/periods/) to provide emphasis for parenthetical phrases.
 
 ## General dos and don'ts for parentheses
