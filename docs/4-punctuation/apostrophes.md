@@ -1,5 +1,7 @@
 # Apostrophes
 
+[info] **Highlight:** Use straight apostrophes. [/info]
+
 Use straight apostrophes, the same character as a single quotation mark ('). It is completely fine to use straight apostrophes in code snippets.
 
 ## Apostrophes in contractions

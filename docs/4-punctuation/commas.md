@@ -1,5 +1,7 @@
 # Commas
 
+[info] **Highlight:** Use commas to separate items in a series, and to separate certain kinds of clauses. Use serial commas. [/info]
+
 ## Oxford/Serial commas
 
 Use the Oxford comma before the conjunction in a series of three or more items.

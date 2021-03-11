@@ -1,5 +1,7 @@
 # Colons
 
+[info] **Highlight:** Use colons to initiate closely-related content that follows. [/info]
+
 ## Colons in introductory phrases
 
 Include a colon at the end of a phrase or sentence that list. The text preceding the colon must distinctly stand alone as a complete sentence.
