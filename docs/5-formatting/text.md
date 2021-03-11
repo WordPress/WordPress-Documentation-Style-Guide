@@ -1,5 +1,7 @@
 # Text formatting
 
+[info] **Highlight:** Maintain consistent type and text formatting. [/info]  
+
 Consistent text formatting and type treatment is a principal factor in great documentation and design. The intuitive use of text formatting, color combinations, alignment, spacing, and punctuation enables simplicity and improves readability for the reader.
 
 Formatting text uniformly by utilizing distinct design and structures such as that in headings, tables, lists, URLs, and code examples helps distinguish information easily, while also making it easier for scannable and accessible documentation.

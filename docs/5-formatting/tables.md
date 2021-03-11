@@ -1,5 +1,7 @@
 # Tables
 
+[info] **Highlight:** Use tables to present lengthy and complex pieces of data that are related, in a well-structured format. [/info]  
+
 Tables are useful to present lengthy and complex pieces of data that are related, in a well-structured format that is easy to read and scan for readers. Generally a table consists of two or more rows and two or more columns in addition to the header row.
 
 ## Choosing between a list or a table
