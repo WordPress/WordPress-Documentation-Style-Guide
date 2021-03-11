@@ -1,5 +1,7 @@
 # Lists
 
+[info] **Highlight:** Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data. [/info]  
+
 Lists are useful to present lengthy and complex content in a clear, well-structured format that is easy to read and scan for readers. Use a parallel syntax for all lists and its items.
 
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).

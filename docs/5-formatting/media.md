@@ -1,5 +1,7 @@
 # Media
 
+[info] **Highlight:** Use SVG or PNG files and provide alt text for images. [/info]  
+
 ## Images, illustrations, and graphics
 
 Use images only when they provide visual information that is otherwise difficult to express with words, examples, or other methods.

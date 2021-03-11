@@ -63,7 +63,7 @@ For more information about guidelines or topics, follow the links.
 - [Use italics to emphasize or introduce a particular word or phrase in your content](https://make.wordpress.org/docs/style-guide/formatting/key-terms/).
 - [Use numbered lists for sequences, bulleted lists for non-sequential items, and description lists for pairs of related pieces of data](https://make.wordpress.org/docs/style-guide/formatting/lists/).
 - [Use SVG or PNG files and provide alt text for images](https://make.wordpress.org/docs/style-guide/formatting/media/).
-- [Use notices to warn, alert, notify, or provide useful information to the reader](https://make.wordpress.org/docs/style-guide/formatting/notices/).
+- [Use notices to warn, alert, notify, or provide useful information to readers](https://make.wordpress.org/docs/style-guide/formatting/notices/).
 - [Spell out whole numbers from zero through nine. Follow proper formatting for numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
 - [Use a warning notice type to mark content as outdated](https://make.wordpress.org/docs/style-guide/formatting/obsolete-content/).
 - [Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers](https://make.wordpress.org/docs/style-guide/formatting/phone-numbers/).
