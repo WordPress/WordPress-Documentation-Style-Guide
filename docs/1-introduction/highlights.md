@@ -41,7 +41,7 @@ For more information about guidelines or topics, follow the links.
 
 - [Use straight apostrophes](https://make.wordpress.org/docs/style-guide/punctuation/apostrophes/).
 - [Use colons to initiate closely-related content that follows](https://make.wordpress.org/docs/style-guide/punctuation/colons/).
-- [Use commas to separate items in a series, and to separate certain kinds of clauses](/commas.md). [Use serial commas](https://make.wordpress.org/docs/style-guide/punctuation/commas/).
+- [Use commas to separate items in a series, and to separate certain kinds of clauses. Use serial commas](https://make.wordpress.org/docs/style-guide/punctuation/commas/).
 - [Use an em dash, to set off a break in the flow of a sentence](https://make.wordpress.org/docs/style-guide/punctuation/dashes/). [Use an en dash to indicate a range of numbers, the minus sign, or negative numbers](https://make.wordpress.org/docs/style-guide/punctuation/dashes/).
 - [Avoid using ellipses, in general](https://make.wordpress.org/docs/style-guide/punctuation/ellipses/).
 - [Only use exclamation points unless absolutely needed, except in code examples](https://make.wordpress.org/docs/style-guide/punctuation/exclamation-points/).
