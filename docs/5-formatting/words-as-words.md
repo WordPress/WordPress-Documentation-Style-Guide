@@ -1,6 +1,6 @@
 # Words as words
 
-Italicize words used as words.
+[info] **Highlight:** Italicize words used as words. [/info]  
 
 While referring to a particular word or phrase as the word or phrase itself, use italic formatting. For additional information about italics, see [Text highlighting](https://make.wordpress.org/docs/style-guide/formatting/text/#text-highlighting).
 

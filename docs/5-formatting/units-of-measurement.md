@@ -1,5 +1,7 @@
 # Units of measurement
 
+[info] **Highlight:** Insert a nonbreaking space between the number and a unit of measurement. [/info]  
+
 ## Spaces in units of measurement
 
 Insert a nonbreaking space between the number and a unit for most units of measurement. For more information about when to spell out units, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
