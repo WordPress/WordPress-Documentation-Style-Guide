@@ -1,5 +1,7 @@
 # Dates and times
 
+[info] **Highlight:** Use the *day of week, month dd, year* date format to express dates. Express time in the 12-hour format and always include *AM* and *PM*. Use Coordinated Universal Time (UTC) and always include the time zone for real times. [/info]  
+
 In general, spell out months and days whenever possible. Use the *day of week, month dd, year* date format. For example, use *Sunday, August 16, 2020*. Express time in the 12-hour format, capitalize AM and PM, and include the time zone.
 
 Expressing dates and times in a clearly defined manner reduces confusion and improves translation support for a [global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).

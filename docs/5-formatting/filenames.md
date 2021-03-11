@@ -1,5 +1,7 @@
 # Filenames, file formats, and types
 
+[info] **Highlight:** Use all-lowercase filenames and separate words in filenames with hyphens. [/info]  
+
 ## Naming files
 
 Use lowercase file, folder, and directory names. In general, separate words in filenames with hyphens, not underscores. Use standard [ASCII alphanumeric characters](https://wikipedia.org/wiki/ASCII#Character_set) in file, folder, and directory names.
