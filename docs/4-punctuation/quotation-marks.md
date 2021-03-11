@@ -1,6 +1,6 @@
 # Quotation marks
 
-Use straight double quotation marks and apostrophes.
+[info] **Highlight:** Use straight double quotation marks. [/info]
 
 ## Quotation marks with commas and periods
 

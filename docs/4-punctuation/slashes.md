@@ -1,5 +1,7 @@
 # Slashes
 
+[info] **Highlight:** Avoid using slashes except in code examples, file paths, and URLs. [/info]
+
 In general, try to avoid slashes in your documentation, except in code examples, file paths, and URLs.
 
 ## Slashes with combinations
