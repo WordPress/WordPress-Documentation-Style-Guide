@@ -1,6 +1,6 @@
 ## Footnotes
 
-Avoid writing footnotes in documentation.
+[info] **Highlight:** Avoid writing footnotes in documentation. [/info]  
 
 A footnote is an annotation provided at the end of a paragraph, chapter, or a page with additional information related to the content.
 Rather than using a footnote, you can use a [note](https://make.wordpress.org/docs/style-guide/formatting/notices/#cautions-warnings-notes-and-other-notices), a [link](https://make.wordpress.org/docs/style-guide/linking/link-text/), use [parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/), or [dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/).

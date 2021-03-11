@@ -1,5 +1,7 @@
 # Key terms
 
+[info] **Highlight:** Use italics to emphasize or introduce a particular word or phrase in your content. [/info]  
+
 When you need to accentuate or emphasize a particular word or phrase in your content, such as when introducing or discussing a new concept or a new word, use italics.
 
 **Examples**  
