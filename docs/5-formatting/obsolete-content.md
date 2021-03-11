@@ -1,5 +1,7 @@
 # Obsolete content
 
+[info] **Highlight:** Use a warning notice type to mark content as outdated. [/info]  
+
 As WordPress develops and evolves systematically, some methods and technologies change, which may outdate documentation. Accurately identifying and marking outdated content is beneficial for updating and maintaining up-to-date documentation for readers.
 
 ## Types of obsolete content

@@ -1,5 +1,7 @@
 # Numbers
 
+[info] **Highlight:** Spell out whole numbers from zero through nine. Follow proper formatting for numbers. [/info]  
+
 ## Numbers as words
 
 - Spell out whole numbers from zero through nine, with exceptions as described in [Numbers as numerals](#numbers-as-numerals).  

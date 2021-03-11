@@ -1,5 +1,7 @@
 # Phone numbers
 
+[info] **Highlight:** Use mock phone numbers instead of real ones in examples. Follow proper formatting for phone numbers. [/info]  
+
 ## Phone numbers in examples
 
 Use mock phone numbers instead of real ones in examples. For additional information about what phone numbers to use in examples, see [Example phone numbers](https://make.wordpress.org/docs/style-guide/formatting/examples/#example-phone-numbers).  
