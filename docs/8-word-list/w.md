@@ -170,6 +170,8 @@ For more information, see [UI elements](https://make.wordpress.org/docs/style-gu
 
 OK to use. Use *Windows* as a modifier for aspects or elements of the Windows operating system. Computers that use Microsoft Windows can be described as *Windows computers*, or *Windows PCs*.
 
+See also [Microsoft](m.md)
+
 ## wireframe
 
 One word. Not *wire frame* or *wire-frame*.
