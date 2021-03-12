@@ -1,5 +1,7 @@
 # Code in text
 
+[info] **Highlight:** Insert code-related content in monospace code font. [/info]  
+
 In text content, use monospace code font to highlight and distinguish code content from standard text. To express code font in HTML, use the `<code>` element. In Markdown, use backticks (``` ` ```) for code font.
 
 This page explains how to format code in standard text sentences. For more information about other code-related documentation, see [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/), [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/), and [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
