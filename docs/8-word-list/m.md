@@ -147,9 +147,31 @@ Don’t hyphenate the adjective form.
 For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## micro-
+
+In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer*.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## Microsoft
+
+OK to use. Capitalize.
+
+See also [Windows](w.md)
+
 ## midnight
+
+OK to use, but not when paired with time in the numeral format.
+
+**Example**  
+
+[warning] **Not recommended:** *12:00 midnight* [/warning]  
+
+For more information, see [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
+
 ## migrate
+
+Use to move databases, media, users, applications or code, from one server, environment or platform to another. Don't use as a synonym for *upgrade* or *port*.
+
 ## million, M
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
@@ -164,9 +186,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## minimize
 
+Use to refer to placing the window in the taskbar or dock.
 
-
-See also [minimize](#minimize).
+See also [maximize](#maximize).
 
 ## ML
 
@@ -178,6 +200,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## mobile data
 ## mobile network
 ## monospace
+
+One word. Not *mono space* or *mono-space*.
+
 ## more than
 ## mount
 ## mouse
