@@ -1,5 +1,7 @@
 # Link text
 
+[info] **Highlight:** Write detailed and expressive link text that provides context. [/info]  
+
 Write detailed and expressive link text that describes where the reader will be guided to, and what the reader will see after following the link. Links, by themselves, should be coherent without the surrounding text.  
 Links can be of two forms:
 - The exact text of the title, heading, or subheading you're linking to. For more information about capitalizing such references, see [Capitalization in references to titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-references-to-titles-and-headings).
