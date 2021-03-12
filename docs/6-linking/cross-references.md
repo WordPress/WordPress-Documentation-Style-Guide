@@ -1,5 +1,7 @@
 # Cross-references
 
+[info] **Highlight:** Use cross-references to guide readers to related information. [/info]  
+
 Cross-references guide the reader to information related to the content. For additional information about internal and external references, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/) and [Capitalization in titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-titles-and-headings).
 
 ## References to other documents
