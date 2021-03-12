@@ -34,7 +34,7 @@ Use the following guidelines to express time:
 - Using *noon* and *midnight* is acceptable, but not when paired with time in the numeral format.  
   **Example**  
 
-  [warning] **Not recommended:** *12:00 noon, 12:00 midnight*. [/warning]  
+  [warning] **Not recommended:** *12:00 noon, 12:00 midnight* [/warning]  
 
 ### Time zones
 
@@ -135,4 +135,4 @@ Avoid referring to seasons, as all regions around the world don't have similar s
 [warning] **Not Recommended**: All major versions are released in the fall of each year. [/warning]  
 [tip] **Recommended:** All major versions are released in October of each year. [/tip]  
 
-If you must mention a specific season, identify either the hemisphere or region, or both. Don't capitalize the season, except while designating the issue of a publication. For example, *Fall 2020*.
+If you must mention a specific season, identify either the hemisphere or region, or both. Don't capitalize the season, except while designating the issue of a publication. For example, *Fall 2021*.
