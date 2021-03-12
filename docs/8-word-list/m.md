@@ -11,6 +11,9 @@ Operating system used on Apple Macintosh computers. Use lowercase for *mac* and 
 See also [OS]().
 
 ## manipulate
+
+Don't use. Instead, use *work with, handle*, or *use*.
+
 ## MariaDB
 
 Capitalize *M* and use uppercase for *DB*.
@@ -24,6 +27,9 @@ Don't use a filename extension to refer to a type of file. For example, use *Mar
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## marquee
+
+OK to use when referring to the scrolling text feature or tag.
+
 ## markup, mark up
 
 One word as a noun. As a verb, use two words such as *mark up*. Don't hyphenate in any form.
@@ -35,6 +41,9 @@ Avoid whenever possible. Instead, replace *master* with a contextually relevant 
 For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
 
 ## mathematical
+
+Use instead of *mathematic*.
+
 ## matrix, matrices
 
 Use the plural *matrixes* unless there is a domain-specific reason (for example, a mathematical context) to use *matrices*.
@@ -44,6 +53,11 @@ Use the plural *matrixes* unless there is a domain-specific reason (for example,
 Avoid using in standard documentation; reserve *may* for official policy or legal considerations. To convey possibility, use *might* instead. To convey permission, use *can* instead.
 
 ## maximize
+
+Use to refer to making a window as big as possible without going full screen.
+
+See also [minimize](#minimize).
+
 ## MB, megabyte
 
 Initialism for *megabyte*. Use uppercase.
@@ -149,6 +163,11 @@ Abbreviation for *Multipurpose Internet Mail Extension*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## minimize
+
+
+
+See also [minimize](#minimize).
+
 ## ML
 
 Abbreviation for *machine learning*. Use uppercase.
