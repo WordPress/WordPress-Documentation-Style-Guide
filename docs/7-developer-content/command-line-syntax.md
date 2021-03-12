@@ -1,5 +1,7 @@
 # Command-line syntax
 
+[info] **Highlight:** Follow proper command-line syntax and formatting. [/info]  
+
 This page explains how to format commands and their arguments in documentation. For more information about other code-related documentation, see [Code in text](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/), [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/), and [Code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/).
 
 ## Command prompt

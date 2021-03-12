@@ -1,5 +1,7 @@
 # UI elements and interaction
 
+[info] **Highlight:** Emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Format UI element names in bold, and use appropriate nouns and verbs to describe how to interact with them. [/info]  
+
 ## Emphasize the task
 
 When writing about interactions involving the user interface (UI), emphasize on the task to be accomplished, rather than how the user should interact with the UI element. By avoiding reference to UI elements, you help the reader understand the purpose of an instruction and avoid confusion due to additional external elements.
