@@ -197,15 +197,36 @@ Abbreviation for *machine learning*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## mobile, mobile device, mobile phone
+
+Use instead of *cell phone*.
+
 ## mobile data
+
+Use instead of *cellular data*.
+
 ## mobile network
+
+Use instead of *cellular network*.
+
 ## monospace
 
 One word. Not *mono space* or *mono-space*.
 
 ## more than
+
+Use to describe items or elements that are quantifiable such as amounts or figures.
+
+Don't use *over*.
+
+See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later), [over](https://make.wordpress.org/docs/style-guide/word-list/o/#over)
+
 ## mount
 ## mouse
+
+Avoid referring to the mouse whenever possible. Instead, emphasize on the task to be accomplished, and the interaction verb with the mouse such as *select, click,* or *press*.
+
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+
 ## mouse button
 ## mouse over
 ## movable
