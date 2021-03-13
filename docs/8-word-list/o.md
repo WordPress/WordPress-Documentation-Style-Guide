@@ -131,6 +131,8 @@ In context of quantities, don't use as a synonym for *more than*.
 
 Don't use to refer to version numbers. Instead, use *later*.
 
+See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later), [more than](https://make.wordpress.org/docs/style-guide/word-list/m/#more-than)
+
 ## ⁠override
 
 One word. Not *over ride* or *over-ride*.
