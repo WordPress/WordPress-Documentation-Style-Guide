@@ -120,7 +120,19 @@ See also [MB, megabyte](#mb-megabyte).
 ## mega-
 ## memory
 ## menu bar
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+For more information, see [Menu bar](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#menu-bar).
+
 ## menu item
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements).
+
 ## message
 ## meta
 ## metadata
@@ -218,7 +230,7 @@ Use to describe items or elements that are quantifiable such as amounts or figur
 
 Don't use *over*.
 
-See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later), [over](https://make.wordpress.org/docs/style-guide/word-list/o/#over)
+See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later), [over](https://make.wordpress.org/docs/style-guide/word-list/o/#over).
 
 ## mount
 
@@ -238,6 +250,8 @@ For more information, see [Interaction verbs](https://make.wordpress.org/docs/st
 
 Don't use as a synonym for *move the mouse pointer to*.
 
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+
 ## movable
 
 Not *moveable*.
@@ -246,7 +260,7 @@ Not *moveable*.
 
 Use as a verb to describe transferring files, folders, or UI elements from one location to another.
 
-For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
 See also [drag](d.md).
 
