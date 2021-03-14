@@ -148,7 +148,7 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## micro-
 
-In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer*.
+In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer* unless absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
@@ -258,8 +258,19 @@ Don't use a filename extension to refer to a type of file. For example, use *MPE
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## multi-
+
+In general, don't hyphenate words beginning with *multi-* such as *multimedia, multilevel, multisite,* and *multiuser* unless *multi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## multisite
+
+One word. Not *multi site* or *multi-site*.
+
 ## multitask, multitasking
+
+
+
 ## must
 ## MySQL
 
