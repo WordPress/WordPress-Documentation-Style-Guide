@@ -227,25 +227,29 @@ Use as a verb to describe the action of making a disk or disk image available.
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
 
 See also [unmount](https://make.wordpress.org/docs/style-guide/word-list/u/#unmount).
+
 ## mouse
 
 Avoid referring to the mouse whenever possible. Instead, emphasize on the task to be accomplished, and the interaction verb with the mouse such as *select, click,* or *press*.
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
-## mouse button
-
-
-
 ## mouse over
 
-
+Don't use as a synonym for *move the mouse pointer to*.
 
 ## movable
 
-Not
+Not *moveable*.
 
 ## move
+
+Use as a verb to describe transferring files, folders, or UI elements from one location to another.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
+
+See also [drag](d.md).
+
 ## MP3
 
 Initialism for *MPEG Audio Layer 3*. Use uppercase.
