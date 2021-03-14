@@ -221,6 +221,12 @@ Don't use *over*.
 See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later), [over](https://make.wordpress.org/docs/style-guide/word-list/o/#over)
 
 ## mount
+
+Use as a verb to describe the action of making a disk or disk image available.
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+
+See also [unmount](https://make.wordpress.org/docs/style-guide/word-list/u/#unmount).
 ## mouse
 
 Avoid referring to the mouse whenever possible. Instead, emphasize on the task to be accomplished, and the interaction verb with the mouse such as *select, click,* or *press*.
@@ -228,8 +234,17 @@ Avoid referring to the mouse whenever possible. Instead, emphasize on the task t
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 ## mouse button
+
+
+
 ## mouse over
+
+
+
 ## movable
+
+Not
+
 ## move
 ## MP3
 
@@ -269,9 +284,16 @@ One word. Not *multi site* or *multi-site*.
 
 ## multitask, multitasking
 
-
+Don't use *multitask* as a verb. OK to use *multitasking* as a noun or an adjective.
 
 ## must
+
+Use to refer to a task that a user is required to do. Don't use *must* to indicate suggestions or a condescending tone.
+
+For example, *You should set a strong password* is a suggestion, whereas *You must set a strong password* is a requirement.
+
+For more information, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
+
 ## MySQL
 
 Capitalize *M* and use uppercase for *SQL*.
