@@ -15,3 +15,9 @@ See also [unavailable](//u.md).
 See also [dimmed](#dimmed), [unavailable](//u.md).
 
 ## disk
+## drag
+
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
+
+See also  [move](m.md).
