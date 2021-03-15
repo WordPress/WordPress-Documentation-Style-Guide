@@ -134,12 +134,27 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements).
 
 ## message
+
+Don't use as a verb. Instead, use *send, receive,* or a contextually relevant term.
+
+OK to use as a noun. If required, you can also provide adjective to present further context, such as *text message, email message, audio message* or *video message*.
+
 ## meta
+
+For the [Make WordPress Meta Team](https://make.wordpress.org/meta/), capitalize *Meta*.
+
+In general, don't hyphenate words beginning with *meta-* such as *metadata,* and *metafeed* unless *meta-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## metadata
 
 One word. Not *meta data* or *meta-data*.
 
 ## method
+
+
+
 ## MHz, megahertz
 
 Initialism for *megahertz*.
