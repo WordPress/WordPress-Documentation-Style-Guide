@@ -117,8 +117,19 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 See also [MB, megabyte](#mb-megabyte).
 
 ## media, medium
+
+
+
 ## mega-
+
+In general, don't hyphenate words beginning with *mega-* such as *megabit, megabyte, megahertz,* and *megapixel* unless *mega-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## memory
+
+
+
 ## menu bar
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
@@ -153,7 +164,7 @@ One word. Not *meta data* or *meta-data*.
 
 ## method
 
-
+In the context developer documentation or a technical audience, where *method* refers to a member of a class, avoid using *method* to generically mean *manner* or *approach*.
 
 ## MHz, megahertz
 
@@ -175,7 +186,7 @@ For more information about spelling out abbreviations, see [Abbreviations]().
 
 ## micro-
 
-In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer* unless absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer* unless *micro-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
