@@ -130,7 +130,13 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 
 ## memory
 
+In most cases, refer to a specific kind of memory, such as *random-access memory (RAM), read-only memory (ROM), virtual memory*, or *portable storage devices*.
 
+In the noun forms that refer to memory measurements, use *of* in a prepositional phrase before the unit, such as *512 MB of RAM*.
+
+Don’t use memory to refer to storage capacity; instead, use a term such as *storage space*.
+
+See also [storage](s.md).
 
 ## menu bar
 
