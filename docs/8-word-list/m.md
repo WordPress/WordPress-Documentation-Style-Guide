@@ -118,7 +118,9 @@ See also [MB, megabyte](#mb-megabyte).
 
 ## media, medium
 
+Use *medium* as a singular subject and *media* as a plural subject. Accordingly, use the correct verb form; *the medium is* and *the media are*.
 
+However, when discussing audio, video, and images, you can use *media* as a singular subject to describe a collection of content such as a set of images.
 
 ## mega-
 
@@ -164,7 +166,7 @@ One word. Not *meta data* or *meta-data*.
 
 ## method
 
-In the context developer documentation or a technical audience, where *method* refers to a member of a class, avoid using *method* to generically mean *manner* or *approach*.
+In the context developer documentation or for a technical audience, where *method* refers to a member of a class, avoid also using *method* as a synonym for *manner* or *approach*.
 
 ## MHz, megahertz
 
