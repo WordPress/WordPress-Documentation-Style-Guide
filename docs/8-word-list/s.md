@@ -16,6 +16,10 @@ Use *stop responding* when a program encounters a problem and can't close itself
 
 For more information, see [Interaction verbs](ui-elements.md).
 
+## storage
+
+See also [memory](m.md).
+
 ## switch
 
 See also [toggle](t.md).
