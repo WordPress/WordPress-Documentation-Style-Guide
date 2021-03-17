@@ -10,7 +10,10 @@
 ## need
 ## neither
 ## network
-
-
-
 ## NGINX
+## non-
+## nonprintable, nonprinting
+## normal, normally
+## notification
+## null
+## numeric
