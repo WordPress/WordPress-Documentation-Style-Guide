@@ -23,9 +23,17 @@ One word. Not *name space* or *name-space*.
 ## navigate
 ## need
 ## neither
+
+Write *neither A nor B*, not *neither A or B*.
+
 ## network
 ## new
 ## NGINX
+
+Acronym for *engine X*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## non-
 ## nonprintable, nonprinting
 ## normal, normally
@@ -40,3 +48,7 @@ For more information about formatting numbers, see [Numbers](https://make.wordpr
 
 ## null
 ## numeric
+
+Use instead of *numerical*.
+
+For the keypad, use *numeric keypad*. Don't use *numerical keypad* or *numeric keyboard*.
