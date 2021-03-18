@@ -3,8 +3,22 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## n
+
+
+## N/A
+
+Abbreviation for *not available* or *not applicable*. Spell out on first reference.
+
+Not *NA, N-A,* or *na*.
+
 ## name server
+
+Two words. Not *nameserver* or *name-server*.
+
 ## namespace
+
+One word. Not *name space* or *name-space*.
+
 ## native
 ## navigate
 ## need
