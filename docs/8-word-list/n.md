@@ -4,6 +4,9 @@
 
 ## n
 
+Use lowercase and use italic formatting when using as a variable or placeholder.
+
+For more information, see [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
 
 ## N/A
 
@@ -20,7 +23,15 @@ Two words. Not *nameserver* or *name-server*.
 One word. Not *name space* or *name-space*.
 
 ## native
+
+Avoid using. Instead, use a more accurate term such as *core* or *built-in* whenever possible.
+
+For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
+
 ## navigate
+
+
+
 ## need
 ## neither
 
@@ -35,6 +46,14 @@ Acronym for *engine X*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## non-
+
+In general, don't hyphenate words beginning with *non-* such as *nonstandard, noncompliant,* and *nonrestrictive* unless *non-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+Don't use *non-* to negate an entire phrase.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## nonprintable, nonprinting
 ## normal, normally
 ## notification
