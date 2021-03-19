@@ -16,5 +16,15 @@ For more information, see [Filenames](https://make.wordpress.org/docs/style-guid
 ## × (multiplication sign)
 ## # (number sign)
 
+Always spell out *number* in *number sign*. Don't use *pound sign* or *number symbol*.
+
+**Examples**  
+
+[warning] **Not recommended:** #99 [/warning]  
+[tip] **Recommended:** number 99 [/tip]  
+
+Don't use the number sign preceding a numeral. Instead, spell out *number*. It's acceptable to abbreviate *number* as *no.*, but consider a global audience; as many languages don't abbreviate *number* as *no.* which may cause confusion.
+
+It's OK to use the *#* symbol to indicate a hashtag. Don't use *number sign* to refer to the hashtag.
 
 See also [number](n.md).
