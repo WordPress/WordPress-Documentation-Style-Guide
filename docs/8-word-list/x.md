@@ -6,7 +6,7 @@ Use lowercase and use italic formatting when using as a variable or placeholder.
 
 It is OK to use *x* instead of the multiplication sign (×).
 
-For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions).
+For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions) and [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
 
 ## x-
 
