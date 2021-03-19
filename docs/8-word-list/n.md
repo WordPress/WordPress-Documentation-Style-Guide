@@ -33,6 +33,11 @@ For more information, see [Replacing established terms](https://make.wordpress.o
 
 
 ## need
+
+Use *need* to refer to a requirement or obligation. Don't use *desire* or *wish* as a synonym for *need*.
+
+Use *want* when the user has a choice of actions or when they are optional.
+
 ## neither
 
 Write *neither A nor B*, not *neither A or B*.
@@ -51,6 +56,11 @@ In general, don't hyphenate words beginning with *non-* such as *nonstandard, no
 
 Don't use *non-* to negate an entire phrase.
 
+**Examples**  
+
+[warning] **Not recommended:** non-numbered steps or instructions  [/warning]  
+[tip] **Recommended:** steps or instructions that are not numbered [/tip]  
+
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
@@ -66,6 +76,10 @@ See also [# (number sign)](symbols).
 For more information about formatting numbers, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
 
 ## null
+
+
+
+
 ## numeric
 
 Use instead of *numerical*.
