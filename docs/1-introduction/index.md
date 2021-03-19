@@ -14,5 +14,5 @@ The primary objective of the WordPress Documentation Style Guide is to help auth
 - [Red Hat technical documentation style guide](https://stylepedia.net/)  
 - [Mozilla Writing style guide](https://developer.mozilla.org/docs/MDN/Guidelines/Writing_style_guide)
 - [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)  
-- [American Heritage Dictionary](https://ahdictionary.com/)  
-- [Merriam-Webster Dictionary](https://www.merriam-webster.com/)
+- [The American Heritage Dictionary](https://ahdictionary.com/)  
+- [Merriam-Webster](https://www.merriam-webster.com/)
