@@ -53,7 +53,13 @@ See also [want](https://make.wordpress.org/docs/style-guide/word-list/w/#want).
 Write *neither A nor B*, not *neither A or B*.
 
 ## network
+
+
+
 ## new
+
+
+
 ## NGINX
 
 Acronym for *engine X*. Use uppercase.
@@ -75,11 +81,24 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## nonprintable, nonprinting
+
+Use *nonprintable* to refer to an area of a page that can't be printed on. Use *nonprinting* to refer to characters and other data that can't or won't be printed.
+
+Don't use *unprintable*.
+
 ## normal, normally
+
+Don't use *normal* to as a synonym for *usual, typical, common*, or a similar term. Don't use *normally* as a synonym for *usually, typically, commonly, often, generally,* or a similar term.
+
 ## notification
+
+Use instead of *notice* to describe information displayed to a user such as errors, updates, or other communications. Don't use *pop-up, toast*, or *banner*.
+
+For more information about notice types in WordPress, see [Notices](https://make.wordpress.org/docs/style-guide/formatting/notices/).
+
 ## number
 
-OK to abbreviate as *no.
+OK to abbreviate as *no.* in UI, tables, or headings where space is limited. It's acceptable to abbreviate *number* as *no.*, but consider a global audience; as many languages don't abbreviate *number* as *no.* which may cause confusion.
 
 For more information about formatting numbers, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
 
