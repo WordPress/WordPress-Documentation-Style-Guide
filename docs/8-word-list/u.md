@@ -45,7 +45,7 @@ In general, describe how the user should interact with the UI rather than descri
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
-See also [dimmed](d.md), [disable, disabled](d.md).
+See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled).
 
 ## uncheck
 
@@ -72,7 +72,7 @@ Don't use. Instead, use *extract*.
 
 Don't use.
 
-See [restore]().
+See [restore](https://make.wordpress.org/docs/style-guide/word-list/r/#restore).
 
 ## undeploy
 
@@ -119,7 +119,7 @@ Don't use *uninstall* as a noun.
 [warning] **Not recommended:** After the uninstall of the program, restart your computer. [/warning]  
 [tip] **Recommended:** After uninstalling the program, restart your computer. [/tip]  
 
-See also [delete](), [remove]().
+See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
 ## UNIX
 
@@ -156,6 +156,8 @@ See also [uncheck](#uncheck).
 Don't use. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
+See also [uncheck](#uncheck).
 
 ## untar
 
@@ -195,7 +197,7 @@ Use as a verb to describe the action of transferring files from a local device t
 
 Describe what the customer is transferring *and* where the customer is transferring it *to*. In grammatical terms, use both a subject (the thing to be uploaded) and an object (the thing the subject is uploaded to) with the verb *upload*.
 
-See also [download](), [load]().
+See also [download](https://make.wordpress.org/docs/style-guide/word-list/d/#download), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
 ## uppercase
 
@@ -237,7 +239,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Initialism for *Uniform Resource Locator*. Use uppercase. Plural is *URLs*.
 
-Write *a URL* instead of *an URL*, as the most common pronunciation starts with a consonant sound. For more information, see [Articles](articles.md).
+Write *a URL* instead of *an URL*, as the most common pronunciation starts with a consonant sound. For more information, see [Articles](https://make.wordpress.org/docs/style-guide/language-grammar/articles/).
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 For more information about styling and formatting URLs, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
