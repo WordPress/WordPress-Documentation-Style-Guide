@@ -54,11 +54,13 @@ Write *neither A nor B*, not *neither A or B*.
 
 ## network
 
+Don't abbreviate to *net*. Don't use *network* as a verb to refer to the action of connecting a computer to a network.
 
+Computers are *on*, not *in*, a network; and computers on a network are *linked* or *connected*, not *networked*.
 
 ## new
 
-
+In most cases, avoid describing a product or feature as *new* as it is likely to become out of date. Instead, state the version of software in which the feature or product was introduced.
 
 ## NGINX
 
