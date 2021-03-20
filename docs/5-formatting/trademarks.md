@@ -20,4 +20,4 @@ For more information about plural forms, see [Plurals](https://make.wordpress.or
 
 In general, avoid forming possessives of company, product, or brand names, regardless of who owns the name.  
 
-For more information about possessive forms of trademarks, see [Company-, product-, and brand-name possessives]().
+For more information about possessive forms of trademarks, see [Company-, product-, and brand-name possessives](https://make.wordpress.org/docs/style-guide/language-grammar/possessives/#company-product-and-brand-name-possessives).
