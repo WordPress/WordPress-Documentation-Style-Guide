@@ -29,7 +29,7 @@ Use instead of *wish* or *desire* when the user has alternatives or choices. Don
 [tip] **Recommended:** If you want to change the color of the menu, go to **Appearance**. [/tip]  
 [tip] **Recommended:** Select **Add New** if you want to add a new post. [/tip]  
 
-See also [need](n.md).
+See also [need](https://make.wordpress.org/docs/style-guide/word-list/n/#need).
 
 ## walkthrough
 
@@ -59,7 +59,7 @@ Shortened term for *World Wide Web*. Use lowercase.
 
 Don’t use *web* and *internet* interchangeably; the web is just one part of the global internet.
 
-See also [internet]().
+See also [internet](https://make.wordpress.org/docs/style-guide/word-list/i/#internet).
 
 ## web browser
 
@@ -105,11 +105,11 @@ Use only to introduce a nonrestrictive clause and initiate with a comma. Clauses
 
 [tip] **Recommended:** Gutenberg, which is the latest block editor, is a widely used plugin. [/tip]  
 
-See also [that](//t.md).
+See also [that](https://make.wordpress.org/docs/style-guide/word-list/t/#that).
 
 ## whether
 
-See [if, whether](//i.md).
+See [if, whether](https://make.wordpress.org/docs/style-guide/word-list/i/#if-whether).
 
 ## while
 
@@ -172,7 +172,7 @@ For more information, see [UI elements](https://make.wordpress.org/docs/style-gu
 
 OK to use. Use *Windows* as a modifier for aspects or elements of the Windows operating system. Computers that use Microsoft Windows can be described as *Windows computers*, or *Windows PCs*.
 
-See also [Microsoft](m.md)
+See also [Microsoft](https://make.wordpress.org/docs/style-guide/word-list/m/#microsoft).
 
 ## wireframe
 
@@ -246,7 +246,7 @@ One word. Not *work station* or *work-station*.
 
 Use *worldwide* to describe something that consists of the entire world.
 
-See also [global]().
+See also [global](https://make.wordpress.org/docs/style-guide/word-list/g/#global).
 
 ## World Wide Web
 
