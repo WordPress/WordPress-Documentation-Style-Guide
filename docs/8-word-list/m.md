@@ -8,7 +8,7 @@ Don't use as a synonym for computer.
 
 Operating system used on Apple Macintosh computers. Use lowercase for *mac* and uppercase for *OS*
 
-See also [OS]().
+See also [OS, operating system](https://make.wordpress.org/docs/style-guide/word-list/o/#os-operating-system).
 
 ## manipulate
 
@@ -76,7 +76,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 16 MB storage drive [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Mbit, megabit
 
@@ -96,14 +96,14 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** 10 MBit memory [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Mbps (Mbit/s), megabits per second
 
 Initialism for *megabits per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [Mbit, megabit](#mbit-megabit).
 
@@ -111,8 +111,8 @@ See also [Mbit, megabit](#mbit-megabit).
 
 Initialism for *megabytes per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [MB, megabyte](#mb-megabyte).
 
@@ -136,7 +136,7 @@ In the noun forms that refer to memory measurements, use *of* in a prepositional
 
 Don’t use memory to refer to storage capacity; instead, use a term such as *storage space*.
 
-See also [storage](s.md).
+See also [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
 
 ## menu bar
 
@@ -190,7 +190,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 5.0 MHz rate [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## micro-
 
@@ -202,7 +202,7 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 
 OK to use. Capitalize.
 
-See also [Windows](w.md)
+See also [Windows](https://make.wordpress.org/docs/style-guide/word-list/w/#windows).
 
 ## midnight
 
@@ -222,7 +222,7 @@ Use to move databases, media, users, applications or code, from one server, envi
 
 Don't abbreviate *million* as *M, m*, or *mn*. Spell out the word or denote the entire number.
 
-For more information, see [Abbreviations](numbers.md).
+For more information, see [Abbreviations in numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#abbreviations).
 
 ## MIME
 
@@ -296,7 +296,7 @@ Use as a verb to describe transferring files, folders, or UI elements from one l
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
-See also [drag](d.md).
+See also [drag](https://make.wordpress.org/docs/style-guide/word-list/d/#drag).
 
 ## MP3
 
