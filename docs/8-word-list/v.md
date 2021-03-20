@@ -64,7 +64,7 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 
 To refer to storage that may include different types of disks, just use *disk*. You can also refer to a specific type of disk such as *solid-state drive, hard-disk,* or *flash storage*.
 
-See also [disk]().
+See also [disk](https://make.wordpress.org/docs/style-guide/word-list/d/#disk).
 
 ## VPN
 
