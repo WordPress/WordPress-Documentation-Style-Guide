@@ -29,6 +29,8 @@ Use instead of *wish* or *desire* when the user has alternatives or choices. Don
 [tip] **Recommended:** If you want to change the color of the menu, go to **Appearance**. [/tip]  
 [tip] **Recommended:** Select **Add New** if you want to add a new post. [/tip]  
 
+See also [need](n.md).
+
 ## walkthrough
 
 One word. Not *walk through* or *walk-through*.
