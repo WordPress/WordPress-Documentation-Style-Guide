@@ -19,7 +19,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 2 KB file [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## kbit, Kbit, kilobit
 
@@ -40,14 +40,15 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 256 KBit file [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## kbps (kbit/s), Kbps (Kbit/s), kilobits per second
 
 Initialism for *kilobits per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [kbit, Kbit, kilobit](#kbit-kbit-kilobit).
 
@@ -55,8 +56,9 @@ See also [kbit, Kbit, kilobit](#kbit-kbit-kilobit).
 
 Initialism for *kilobytes per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [kB, KB, kilobyte](#kB-kb-kilobyte).
 
@@ -66,8 +68,7 @@ Don't use as a verb. Use *type* or *press*. In the adjective form, don't use as 
 
 When using *key* as a noun, specify which kind of key you're referring to on first mention, because there are many kinds of keys in technical contexts.
 
-For more information, see [Interaction verbs](ui-elements.md).
-For more information, see [Pressing and typing keyboard keys](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs) and [Pressing and typing keyboard keys](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#pressing-and-typing-keyboard-keys).
 
 ## keyboard shortcut
 
@@ -105,7 +106,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 96 kHz rate [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## kill
 
