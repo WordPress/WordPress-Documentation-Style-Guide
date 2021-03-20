@@ -141,13 +141,13 @@ Use to introduce a restrictive or defining clause; clauses beginning with *that*
 
 Insert a noun after *that* for clarity, whenever possible. It is acceptable to omit the noun in UI, tables, or headings where space is limited. If you aren't sure what noun *that* refers to, then consider rephrasing.
 
-See also [which](w.md).
+See also [which](https://make.wordpress.org/docs/style-guide/word-list/w/#which).
 
 ## they, their, them
 
 Use *they, their, them* as gender-neutral pronouns when referring to people of unspecified gender. Don't use *he, him, she, her,* or renditions like *s/he, he/she,* or *(s)he* for people of unspecified gender.
 
-For more information, see [Pronouns and gender](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-genders), [Inclusivity- Writing about genders](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
+For more information, see [Pronouns and gender](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-genders) and [Writing about genders](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 
 ## third party
 
@@ -292,7 +292,7 @@ OK to use when referring to the action of turning a switch or toggle key on or o
 
 For more information, see [Switch, turn on, turn off, enable](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#switch-turn-on-turn-off-enable).
 
-See also [enable, enabled](), [disable, disabled]().
+See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled).
 
 ## tutorial
 
@@ -310,7 +310,7 @@ OK to use.
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input).
 
-See also [enter](e.md).
+See also [enter](https://make.wordpress.org/docs/style-guide/word-list/e/#enter).
 
 ## typically
 
