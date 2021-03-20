@@ -71,4 +71,5 @@ Don't use an apostrophe with possessive pronouns.
 [tip] **Recommended:** The website is yours. [/tip]
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
-For more information, see [Possessives]().
+
+For more information, see [Possessives](https://make.wordpress.org/docs/style-guide/language-grammar/possessives/#company-product-and-brand-name-possessives).
