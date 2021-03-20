@@ -30,13 +30,23 @@ For more information, see [Replacing established terms](https://make.wordpress.o
 
 ## navigate
 
+Avoid using to describe going from one place to other on the internet or other networks. Instead, use *browse*.
 
+To describe going directly to a website or webpage, whether by entering a URL or selecting a link, use *go to*.
+
+Avoid using *navigate* for interacting with UI elements.
+
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+
+See also [go to](https://make.wordpress.org/docs/style-guide/word-list/g/#go-to).
 
 ## need
 
 Use *need* to refer to a requirement or obligation. Don't use *desire* or *wish* as a synonym for *need*.
 
 Use *want* when the user has a choice of actions or when they are optional.
+
+See also [want](https://make.wordpress.org/docs/style-guide/word-list/w/#want).
 
 ## neither
 
@@ -58,7 +68,7 @@ Don't use *non-* to negate an entire phrase.
 
 **Examples**  
 
-[warning] **Not recommended:** non-numbered steps or instructions  [/warning]  
+[warning] **Not recommended:** non-numbered steps or instructions [/warning]  
 [tip] **Recommended:** steps or instructions that are not numbered [/tip]  
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
@@ -69,16 +79,17 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 ## notification
 ## number
 
-
-
-See also [# (number sign)](symbols).
+OK to abbreviate as *no.
 
 For more information about formatting numbers, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
 
+See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list/symbols/#number-sign).
+
 ## null
 
+Use lowercase *null* to refer to a null value. Whenever possible, use *null value* to avoid confusion with the constant.
 
-
+Use uppercase *NULL* or capitalized *Null* only to refer to the constant.
 
 ## numeric
 
