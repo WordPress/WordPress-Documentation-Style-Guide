@@ -13,7 +13,13 @@ Use code font.
 For more information, see [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
 
 ## - (minus sign)
+
+
+
 ## × (multiplication sign)
+
+
+
 ## # (number sign)
 
 Always spell out *number* in *number sign*. Don't use *pound sign* or *number symbol*.
@@ -27,4 +33,4 @@ Don't use the number sign preceding a numeral. Instead, spell out *number*. It's
 
 It's OK to use the *#* symbol to indicate a hashtag. Don't use *number sign* to refer to the hashtag.
 
-See also [number](n.md).
+See also [number](https://make.wordpress.org/docs/style-guide/word-list/n/#number).
