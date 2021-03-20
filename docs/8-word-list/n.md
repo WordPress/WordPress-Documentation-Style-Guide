@@ -1,7 +1,5 @@
 # N
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## n
 
 Use lowercase and use italic formatting when using as a variable or placeholder.
@@ -80,6 +78,7 @@ Don't use *non-* to negate an entire phrase.
 [tip] **Recommended:** steps or instructions that are not numbered [/tip]  
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## nonprintable, nonprinting
