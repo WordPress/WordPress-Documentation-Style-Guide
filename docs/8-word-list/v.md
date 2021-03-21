@@ -56,7 +56,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Don't use to refer to the action of opening a website or webpage. Instead, use *go to*.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#go-to).
 
 ## volume (disk)
 

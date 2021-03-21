@@ -18,7 +18,7 @@ Use *tap* to describe selecting, opening, or enabling targets such as buttons, l
 
 Use *double-tap* to describe selecting, opening, or enabling targets such as buttons, links, list items, or other elements with a finger or pen by tapping it twice in quick succession. Hyphenate *double-tap*. Don’t use *double-tap* on.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#tap).
 
 See also [touch and hold](#touch-and-hold).
 
@@ -241,7 +241,7 @@ When the environment is presumably a touch device, use *touch and hold* to descr
 
 Don’t use *tap and hold*.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select-and-hold).
 
 See also [tap, double-tap](#tap-double-tap).
 
