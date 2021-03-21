@@ -68,7 +68,7 @@ Don't use as a verb. Use *type* or *press*. In the adjective form, don't use as 
 
 When using *key* as a noun, specify which kind of key you're referring to on first mention, because there are many kinds of keys in technical contexts.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs) and [Pressing and typing keyboard keys](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#pressing-and-typing-keyboard-keys).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input) and [Pressing and typing keyboard keys](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#pressing-and-typing-keyboard-keys).
 
 ## keyboard shortcut
 
