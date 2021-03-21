@@ -4,7 +4,7 @@
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *stop responding* or a contextually relevant term in user documentation.
 
-See also [stop, stop responding](s.md).
+See also [stop, stop responding](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## fail over, failover
 
@@ -16,7 +16,7 @@ Initialism for *Frequently Asked Questions*. Use uppercase.
 
 Use *an FAQ*, not *a FAQ*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## far-left, far-right
 
@@ -24,7 +24,7 @@ Don't use. Instead, use *leftmost* or *rightmost*.
 
 In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
 
-For more information, see [Procedures and instructions]().
+For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 ## field
 
@@ -44,7 +44,7 @@ See also [filename](#filename).
 
 One word. Not *file name* or *file-name*.
 
-For more information, see [Filenames]().
+For more information, see [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
 
 ## filesystem
 
@@ -85,19 +85,19 @@ One word. Not *firm ware* or *firm-ware*.
 
 Don't use in a command-line context. Instead, use *option*.
 
-For more information, see [Command-line syntax]().
+For more information, see [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 ## flick
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *swipe* in user documentation.
 
-See also [swipe](s.md).
+See also [swipe](https://make.wordpress.org/docs/style-guide/word-list/s/#swipe).
 
 ## flush, flush to
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation. Don't use *flush, flush to, flush left*, or *flush right* to describe text alignment. Instead, use *even, left-aligned*, or *right-aligned*, as appropriate.
 
-See also [left align, left-aligned](l.md), [right align, right-aligned](r.md).
+See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
 
 ## folder
 
@@ -107,7 +107,7 @@ Not all folders contain files or other folders. Describe the nature or appearanc
 
 In procedures and instructions, use bold formatting for the folder name if you're instructing the user to interact with the folder.
 
-For more instructions, see [Procedures]() and [UI elements]().
+For more instructions, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/) and [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## following
 
