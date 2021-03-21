@@ -118,7 +118,7 @@ Use *following* as an adjective to introduce a table, list, or other content. If
 [tip] **Recommended:** The following table shows the Block API reference: [/tip]  
 [tip] **Recommended:** Do the following: [/tip]  
 
-For more information, see [Table placement](tables.md) and [Lists]().
+For more information, see [Table placement](https://make.wordpress.org/docs/style-guide/formatting/tables/#table-placement) and [Lists](https://make.wordpress.org/docs/style-guide/formatting/lists/).
 
 ## font, font style, font size
 
@@ -128,19 +128,19 @@ To refer to the formatting, such as bold, underlined, or italic, use *font style
 
 Use *font size*, not *type size* for the point size such as 10 points or 12 points.
 
-For information about when to use various font styles, see [Text formatting](text.md).
+For information about when to use various font styles, see [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
 
 ## foo, foobar, fubar
 
 Avoid using. Instead, use a clearer and more meaningful placeholder with relevant text.
 
-For more information, see [Placeholders]().
+For more information, see [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
 
 ## footer
 
 Use instead of *bottom running head* or *running foot*.
 
-See also [header](h.md).
+See also [header](https://make.wordpress.org/docs/style-guide/word-list/h/#header).
 
 ## foreign
 
@@ -156,7 +156,7 @@ Use *format* to refer to the overall layout, arrangement, or appearance of text,
 
 Use *formatting* or *formatted* to refer to specific character formatting, paragraph formatting, and other types of formatting.
 
-For more information, see [Document structure]() and [Text formatting]().
+For more information, see [Document structure](https://make.wordpress.org/docs/style-guide/general-guidelines/document-structure/) and [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
 
 See also [font, font style](#font-font-style).
 
@@ -166,7 +166,7 @@ Don't use *freeze* as a synonym for *stop responding*. Don't use frozen to descr
 
 Instead, use *stop* or *stop responding* when a program encounters a problem and can't close itself.
 
-See also [stop, stop responding](s.md).
+See also [stop, stop responding](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## from
 
@@ -187,7 +187,7 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 
 Initialism for *File Transfer Protocol*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## full-
 
