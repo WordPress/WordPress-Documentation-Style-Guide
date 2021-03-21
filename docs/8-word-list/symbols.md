@@ -34,3 +34,5 @@ Don't use the number sign preceding a numeral. Instead, spell out *number*. It's
 It's OK to use the *#* symbol to indicate a hashtag. Don't use *number sign* to refer to the hashtag.
 
 See also [number](https://make.wordpress.org/docs/style-guide/word-list/n/#number).
+
+## + (plus sign)
