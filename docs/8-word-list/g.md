@@ -4,7 +4,7 @@
 
 Use to refer to a collection of images, graphics, pictures, charts, or other media items that the user can view or interact with. Use the verb *select* for items in a gallery.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select).
 
 ## GB, gigabyte
 
@@ -24,7 +24,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 16 GB hard drive [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Gbit, gigabit
 
@@ -44,14 +44,14 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** 10 GBit memory [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Gbps (Gbit/s), gigabits per second
 
 Initialism for *gigabits per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [Gbit, gigabit](#gbit-gigabit).
 
@@ -59,8 +59,8 @@ See also [Gbit, gigabit](#gbit-gigabit).
 
 Initialism for *gigabytes per second*.
 
-For more information, see [Units of measurement]().
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [GB, gigabyte](#gb-gigabyte).
 
@@ -84,7 +84,7 @@ Don’t hyphenate the adjective form.
 
 [tip] **Recommended:** a 5.0 GHz rate [/tip]  
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## GIF
 
@@ -92,7 +92,7 @@ Abbreviation for *Graphics Interchange Format*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *GIF file* rather than *.gif file*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## Git
 
@@ -112,7 +112,7 @@ OK to use *global* to mean *worldwide*, in developer documentation, and for a te
 
 Don't use *global* to describe the process of finding and replacing. Instead, describe the action or use *all instances* or *all occurrences*.
 
-See also [find and replace](), [worldwide]().
+See also [find and replace](https://make.wordpress.org/docs/style-guide/word-list/f/#find-and-replace), [worldwide](https://make.wordpress.org/docs/style-guide/word-list/w/#worldwide).
 
 ## glyph
 
@@ -120,13 +120,13 @@ Don't use to generically refer to an icon, illustration, or graphic. Instead, us
 
 It's OK to use *glyph* when referring to the appearance of characters in a context of typography or fonts.
 
-See also [character](), [font]().
+See also [character](https://make.wordpress.org/docs/style-guide/word-list/c/#character), [font, font style, font size](https://make.wordpress.org/docs/style-guide/word-list/f/#font-font-style-font-size).
 
 ## GNU
 
 Recursive initialism for *GNU's Not UNIX*. Use uppercase. Not *Gnu* or *gnu*.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Google
 
@@ -136,13 +136,13 @@ Capitalize. Don't use *Google* as a verb or gerund. Instead, use *search with Go
 
 Use to refer to the action of opening a menu, going to a website, webpage, a tab, or another place in the UI.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#go-to).
 
 ## GPL
 
 Initialism for *GNU Public License*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [GNU](#gnu).
 
@@ -150,9 +150,9 @@ See also [GNU](#gnu).
 
 Initialism for *graphics processing unit*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-See also [video card]().
+See also [video card](https://make.wordpress.org/docs/style-guide/word-list/v/#video-card).
 
 ## graphic, graphics, graphical
 
@@ -179,13 +179,13 @@ Generally, use *graphical* as an adjective to refer to visual art.
 
 Don't use. Instead, use *video card*.
 
-See also [video card]().
+See also [video card](https://make.wordpress.org/docs/style-guide/word-list/v/#video-card).
 
 ## Gravatar
 
 Acronym for *Globally Recognized Avatar*. Capitalize.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## gray
 
@@ -197,22 +197,23 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 
 Don't use *grayed* or *grayed out* to describe UI elements that are in an unusable state; instead, use *not available* or *unusable*. If you have to use a descriptor, use *dimmed* or *appears dimmed*.
 
-See also [disabled](), [disable, disabled](), [unavailable]().
+See also [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
 
-For more information, see [UI elements](ui-elements.md).
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## greater
 
 Don't use *greater* or *better* to mean *or later* when describing multiple versions of programs or apps.
 
-See also [later]().
+See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## GTE
 
 Initialism for *General Translation Editor*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
-For more information, see [Translate WordPress](https://make.wordpress.org/polyglots/) and [WordPress Polyglots handbook](https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor).
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+For more information, see [Translate WordPress](https://make.wordpress.org/polyglots/) and the [WordPress Polyglots handbook](https://make.wordpress.org/polyglots/handbook/glossary/#general-translation-editor).
 
 ## GUI
 
@@ -220,7 +221,7 @@ Abbreviation for *graphical user interface*. Use uppercase.
 
 Avoid using. Instead, use UI in developer documentation and interface in user documentation.
 
-For more information about spelling out abbreviations, see [Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## Gutenberg
 
@@ -232,4 +233,4 @@ Don't use a filename extension to refer to a type of file. For example, use *gzi
 
 Don't use *gzip, zip*, or *unzip* as a verb. Instead, use *compress* and *extract*.
 
-For more information, see [Referring to file types](//filenames.md).
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
