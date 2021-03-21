@@ -15,8 +15,11 @@
 ## percent, percentage
 ## personally identifiable information
 ## phone
+## photo
 ## PHP
-## plain text
+## picture
+## placeholder
+## plaintext, plain text
 ## please
 ## plugin, plug-in, plug in
 ## PM
@@ -26,12 +29,23 @@ See [AM, PM]().
 ## PNG
 ## point to
 ## populate
+## pop-up
 ## port
 ## possible
+## post-
+## pound key, pound sign
+## power down, power up, power off, power on
 ## pre-
 ## preceding
 ## predefined
-## press
+## press, press and hold
 ## primitive
+## privileges
+## program
+## prompt
 ## pros
+## pull down, pull-down
+## purge
+## push
+## put
 ## Python
