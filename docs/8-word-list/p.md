@@ -24,6 +24,13 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## phone
 ## photo
 ## PHP
+
+Acronym for *Hypertext Preprocessor* (earlier called *Personal Home Page*). Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *PHP file* file rather than *.php file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## phpMyAdmin
 ## picture
 ## placeholder
@@ -64,3 +71,9 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## push
 ## put
 ## Python
+
+Capitalize.
+
+Don't use a filename extension to refer to a type of file. For example, use *Python file* rather than *.python file* or *.py file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
