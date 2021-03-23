@@ -2,7 +2,7 @@
 
 ## Java
 
-Capitalize *J*.
+Capitalize.
 
 Don't use a filename extension to refer to a type of file. For example, use *Java file* rather than *.java file*.
 
