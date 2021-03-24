@@ -45,6 +45,9 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## permalink
 ## personally identifiable information
+
+OK to use. It's acceptable to abbreviate *personally identifiable information* as *PII* after the first mention of the term.
+
 ## phone
 ## photo
 
@@ -61,6 +64,9 @@ Don't use a filename extension to refer to a type of file. For example, use *PHP
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## phpMyAdmin
+
+Note capitalization.
+
 ## picture
 
 OK to use as a synonym for *photo* and in standard phrases such as *profile picture*.
@@ -69,6 +75,9 @@ See also [photo](#photo).
 
 ## placeholder
 ## plaintext, plain text
+
+In cryptography contexts, use *plaintext*. Otherwise, use *plain text*. 
+
 ## please
 ## plugin, plug-in, plug in
 ## PM
@@ -90,6 +99,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## possible
 ## post-
 ## pound key, pound sign
+
+Don't use. Instead, use *number sign*.
+
+See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list/symbols/#number-sign).
+
 ## power down, power up, power off, power on
 ## pre-
 ## preceding
