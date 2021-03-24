@@ -74,12 +74,23 @@ OK to use as a synonym for *photo* and in standard phrases such as *profile pict
 See also [photo](#photo).
 
 ## placeholder
+
+Don't use as a verb.
+
+For more information, see [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
+
 ## plaintext, plain text
 
-In cryptography contexts, use *plaintext*. Otherwise, use *plain text*. 
+In cryptography contexts, use *plaintext*. Otherwise, use *plain text*.
 
 ## please
+
+
+
 ## plugin, plug-in, plug in
+
+One word as a noun. As a verb, use two words as in *plug in*. Hyphenate as an adjective as in *plug-in*.
+
 ## PM
 
 See [AM, PM]().
@@ -108,12 +119,21 @@ See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list
 ## pre-
 ## preceding
 ## predefined
+
+One word. Not *pre defined* or *pre-defined*.
+
 ## press, press and hold
 ## primitive
+
+Use with caution. Don't use *primitive* in a disparaging sense.
+
 ## privileges
 ## program
 ## prompt
 ## pros
+
+Don't use. Instead, use *advantages* or a contextually relevant term.       
+
 ## pull down, pull-down
 ## purge
 ## push
