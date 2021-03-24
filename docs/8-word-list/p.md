@@ -16,7 +16,7 @@ Use *page* to refer to the page the reader or user is on, such as the home page.
 
 ## pane
 
-Use to refer to a smaller section that is part of the application window. Generally, a *pane* or *view* is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden.
+Use to refer to a smaller section or area that is part of the application window. Generally, a *pane* or *view* is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden.
 
 For more information, see [Window, page, dialog, and view](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#window-page-dialog-and-view).
 
@@ -47,6 +47,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## personally identifiable information
 ## phone
 ## photo
+
+OK to use as an abbreviation for *photograph*. You can also refer to photos as *images* or *pictures*.
+
+Don't use as a verb. Instead, use *photograph* or *take a picture*.
+
 ## PHP
 
 Initialism for *Hypertext Preprocessor* (earlier called *Personal Home Page*). Use uppercase.
@@ -57,6 +62,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## phpMyAdmin
 ## picture
+
+OK to use as a synonym for *photo* and in standard phrases such as *profile picture*.
+
+See also [photo](#photo).
+
 ## placeholder
 ## plaintext, plain text
 ## please
