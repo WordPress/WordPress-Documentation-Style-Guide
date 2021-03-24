@@ -32,7 +32,7 @@ OK to use when referring to the scrolling text feature or tag.
 
 ## markup, mark up
 
-One word as a noun. As a verb, use two words such as *mark up*. Don't hyphenate in any form.
+One word as a noun. As a verb, use two words as in *mark up*. Don't hyphenate in any form.
 
 ## master, master/slave
 
