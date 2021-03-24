@@ -3,8 +3,23 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## P2
+
+Capitalize.
+
+Not *p2, P-2,* or *P 2*.
+
 ## page
+
+Use *page* or *webpage* to describe a sub-page, document, or a collection of documents that make up a website or document.
+
+Use *page* to refer to the page the reader or user is on, such as the home page.
+
 ## pane
+
+Use to refer to a smaller section that is part of the application window. Generally, a *pane* or *view* is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden.
+
+For more information, see [Window, page, dialog, and view](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#window-page-dialog-and-view).
+
 ## parameter
 ## parent/child
 ## parenthesis, parentheses
@@ -12,7 +27,7 @@
 ## PC
 ## PDF
 
-Acronym for *Portable Document Format*. Use uppercase.
+Initialism for *Portable Document Format*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *PDF file* file rather than *.pdf file*.
 
@@ -20,12 +35,21 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## per
 ## percent, percentage
+## Perl
+
+Acronym for *Practical Extraction and Report Language*. Capitalize.
+
+Don't use a filename extension to refer to a type of file. For example, use *Perl file* rather than *.pl file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
+## permalink
 ## personally identifiable information
 ## phone
 ## photo
 ## PHP
 
-Acronym for *Hypertext Preprocessor* (earlier called *Personal Home Page*). Use uppercase.
+Initialism for *Hypertext Preprocessor* (earlier called *Personal Home Page*). Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *PHP file* file rather than *.php file*.
 
@@ -43,7 +67,7 @@ See [AM, PM]().
 
 ## PNG
 
-Acronym for *Portable Network Graphics*. Use uppercase.
+Initialism for *Portable Network Graphics*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *PNG file* file rather than *.png file*.
 
