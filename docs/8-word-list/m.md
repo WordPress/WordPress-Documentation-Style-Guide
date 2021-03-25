@@ -124,7 +124,7 @@ However, when discussing audio, video, and images, you can use *media* as a sing
 
 ## mega-
 
-In general, don't hyphenate words beginning with *mega-* such as *megabit, megabyte, megahertz,* and *megapixel* unless *mega-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *mega-* such as *megabit, megabyte, megahertz,* and *megapixel*, unless *mega-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
@@ -162,7 +162,7 @@ OK to use as a noun. If required, you can also provide adjective to present furt
 
 For the [Make WordPress Meta Team](https://make.wordpress.org/meta/), capitalize *Meta*.
 
-In general, don't hyphenate words beginning with *meta-* such as *metadata,* and *metafeed* unless *meta-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *meta-* such as *metadata,* and *metafeed*, unless *meta-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
@@ -326,7 +326,7 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## multi-
 
-In general, don't hyphenate words beginning with *multi-* such as *multimedia, multilevel, multisite,* and *multiuser* unless *multi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *multi-* such as *multimedia, multilevel, multisite,* and *multiuser*, unless *multi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
