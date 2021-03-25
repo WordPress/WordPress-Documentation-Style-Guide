@@ -68,7 +68,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## non-
 
-In general, don't hyphenate words beginning with *non-* such as *nonstandard, noncompliant,* and *nonrestrictive* unless *non-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *non-* such as *nonstandard, noncompliant,* and *nonrestrictive*, unless *non-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 Don't use *non-* to negate an entire phrase.
 
