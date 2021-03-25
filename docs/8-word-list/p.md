@@ -8,6 +8,8 @@ Capitalize.
 
 Not *p2, P-2,* or *P 2*.
 
+See also [P2](https://make.wordpress.org/docs/style-guide/word-list/o/#o2).
+
 ## page
 
 Use *page* or *webpage* to describe a sub-page, document, or a collection of documents that make up a website or document.
@@ -23,8 +25,20 @@ For more information, see [Window, page, dialog, and view](https://make.wordpres
 ## parameter
 ## parent/child
 ## parenthesis, parentheses
+
+Use *opening parenthesis* or *closing parenthesis* for an individual parenthesis. Don't use *open parenthesis, close parenthesis, beginning parenthesis, ending parenthesis, left parenthesis*, or *right parenthesis*. It's OK to use parenthesis by itself if it doesn't matter or it's clear which parenthesis is being discussed.
+
+For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/).
+
 ## path
 ## PC
+
+Initialism for *personal computer*. Use uppercase.
+
+It's OK to use *PC* in UI, tables, or headings where space is limited.
+
+See also [computer]().
+
 ## PDF
 
 Initialism for *Portable Document Format*. Use uppercase.
