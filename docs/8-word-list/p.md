@@ -119,6 +119,17 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## point to
 ## populate
+
+Avoid using to describe filling out forms. Use with caution to describe populating a table or other entity.
+
+Don't use in the context of describing people; instead, use *fill in*.
+
+**Examples**  
+
+[warning] **Not recommended:** After populating the form, submit it. [/warning]  
+[tip] **Recommended:** After filling out the form, submit it. [/tip]  
+[tip] **Recommended:** The SQL command populates the table with sample data. [/tip]  
+
 ## pop-up
 ## port
 ## possible
