@@ -109,6 +109,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## port
 ## possible
 ## post-
+
+In general, don't hyphenate words beginning with *post-* such as *postdate* and *postgraduate*, unless *post-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## pound key, pound sign
 
 Don't use. Instead, use *number sign*.
@@ -117,6 +122,11 @@ See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list
 
 ## power down, power up, power off, power on
 ## pre-
+
+In general, don't hyphenate words beginning with *pre-* such as *preexisting* and *preinstalled*, unless *pre-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 ## preceding
 ## predefined
 
@@ -136,6 +146,9 @@ Don't use. Instead, use *advantages* or a contextually relevant term.
 
 ## pull down, pull-down
 ## purge
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *delete, clear*, or *remove*.
+
 ## push
 ## put
 ## Python
