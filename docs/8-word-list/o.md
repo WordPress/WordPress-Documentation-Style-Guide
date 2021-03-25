@@ -2,7 +2,11 @@
 
 ## O2
 
-See [P2](https://make.wordpress.org/docs/style-guide/word-list/p/#p2).
+Capitalize.
+
+Not *o2, O-2,* or *O 2*.
+
+See also [P2](https://make.wordpress.org/docs/style-guide/word-list/p/#p2).
 
 ## object
 
