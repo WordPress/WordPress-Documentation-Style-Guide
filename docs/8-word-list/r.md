@@ -5,7 +5,8 @@
 ## remove
 
 
-See also [delete](), [uninstall](), [load]().
+
+See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [uninstall](https://make.wordpress.org/docs/style-guide/word-list/u/#uninstall), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
 ## restore
 ## right, rightmost, right-hand
