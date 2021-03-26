@@ -165,11 +165,23 @@ Use with caution. Don't use *primitive* in a disparaging sense.
 ## privileges
 ## program
 ## prompt
+
+Use only to describe a signal, which might or might not be a message, that an app or the operating system is waiting for the user to take some action. In general, restrict the use of *prompt* as a noun to the command prompt.
+
+Use as a verb to refer to the act of requesting information or an action from the user.
+
 ## pros
 
 Don't use. Instead, use *advantages* or a contextually relevant term.       
 
 ## pull down, pull-down
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+Don't use *pull down* as a verb to describe how to use a menu or list. Don't use *pull-down* as an adjective to describe the appearance of a menu or list.
+
+For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
+
 ## purge
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *delete, clear*, or *remove*.
