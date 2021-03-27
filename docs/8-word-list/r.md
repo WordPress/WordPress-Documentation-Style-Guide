@@ -17,7 +17,7 @@ Don't use *right-hand* as a modifier.
 
 In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
 
-For more information, see [Procedures and instructions]().
+For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 ## right align, right-aligned
 
@@ -25,7 +25,7 @@ Use to refer to text that's aligned at the right margin. Hyphenate *right-aligne
 
 Don’t use *right-justified*.
 
-See also [justify, justified](), [left align, left-aligned]().
+See also [justify, justified](https://make.wordpress.org/docs/style-guide/word-list/j/#justify-justified), [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned).
 
 ## right justify, right-justified
 
