@@ -38,7 +38,15 @@ For more information, see [Parentheses](https://make.wordpress.org/docs/style-gu
 
 ## path
 
+OK to use. Avoid using *pathname* or *path name* if possible.
 
+Use *address* or *URL*, not *path*, to refer to a location on the internet.
+
+In general, use *path of*, not *path to*, to refer to the location of a file.
+
+For more information about slashes in paths, see [Slashes with file paths and names](https://make.wordpress.org/docs/style-guide/punctuation/slashes/#slashes-with-file-paths-and-names).
+
+For more information about paths in command-line syntax, see [Command prompt](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#command-prompt).
 
 ## PC
 
