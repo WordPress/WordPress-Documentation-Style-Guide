@@ -54,7 +54,7 @@ Initialism for *personal computer*. Use uppercase.
 
 It's OK to use *PC* in UI, tables, or headings where space is limited.
 
-See also [computer]().
+See also [computer](https://make.wordpress.org/docs/style-guide/word-list/c/#computer).
 
 ## PDF
 
@@ -136,7 +136,7 @@ One word as a noun. As a verb, use two words as in *plug in*. Hyphenate as an ad
 
 ## PM
 
-See [AM, PM]().
+See [AM, PM](https://make.wordpress.org/docs/style-guide/word-list/a/#am-pm).
 
 ## PNG
 
