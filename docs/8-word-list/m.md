@@ -246,6 +246,8 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Use instead of *cell phone*.
 
+See also [phone](https://make.wordpress.org/docs/style-guide/word-list/p/#phone).
+
 ## mobile data
 
 Use instead of *cellular data*.
