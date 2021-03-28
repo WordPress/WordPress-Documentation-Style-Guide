@@ -12,11 +12,11 @@ See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-li
 ## sign in, sign-in
 
 
-See also [login, log in, logout, log out](l.md).
+See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out).
 
 ## sleep
 
-[shut down, shutdown](#shut-down-shutdown)
+See also [shut down, shutdown](#shut-down-shutdown).
 
 ## start, restart
 
@@ -33,13 +33,13 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 ## storage
 
-See also [memory](m.md).
+See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
 ## switch
 
-See also [toggle](t.md).
+See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggle).
 
 ## swipe
 
 
-See also [flick](f.md).
+See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick).
