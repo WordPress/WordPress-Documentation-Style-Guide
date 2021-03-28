@@ -206,7 +206,9 @@ One word. Not *pre defined* or *pre-defined*.
 
 ## press, press and hold
 
+Use only to describe pushing a physical button on a device or hardware.
 
+For more information see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#press).
 
 ## primitive
 
@@ -214,11 +216,11 @@ Use with caution. Don't use *primitive* in a disparaging sense.
 
 ## privileges
 
-
+Don't use as a synonym for *permissions* or *rights*.
 
 ## program
 
-
+See [app, application](https://make.wordpress.org/docs/style-guide/word-list/a/#app-application).
 
 ## prompt
 
