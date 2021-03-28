@@ -70,9 +70,22 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 Use *per* instead of the division slash (/) to express a rate, unless space constraints in UI, tables, or headings require the use of the slash.
 
+Avoid using *per* in contexts other than rate units.
 
-For more information, see [Units of measurement]().
+Don't use *per* to mean *by* or *in accordance with*.
 
+**Examples**  
+
+[warning] **Not recommended:** transactions/hour [/warning]  
+[tip] **Recommended:** transactions per hour [/tip]  
+
+[warning] **Not recommended:** per the style guide [/warning]  
+[tip] **Recommended:** according to the style guide [/tip]  
+
+[warning] **Not recommended:** Replace the variable per instance. [/warning]  
+[tip] **Recommended:** Replace the variable for each instance. [/tip]  
+
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/#rates).
 
 ## percent, percentage
 
