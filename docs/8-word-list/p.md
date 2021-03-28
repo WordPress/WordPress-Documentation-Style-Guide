@@ -168,11 +168,15 @@ Don't use in the context of describing people; instead, use *fill in*.
 
 ## port
 
+OK to use the verb forms *port* and *port to* in developer documentation and for a technical audience in the context of portability. Avoid using in user documentation.
 
+Use *port* as a noun to refer to a location for passing data in and out of a computer or device. Don’t use *connector* to refer to a port.
+
+For the noun form of *port* in the context of computer networking, use *listen on*, not *listen to*.
 
 ## possible
 
-
+Don't use *possible* or *impossible* to mean *you can* or *you can't*.
 
 ## post-
 
@@ -188,7 +192,11 @@ See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list
 
 ## power down, power up, power off, power on
 
+Don't use. Instead, use *turn off* and *turn on*.
 
+Don't use *shut down* to refer to turning off a device.
+
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](https://make.wordpress.org/docs/style-guide/word-list/s/#shut-down-shutdown), [start, restart](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart).
 
 ## pre-
 
@@ -198,7 +206,9 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 
 ## preceding
 
+It's OK to use *preceding, previous*, or *earlier*, but link to the particular information or use a cross-reference when possible.
 
+For more information, see the [Linking](https://make.wordpress.org/docs/style-guide/linking/) section.
 
 ## predefined
 
