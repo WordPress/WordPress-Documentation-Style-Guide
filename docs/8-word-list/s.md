@@ -2,11 +2,26 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## shut down, shutdown
+
+
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
+
 ## simple, simply
 
 ## sign in, sign-in
 
+
 See also [login, log in, logout, log out](l.md).
+
+## sleep
+
+[shut down, shutdown](#shut-down-shutdown)
+
+## start, restart
+
+
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
 ## stop, stop responding
 
