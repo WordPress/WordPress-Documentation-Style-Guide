@@ -90,7 +90,9 @@ OK to use. It's acceptable to abbreviate *personally identifiable information* a
 
 ## phone
 
+It's OK to use *phone, mobile, mobile device,* and *mobile phone*.
 
+Don't use *cell phone*.
 
 ## photo
 
@@ -132,6 +134,10 @@ Don't use *please* in standard contexts such as procedures, instructions, or tut
 
 Use *please* only when the user is asked to do something inconvenient, the application or site is to blame for the situation, or when there is an issue with the product.
 
+**Example**  
+
+[tip] **Recommended:** If the issue persists, please contact your administrator. [/tip]  
+
 For more information, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
 
 ## plugin, plug-in, plug in
@@ -152,7 +158,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## point to
 
+It's OK to use *point to* as a verb to describe moving the mouse pointer over an area of the UI without selecting it.
 
+Don't use *point, mouse over* or *move the mouse pointer to*.
+
+For more information, see [Hold, hover](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#hold-hover).
 
 ## populate
 
