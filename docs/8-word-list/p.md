@@ -8,7 +8,7 @@ Capitalize.
 
 Not *p2, P-2,* or *P 2*.
 
-See also [P2](https://make.wordpress.org/docs/style-guide/word-list/o/#o2).
+See also [O2](https://make.wordpress.org/docs/style-guide/word-list/o/#o2).
 
 ## page
 
@@ -82,7 +82,7 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## permalink
 
-
+One word. Not *perma link* or *perma-link*.
 
 ## personally identifiable information
 
@@ -128,7 +128,11 @@ In cryptography contexts, use *plaintext*. Otherwise, use *plain text*.
 
 ## please
 
+Don't use *please* in standard contexts such as procedures, instructions, or tutorials.
 
+Use *please* only when the user is asked to do something inconvenient, the application or site is to blame for the situation, or when there is an issue with the product.
+
+For more information, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
 
 ## plugin, plug-in, plug in
 
@@ -164,7 +168,16 @@ Don't use in the context of describing people; instead, use *fill in*.
 
 ## pop-up
 
+Don’t use as a noun.
 
+**Examples**  
+
+[warning] **Not recommended:** A pop-up [/warning]  
+[tip] **Recommended:** A pop-up window [/tip]  
+
+Don't use pop up or pops up as a verb to describe the appearance of a window. Instead, use *open* or a similar verb.
+
+For more information, see [UI elements and interaction](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## port
 
