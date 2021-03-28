@@ -24,11 +24,13 @@ For more information, see [Window, page, dialog, and view](https://make.wordpres
 
 ## parameter
 
-
+Use for a value given to a variable until an operation is completed. Don't use to mean *characteristic, element, limit*, or *boundary*.
 
 ## parent/child
 
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *clear, delete*, or *remove*.
 
+Not *parent – child* or *parent—child*. Don't use as a synonym for a primary/subordinate relationship.
 
 ## parenthesis, parentheses
 
@@ -66,11 +68,19 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## per
 
+Use *per* instead of the division slash (/) to express a rate, unless space constraints in UI, tables, or headings require the use of the slash.
+
+
+For more information, see [Units of measurement]().
 
 
 ## percent, percentage
 
+Always precede *percent* with a numeral, no matter how small the value.
 
+It's OK to use the percent sign (%) in UI, tables, or headings where space is limited. You can also use the percent sign as a technical symbol.
+
+Use *percentage* when you describe a nonspecific quantity, or when applying the percentage formula.
 
 ## Perl
 
