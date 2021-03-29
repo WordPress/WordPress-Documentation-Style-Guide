@@ -24,6 +24,8 @@ Use the following editorial resources.
 
 ### Additional editorial resources
 
+Following are some additional technical style guides:
+
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)  
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/style-guide/welcome/)  
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
