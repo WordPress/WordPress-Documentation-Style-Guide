@@ -13,9 +13,14 @@ Use the following editorial resources.
 
 ### Reference hierarchy
 
-1. **Project-specific style.** Follow style guidelines specific to your project or product with first preference, such as necessary exceptions to this guide or terms that are relevant only to your product.
+1. **Project-specific style:** Follow style guidelines specific to your project or product with first preference, such as necessary exceptions to this guide or terms that are relevant only to your product.
 
-2. **This style guide.** If certain guidelines are not there in your project-specific style guide, or there are no project-specific guidelines altogether, then use this style guide.
+2. **This style guide:** If certain guidelines are not there in your project-specific style guide, or there are no project-specific guidelines altogether, then use this style guide.
+
+3. **External references:** If the preceding references don't provide explicit guidance, the refer the following external references:
+   - [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)  
+   - [The American Heritage Dictionary](https://ahdictionary.com/)  
+   - [Merriam-Webster](https://www.merriam-webster.com/)
 
 ### Additional editorial resources
 
@@ -24,6 +29,3 @@ Use the following editorial resources.
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Red Hat technical documentation style guide](https://stylepedia.net/)  
 - [Mozilla Writing style guide](https://developer.mozilla.org/docs/MDN/Guidelines/Writing_style_guide)
-- [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)  
-- [The American Heritage Dictionary](https://ahdictionary.com/)  
-- [Merriam-Webster](https://www.merriam-webster.com/)
