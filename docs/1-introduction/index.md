@@ -7,7 +7,17 @@ The primary objective of the WordPress Documentation Style Guide is to help auth
 
 For an overview of the WordPress Documentation Style Guide, see [Highlights](https://make.wordpress.org/docs/style-guide/welcome/highlights/).
 
-## Additional editorial resources
+## Editorial resources
+
+Use the following editorial resources.
+
+### Reference hierarchy
+
+1. **Project-specific style.** Follow style guidelines specific to your project or product with first preference, such as necessary exceptions to this guide or terms that are relevant only to your product.
+
+2. **This style guide.** If certain guidelines are not there in your project-specific style guide, or there are no project-specific guidelines altogether, then use this style guide.
+
+### Additional editorial resources
 
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)  
 - [Microsoft Writing Style Guide](https://docs.microsoft.com/style-guide/welcome/)  
