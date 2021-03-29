@@ -7,9 +7,6 @@ The primary objective of the WordPress Documentation Style Guide is to help auth
 
 For an overview of the WordPress Documentation Style Guide, see [Highlights](https://make.wordpress.org/docs/style-guide/welcome/highlights/).
 
-## How to use the Style Guide
- <!-- To be written after integrating & Publishing on WordPress.org -->
-
 ## Additional editorial resources
 
 - [Google Developer Documentation Style Guide](https://developers.google.com/style)  
