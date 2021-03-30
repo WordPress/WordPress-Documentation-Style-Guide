@@ -2,13 +2,26 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]  
 
+## radio button
+## RAM
+## re-
+## read-only
+## read/write
+## real time, real-time
+## reboot
+## recommend
+## refresh
+## reinitialize
+## remote
 ## remove
 
 
 
 See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [uninstall](https://make.wordpress.org/docs/style-guide/word-list/u/#uninstall), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
+## replace
 ## restore
+
 
 
 ## right, rightmost, right-hand
