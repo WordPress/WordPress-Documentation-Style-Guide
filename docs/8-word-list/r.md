@@ -20,10 +20,8 @@
 See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [uninstall](https://make.wordpress.org/docs/style-guide/word-list/u/#uninstall), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
 ## replace
+## restart
 ## restore
-
-
-
 ## right, rightmost, right-hand
 
 Don't use *right* as a directional term by itself. Instead, use a term such as *upper right, lower right, rightmost*, or *on the right side of*. When you use *right* to modify a noun, insert a hyphen, as in *upper-right corner*.
@@ -47,3 +45,9 @@ See also [justify, justified](https://make.wordpress.org/docs/style-guide/word-l
 Don’t use. Instead, use *right-aligned*.
 
 See also [right align, right-aligned](#right-align-right-aligned).
+
+## ROM
+## Roman
+## root directory
+## run
+## runtime
