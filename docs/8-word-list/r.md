@@ -11,6 +11,7 @@
 ## real time, real-time
 ## reboot
 ## recommend
+## reference
 ## refresh
 ## reinitialize
 ## remote
@@ -23,8 +24,13 @@ See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear)
 ## replace
 ## repo
 ## REST API
+## resolution
 ## restart
 ## restore
+## required
+
+See [must]().
+
 ## right, rightmost, right-hand
 
 Don't use *right* as a directional term by itself. Instead, use a term such as *upper right, lower right, rightmost*, or *on the right side of*. When you use *right* to modify a noun, insert a hyphen, as in *upper-right corner*.
@@ -54,6 +60,7 @@ See also [right align, right-aligned](#right-align-right-aligned).
 ## Roman
 ## root directory
 ## RSS
+## RTF
 ## RTL
 ## run
 ## runtime
