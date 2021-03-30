@@ -4,7 +4,19 @@
 
 ## radio button
 ## RAM
+
+Acronym for *random-access memory*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+See also [memory]().
+
 ## RDF
+
+Initialism for *Resource Description Framework*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## re-
 ## read-only
 ## read/write
@@ -61,6 +73,21 @@ See also [right align, right-aligned](#right-align-right-aligned).
 ## root directory
 ## RSS
 ## RTF
+
+Initialism for *Rich Text Format*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *RTF file* rather than *.rtf file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## RTL
+
+Initialism for *right-to-left*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+For more information, see [Writing documentation for a global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
+
+
 ## run
 ## runtime
