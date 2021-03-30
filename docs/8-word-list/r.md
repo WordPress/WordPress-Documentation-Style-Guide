@@ -4,6 +4,7 @@
 
 ## radio button
 ## RAM
+## RDF
 ## re-
 ## read-only
 ## read/write
@@ -20,6 +21,8 @@
 See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [uninstall](https://make.wordpress.org/docs/style-guide/word-list/u/#uninstall), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
 ## replace
+## repo
+## REST API
 ## restart
 ## restore
 ## right, rightmost, right-hand
@@ -46,8 +49,11 @@ Don’t use. Instead, use *right-aligned*.
 
 See also [right align, right-aligned](#right-align-right-aligned).
 
+## robots.txt
 ## ROM
 ## Roman
 ## root directory
+## RSS
+## RTL
 ## run
 ## runtime
