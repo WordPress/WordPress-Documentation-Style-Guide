@@ -199,6 +199,8 @@ Use a hyphen in compound adjectives beginning with full.
 - full-page
 - full-time
 
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## full screen, full-screen
 
 Two words as a noun. Hyphenate as an adjective before a noun.

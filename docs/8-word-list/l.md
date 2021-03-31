@@ -135,6 +135,8 @@ In general, don't hyphenate words ending with *-like* unless the root word is a 
 - WordPress-like
 - systemlike
 
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## link
 
 Use *link* to describe text, graphic, button, or another element that users can select to go to another document, another place within the same document, or to a webpage.
