@@ -35,7 +35,15 @@ See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear)
 
 ## replace
 ## repo
+
+Use *repository* instead of *repo* whenever possible.
+
 ## REST API
+
+Abbreviation for *RESTful Application Program Interface*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## resolution
 ## restart
 ## restore
@@ -68,6 +76,11 @@ Don’t use. Instead, use *right-aligned*.
 See also [right align, right-aligned](#right-align-right-aligned).
 
 ## robots.txt
+
+Use code font.
+
+For more information, see [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
+
 ## ROM
 
 Acronym for *read-only memory*. Use uppercase.
