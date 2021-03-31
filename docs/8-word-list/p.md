@@ -228,6 +228,8 @@ In general, don't hyphenate words beginning with *post-* such as *postdate* and 
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## pound key, pound sign
 
 Don't use. Instead, use *number sign*.
@@ -247,6 +249,8 @@ See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-li
 In general, don't hyphenate words beginning with *pre-* such as *preexisting* and *preinstalled*, unless *pre-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## preceding
 
