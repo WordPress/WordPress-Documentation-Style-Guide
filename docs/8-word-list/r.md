@@ -9,7 +9,7 @@ Acronym for *random-access memory*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-See also [memory]().
+See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
 ## RDF
 
@@ -94,10 +94,18 @@ Acronym for *read-only memory*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-See also [memory]().
+See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
 ## Roman
-## root directory
+
+Don't use to describe type that's neither bold nor italic. Instead, use *regular type*.
+
+## root, root directory
+
+OK to use in developer documentation and for a technical audience. Use *root directory*, not *home directory*
+
+Describe the root of the file system by a leading slash (/).
+
 ## RSS
 
 Initialism for *Really Simple Syndication*. Use uppercase.
@@ -121,4 +129,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 For more information, see [Writing documentation for a global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
 
 ## run
+
+
+
 ## runtime
