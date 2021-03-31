@@ -28,6 +28,8 @@ In general, don't hyphenate words beginning with *un-* such as *unable* and *und
 
 For more information about hyphenation, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## unarchive
 
 Don't use. Instead, use *extract*.
