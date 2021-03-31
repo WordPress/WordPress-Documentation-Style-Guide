@@ -18,6 +18,13 @@ Initialism for *Resource Description Framework*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## re-
+
+In general, don't hyphenate words beginning with *re-* such as *re, re,* and *re* unless *re-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## read-only
 ## read/write
 ## real time, real-time
