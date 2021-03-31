@@ -128,6 +128,8 @@ In general, don't hyphenate words beginning with *mega-* such as *megabit, megab
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## memory
 
 In most cases, refer to a specific kind of memory, such as *random-access memory (RAM), read-only memory (ROM), virtual memory*, or *portable storage devices*.
@@ -197,6 +199,8 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 In general, don't hyphenate words beginning with *micro-* such as *microprocessor, microservices,* and *microcomputer* unless *micro-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## Microsoft
 
@@ -331,6 +335,8 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 In general, don't hyphenate words beginning with *multi-* such as *multimedia, multilevel, multisite,* and *multiuser*, unless *multi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## multisite
 
