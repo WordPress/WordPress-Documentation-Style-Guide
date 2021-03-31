@@ -69,9 +69,21 @@ See also [right align, right-aligned](#right-align-right-aligned).
 
 ## robots.txt
 ## ROM
+
+Acronym for *read-only memory*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+See also [memory]().
+
 ## Roman
 ## root directory
 ## RSS
+
+Initialism for *Really Simple Syndication*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## RTF
 
 Initialism for *Rich Text Format*. Use uppercase.
@@ -87,7 +99,6 @@ Initialism for *right-to-left*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 For more information, see [Writing documentation for a global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
-
 
 ## run
 ## runtime
