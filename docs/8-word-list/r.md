@@ -33,8 +33,19 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## read-only
+
+Hyphenate.
+
 ## read/write
+
+Capitalize both *read* and *write* if *read* is capitalized.
+
+Not *read-write*.
+
 ## real time, real-time
+
+Two words. Hyphenate as an adjective.
+
 ## reboot
 ## recommend
 ## reference
@@ -43,6 +54,8 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 Use to describe updating a webpage.
 
 Don't use *refresh* to describe an image being restored on the screen or data being updated. Instead, use *update*.
+
+See also [update]().
 
 ## reinitialize
 ## remote
