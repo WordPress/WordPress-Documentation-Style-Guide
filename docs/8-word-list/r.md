@@ -3,6 +3,13 @@
 [alert] **Caution:** This page is currently under development. [/alert]  
 
 ## radio button
+
+Use *radio button* only in in developer documentation and for a technical audience.
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a radio button by its label. If you have to use a descriptor, use *option* or *option button*.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
 ## RAM
 
 Acronym for *random-access memory*. Use uppercase.
@@ -19,7 +26,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## re-
 
-In general, don't hyphenate words beginning with *re-* such as *re, re,* and *re* unless *re-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+In general, don't hyphenate words beginning with *re-* such as *reinstall* and *reenter* unless *re-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
 For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
@@ -32,6 +39,11 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 ## recommend
 ## reference
 ## refresh
+
+Use to describe updating a webpage.
+
+Don't use *refresh* to describe an image being restored on the screen or data being updated. Instead, use *update*.
+
 ## reinitialize
 ## remote
 ## remove
@@ -133,3 +145,5 @@ For more information, see [Writing documentation for a global audience](https://
 
 
 ## runtime
+
+One word. Not *run time* or *run-time*.
