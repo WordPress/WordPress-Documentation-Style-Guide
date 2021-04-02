@@ -1,7 +1,5 @@
 # R
 
-[alert] **Caution:** This page is currently under development. [/alert]  
-
 ## radio button
 
 Use *radio button* only in in developer documentation and for a technical audience.
@@ -80,7 +78,7 @@ See also [update](https://make.wordpress.org/docs/style-guide/word-list/u/#updat
 
 Don't use to mean *restart*.
 
-See also [initialize](https://make.wordpress.org/docs/style-guide/word-list/i/#initialize), [start, restart](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart)
+See also [initialize](https://make.wordpress.org/docs/style-guide/word-list/i/#initialize), [start, restart](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart).
 
 ## remote
 
