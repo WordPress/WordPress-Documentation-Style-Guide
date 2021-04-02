@@ -47,7 +47,25 @@ Not *read-write*.
 Two words. Hyphenate as an adjective.
 
 ## reboot
+
+Avoid using. Instead, use *restart* and refer to the context of restarting the device.
+
+See also [restart]().
+
 ## recommend
+
+Don't use *we recommend* or *WordPress recommends*. Instead, use *recommended*.
+
+**Examples**  
+
+[warning] **Not recommended:** We recommend to use PHP version 7.4 or greater. [/warning]  
+[warning] **Not recommended:** WordPress recommends to use PHP version 7.4 or greater. [/warning]  
+[tip] **Recommended:** It's recommended to use PHP version 7.4 or greater. [/tip]  
+
+Don't use *recommend* when something is required.
+
+See also [must](), [should]().
+
 ## reference
 ## refresh
 
@@ -58,6 +76,11 @@ Don't use *refresh* to describe an image being restored on the screen or data be
 See also [update]().
 
 ## reinitialize
+
+Don't use to mean *restart*.
+
+See also [initialize](), [start](), [restart]()
+
 ## remote
 ## remove
 
