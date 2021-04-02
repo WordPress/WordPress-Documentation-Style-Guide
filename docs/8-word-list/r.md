@@ -48,7 +48,7 @@ Two words. Hyphenate as an adjective.
 
 ## reboot
 
-Avoid using. Instead, use *restart* and refer to the context of restarting the device.
+Avoid using. Instead, use *restart* and refer to the context of restarting the *device*.
 
 See also [restart]().
 
@@ -57,11 +57,9 @@ See also [restart]().
 Don't use *we recommend* or *WordPress recommends*. Instead, use *recommended*.
 
 **Examples**  
-
 [warning] **Not recommended:** We recommend to use PHP version 7.4 or greater. [/warning]  
 [warning] **Not recommended:** WordPress recommends to use PHP version 7.4 or greater. [/warning]  
 [tip] **Recommended:** It's recommended to use PHP version 7.4 or greater. [/tip]  
-
 Don't use *recommend* when something is required.
 
 See also [must](), [should]().
@@ -115,7 +113,17 @@ Abbreviation for *RESTful Application Program Interface*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## resolution
+
+Use a lowercase *x* between the numerals in the dimensions, with no space between the numerals and the x. You can also use the multiplication sign (×). Use a space before and after the multiplication sign.
+
+For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions).
+
 ## restart
+
+Use to describe closing and reopening a program or app or turning a device off and then immediately back on. Refer to the context of restarting the *device*.
+
+Don’t use as a noun.
+
 ## restore
 ## required
 
@@ -187,9 +195,9 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 Initialism for *right-to-left*. Use uppercase.
 
-For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
-
 For more information, see [Writing documentation for a global audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## run
 
