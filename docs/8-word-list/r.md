@@ -67,6 +67,9 @@ Don't use *recommend* when something is required.
 See also [must](), [should]().
 
 ## reference
+
+Don’t use as a verb. Instead, use *refer to*.
+
 ## refresh
 
 Use to describe updating a webpage.
@@ -82,16 +85,28 @@ Don't use to mean *restart*.
 See also [initialize](), [start](), [restart]()
 
 ## remote
+
+It's OK to use *remote* as an adjective. Don't use *remote* as a verb.
+
 ## remove
 
-
+It's OK to use *remove* as an verb. Don't use to mean *delete*.
 
 See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [uninstall](https://make.wordpress.org/docs/style-guide/word-list/u/#uninstall), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load).
 
 ## replace
+
+Don't use as a noun.
+
+See also [find and replace]().
+
 ## repo
 
 Use *repository* instead of *repo* whenever possible.
+
+## reset
+
+Don't use as a noun.
 
 ## REST API
 
