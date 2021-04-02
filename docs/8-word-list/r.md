@@ -50,7 +50,7 @@ Two words. Hyphenate as an adjective.
 
 Avoid using. Instead, use *restart* and refer to the context of restarting the *device*.
 
-See also [restart]().
+See also [restart](#restart).
 
 ## recommend
 
@@ -62,7 +62,7 @@ Don't use *we recommend* or *WordPress recommends*. Instead, use *recommended*.
 [tip] **Recommended:** It's recommended to use PHP version 7.4 or greater. [/tip]  
 Don't use *recommend* when something is required.
 
-See also [must](), [should]().
+See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must), [should](https://make.wordpress.org/docs/style-guide/word-list/s/#should).
 
 ## reference
 
@@ -74,13 +74,13 @@ Use to describe updating a webpage.
 
 Don't use *refresh* to describe an image being restored on the screen or data being updated. Instead, use *update*.
 
-See also [update]().
+See also [update](https://make.wordpress.org/docs/style-guide/word-list/u/#update).
 
 ## reinitialize
 
 Don't use to mean *restart*.
 
-See also [initialize](), [start](), [restart]()
+See also [initialize](https://make.wordpress.org/docs/style-guide/word-list/i/#initialize), [start, restart](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart)
 
 ## remote
 
@@ -96,7 +96,7 @@ See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear)
 
 Don't use as a noun.
 
-See also [find and replace]().
+See also [find and replace](https://make.wordpress.org/docs/style-guide/word-list/f/#find-and-replace).
 
 ## repo
 
@@ -124,6 +124,8 @@ Use to describe closing and reopening a program or app or turning a device off a
 
 Don’t use as a noun.
 
+See also [start, restart](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart).
+
 ## restore
 
 Use as a verb to describe restoring an item or condition to its previous state.
@@ -132,7 +134,7 @@ Don’t use as a noun.
 
 ## required
 
-See [must]().
+See [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 
 ## right, rightmost, right-hand
 
