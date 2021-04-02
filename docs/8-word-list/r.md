@@ -125,6 +125,11 @@ Use to describe closing and reopening a program or app or turning a device off a
 Don’t use as a noun.
 
 ## restore
+
+Use as a verb to describe restoring an item or condition to its previous state.
+
+Don’t use as a noun.
+
 ## required
 
 See [must]().
@@ -201,7 +206,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## run
 
-
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
 
 ## runtime
 
