@@ -2,6 +2,10 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## screenshot
+## see
+## select
+## setup, set up
 ## SFTP
 ## shell
 ## should
@@ -17,10 +21,19 @@ See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-li
 
 ## simple, simply
 
-## sign in, sign-in
+## sign in, sign-in, sign out
 
 
 See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out).
+
+## sign-on, sign on
+## simple, simply
+## since
+## slave
+
+Avoid using whenever possible.
+
+See [master, master/slave]().
 
 ## sleep
 
@@ -29,7 +42,14 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 See also [shut down, shutdown](#shut-down-shutdown).
 
 ## slug
+## smartphone
 ## SSH
+
+
+
+
+OK to use lowercase in developer documentation, such as commands.
+
 ## SSL
 ## start, restart
 
@@ -48,6 +68,15 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
+## style sheet
+## sub-
+## subclass
+## subnet
+## such as
+
+
+
+See also [like]().
 ## SVN
 ## switch
 
@@ -58,6 +87,7 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 
 See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick).
 
+## sync
 ## Syndication
 
 See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
