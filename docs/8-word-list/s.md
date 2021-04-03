@@ -2,6 +2,8 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## SFTP
+## shell
 ## should
 
 
@@ -22,8 +24,13 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 
 ## sleep
 
+
+
 See also [shut down, shutdown](#shut-down-shutdown).
 
+## slug
+## SSH
+## SSL
 ## start, restart
 
 
@@ -41,6 +48,7 @@ For more information, see [Interaction verbs](ui-elements.md).
 
 See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
+## SVN
 ## switch
 
 See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggle).
@@ -49,3 +57,7 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 
 
 See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick).
+
+## Syndication
+
+See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
