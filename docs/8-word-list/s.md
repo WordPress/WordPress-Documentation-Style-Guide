@@ -3,7 +3,12 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## save
+## screen
+asg
 ## screenshot
+
+
+See also [photo]().
 ## screen resolution
 
 See [resolution]().
@@ -15,12 +20,16 @@ See [resolution]().
 ## search and replace
 ## see
 ## select
+## self-
 ## set
 ## setup, set up
 ## SFTP
 ## shaded
 ## shell
 ## shortcut
+
+One word. Not *short cut* or *short-cut*.
+
 ## should
 
 
@@ -44,6 +53,7 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 ## site
 ## sitemap
 ## since
+## size
 ## slave
 
 Avoid using whenever possible.
@@ -61,6 +71,7 @@ See also [shut down, shutdown](#shut-down-shutdown).
 
 ## slider
 ## slug
+## SMTP
 ## sorry
 ## spam
 ## spin box
@@ -79,6 +90,9 @@ See also [MySQL]().
 OK to use lowercase in developer documentation, such as commands.
 
 ## SSL
+## standalone
+
+It's OK to use *standalone* as an adjective. Don't use as a noun.
 ## start, restart
 
 
@@ -93,7 +107,7 @@ Use *stop responding* when a program encounters a problem and can't close itself
 
 For more information, see [Interaction verbs](ui-elements.md).
 
-## storage
+## storage, storage device
 
 
 
@@ -113,6 +127,7 @@ See also [CSS]().
 
 
 See also [like]().
+## super-
 ## surf
 ## SVN
 ## swipe
@@ -129,3 +144,6 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 ## Syndication
 
 See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
+
+## system
+asg
