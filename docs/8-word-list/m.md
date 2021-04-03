@@ -36,7 +36,7 @@ One word as a noun. As a verb, use two words as in *mark up*. Don't hyphenate in
 
 ## master, master/slave
 
-Avoid whenever possible. Instead, replace *master* with a contextually relevant term such as *primary, main, original, parent, initiator, driver, controller, manager, mixer, aggregator, publisher, leader*, or *active*. Use *primary/secondary, primary/subordinate, principal/agent* or other relevant terms instead of *master/slave*.
+Avoid using whenever possible. Instead, replace *master* with a contextually relevant term such as *primary, main, original, parent, initiator, driver, controller, manager, mixer, aggregator, publisher, leader*, or *active*. Use *primary/secondary, primary/subordinate, principal/agent* or other relevant terms instead of *master/slave*.
 
 For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
 
