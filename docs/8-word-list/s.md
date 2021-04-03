@@ -2,12 +2,25 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## save
 ## screenshot
+## screen resolution
+
+See [resolution]().
+
+## scroll
+## scroll bar
+## SDK
+## search
+## search and replace
 ## see
 ## select
+## set
 ## setup, set up
 ## SFTP
+## shaded
 ## shell
+## shortcut
 ## should
 
 
@@ -28,10 +41,14 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 
 ## sign-on, sign on
 ## simple, simply
+## site
 ## since
 ## slave
 
 Avoid using whenever possible.
+
+
+
 
 See [master, master/slave]().
 
