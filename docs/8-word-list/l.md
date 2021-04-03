@@ -185,13 +185,13 @@ Don't use *log on, logon, log off, logoff, log out from*.
 [warning] **Not recommended:** After saving your changes, log out the administrator dashboard. [/warning]  
 [tip] **Recommended:** After saving your changes, log out of the administrator dashboard. [/tip]  
 
-See also [sign in, sign-in](https://make.wordpress.org/docs/style-guide/word-list/s/#sign-in-sign-in).
+See also [sign in, sign-in, sign out](https://make.wordpress.org/docs/style-guide/word-list/s/#sign-in-sign-in-sign-out).
 
 ## log on, log off
 
 Don’t use. Instead, use *log in* and *log out*.
 
-See also [login, log in, logout, log out](#login-log-in-logout-log-out), [sign in, sign-in](https://make.wordpress.org/docs/style-guide/word-list/s/#sign-in-sign-in).
+See also [login, log in, logout, log out](#login-log-in-logout-log-out), [sign in, sign-in, sign out](https://make.wordpress.org/docs/style-guide/word-list/s/#sign-in-sign-in-sign-out).
 
 ## long press
 
