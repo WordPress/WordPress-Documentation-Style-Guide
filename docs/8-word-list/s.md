@@ -8,14 +8,20 @@ asg
 ## screenshot
 
 
-See also [photo]().
+See also [photo](https://make.wordpress.org/docs/style-guide/word-list/p/#photo).
+
 ## screen resolution
 
-See [resolution]().
+See [resolution](https://make.wordpress.org/docs/style-guide/word-list/r/#resolution).
 
 ## scroll
 ## scroll bar
 ## SDK
+
+Acronym for *Software Development Kit*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## search
 ## search and replace
 ## see
@@ -41,7 +47,7 @@ One word. Not *short cut* or *short-cut*.
 
 
 
-See also [must]().
+See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 
 ## shut down, shutdown
 
@@ -68,7 +74,7 @@ Avoid using whenever possible.
 
 
 
-See [master, master/slave]().
+See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list/m/#master-masterslave).
 
 ## sleep
 
@@ -98,7 +104,7 @@ It's OK to use lowercase in developer documentation, such as commands.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-See also [MySQL]().
+See also [MySQL](https://make.wordpress.org/docs/style-guide/word-list/m/#mysql).
 
 ## SSH
 
@@ -116,6 +122,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## standalone
 
 It's OK to use *standalone* as an adjective. Don't use as a noun.
+
 ## start, restart
 
 
@@ -128,7 +135,7 @@ Don't use *stop* to mean *exit a program or application*.
 
 Use *stop responding* when a program encounters a problem and can't close itself. Use *close* to describe the action a program takes to close itself when it has encountered a problem and can't continue.
 
-For more information, see [Interaction verbs](ui-elements.md).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 ## storage, storage device
 
@@ -140,7 +147,7 @@ See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memor
 
 
 
-See also [CSS]().
+See also [CSS](https://make.wordpress.org/docs/style-guide/word-list/c/#css).
 
 ## sub-
 ## subclass
@@ -149,7 +156,7 @@ See also [CSS]().
 
 
 
-See also [like]().
+See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like).
 
 ## super-
 ## surf
@@ -183,7 +190,10 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 ## sync
 ## Syndication
 
-See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
+
+
+
+See also [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
 
 ## system
 asg
