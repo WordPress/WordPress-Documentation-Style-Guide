@@ -78,7 +78,11 @@ See also [shut down, shutdown](#shut-down-shutdown).
 ## smartphone
 ## SQL
 
+Initialism for *Structured Query Language*. Use uppercase.
 
+It's OK to use lowercase in developer documentation, such as commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [MySQL]().
 
@@ -127,10 +131,27 @@ See also [CSS]().
 
 
 See also [like]().
+
 ## super-
 ## surf
+## SVG
+
+Acronym for *Scalable Vector Graphics*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *SVG file* rather than *.svg file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## SVN
+
+Shortened abbreviation for *Subversion*. Use uppercase.
+
+It's OK to use lowercase in developer documentation, such as commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## swipe
+
 
 
 See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick).
