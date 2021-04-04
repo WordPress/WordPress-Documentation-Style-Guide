@@ -22,6 +22,8 @@ Initialism for *Resource Description Framework*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+See also [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
+
 ## re-
 
 In general, don't hyphenate words beginning with *re-* such as *reinstall* and *reenter* unless *re-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
