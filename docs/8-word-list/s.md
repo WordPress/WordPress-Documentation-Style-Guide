@@ -24,6 +24,13 @@ See [resolution]().
 ## set
 ## setup, set up
 ## SFTP
+
+Initialism for *Simple File Transfer Protocol*. Use uppercase.
+
+It's OK to use lowercase in developer documentation, such as commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## shaded
 ## shell
 ## shortcut
@@ -72,6 +79,13 @@ See also [shut down, shutdown](#shut-down-shutdown).
 ## slider
 ## slug
 ## SMTP
+
+Initialism for *Simple Mail Transfer Protocol*. Use uppercase.
+
+It's OK to use lowercase in developer documentation, such as commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## sorry
 ## spam
 ## spin box
@@ -94,6 +108,11 @@ See also [MySQL]().
 OK to use lowercase in developer documentation, such as commands.
 
 ## SSL
+
+Acronym for *Secure Socket Layer*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## standalone
 
 It's OK to use *standalone* as an adjective. Don't use as a noun.
