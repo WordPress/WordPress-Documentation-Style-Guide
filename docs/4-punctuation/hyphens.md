@@ -39,10 +39,10 @@ In compound words that precede and modify a noun as a unit, don't hyphenate:
   **Examples**<br>
   - very high capacity  
   - very fast storage  
-- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).   
+- Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).  
   **Examples**<br>
-  - highly intensive processing
-  - readily available source code
+  - highly intensive processing  
+  - readily available source code  
 
 ## Compound words
 
