@@ -1,6 +1,6 @@
 # Direct and indirect speech
 
-[info] **Highlight:** In general, use indirect speech. [/info]
+[info] **Highlight:** In general, use indirect speech. [/info]  
 
 In documentation, sometimes you have to convey what someone has expressed from a previous conversation, to the reader. This can be done in two methods, direct speech or indirect speech. In general, use indirect speech so that readers don't have to distinguish between speakers and their quotes.
 
@@ -11,8 +11,8 @@ In direct speech, the speaker's words are directly quoted word-to-word without a
 **Examples**  
 
 **Developer's expression:** This API is the newest version.  
-**Direct speech:** The developer said, "This API is the newest version."
-**Direct speech:** "This API," the developer said, "is the newest version."
+**Direct speech:** The developer said, "This API is the newest version."  
+**Direct speech:** "This API," the developer said, "is the newest version."  
 
 Avoid using direct speech by breaking up information about who is speaking. This impedes the understanding of the reader.
 
@@ -24,4 +24,4 @@ In indirect or reported speech, the speaker's words are reported by paraphrasing
 
 **Developer's expression:** This API is the newest version.  
 **Indirect speech (summarized):** The developer *said* that this API is the newest version.  
-**Indirect speech (paraphrased):** The developer *asserted* that this API is the newest version.
+**Indirect speech (paraphrased):** The developer *asserted* that this API is the newest version.  

@@ -1,6 +1,6 @@
 # Plurals
 
-[info] **Highlight:** Pluralize a singular noun by adding *-s* at the end. [/info]
+[info] **Highlight:** Pluralize a singular noun by adding *-s* at the end. [/info]  
 
 ## Plurals and nouns
 
@@ -31,8 +31,7 @@ For additional information, see [Abbreviations](https://make.wordpress.org/docs/
 
 Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
 [tip] **Recommended:** Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
@@ -41,17 +40,13 @@ Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe
 Don't put optional plurals in parentheses, rather use either the plural or singular form of the word. Determine a word form that is most appropriate for your documentation and stay consistent with its usage. If it is essential to indicate both, use *one or more*.
 Avoid adding *(s)* to indicate the plural form of a variable. Use the plural form of its unit instead.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** To see your existing post(s), go to the Posts page. [/warning]  
-[tip] **Recommended:** To see your existing posts, go to the Posts page. [/tip]
-
+[tip] **Recommended:** To see your existing posts, go to the Posts page. [/tip]  
 [warning] **Not recommended:** You can categorize your post with tag(s). [/warning]  
-[tip] **Recommended:** You can categorize your post with one or more tags. [/tip]
-[tip] **Recommended:** You can categorize your post with multiple tags. [/tip]
-
+[tip] **Recommended:** You can categorize your post with one or more tags. [/tip]  
+[tip] **Recommended:** You can categorize your post with multiple tags. [/tip]  
 [warning] **Not recommended:** Making changes to the code while running the server could cause error(s) in your database(s). [/warning]  
-[tip] **Recommended:** Making changes to the code while running the server could cause errors in your databases. [/tip]
-
+[tip] **Recommended:** Making changes to the code while running the server could cause errors in your databases. [/tip]  
 [warning] **Not recommended:** The function will execute in *x* minute(s). [/warning]  
-[tip] **Recommended:** The function will execute in *x* minutes. [/tip]
+[tip] **Recommended:** The function will execute in *x* minutes. [/tip]  

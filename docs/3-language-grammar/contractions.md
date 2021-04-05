@@ -1,6 +1,6 @@
 # Contractions
 
-[info] **Highlight:** In most cases, using contractions is completely acceptable, but be watchful of some exceptions. [/info]
+[info] **Highlight:** In most cases, using contractions is completely acceptable, but be watchful of some exceptions. [/info]  
 
 A contraction is a shortened form of a word, syllable, or a combination of words that is often used instead of the full form in spoken English. Generally, the letters omitted by contractions are indicated with an apostrophe ( *'* ).  Contractions are commonly used in colloquial and informal settings.
 
@@ -24,10 +24,8 @@ As WordPress documentation makes use of a colloquial tone, you can utilize contr
 Don't use contractions formed with nouns and verbs. Contractions formed with nouns and verbs are generally complex and uncommon words.  
 
 **Examples**  
-
-[warning] **Not recommended:** Gutenberg's using a new, refreshed UI.  [/warning]  
-[tip] **Recommended:** Gutenberg is using a new, refreshed UI. [/tip]
-
+[warning] **Not recommended:** Gutenberg's using a new, refreshed UI. [/warning]  
+[tip] **Recommended:** Gutenberg is using a new, refreshed UI. [/tip]  
 [warning] **Not recommended:** These formats've proven to be highly beneficial. [/warning]  
 [tip] **Recommended:** These formats have proven to be highly beneficial. [/tip]  
 

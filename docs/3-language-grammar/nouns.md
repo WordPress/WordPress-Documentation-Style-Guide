@@ -1,6 +1,6 @@
 # Nouns
 
-[info] **Highlight:** Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs. [/info]
+[info] **Highlight:** Capitalize proper nouns. Don't use verbs as nouns or nouns as verbs. [/info]  
 
 A noun is a word used to identify people, places, or things (common noun), or particular person, place, or thing (proper noun).
 
@@ -28,10 +28,8 @@ Common nouns include most product categories, devices, features, and technology 
 Don't use verbs as nouns or nouns as verbs.
 
 **Examples**  
-
 [warning] **Not recommended:** Get the download. [/warning]  
 [tip] **Recommended:** Download the document. [/tip]  
-
 [warning] **Not recommended:** Calculate the estimate. [/warning]  
 [tip] **Recommended:** Calculate the estimation. [/tip]  
 
