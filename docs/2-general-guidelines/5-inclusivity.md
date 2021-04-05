@@ -1,6 +1,6 @@
 # Writing inclusive documentation
 
-[info] **Highlight:** Write documentation using inclusive language, word choice, and examples. [/info]
+[info] **Highlight:** Write documentation using inclusive language, word choice, and examples. [/info]  
 
 The WordPress community is welcoming and inclusive. Write WordPress documentation considering inclusivity of people of all demographics.
 
@@ -22,10 +22,8 @@ While writing unbiased documentation:
 Various words that are deemed to be non-inclusive are often used in documentation. If replacing those terms causes confusion for readers, you can refer to the non-inclusive term in parentheses in the first use, and subsequently use the inclusive term throughout the rest of the document.
 
 **Examples**  
-
 [tip] **Recommended:** If `disallowed_keys` (sometimes called as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
 [tip] **Recommended:** If `disallowed_keys` (previously known as `blacklist_keys`) exists in the database, the stored value will be returned. [/tip]  
-
 [tip] **Recommended:** The comment blocklist (sometimes called a *blacklist*) shows blocked and spam comments. Comments that are not on the blocklist are published. [/tip]  
 
 | **Recommended** | **Not Recommended** |
@@ -42,10 +40,8 @@ Various words that are deemed to be non-inclusive are often used in documentatio
 Be thoughtful of word choice - particularly slang and ableist language. Don't use slang, violent and derogatory language such as *dumbass* and *bitch*.
 
 **Examples**  
-
 [warning] **Not recommended:** Gutenberg is damn useful stuff. [/warning]  
 [tip] **Recommended:** Gutenberg is a versatile editor. [/tip]  
-
 [warning] **Not recommended:** Only morons use this API. [/warning]  
 [tip] **Recommended:** Using this API is not advised. [/tip]  
 

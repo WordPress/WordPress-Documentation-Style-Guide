@@ -1,6 +1,6 @@
 # External sources
 
-[info] **Highlight:** Write using your own words. Don't copy content from external sources because it might infringe copyright. [/info]
+[info] **Highlight:** Write using your own words. Don't copy content from external sources because it might infringe copyright. [/info]  
 
 Don't copy content from external sources because it might infringe copyright. Instead, paraphrase and link to their content. The types of content that may be copyrighted, include and are not limited to:
 - Text
@@ -9,7 +9,6 @@ Don't copy content from external sources because it might infringe copyright. In
 - Logos and trademarks
 
 **Examples**  
-
 [warning] **Not recommended:** Extensible Markup Language-Remote Procedure Call (XML-RPC): "XML-RPC is a remote procedure call (RPC) protocol which uses XML to encode its calls and HTTP as a transport mechanism" (https://wikipedia.org/wiki/XML-RPC). [/warning]  
 [tip] **Recommended:** [Extensible Markup Language-Remote Procedure Call (XML-RPC)](https://wikipedia.org/wiki/XML-RPC) is a remote procedure call (RPC) protocol that allows a user or developer to send a request, formatted in XML, to an external application. [/tip]  
 

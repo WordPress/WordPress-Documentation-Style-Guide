@@ -1,6 +1,6 @@
 # Facts and claims
 
-[info] **Highlight:** Avoid making excessive claims about WordPress' products and services. Don't document or attempt to predict WordPress' future features, products, or services. [/info]
+[info] **Highlight:** Avoid making excessive claims about WordPress' products and services. Don't document or attempt to predict WordPress' future features, products, or services. [/info]  
 
 ## Avoid excessive claims
 
