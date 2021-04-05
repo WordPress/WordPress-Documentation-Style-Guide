@@ -1,6 +1,6 @@
 # Word choice
 
-[info] **Highlight:** Use common and simple technical terms that can be understood by the majority of readers. [/info]
+[info] **Highlight:** Use common and simple technical terms that can be understood by the majority of readers. [/info]  
 
 Choose words that enhance readability and increase simplicity in your documentation.  
 For more information about writing simple, easy-to-understand documentation, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
@@ -10,10 +10,9 @@ For more information about writing simple, easy-to-understand documentation, see
 In general, use American (US) English. When the spelling of English words differ by locale, use the US spelling.
 If you're doubtful of a particular word, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** British/Commonwealth English: aluminium, analyse, centre, colour, licence, programme, realise. [/warning]  
-[tip] **Recommended:** American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]
+[tip] **Recommended:** American (US) English: aluminum, analyze, center, color, license, program, realize. [/tip]  
 
 For an overview of locale-wise English spellings, refer the [Spelling section of Wikipedia's Manual of Style](https://wikipedia.org/wiki/Wikipedia:Manual_of_Style/Spelling).
 
@@ -46,11 +45,9 @@ Common words are known for their standard definitions that are regularly used, a
 Don't create new ways to describe an existing word.   
 
 **Examples**  
-
-[warning] **Not recommended:** Don't use *data unearthing* or *data excavating* as an alternative for data mining.  [/warning]  
-
+[warning] **Not recommended:** Don't use *data unearthing* or *data excavating* as an alternative for data mining. [/warning]  
 [warning] **Not recommended:** The *Gutenberger* blocks are feature-packed. [/warning]  
-[tip] **Recommended:** The blocks in Gutenberg are feature-packed. [/tip]
+[tip] **Recommended:** The blocks in Gutenberg are feature-packed. [/tip]  
 
 Similarly, don't employ a totally different meaning to an existing, common word. For example, don't use *dictation* to mean command.
 If you have to use a word in a definition that is different from its widely used meaning, explain it with context.

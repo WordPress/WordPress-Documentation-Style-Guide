@@ -1,6 +1,6 @@
 # Apostrophes
 
-[info] **Highlight:** Use straight apostrophes. [/info]
+[info] **Highlight:** Use straight apostrophes. [/info]  
 
 Use straight apostrophes, the same character as a single quotation mark ('). It is completely fine to use straight apostrophes in code snippets.
 
@@ -20,15 +20,13 @@ For more information, see [Contractions](https://make.wordpress.org/docs/style-g
 
 Don't use apostrophes to form plurals of nouns and abbreviations.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** *page's, FAQ's* [/warning]  
 [tip] **Recommended:** *pages, FAQs* [/tip]  
 
 To pluralize a number, add an *-s* at the end without any apostrophe.
 
 **Examples**  
-
 [tip] **Recommended:** The 2000s [/tip]  
 [tip] **Recommended:** Type five 7s. [/tip]  
 
@@ -36,8 +34,7 @@ Don't add an apostrophe and *s* in abbreviations of measurements to indicate plu
 
 Avoid pluralizing symbols, signs, and individual letters by adding an apostrophe and an *s* at the end.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Invalid characters include x's, $'s, @'s, and #'s. [/warning]  
 [tip] **Recommended:** Invalid characters include the letter *x* and the symbols $, @, and #. [/tip]  
 
@@ -61,14 +58,13 @@ Use an apostrophe to form the possessive case of nouns. To form the possessive c
 - Jones' programs
 
 **Exception:** If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.  
-**Exception:** The possessive of *it* is *its* and doesn't have an apostrophe. Be wary of common mistakes such as confusing *you're* (a contraction for *you are*) with *your*, and *its* with *it's* (a contraction for *it is*).
+**Exception:** The possessive of *it* is *its* and doesn't have an apostrophe. Be wary of common mistakes such as confusing *you're* (a contraction for *you are*) with *your*, and *its* with *it's* (a contraction for *it is*).  
 
 Don't use an apostrophe with possessive pronouns.  
 
 **Examples**  
-
 [warning] **Not recommended:** The website is your's. [/warning]  
-[tip] **Recommended:** The website is yours. [/tip]
+[tip] **Recommended:** The website is yours. [/tip]  
 
 Add an apostrophe and *s* to the end of a company, product, or brand name. In general, avoid forming possessives of company, product or brand names, regardless of who owns the name.  
 

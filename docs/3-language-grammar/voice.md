@@ -1,6 +1,6 @@
 # Voice
 
-[info] **Highlight:** In general, use active voice rather than passive voice. [/info]
+[info] **Highlight:** In general, use active voice rather than passive voice. [/info]  
 
 In general, use active voice rather than passive voice.
 - When the subject (person or thing) of a sentence is performing the action, the sentence uses active voice.
@@ -9,12 +9,10 @@ In general, use active voice rather than passive voice.
 Active voice is more effective than passive voice and reduces the word count of a sentence. In sentences using passive voice, it may be difficult inferring who or what the subject is.
 
 **Examples**  
-
 [warning] **Not recommended:** A new post is created, and is shown on the blog page. [/warning]  
-[tip] **Recommended:** Create a new post. You can see it on the blog page. [/tip]
-
+[tip] **Recommended:** Create a new post. You can see it on the blog page. [/tip]  
 [warning] **Not recommended:** A paragraph block gets added to your page. [/warning]  
-[tip] **Recommended:** Add a paragraph block to your page. [/tip]
+[tip] **Recommended:** Add a paragraph block to your page. [/tip]  
 
 Sometimes passive voice may be more appropriate for a sentence. Be careful not change the meaning of a sentence while rewriting it from active voice to passive voice.
 
@@ -27,12 +25,8 @@ Passive voice can be used when:
 - You want to emphasize objects/actions in a heading or title.
 
 **Examples**  
-
 [warning] **Not recommended:** You have caused an error. [/warning]  
-[tip] **Recommended:** An error has occurred. [/tip]
-
-[tip] **Recommended:** The file is saved. [/tip]
-
-[tip] **Recommended:** The backup was created.  [/tip]
-
-[tip] **Recommended:** Error 404 - Site not found. [/tip]
+[tip] **Recommended:** An error has occurred. [/tip]  
+[tip] **Recommended:** The file is saved. [/tip]  
+[tip] **Recommended:** The backup was created. [/tip]  
+[tip] **Recommended:** Error 404 - Site not found. [/tip]  
