@@ -1,6 +1,6 @@
 # Highlights
 
-[info] **Highlight:** An overview of some of the highlights of the Style Guide. [/info]
+[info] **Highlight:** An overview of some of the highlights of the Style Guide. [/info]  
 
 This page provides a synopsis of the WordPress Style Guide.
 

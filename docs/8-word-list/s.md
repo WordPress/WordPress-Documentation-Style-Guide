@@ -108,10 +108,17 @@ See also [MySQL](https://make.wordpress.org/docs/style-guide/word-list/m/#mysql)
 
 ## SSH
 
+Initialism for *Secure Shell*. Use uppercase.
 
+It's OK to use lowercase in developer documentation, such as commands.
 
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-OK to use lowercase in developer documentation, such as commands.
+Don't use *ssh* as a verb.
+
+**Examples**  
+[warning] **Not recommended:**  [/warning]
+[tip] **Recommended:**  [/tip]  
 
 ## SSL
 
@@ -190,10 +197,7 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 ## sync
 ## Syndication
 
-
-
-
-See also [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
+See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
 
 ## system
 asg

@@ -1,6 +1,6 @@
 # Capitalization
 
-[info] **Highlight:** Follow standard American (US) English capitalization rules. In general, use sentence case capitalization. [/info]
+[info] **Highlight:** Follow standard American (US) English capitalization rules. In general, use sentence case capitalization. [/info]  
 
 WordPress follows American (US) English capitalization rules. In general, sentence-case capitalization is used. Sentence case capitalization means capitalizing the first word of a sentence or a phrase and the proper nouns.
 
@@ -42,6 +42,7 @@ Use sentence case for tables, lists and all their elements.
 Capitalize text after a colon if they are headings, titles, proper nouns, official terminology, and quotations. Use lowercase if the text following the colon is exclusive of this criteria.  
 
 **Examples**  
+
 - Directory structure: Home
 - Block Editor: Making a Block
 - Our founder: John D.
@@ -59,6 +60,7 @@ Capitalize terms using sentence case. Capitalize labels, captions, and other sup
 For words using a slash, capitalize the word after the slash if the word before it is capitalized.  
 
 **Examples**  
+
 - *Region/Location*
 - *Press the On/Off switch.*
 
