@@ -1,6 +1,6 @@
 # Pronouns
 
-[info] **Highlight:** Ensure that a pronoun clearly refers to its antecedent. [/info]
+[info] **Highlight:** Ensure that a pronoun clearly refers to its antecedent. [/info]  
 
 A pronoun is a word that is used as a substitute for a noun or a noun phrase, which are contextually understood. Pronouns are used so that a particular noun isn't repeatedly used.
 
@@ -22,9 +22,8 @@ Instead, use *they* as a gender-neutral pronoun.
 
 First try to rewrite the sentence—for example, by using the plural form, omitting the pronoun, replacing the pronoun with an article, or repeating the noun.
 
-**Examples**
-
-[warning] **Not recommended:** Contact the administrator using his or her email address. [/warning]  
+**Examples**  
+[warning] **Not recommended:** Contact the administrator using his or her email address. [/warning]
 [tip] **Recommended (Using the plural form):** Contact the administrator using their email address. [/tip]  
 [tip] **Recommended (Omitting the pronoun):** Contact the administrator by email address. [/tip]  
 [tip] **Recommended (Replacing pronoun with article):** Contact the administrator using an email address. [/tip]  
@@ -47,7 +46,6 @@ Be careful while using relative pronouns such as *who, that*, and *which*.
 *That* and *which* don't mean exactly the same thing and cannot be used interchangeably.
 
 **Examples**  
-
 [warning] **Not recommended:** The folder that is blue can be used. [/warning]  
 This sentence describes a specific blue folder that can be used. *That* introduces a restrictive clause and isn't preceded by a comma.
 

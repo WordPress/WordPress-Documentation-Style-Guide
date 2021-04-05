@@ -10,9 +10,9 @@ For example,
 In this particular example, the reader would have to read the entire sentence to interpret it. If the reader isn't using the *old API*, they can skip the instruction, if needed. Therefore, put conditional clauses before instructions (main clauses), rather than after them.
 
 **Examples**  
-[warning] **Not recommended:** Click **Install** if you want to install the plugin. [/warning]<br>
+[warning] **Not recommended:** Click **Install** if you want to install the plugin. [/warning]
 [tip] **Recommended:** To install the plugin, click **Install**. [/tip]  
-[warning] **Not recommended:** WordPress will need write access to the `.htaccess` file if you want to update it automatically. [/warning]
+[warning] **Not recommended:** WordPress will need write access to the `.htaccess` file if you want to update it automatically. [/warning]  
 [tip] **Recommended:** If you want WordPress to update the `.htaccess` file automatically, WordPress will need write access to the file. [/tip]  
-[warning]**Not recommended:** See https://wordpress.org/about/accessibility/ for more information on accessibility.[/warning]  
-[tip]**Recommended:** For more information on accessibility, see https://wordpress.org/about/accessibility/.[/tip]  
+[warning] **Not recommended:** See https://wordpress.org/about/accessibility/ for more information on accessibility.[/warning]  
+[tip] **Recommended:** For more information on accessibility, see https://wordpress.org/about/accessibility/.[/tip]  
