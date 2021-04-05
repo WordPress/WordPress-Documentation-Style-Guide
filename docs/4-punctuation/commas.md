@@ -1,13 +1,12 @@
 # Commas
 
-[info] **Highlight:** Use commas to separate items in a series, and to separate certain kinds of clauses. Use serial commas. [/info]
+[info] **Highlight:** Use commas to separate items in a series, and to separate certain kinds of clauses. Use serial commas. [/info]  
 
 ## Oxford/Serial commas
 
 Use the Oxford comma before the conjunction in a series of three or more items.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Ensure that your tone is succinct, natural and friendly towards the reader. [/warning]  
 [tip] **Recommended:** Ensure that your tone is succinct, natural, and friendly towards the reader. [/tip]  
 
@@ -15,8 +14,7 @@ Use the Oxford comma before the conjunction in a series of three or more items.
 
 Use a comma after an introductory word or phrase.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Ultimately this simplifies the reader's comprehension. [/warning]  
 [tip] **Recommended:** Ultimately, this simplifies the reader's comprehension. [/tip]  
 
@@ -24,48 +22,40 @@ Use a comma after an introductory word or phrase.
 
 Use a comma to join two independent clauses which are separated by a conjunction such as *and, or, nor, but, for, so, yet.* Insert the comma after the first clause, that is before the conjunction. Don't insert a comma if both the clauses are very short. Likewise, consider rewriting the sentence if it is long and complex.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Copy the file, and continue.[/warning]  
 [tip] **Recommended:** Copy the file and continue. [/tip]  
-
 [warning] **Not recommended:** Either download a theme suiting your needs or use one from the preinstalled themes. [/warning]  
 [tip] **Recommended:** Either download a theme suiting your needs, or use one that is preinstalled. [/tip]  
 
 [info] **Note:** Don't use a comma to join independent clauses when you don't use a conjunction. Use a [semicolon](https://make.wordpress.org/docs/style-guide/punctuation/semicolons/#semicolons-between-two-independent-clauses) instead. [/info]  
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Copy the file, then continue. [/warning]  
-[tip] **Recommended:** Copy the file; then continue. [/tip]
+[tip] **Recommended:** Copy the file; then continue. [/tip]  
 
 ## Commas separating independent from dependent clauses
 
 When an independent and dependent clause are separated by a coordinating conjunction, insert a comma *only if* the sentence could be misunderstood without one.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Pages can be password protected and can only be modified by administrators. [/warning]  
-[tip] **Recommended:** Pages can be password protected, and can only be modified by administrators. [/tip]
-
+[tip] **Recommended:** Pages can be password protected, and can only be modified by administrators. [/tip]  
 [warning] **Not recommended:** Permalinks are permanent URLs, and their structure can be changed. [/warning]  
-[tip] **Recommended:** Permalinks are permanent URLs and their structure can be changed. [/tip]
+[tip] **Recommended:** Permalinks are permanent URLs and their structure can be changed. [/tip]  
 
 ## Commas separating two or more adjectives in series
 
 Use a comma to separate two or more adjectives that precede a noun that is being described. Only insert a comma if the meaning of the adjectives doesn't change by separating the adjectives with *and* or reversing the order of them.
 
-**Examples**
-
+**Examples**  
 [tip] **Recommended:** Gutenberg is a new, intuitive block-editor. [/tip]  
-
 [warning] **Not recommended:** This is an enhanced, mobile UI. [/warning]  
 [tip] **Recommended:** This is an enhanced mobile UI. [/tip]  
 
 Rewrite sentences for a conversational style and tone if possible.
 
-**Examples**
-
+**Examples**  
 [tip] **Sometimes okay:** Write accessible, inclusive documentation. [/tip]  
 [tip] **Recommended:** Write documentation that is accessible and inclusive of all readers. [/tip]  
 
@@ -76,14 +66,11 @@ Generally, it is beneficial to use commas for setting off specific kinds of clau
 - Put a semicolon, period, or a dash before a conjunctive adverb such as *therefore, hence, besides, however*, and insert a comma after the adverb.
 - Don't use a comma before the causal conjunction *because* unless it is being used at the start of a nonrestrictive clause.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** Click the button which has a dropdown menu. [/warning]  
 [tip] **Recommended:** Click the button, which has a dropdown menu. [/tip]  
-
 [warning] **Not recommended:** Input the data in the field otherwise the program won't work. [/warning]  
 [tip] **Recommended:** Input the data in the field; otherwise, the program won't work. [/tip]  
-
 [warning] **Not recommended:** The command won't function, because it has been deprecated. [/warning]  
 [tip] **Recommended:** The command won't function because it has been deprecated. [/tip]  
 
@@ -91,11 +78,9 @@ Generally, it is beneficial to use commas for setting off specific kinds of clau
 
 Use a comma to separate the year when writing a complete date. Don't insert a comma between the month and year when a specific date isn't mentioned.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** This article was updated in September, 2020 by the author. [/warning]  
-[tip] **Recommended:** This article was updated in September 2020 by the author.  [/tip]  
-
+[tip] **Recommended:** This article was updated in September 2020 by the author. [/tip]  
 [warning] **Not recommended:** This article was updated on September 13 2020 by the author. [/warning]  
 [tip] **Recommended:** This article was updated on September 13, 2020, by the author.  [/tip]  
 
@@ -106,8 +91,7 @@ For more information about punctuating numbers, see [Numbers](https://make.wordp
 Don't insert a comma between verbs in a compound predicate. A compound predicate is when two or more verbs pertain to a single subject.
 In general, rewrite a compound predicate in two sentences, or add a subject for the second verb.
 
-**Examples**
-
+**Examples**  
 [warning] **Not recommended:** The application parses the data, and displays it in the terminal. [/warning]  
 [tip] **Recommended:** The application parses the data. Then it displays the data in the terminal. [/tip]  
 [tip] **Recommended:** The application parses the data, and then it displays the data in the terminal. [/tip]  
