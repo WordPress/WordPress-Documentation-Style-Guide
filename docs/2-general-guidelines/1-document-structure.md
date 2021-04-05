@@ -1,6 +1,6 @@
 # Document structure
 
-[info] **Highlight:** Follow a defined document structure throughout your documentation. [/info]
+[info] **Highlight:** Follow a defined document structure throughout your documentation. [/info]  
 
 - Don't write walls of text in your documentation. Follow a defined structure throughout your documentation.
 - Break up long pages of text into paragraphs, lists, and illustrations. Use proper heading hierarchy.

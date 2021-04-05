@@ -1,6 +1,6 @@
 # Writing documentation for an international audience
 
-[info] **Highlight:** Write documentation for a global audience considering translation. [/info]
+[info] **Highlight:** Write documentation for a global audience considering translation. [/info]  
 
 WordPress is a global project, with its developer community and users spanning the globe. Both developers and users speak a variety of languages. Approaching documentation from a global perspective helps the understanding of readers around the globe; while also increasing its reach.
 
