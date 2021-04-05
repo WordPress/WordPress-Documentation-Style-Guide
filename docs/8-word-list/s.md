@@ -114,11 +114,11 @@ It's OK to use lowercase in developer documentation, such as commands.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-Don't use *ssh* as a verb.
+Don't use *ssh* or *SSH* as a verb.
 
 **Examples**  
-[warning] **Not recommended:**  [/warning]
-[tip] **Recommended:**  [/tip]  
+[warning] **Not recommended:** SSH into your remote shell. [/warning]  
+[tip] **Recommended:** Use `ssh` to connect to your remote shell. [/tip]  
 
 ## SSL
 
@@ -152,7 +152,9 @@ See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memor
 
 ## style sheet
 
+Two words. Not *stylesheet* or *style-sheet*.
 
+This is the official spelling, per the World Wide Web Consortium (W3C).
 
 See also [CSS](https://make.wordpress.org/docs/style-guide/word-list/c/#css).
 
