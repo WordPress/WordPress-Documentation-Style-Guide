@@ -24,25 +24,15 @@ Use hyphenated compound modifiers before a noun. A compound modifier (also known
 
 Hyphenate two or more words that precede and modify the noun:
 - If one of the words is a past or present participle (a verb ending in *-ing* or *-ed* being used as an adjective or noun).  
-  **Examples**<br>
-  - well-formatted text  
-  - mind-stimulating blog  
-  - left-aligned paragraph  
+  - For example, *well-formatted text, mind-stimulating blog*, or *left-aligned paragraph*.
 - If the compound modifier is a number or a single letter with a noun or participle.  
-  **Examples**<br>
-  - three-pronged approach  
-  - Cartesian x-axis  
-  - 4-sided quadrilateral  
+  - For example, *three-pronged approach, Cartesian x-axis*, or *4-sided quadrilateral*.
 
 In compound words that precede and modify a noun as a unit, don't hyphenate:
 - The word *very* when it precedes another modifier.  
-  **Examples**<br>
-  - very high capacity  
-  - very fast storage  
+  - For example, *very high capacity* or *very fast storage*.
 - Adverbs ending in *-ly* when they precede another modifier. Don't hyphenate adverbs unless absolutely needed for clarity. If you're doubtful of a particular word being an adverb, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).  
-  **Examples**<br>
-  - highly intensive processing  
-  - readily available source code  
+  - For example, *highly intensive processing* or *readily available source code*.
 
 ## Compound words
 
