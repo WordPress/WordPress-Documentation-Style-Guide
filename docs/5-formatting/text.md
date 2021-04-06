@@ -16,19 +16,15 @@ Use bold formatting, `<b>` in HTML or `**` in Markdown for [UI elements](https:/
 Although a double underscore (`__`) can be used for bold formatting in Markdown, it can be difficult to distinguish in a text editor. Preferably, use double asterisks (`**`) for bold formatting in Markdown.  
 
 **Italic**  
-
 Use italic formatting, `<i>` in HTML or `_` in Markdown, when drawing attention to a specific word or phrase, such as when defining or introducing [key terms](https://make.wordpress.org/docs/style-guide/formatting/key-terms/) or using [words as words](https://make.wordpress.org/docs/style-guide/formatting/words-as-words/). You can also use a single asterisk (`*`) for italic formatting in Markdown.  
 
 **Underline**  
-
 Do not underline.
 
 **Strikethrough**  
-
-Do not strikethrough.
+Do not use strikethrough.
 
 **Code text**  
-
 Use `<code>` in HTML or ``` ` ``` in Markdown to apply a monospace font and other styling to [code in text](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/), inline code, and user input.
 
 Use `<pre>` in HTML or ` ``` ` in Markdown for [code examples](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/) or other blocks of code.
@@ -36,15 +32,12 @@ Use `<pre>` in HTML or ` ``` ` in Markdown for [code examples](https://make.word
 Do not override or modify font styles inline.
 
 **Quotation marks**  
-
 Use [quotation marks](https://make.wordpress.org/docs/style-guide/punctuation/quotation-marks/) in the American (US) English style.
 
 **Capitalization**  
-
 Use standard American (US) English [capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/) rules. Use sentence-case capitalization in [headings, titles, and other content](https://make.wordpress.org/docs/style-guide/formatting/headings/).
 
 **Font**
-
 Don't override global styles for font type, size, or color.
 
 ## Using type

@@ -34,7 +34,7 @@ To create multiple paragraphs, use the `<p>` element rather than using the `<br>
 | **Function** | **Type** | **Default value** | **Description** |
 |--------------|----------|-------------------|-----------------|
 | `anchor` | boolean | false | Lets you link directly to a specific block on a page. This property adds a field to define an id for the block and a button to copy the direct link. |
-| `defaultStylePicker` | boolean | true | When the style picker is shown, a dropdown is displayed so the user can select a default style for this block type. <p> If you prefer not to show the dropdown, set this property to false. |  
+| `defaultStylePicker` | boolean | true | When the style picker is shown, a dropdown is displayed so the user can select a default style for this block type. If you prefer not to show the dropdown, set this property to false. |  
 
 ## Introductory sentences
 
@@ -63,7 +63,6 @@ But if your document or article contains more than one table in close proximity 
 While referring to a table, refer to it by its number. For example, *Enter the values as shown in table 3.* Don't capitalize *table* unless it starts a sentence.
 
 **Example**  
-
 [tip] **Recommended:** Table 3. Block API reference [/tip]  
 
 For HTML tables, insert a caption using the [`<caption>` element](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element) as the first child of the `<table>` element.  
@@ -75,7 +74,7 @@ For HTML tables, insert a caption using the [`<caption>` element](https://html.s
   <caption><b>Table 3.</b> Block API reference</caption>
   ...
 </table>
-```
+```  
 
 ## Table formatting and content
 
