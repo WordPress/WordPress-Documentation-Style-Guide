@@ -17,7 +17,6 @@ While writing a generic domain name in an example, use example.com, example.org,
 For example email addresses, use one of the domains listed in [Example domain names](#example-domain-names).
 
 **Example**  
-
 [tip] **Recommended:** name@example.com [/tip]  
 
 ## Example person names
@@ -41,7 +40,6 @@ For phone number examples according to the [North American Numbering Plan](https
 For international phone number examples, use a US number from the same range and include the country and area codes. For more information about phone number formatting, see [Phone numbers](https://make.wordpress.org/docs/style-guide/formatting/phone-numbers/).
 
 **Examples**  
-
 [tip] **Recommended:** (800) 555-0139 [/tip]  
 [tip] **Recommended:** +1 800 555 0139 [/tip]  
 

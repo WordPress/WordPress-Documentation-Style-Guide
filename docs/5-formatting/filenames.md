@@ -13,11 +13,9 @@ If you're creating and naming new files where other files have a different namin
 For example, if the directory already has files named as `theme_1.php`, `theme_2.php`, and `theme_3.php`, it's acceptable to name the new file as `theme_4.php` instead of `theme-4.php`.
 
 **Examples**  
-
 [warning] **Not recommended:** `newcache.php`, `newCache.php`, `new-caché.php` [/warning]  
 [tip] **Recommended:** `new-cache.php` [/tip]  
 [tip] **Sometimes okay:** `new_cache.php` [/tip]  
-
 [warning] **Not recommended:** `wpsettings1.php`, `wpSettings1.php`, `WPSettings1.php`, `wp-settings1.php`, `wpsettings-1.php` [/warning]  
 [tip] **Recommended:** `wp-settings-1.php` [/tip]  
 [tip] **Sometimes okay:** `wp_settings_1.php` [/tip]  
@@ -34,8 +32,7 @@ While referring to a file, follow these guidelines:
 - Use the exact name of the file, even if it doesn't follow the [file naming guidelines](#naming-files).
 - If content from the file is included in the page, follow the [code example](https://make.wordpress.org/docs/style-guide/developer-content/code-examples/) guidelines and precede the code sample or content with an introductory statement that states the filename.
 
-**Examples**  
-
+**Example**  
 [tip] **Recommended:** In the following `styles.css` file, set the `opacity` to 0.75: [/tip]  
 
 ### File interactions
@@ -43,7 +40,6 @@ While referring to a file, follow these guidelines:
 While writing about file interactions, don't use the file types as a verb.
 
 **Examples**  
-
 [warning] **Not recommended:** Unzip the file. [/warning]  
 [warning] **Not recommended:** Unzip the zip file. [/warning]  
 [tip] **Recommended:** Extract the zip file. [/tip]  
@@ -53,10 +49,8 @@ While writing about file interactions, don't use the file types as a verb.
 Use the formal file type instead of the file extension while referring to file types. Many file types are expressed in uppercase, as they are acronyms or initialisms.
 
 **Examples**  
-
 [warning] **Not recommended:** a `.css` file [/warning]  
 [tip] **Recommended:** a CSS file [/tip]  
-
 [warning] **Not recommended:** a `.py` file [/warning]  
 [tip] **Recommended:** a Python file [/tip]  
 
