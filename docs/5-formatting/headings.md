@@ -11,50 +11,42 @@ In general, use consistent and descriptive headings and titles in any type of co
 - Use sentence case capitalization for headings and titles. For more information, see [Capitalization in titles and headings](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/#capitalization-in-titles-and-headings).
 - When using abbreviations in headings, spell out and declare the abbreviation in the succeeding body text. For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
 - Don't end headings with a period. Avoid using other punctuation at the end of headings unless absolutely necessary.  
-  **Examples**  
-
+  **Examples**<br>
   [tip] **Sometimes okay:** Still have questions? [/tip]  
-
 - Tag headings using heading elements. For HTML use `<h1>`, `<h2>`, and so on. In markdown use `#`, `##`, and so on.
-- Use proper heading hierarchy.
+- Use proper heading hierarchy.  
   - Use a level-1 heading for the page title or heading of the main content. A level-1 heading is built into heading styles in many web pages and site themes.
   - Don't skip the heading levels of the heading hierarchy.  
-    **Examples**  
-
+    **Examples**<br>
     [warning] **Not recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
     ### Absolute versus relative URLs
-    ```
+    ```  
     [/warning]  
-
     [tip] **Recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
     ## Absolute versus relative URLs
-    ```
+    ```  
     [/tip]  
-
   - Don't use empty headings or headings with no associated content.  
-    **Examples**  
-
+    **Examples**<br>
     [warning] **Not recommended:**  
     ```markdown
     # Design Decisions
     ## Absolute versus relative URLs
-    ```
+    ```  
     [/warning]  
-
     [tip] **Recommended:**  
     ```markdown
     # Design Decisions
     This page lists a number of important design decisions that come up frequently.
     ## Absolute versus relative URLs
-    ```
+    ```  
     [/tip]  
-
 - Use CSS to alter the style, formatting, or irregular heading hierarchy rather than altering the heading elements or creating new formatting. Ensure that heading markup is not used for presentational purposes.
 - Avoid using code items in headings when possible. If using a code item in a heading is absolutely necessary, add a descriptive noun to the item in code font. For more information, see [Keywords](https://make.wordpress.org/docs/style-guide/developer-content/code-in-text/#keywords).
 - Don’t add extra functionality inside a heading, like links or buttons.

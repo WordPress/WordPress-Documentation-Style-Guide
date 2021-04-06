@@ -8,8 +8,7 @@ Rather than using a footnote, you can use a [note](https://make.wordpress.org/do
 If there is no alternative than using a footnote, then use a symbol instead of a number. Use the symbols: *, †, ‡, §, ‖, ¶ - preferably in that order.
 
 **Examples**  
-
 [warning] **Not recommended:** The image needs to be high resolution.<sup>1</sup> [/warning]  
 [tip] **Recommended:** The image needs to be high resolution.*  
 
-*Footnote content at the end of the page. [/tip]
+*Footnote content at the end of the page. [/tip]  
