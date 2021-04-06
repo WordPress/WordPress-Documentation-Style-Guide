@@ -29,7 +29,6 @@ There are different types of text associated with images. Alt text is a concise 
 An image caption is a short description of the image. An image description is a textual explanation of the image which can be used to convey detailed descriptions than image captions. Figure captions are optional. When using the [`<figcaption>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figcaption-element), both the `<figcaption>` and `<img>` elements must be wrapped in the [`<figure>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figure-element) to ensure that the figure caption is properly associated with the image.
 
 **Examples**  
-
 [tip] **Recommended (HTML):**  
 ```html
 <figure id="wapuu">
@@ -46,7 +45,6 @@ An image caption is a short description of the image. An image description is a 
 ```  
 
 [/tip]  
-
 [tip] **Recommended (Markdown):**  
 ```markdown
 ![The WordPress mascot Wapuu.](/assets/images/wapuu.png){: width="70"}
@@ -110,7 +108,7 @@ When you must include text in figures and images, use the following guidelines:
 
 #### Accessibility resources
 
-For more information about image accessibility, see the following resources:
+For more information about image accessibility, see the following resources:  
 - [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/glance/)
 - [General text alternative guidelines from WCAG](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=111#text-alternatives)
 - [Using `alt` attributes for `img` elements](https://www.w3.org/WAI/WCAG21/Techniques/html/H37.html)

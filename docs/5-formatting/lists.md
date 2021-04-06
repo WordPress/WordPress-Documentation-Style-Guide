@@ -7,7 +7,7 @@ Lists are useful to present lengthy and complex content in a clear, well-structu
 For more information about procedural steps that provide instructions to achieve a particular task, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 [info] **Note:** Don't use a list to express just one item; a single item isn't really a list. If you want to distinguish a single item from other text, use a different type of formatting.  
-For additional information about whether lists or tables are ideal, see [Choosing between a list or a table](https://make.wordpress.org/docs/style-guide/formatting/tables/#choosing-between-a-list-or-a-table). [/info]
+For additional information about whether lists or tables are ideal, see [Choosing between a list or a table](https://make.wordpress.org/docs/style-guide/formatting/tables/#choosing-between-a-list-or-a-table). [/info]  
 
 ## Types of lists
 
@@ -16,9 +16,8 @@ For additional information about whether lists or tables are ideal, see [Choosin
 Use a bulleted list for items that don't need to appear in order or sequence and items that aren't options.
 
 **Example**  
-
 [tip] **Recommended:**  
-With this theme, you can do the following:
+With this theme, you can do the following:  
 - Customize the header and footer.
 - Modify the post format.
 - Add a custom site logo.  
@@ -30,7 +29,6 @@ With this theme, you can do the following:
 Use a numbered list for sequential items in order (such as a sequence of steps) or prioritized items (such as a countdown list).
 
 **Example**  
-
 [tip] **Recommended:**  
 To set up your development environment, follow these steps:  
 1. Download and install Node Version Manager (nvm).
@@ -48,7 +46,6 @@ For more information about nested procedures, see [Sub-steps in numbered procedu
 Use a lettered list to denote options to choose among. In many instances, a lettered list has mutually exclusive options.
 
 **Example**  
-
 [tip] **Recommended:**  
 Select a theme to install:
 A. Twenty Twenty-One
@@ -63,7 +60,6 @@ D. Twenty Eighteen
 Use a description list for listing down items with their descriptions, definitions, or explanations. A description list is generally used to emphasize multiple items with their descriptions (such as a glossary).
 
 **Example**  
-
 [tip] **Recommended:**  
 
 **Backlink**  
@@ -85,7 +81,6 @@ Domain Name System – how you assign a human readable address to a website’s 
 Use a bulleted description list with run-in headings for listing down items with their descriptions, definitions, or explanations where space is limited.
 
 **Example**  
-
 [tip] **Recommended:**  
 - **Backlink.** Incoming links to a web page.
 - **bbPress.** Free, open-source software built on top of WordPress for easily creating forums on sites.
@@ -101,7 +96,6 @@ A list item can contain more than one paragraph.
 To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. For more information on which uses of `<br>` are correct and which ones aren't, see the [HTML specification for `<br>`](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element).
 
 **Example**  
-
 [tip] **Recommended:**  
 To transfer files onto your site, you can do the following:  
 - Use the file manager provided in your host’s control panel.  
@@ -119,12 +113,9 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 For more information about punctuation and capitalization of lists, see [Capitalization and end punctuation](https://make.wordpress.org/docs/style-guide/formatting/lists/#capitalization-and-punctuation).
 
 **Examples**  
-
 [warning] **Not recommended:** To set up your development environment: [/warning]  
 [tip] **Recommended:** To set up your development environment, follow these steps: [/tip]  
 [tip] **Recommended:** Set up your development environment: [/tip]  
-
-
 [warning] **Not recommended:** The settings are: [/warning]  
 [tip] **Recommended:** The settings that can be changed are as follows: [/tip]  
 
@@ -138,7 +129,7 @@ For more information about sub-steps in numbered procedures, see [Procedures and
 
 In most contexts, capitalize each list item. End each list item with a period or corresponding sentence-ending punctuation.
 
-Don't add end punctuation in the following cases:
+Don't add end punctuation in the following cases:  
 - If the item consists of a single word or fewer than three words.
 - If the item doesn't include a verb.
 - If the item is entirely link text, a title, heading, subheading, or a string.
@@ -147,9 +138,8 @@ Don't add end punctuation in the following cases:
 [info] **Note:** These exceptions apply to individual list items, so it may happen that a list might have some items with end punctuation, and some without end punctuation. To avoid this, use a parallel syntax for all items such that all items either have or don't have end punctuation. [/info]  
 
 **Examples**  
-
 [tip] **Recommended:**  
-With this theme you can modify the following header values:
+With this theme you can modify the following header values:  
 - Length
 - Width
 - Color
@@ -158,7 +148,7 @@ With this theme you can modify the following header values:
 
 [/tip]  
 [tip] **Recommended:**  
-With this theme, you can do the following:
+With this theme, you can do the following:  
 - Customize the header and footer.
 - Modify the post format.
 - Add a custom site logo.
@@ -172,7 +162,6 @@ In some cases, an explanation for a list item may be useful, but this can affect
 Don't end the term with a period or other end punctuation, but do end the description with a period or relevant end punctuation.
 
 **Examples**  
-
 [warning] **Not recommended:**  
 Word reference:  
 - **Backlink**  
@@ -206,9 +195,8 @@ In most contexts, capitalize each list item. For the item descriptions, write te
 Don't use a dash or hyphen to set off an item description in a description list. For more information, see [Colons instead of dashes in lists](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#colons-instead-of-dashes-in-lists).
 
 **Examples**  
-
 [tip] **Recommended:**  
-Abbreviation glossary:
+Abbreviation glossary:  
 - **API:** Application Programming Interface
 - **FTP:** File Transfer Protocol
 - **CGI:** Common Gateway Interface
