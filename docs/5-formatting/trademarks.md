@@ -2,7 +2,7 @@
 
 [info] **Highlight:** Follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks. [/info]  
 
-For trademark marking or attribution in documentation, follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks. Categories include registered trademarks (®), trademarks (™), registered service marks (®), and service marks (SM).
+For trademark marking or attribution in documentation, follow the trademark, licensing, and citation guidelines provided by the owners of the respective marks. Categories include registered trademarks (®), trademarks (™), registered service marks (®), and service marks (℠).
 
 For additional information about WordPress trademarks, see the [Trademark Policy for WordPress](https://wordpressfoundation.org/trademark-policy/).
 

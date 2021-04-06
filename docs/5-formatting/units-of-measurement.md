@@ -7,7 +7,6 @@
 Insert a nonbreaking space between the number and a unit for most units of measurement. For more information about when to spell out units, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
 
 **Examples**  
-
 [warning] ****Not recommended:**** 16ft [/warning]  
 [tip] **Recommended:** 16`&nbsp;`ft [/tip]  
 [tip] **Recommended:** 75`&nbsp;`kg [/tip]  
@@ -16,7 +15,6 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 Don't use a space when the unit of measure is a percentage, money, or degrees of an angle.
 
 **Examples**  
-
 [tip] **Recommended:** 55% [/tip]  
 [tip] **Recommended:** $3000 [/tip]  
 [tip] **Recommended:** 130° [/tip]  
@@ -26,10 +24,8 @@ Don't use a space when the unit of measure is a percentage, money, or degrees of
 For a range of numbers that have units, repeat the unit for each number in the range. Units include abbreviations (such as *GB* for *Gigabytes*) and symbols (such as the degree symbol (°)), but not nouns like *file*.
 
 **Examples**  
-
 [warning] **Not recommended:** -10-33 °C  [/warning]  
 [tip] **Recommended:** -10 °C to 33 °C [/tip]  
-
 [warning] **Not recommended:** The recommended file size is 50 - 100 MB. [/warning]  
 [tip] **Recommended:** The recommended file size is 50 MB to 100 MB. [/tip]  
 
@@ -42,7 +38,6 @@ Use the word *per* instead of the division slash (/) while indicating rates. It'
 Shorten *per* to *p* only for well-established abbreviations such as *Gbps* for *Gigabits per second*.
 
 **Examples**  
-
 [warning] **Not recommended:** The server handles 90k transactions/hour. [/warning]  
 [tip] **Recommended:** The server handles 90k transactions per hour. [/tip]  
 
