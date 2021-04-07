@@ -7,7 +7,7 @@
 Insert a nonbreaking space between the number and a unit for most units of measurement. For more information about when to spell out units, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/#spelling-out-and-declaring-abbreviations).
 
 **Examples**  
-[warning] ****Not recommended:**** 16ft [/warning]  
+[warning] **Not recommended:** 16ft [/warning]  
 [tip] **Recommended:** 16`&nbsp;`ft [/tip]  
 [tip] **Recommended:** 75`&nbsp;`kg [/tip]  
 [tip] **Recommended:** 10`&nbsp;`GB [/tip]  

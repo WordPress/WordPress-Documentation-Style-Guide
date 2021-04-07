@@ -68,7 +68,6 @@ For IPv6 address ranges, use the following example:
 
 ## Example street addresses
 
-[review]  
 Use different locales and regions, and avoid using real street addresses in examples. Instead, use the following fictional street address:
 
 1000 99th Street<br />

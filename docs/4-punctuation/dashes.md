@@ -71,7 +71,6 @@ In contrast, for date ranges consisting of two dates and times, use an en dash w
 **Examples**  
 [tip] **Recommended:** 7:30 AM–9:15 AM 05/11/2020 (time range on a single day) [/tip]  
 [tip] **Recommended:** 7:30 AM 04/11/2020 – 9:15 AM 05/11/2020 (date and time range) [/tip]  
-
 For more information, refer [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
 
 ### Typing en dashes
