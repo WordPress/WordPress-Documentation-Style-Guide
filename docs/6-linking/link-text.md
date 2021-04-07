@@ -20,18 +20,14 @@ For more information about link text, see [Cross-references](https://make.wordpr
 - If you're referencing a link with an abbreviation, include both the spelled-out term or phrase and the abbreviation in the link text. For example, link to [WordPress Command Line Interface (WP-CLI)](https://make.wordpress.org/cli/), not [WordPress Command Line Interface](https://make.wordpress.org/cli/) (WP-CLI).
 
 **Examples**  
-
 [warning] **Not Recommended (HTML):** Click `<a href="">here</a>`. [/warning]  
 [warning] **Not Recommended (HTML):** Want more? Go to `<a href="">this page!</a>`. [/warning]  
 [tip] **Recommended (HTML):** For more information, see `<a href="">Word choice</a>`. [/tip]  
-
 [warning] **Not Recommended (Markdown):** Click `[here]()`. [/warning]  
 [warning] **Not Recommended (Markdown):** Want more? Go to `[this page!]()`. [/warning]  
 [tip] **Recommended (Markdown):** For more information, see `[Word choice]()`. [/tip]  
-
 [warning] **Not Recommended (HTML):** See trademark policy at `<a href="https://wordpressfoundation.org/trademark-policy/">https://wordpressfoundation.org/trademark-policy/</a>`. [/warning]  
 [tip] **Recommended (HTML):** For more information about WordPress trademarks, see the `<a href="https://wordpressfoundation.org/trademark-policy/">Trademark Policy for WordPress</a>`. [/tip]  
-
 [warning] **Not Recommended (Markdown):** See trademark policy at `[https://wordpressfoundation.org/trademark-policy/](https://wordpressfoundation.org/trademark-policy/)`. [/warning]  
 [tip] **Recommended (Markdown):** For additional information about WordPress trademarks, see the `[Trademark Policy for WordPress](https://wordpressfoundation.org/trademark-policy/)`. [/tip]  
 
@@ -40,9 +36,7 @@ For more information about link text, see [Cross-references](https://make.wordpr
 If you have punctuation immediately before or after a link, insert the punctuation outside the link tags where possible. For example, don't include sentence ending punctuation such as a period inside link text.
 
 **Examples**  
-
 [warning] **Not Recommended (HTML):** For the latest release announcements, see `<a href="https://wordpress.org/news/">News and Announcements.</a>` [/warning]  
 [tip] **Recommended (HTML):** For the latest release announcements, see `<a href="https://wordpress.org/news/">News and Announcements</a>`. [/tip]  
-
 [warning] **Not Recommended (Markdown):** For the latest release announcements, see `[News and Announcements.](https://wordpress.org/news/)` [/warning]  
 [tip] **Recommended (Markdown):** For the latest release announcements, see `[News and Announcements](https://wordpress.org/news/)`. [/tip]  

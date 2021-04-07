@@ -12,8 +12,8 @@ Insert the URL in the `src` attribute of the `<img>` element:
   src="/assets/images/wapuu.png"
   alt="The WordPress mascot Wapuu."
 />
-```
-{% Markdown %}
+```  
+{% Markdown %}  
 Insert the URL in parentheses after the image's alt text:
 ```markdown
 ![The WordPress mascot Wapuu.](/assets/images/wapuu.png)
