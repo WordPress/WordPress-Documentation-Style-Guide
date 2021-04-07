@@ -1,6 +1,6 @@
 # External links
 
-[alert] **Caution:** This page is currently under development. [/alert]
+[alert] **Caution:** This page is currently under development. [/alert]  
 
 [info] **Highlight:**  [/info]  
 
