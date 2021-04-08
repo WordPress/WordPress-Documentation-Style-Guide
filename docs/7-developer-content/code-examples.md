@@ -18,7 +18,6 @@ For more information about adding code blocks in the Gutenberg block editor, see
 For more information see [Coding standards](https://make.wordpress.org/docs/style-guide/developer-content/coding-standards/).
 
 **Example**  
-
 [tip] **Recommended:**  
 ```html
 <pre class="example">
@@ -27,8 +26,8 @@ function longSentence() {
     line.');
 }
 </pre>
-```
-This preformatted code example renders a code block with syntax highlighting as follows:
+```  
+This preformatted code example renders a code block with syntax highlighting as follows:  
 
 ```js
 function longSentence() {
@@ -45,7 +44,6 @@ In most cases, introduce a code example with an introductory sentence that initi
 The introductory sentence can end with a colon or a period. Use a period if the introductory content is extended, and a colon if the introductory statement is shorter and immediately precedes the code example. The text preceding the colon must distinctly stand alone as a complete sentence. That is, don't introduce a code example with a partial statement.
 
 **Examples**  
-
-[warning] **Not recommended** (ending with a colon): The following code example shows how to use the `post` method. For information on other methods, refer the [Code reference](https://developer.wordpress.org/reference/methods/): [Code example] [/warning]  
-[tip] **Recommended** (ending with a period): The following code example shows how to use the `post` method. For information on other methods, refer the [Code reference](https://developer.wordpress.org/reference/methods/). [Code example] [/tip]  
-[tip] **Recommended:** The following code example shows how to use the `post` method: [Code example] For information on other methods, see the [Code reference](https://developer.wordpress.org/reference/methods/).  [/tip]  
+[warning] **Not recommended (ending with a colon):** The following code example shows how to use the `post` method. For information on other methods, refer the [Code reference](https://developer.wordpress.org/reference/methods/): [Code example] [/warning]  
+[tip] **Recommended (ending with a period):** The following code example shows how to use the `post` method. For information on other methods, refer the [Code reference](https://developer.wordpress.org/reference/methods/). [Code example] [/tip]  
+[tip] **Recommended:** The following code example shows how to use the `post` method: [Code example] For information on other methods, see the [Code reference](https://developer.wordpress.org/reference/methods/). [/tip]  

@@ -9,7 +9,7 @@ This page explains how to format code in standard text sentences. For more infor
 ## Items to put in code font
 
 Use monospace code font while expressing the following items, which include but are not limited to:
--  Attribute names and values.
+- Attribute names and values.
 - Class names.
 - Command-line utility names.
 - Data types.
@@ -43,7 +43,6 @@ Use standard font while expressing the following items, which include but are no
 When you refer to a method name in text, omit the class name except where including it would prevent ambiguity. Insert empty parentheses at the end of the method name to indicate that it's a method.
 
 **Examples**  
-
 [warning] **Not recommended:** To delete a file or directory, call the `WP_Filesystem_ftpsockets::delete()` method. [/warning]  
 [tip] **Recommended:** To delete a file or directory, call the `delete()` method. [/tip]  
 
@@ -66,13 +65,10 @@ Formatting a command with multiple elements:
 Avoid using technical keywords as verbs or nouns. If you have to, don't change the word form of the keywords; don't make plurals from keywords, change tense, or convert them to possessive form. It's acceptable to use lowercase, plain text *string* in a general discussion of the `STRING` data type.
 
 **Examples**  
-
 [warning] **Not recommended:** `Decompress` the encoded body. [/warning]  
 [tip] **Recommended:** Decompress the encoded body by using a `decompress` request. [/tip]  
-
 [warning] **Not recommended:** Retrieve information by `get`ting the data. [/warning]  
 [tip] **Recommended:** To retrieve the data, send a `get` request. [/tip]  
-
 [warning] **Not recommended:** Before `patch()`ing, make sure your request is `post()`ed. [/warning]  
 [tip] **Recommended:** Send a `post()` request before calling a `patch()` request. [/tip]  
 
