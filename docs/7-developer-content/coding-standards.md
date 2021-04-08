@@ -13,6 +13,6 @@ The coding standard guides for WordPress are available in the [WordPress coding 
 - [JavaScript coding standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/javascript/)
 - [PHP coding standards](https://developer.wordpress.org/coding-standards/wordpress-coding-standards/php/)
 - [Inline documentation standards](https://developer.wordpress.org/coding-standards/inline-documentation-standards/)
-  - [JavaScript documentation standards](https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/)
   - [PHP documentation standards](https://developer.wordpress.org/coding-standards/inline-documentation-standards/php/)
+  - [JavaScript documentation standards](https://developer.wordpress.org/coding-standards/inline-documentation-standards/javascript/)
 - [Markdown style guide](https://developer.wordpress.org/coding-standards/styleguide/)
