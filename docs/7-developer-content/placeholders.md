@@ -16,11 +16,11 @@ When placeholder variables appear in a sentence, use the following formatting:
 - In HTML, enclose inline placeholders in `<code><var>` elements.
   ```html
   <code><var>PLACEHOLDER_VARIABLE</var></code>
-  ```
+  ```  
 - In Markdown, enclose inline placeholders in backticks (``` ` ```) and use an asterisk (`*`) before the first and second backtick.
   ```markdown
   *`PLACEHOLDER_VARIABLE`*
-  ```
+  ```  
 
 ### Placeholder variables in code blocks
 
@@ -44,9 +44,9 @@ Enclose the code block in a code fence. You cannot apply text formatting or high
 ```markdown
     ```
     *PLACEHOLDER_VARIABLE*
-    ```
+    ```  
 ```  
-{% end %}
+{% end %}  
 
 ### Placeholder variable text
 
@@ -66,7 +66,6 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developer.wordpress.org/<var>apiName</var>`  
 
 [/warning]  
-
 [tip] **Recommended:**  
 - `https://developers.google.com/<var>API_NAME</var>`
 - `https://developers.google.com/<var>POST_TITLE</var>`
@@ -83,17 +82,16 @@ For text in placeholder variables, use uppercase characters with underscore deli
 - `https://developer.wordpress.org/*apiName*`  
 
 [/warning]  
-
 [tip] **Recommended:**  
 - `https://developers.google.com/*API_NAME*`
 - `https://developers.google.com/*POST_TITLE*`
 
 [/tip]  
-{% end %}
+{% end %}  
 
 Don't use possessive pronouns in placeholder variables.
 
-**Examples**
+**Examples**  
 {% codetabs %}  
 {% HTML %}  
 
@@ -110,7 +108,7 @@ Don't use possessive pronouns in placeholder variables.
 - `https://developer.wordpress.org/*YOUR_API_NAME*`  
 
 [/warning]  
-{% end %}
+{% end %}  
 
 For more information about placeholder text in commands, see [Optional arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#optional-arguments), [Mutually exclusive arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#mutually-exclusive-arguments), and [Multiple value arguments](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#multiple-value-arguments).
 
@@ -127,7 +125,6 @@ Use the following order to describe placeholders:
 - Explain any output if required.
 
 **Example**  
-
 [tip] **Recommended:**  
 
 ```html
@@ -151,7 +148,6 @@ Use the following order to describe placeholders:
 When writing a single placeholder, replace <code><var>PLACEHOLDER</var></code> with *a description of what the placeholder represents.*
 
 **Example**  
-
 [tip] **Recommended:**  
 To delete an existing post, enter the following command:  
 
@@ -173,10 +169,9 @@ When there are two or more placeholders in code examples, commands, or other tex
 - Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
   ```html
   <li><code><var>PLACEHOLDER</var></code>: description</li>
-  ```
+  ```  
 
 **Example**  
-
 [tip] **Recommended:**  
 To edit an existing post, enter the following command:  
 
@@ -201,14 +196,13 @@ When you specify placeholders in output examples, use the following formatting:
 - Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
   ```html
   <li><code><var>PLACEHOLDER</var></code>: description</li>
-  ```
+  ```  
 
 For more information, see [Command output](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#command-output).
 
 **Example**  
-
 [tip] **Recommended:**  
-The output is similar to the following:
+The output is similar to the following:  
 
 <pre>
 {
