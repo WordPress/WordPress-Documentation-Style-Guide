@@ -45,7 +45,6 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 Don't use, especially in reference to people. Instead, use *intended for, looking for, focused on*, and *interacting with*. Instead of using *target file*, refer to the specific file or folder, or use *destination file* or *destination folder*.
 
 **Examples**  
-
 [warning] **Not recommended:** Move the files to the target folder. [/warning]  
 [tip] **Recommended:** Move the files to the `wp-contents` folder. [/tip]  
 
@@ -62,13 +61,11 @@ One *TB* equals 1000<sup>4</sup> bytes in the context of file size or storage ca
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 2 TB of storage [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 2 TB SSD [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -82,13 +79,11 @@ One *Tbit* equals 1000<sup>4</sup> bits in the context of file size or storage c
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 10 TBit of memory [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** 10 TBit switch [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -136,7 +131,6 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 Use to introduce a restrictive or defining clause; clauses beginning with *that* are generally not set off with commas.
 
 **Example**  
-
 [tip] **Recommended:** Gutenberg is the latest block editor that is widely used. [/tip]  
 
 Insert a noun after *that* for clarity, whenever possible. It is acceptable to omit the noun in UI, tables, or headings where space is limited. If you aren't sure what noun *that* refers to, then consider rephrasing.
@@ -266,13 +260,10 @@ One word. Not *track pad* or *track-pad*.
 Avoid using; instead, use a detailed and accurate term whenever possible.
 
 **Examples**  
-
 [warning] **Not recommended:** Traditionally, pages also do not make use of categories and tags like posts do. [/warning]  
 [tip] **Recommended:** Conventionally, pages also do not make use of categories and tags like posts do. [/tip]  
-
 [warning] **Not recommended:** If you want to use the theme for a traditional blog, the centered content column and considered typography makes it perfect for that as well. [/warning]  
 [tip] **Recommended:** If you want to use the theme for a straightforward blog, the centered content column and considered typography makes it perfect for that as well. [/tip]  
-
 [warning] **Not recommended:** Unlike a traditional system cron that schedules tasks for specific times, WP-Cron uses intervals to simulate a system cron. [/warning]  
 [tip] **Recommended:** Unlike a system cron that schedules tasks for specific times (e.g. “every hour at 5 minutes past the hour”), WP-Cron uses intervals to simulate a system cron. [/tip]  
 

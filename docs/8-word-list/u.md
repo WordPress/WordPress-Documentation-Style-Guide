@@ -7,7 +7,6 @@ Initialism for *User Interface*. Use uppercase.
 Don't use *UI* to generically refer to UI elements. Instead, use the specific UI element term.
 
 **Examples**  
-
 [warning] **Not recommended:** In the **Link** UI, enter your sitemap link. [/warning]  
 [tip] **Recommended:** In the **Link** box, enter your sitemap link.  [/tip]  
 
@@ -41,7 +40,6 @@ Use to describe a UI element such as a menu item, dropdown list option, or butto
 In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing their appearance. Also include how the user can enable it and interact with the element.
 
 **Examples**  
-
 [tip] **Recommended:** If the editor permissions are unavailable, contact your site administrator. [/tip]  
 [tip] **Recommended:** The **Update** button is unavailable unless you change the post contents. [/tip]  
 
@@ -54,7 +52,6 @@ See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimme
 Don't use to refer to the action of clearing a check mark from a checkbox. Instead, use *clear* for checkboxes, and *deselect* for other UI elements.
 
 **Examples**  
-
 [warning] **Not recommended:** Uncheck the **Crop thumbnail** checkbox. [/warning]  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
@@ -85,7 +82,6 @@ Don't use. Instead, use *remove* or *withdraw*.
 Don't use to refer to item menus or other UI elements.
 
 **Examples**  
-
 [warning] **Not recommended:** Under the **Text** menu, select **Encoding**. [/warning]  
 [tip] **Recommended:** In the **Text** menu, select **Encoding**. [/tip]  
 
@@ -100,7 +96,6 @@ Use as a verb to describe undoing any particular action.
 Don't use *undo* as a noun.
 
 **Examples**  
-
 [warning] **Not recommended:** After an undo, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/warning]  
 [tip] **Recommended:** After undoing an action, you can redo by pressing press <kbd>Ctrl+Y</kbd>. [/tip]  
 
@@ -117,7 +112,6 @@ Use as a verb to describe the action of removing programs, apps, other software,
 Don't use *uninstall* as a noun.
 
 **Examples**  
-
 [warning] **Not recommended:** After the uninstall of the program, restart your computer. [/warning]  
 [tip] **Recommended:** After uninstalling the program, restart your computer. [/tip]  
 
@@ -212,7 +206,6 @@ When using both *uppercase* and *lowercase* together as a noun or to modify a no
 Hyphenate as adjectives. Use instead of *top left* and *top right*.
 
 **Example**  
-
 [tip] **Recommended:** The upper-left corner [/tip]  
 
 In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
@@ -265,7 +258,6 @@ Initialism for *Universal Serial Bus*. Use uppercase.
 Don't spell out. Use only as an adjective.
 
 **Example**  
-
 [tip] **Recommended:** USB drive [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -275,7 +267,6 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 Use *you* when addressing the reader instead of *user*. If your documentation audience consists of users, avoid using this term. It is OK to use *user* in developer documentation and for a technical audience.
 
 **Examples**  
-
 [warning] **Not recommended:** The user can click the **Save** button to save changes. [/warning]  
 [tip] **Recommended:** You can click the **Save** button to save changes. [/tip]  
 
@@ -310,10 +301,8 @@ Don't use.
 Use with caution. Don't use *utilize* when you mean *use*. It's OK to use *utilize* or *utilization* when referring to the quantity of a resource being used.
 
 **Examples**  
-
 [warning] **Not recommended:** To select a template to display the page, utilize the query string. [/warning]  
 [tip] **Recommended:** To select a template to display the page, use the query string. [/tip]  
-
 [tip] **Recommended:** The program will resume execution when the CPU utilization falls under 90%. [/tip]  
 
 ## UX
