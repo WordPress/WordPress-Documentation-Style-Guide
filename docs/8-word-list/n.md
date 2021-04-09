@@ -73,7 +73,6 @@ In general, don't hyphenate words beginning with *non-* such as *nonstandard, no
 Don't use *non-* to negate an entire phrase.
 
 **Examples**  
-
 [warning] **Not recommended:** non-numbered steps or instructions [/warning]  
 [tip] **Recommended:** steps or instructions that are not numbered [/tip]  
 

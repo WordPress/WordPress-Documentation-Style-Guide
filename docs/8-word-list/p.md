@@ -73,13 +73,10 @@ Avoid using *per* in contexts other than rate units.
 Don't use *per* to mean *by* or *in accordance with*.
 
 **Examples**  
-
 [warning] **Not recommended:** transactions/hour [/warning]  
 [tip] **Recommended:** transactions per hour [/tip]  
-
 [warning] **Not recommended:** per the style guide [/warning]  
 [tip] **Recommended:** according to the style guide [/tip]  
-
 [warning] **Not recommended:** Replace the variable per instance. [/warning]  
 [tip] **Recommended:** Replace the variable for each instance. [/tip]  
 
@@ -156,7 +153,6 @@ Don't use *please* in standard contexts such as procedures, instructions, or tut
 Use *please* only when the user is asked to do something inconvenient, the application or site is to blame for the situation, or when there is an issue with the product.
 
 **Example**  
-
 [tip] **Recommended:** If the issue persists, please contact your administrator. [/tip]  
 
 For more information, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
@@ -192,7 +188,6 @@ Avoid using to describe filling out forms. Use with caution to describe populati
 Don't use in the context of describing people; instead, use *fill in*.
 
 **Examples**  
-
 [warning] **Not recommended:** After populating the form, submit it. [/warning]  
 [tip] **Recommended:** After filling out the form, submit it. [/tip]  
 [tip] **Recommended:** The SQL command populates the table with sample data. [/tip]  
@@ -202,7 +197,6 @@ Don't use in the context of describing people; instead, use *fill in*.
 Don’t use as a noun.
 
 **Examples**  
-
 [warning] **Not recommended:** A pop-up [/warning]  
 [tip] **Recommended:** A pop-up window [/tip]  
 

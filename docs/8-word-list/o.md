@@ -79,7 +79,6 @@ Use *onto* to refer to moving something to a position on top of something else.
 Use *on to* when *on* is part of the verb.
 
 **Examples**  
-
 [tip] **Recommended:** Drag the image onto the desktop. [/tip]  
 [tip] **Recommended:** Pass on to the next item. [/tip]  
 

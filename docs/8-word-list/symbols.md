@@ -27,7 +27,6 @@ For more information, see [Filenames](https://make.wordpress.org/docs/style-guid
 Always spell out *number* in *number sign*. Don't use *pound sign* or *number symbol*.
 
 **Examples**  
-
 [warning] **Not recommended:** #99 [/warning]  
 [tip] **Recommended:** number 99 [/tip]  
 
