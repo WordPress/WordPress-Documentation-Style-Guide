@@ -55,7 +55,6 @@ One word. Not *file system* or *file-system*.
 Use *fill in* when referring to entering information in individual fields. Use *fill out* when referring to completing an entire form.
 
 **Example**  
-
 [tip] **Recommended:** Fill out the contact form. Be sure to fill in the required fields. [/tip]  
 
 ## finalize
@@ -69,7 +68,6 @@ Use *find* and *replace* as separate verbs, not a single verb phrase such as *fi
 Don't use *find and replace* or *find-and-replace* as a noun or an adjective.
 
 **Examples**  
-
 [warning] **Not recommended:** Do a find and replace of the user ID. [/warning]  
 [tip] **Recommended:** Find the user ID and replace it with the username. [/tip]  
 
@@ -114,7 +112,6 @@ For more instructions, see [Procedures and instructions](https://make.wordpress.
 Use *following* as an adjective to introduce a table, list, or other content. If *following* is the last word before what it introduces, follow it with a colon.
 
 **Examples**  
-
 [tip] **Recommended:** The following table shows the Block API reference: [/tip]  
 [tip] **Recommended:** Do the following: [/tip]  
 
@@ -173,7 +170,6 @@ See also [stop, stop responding](https://make.wordpress.org/docs/style-guide/wor
 Use to indicate a specific place or time as a starting point.
 
 **Examples**  
-
 [tip] **Recommended:** The `$wpdb` object can be used to read data from any table in the WordPress database. [/tip]  
 [tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool. [/tip]  
 

@@ -15,13 +15,11 @@ One *GB* equals 1000<sup>3</sup> bytes in the context of file size or storage ca
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 256 GB of storage [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 16 GB hard drive [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -35,13 +33,11 @@ One *Gbit* equals 1000<sup>3</sup> bits in the context of file size or storage c
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 10 GBit of memory [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** 10 GBit memory [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -75,13 +71,11 @@ Initialism for *gigahertz*.
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** a rate of 5.0 GHz [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 5.0 GHz rate [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -159,20 +153,17 @@ See also [video card](https://make.wordpress.org/docs/style-guide/word-list/v/#v
 As a noun, use *graphic* or *graphics* to refer to one or more computer-generated images such as pictures and charts used for illustration or visual representation.
 
 **Example**  
-
 [tip] **Recommended:** Select the graphic you want to display. [/tip]  
 
 As an adjective, use *graphic* to refer to the field of visual art. Use *graphics* to refer to software or hardware used to generate computer-generated images such as pictures and charts.
 
 **Examples**  
-
 [tip] **Recommended:** The website implements intuitive graphic design. [/tip]  
 [tip] **Recommended:** This website uses the latest graphics software. [/tip]  
 
 Generally, use *graphical* as an adjective to refer to visual art.
 
 **Example**  
-
 [tip] **Recommended:** You can include a graphical representation, such as a picture or chart, on your website. [/tip]  
 
 ## graphics adapter, graphics card
