@@ -25,7 +25,6 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 Use instead of *wish* or *desire* when the user has alternatives or choices. Don't use when you mean *need*, which indicates a requirement or obligation.
 
 **Examples**  
-
 [tip] **Recommended:** If you want to change the color of the menu, go to **Appearance**. [/tip]  
 [tip] **Recommended:** Select **Add New** if you want to add a new post. [/tip]  
 
@@ -46,7 +45,6 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 Avoid using first person. Focus on the reader or user instead of making WordPress the subject. It is acceptable to use *we* if the content has multiple authors describing a collective action.
 
 **Examples**  
-
 [warning] **Not recommended:** We suggest using a desktop that has a 64-bit operating system. [/warning]  
 [warning] **Not recommended:** Let's use a desktop that has a 64-bit operating system. [/warning]  
 [tip] **Sometimes okay:** We recommend using a desktop that has a 64-bit operating system. [/tip]  
@@ -94,7 +92,6 @@ For more information about which action verbs to use for *website*, see [Interac
 Use to define the meaning of elements such as variables or symbols.
 
 **Example**  
-
 [tip] **Recommended:** Use the following formula to calculate the execution time, where: *n* = number of tasks, *t* = time taken to execute. [/tip]  
 
 ## which
@@ -102,7 +99,6 @@ Use to define the meaning of elements such as variables or symbols.
 Use only to introduce a nonrestrictive clause and initiate with a comma. Clauses beginning with *which* are always set off with commas.
 
 **Example**  
-
 [tip] **Recommended:** Gutenberg, which is the latest block editor, is a widely used plugin. [/tip]  
 
 See also [that](https://make.wordpress.org/docs/style-guide/word-list/t/#that).
@@ -134,7 +130,6 @@ Two words. In some cases *whitespace* is also used.
 Use *who* instead of *that* to introduce clauses referring to people. Generally, *who* is considered more polite than *that*.
 
 **Examples**  
-
 [warning] **Not recommended:** WordPress.com is for users that are looking for a complete hassle-free website solution. [/warning]  
 [tip] **Recommended:** WordPress.com is for users who are looking for a complete hassle-free website solution. [/tip]  
 
@@ -187,14 +182,12 @@ Don't use. Instead, use [want](#want).
 Don't use *with* when expressing ownership.
 
 **Examples**  
-
 [warning] **Not recommended:** A desktop with a 64-bit operating system. [/warning]  
 [tip] **Recommended:** A desktop that has a 64-bit operating system. [/tip]  
 
 Don't use *with* when expressing use.
 
 **Examples**  
-
 [warning] **Not recommended:** Extract the document with the file manager. [/warning]  
 [tip] **Recommended:** Use the file manager to extract the document. [/tip]  
 
