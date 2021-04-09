@@ -3,8 +3,15 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## save
+
+Use as a verb to describe saving files to a device or storage device.
+
 ## screen
-asg
+
+Use *screen* to refer to what the user looks at on a device.
+
+Don't use as a synonym for *display*.
+
 ## screenshot
 
 
@@ -202,4 +209,9 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
 
 ## system
-asg
+
+Don't use to refer to a *computer* by itself.
+
+**Examples**  
+[warning] **Not recommended:** Turn on your system. [/warning]  
+[tip] **Recommended:** Turn on your computer. [/tip]  
