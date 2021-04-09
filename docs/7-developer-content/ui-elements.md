@@ -60,7 +60,6 @@ Don't abbreviate the names of modifier keys such as Control, Shift, Command, and
 In most cases, to accommodate both Windows and Mac users, insert the Mac shortcut in parentheses after the Windows shortcut.
 
 **Examples**  
-
 [warning] **Not recommended:** To redo, press <kbd>Ctrl+Y</kbd> (<kbd>⌘+Y</kbd>). [/warning]  
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
@@ -86,7 +85,7 @@ There can be multiple elements in a user interface. [Emphasize the task](#emphas
 [tip] **Recommended:** Go to **Plugins > Installed Plugins**. [/tip]  
 [tip] **Recommended:** In the **Plugins** section, select **Installed Plugins**. [/tip]  
 
-Following are the terminology and word usage when referring to UI elements:
+Following are the terminology and word usage when referring to UI elements:  
 
 ### Window, page, dialog, and view
 
@@ -126,7 +125,6 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 A *button* is a UI element that performs or initiates a specified action when clicked or tapped. To refer to a button, use the form *the <code><var>LABEL_NAME</code></var> button.*
 
 **Examples**  
-
 [warning] **Not recommended:** Click the "Publish" button. [/warning]  
 [tip] **Recommended:** Click **Publish**. [/tip]  
 
