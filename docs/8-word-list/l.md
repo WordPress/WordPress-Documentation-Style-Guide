@@ -31,7 +31,6 @@ Avoid using in cross-references. Whenever possible, use a link for cross-referen
 Use *later* to refer to versions of software. Don't use *lower, higher, newer*, and *older*.
 
 **Examples**  
-
 [warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7 or higher. [/warning]  
 [warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7 or newer. [/warning]  
 [warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7+. [/warning]  
@@ -44,7 +43,6 @@ Don't use to describe products, functions, features, technologies, standards, up
 It's OK to use *latest* if you're instructing users to keep their software up to date.
 
 **Example**  
-
 [tip] **Recommended:** To use the newest features, make sure you're using the latest version of WordPress. [/tip]  
 
 See also [later](#later), [version, v.](https://make.wordpress.org/docs/style-guide/word-list/v/#version-v).
@@ -98,7 +96,6 @@ Don't use to describe a previous version of a product, function, feature, techno
 Don't use *let* or *lets* to refer to something that WordPress makes possible for the user. Instead, use a direct alternative describing what the user wants to do.
 
 **Examples**  
-
 [warning] **Not recommended:** Block patterns let you predefine block layouts. [/warning]  
 [tip] **Recommended:** You can predefine block layouts using block patterns. [/tip]  
 
@@ -174,13 +171,10 @@ Use *log in to*, not *log into*.
 Don't use *log on, logon, log off, logoff, log out from*.
 
 **Examples**  
-
 [warning] **Not recommended:** Log into your computer. [/warning]  
 [tip] **Recommended:** Log in to your computer. [/tip]  
-
 [tip] **Recommended:** You must log in as a multisite network administrator. [/tip]  
 [tip] **Recommended:** Go to the login screen. [/tip]  
-
 [warning] **Not recommended:** After saving your changes, log out from the administrator dashboard. [/warning]  
 [warning] **Not recommended:** After saving your changes, log out the administrator dashboard. [/warning]  
 [tip] **Recommended:** After saving your changes, log out of the administrator dashboard. [/tip]  
@@ -222,7 +216,6 @@ When using both *uppercase* and *lowercase* together as a noun or to modify a no
 Hyphenate as adjectives. Use instead of *bottom left* and *bottom right*.
 
 **Example**  
-
 [tip] **Recommended:** The lower-left corner [/tip]  
 
 In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.

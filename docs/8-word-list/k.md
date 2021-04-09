@@ -10,13 +10,11 @@ In the binary system, *kilobyte* is abbreviated as *KB*, where one *KB* equals 1
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 1000 KB of memory [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 2 KB file [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -31,13 +29,11 @@ In the binary system, *kilobit* is abbreviated as *Kbit*, where one *Kbit* equal
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 128 KBit of memory [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 256 KBit file [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -97,13 +93,11 @@ Initialism for *kilohertz*.
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** a rate of 96 kHz [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 96 kHz rate [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).

@@ -67,13 +67,11 @@ One *MB* equals 1000<sup>2</sup> bytes in the context of file size or storage ca
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 128 MB of storage [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 16 MB storage drive [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -87,13 +85,11 @@ One *Mbit* equals 1000<sup>2</sup> bits in the context of file size or storage c
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** 10 MBit of memory [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** 10 MBit memory [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -183,13 +179,11 @@ Initialism for *megahertz*.
 In the noun form, insert a space between the numeral and the abbreviation. Use the preposition *of* before the unit.
 
 **Example**  
-
 [tip] **Recommended:** a rate of 5.0 MHz [/tip]  
 
 Don’t hyphenate the adjective form.
 
 **Example**  
-
 [tip] **Recommended:** a 5.0 MHz rate [/tip]  
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
@@ -213,7 +207,6 @@ See also [Windows](https://make.wordpress.org/docs/style-guide/word-list/w/#wind
 OK to use, but not when paired with time in the numeral format.
 
 **Example**  
-
 [warning] **Not recommended:** *12:00 midnight* [/warning]  
 
 For more information, see [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
