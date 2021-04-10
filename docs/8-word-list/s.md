@@ -184,19 +184,19 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 One word. Not *sub class* or *sub-class*.
 
-Don't use as a verb. Instead, use *write a subclass* or a similar contextual verb.
+Don't use as a verb. Instead, use *create a subclass* or a similar contextual verb.
 
 ## subnet
 
 One word. Not *sub net* or *sub-net*.
 
-Shortened abbreviation of *subnetwork*. Be consistent in using one or the other in a single document. 
+Shortened abbreviation of *subnetwork*. Be consistent in using one or the other in a single document.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## such as
 
-
+It's OK to use *such as* or *like* for comparisons or examples.
 
 See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like).
 
@@ -209,6 +209,9 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## surf
+
+Avoid using to refer to the action of browsing.
+
 ## SVG
 
 Acronym for *Scalable Vector Graphics*. Use uppercase.
@@ -227,7 +230,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## swipe
 
-
+When the environment is presumably a touch surface or device, use *swipe* to describe a short, quick movement in the direction opposite to the way the page scrolls. Include the direction of the swipe—up, down, left, or right—if it’s needed to describe the action.
 
 See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick).
 
