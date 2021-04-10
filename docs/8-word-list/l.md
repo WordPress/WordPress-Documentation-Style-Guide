@@ -121,6 +121,8 @@ One word. Not *life time* or *life-time*.
 
 OK to use *like* or *such as* for comparisons or examples.
 
+See also [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
+
 ## -like
 
 In general, don't hyphenate words ending with *-like* unless the root word is a proper noun, ends in double *l*'s, has three or more syllables, or the deriving word is difficult to read.
