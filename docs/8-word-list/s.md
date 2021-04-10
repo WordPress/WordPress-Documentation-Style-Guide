@@ -34,6 +34,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## see
 ## select
 ## self-
+
+In general, hyphenate words beginning with *self-* such as *self-sufficient* and *self-explanatory*, unless *self-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## set
 ## setup, set up
 ## SFTP
@@ -174,7 +181,19 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## subclass
+
+One word. Not *sub class* or *sub-class*.
+
+Don't use as a verb. Instead, use *write a subclass* or a similar contextual verb.
+
 ## subnet
+
+One word. Not *sub net* or *sub-net*.
+
+Shortened abbreviation of *subnetwork*. Be consistent in using one or the other in a single document. 
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## such as
 
 
