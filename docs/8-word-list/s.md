@@ -166,6 +166,13 @@ This is the official spelling, per the World Wide Web Consortium (W3C).
 See also [CSS](https://make.wordpress.org/docs/style-guide/word-list/c/#css).
 
 ## sub-
+
+In general, don't hyphenate words beginning with *sub-* such as *subsection, subheading,* and *subdirectory*, unless *sub-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## subclass
 ## subnet
 ## such as
@@ -175,6 +182,13 @@ See also [CSS](https://make.wordpress.org/docs/style-guide/word-list/c/#css).
 See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like).
 
 ## super-
+
+In general, don't hyphenate words beginning with *super-* such as *supercomputer* and *supercritical*, unless *super-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## surf
 ## SVG
 
