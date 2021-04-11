@@ -109,6 +109,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## sorry
 ## spam
 ## spin box
+
+OK to use in developer documentation and for a technical audience.
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to an spin box by its label. If you have to use a descriptor, use *spin box* or *description box*.
+
+For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
+
 ## smartphone
 ## SQL
 
@@ -147,9 +154,15 @@ It's OK to use *standalone* as an adjective. Don't use as a noun.
 ## start, restart
 
 
+
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
 ## status bar
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a *status bar* by its label. If you have to use a descriptor, use *status bar*.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#menu-bar).
+
 ## stop, stop responding
 
 Don't use *stop* to mean *exit a program or application*.
