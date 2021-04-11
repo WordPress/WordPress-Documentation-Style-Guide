@@ -14,6 +14,7 @@ Don't use as a synonym for *display*.
 
 ## screenshot
 
+One word. Not *screen shot* or *screen-shot*.
 
 See also [photo](https://make.wordpress.org/docs/style-guide/word-list/p/#photo).
 
@@ -57,6 +58,15 @@ It's OK to use lowercase in developer documentation, such as commands.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## shaded
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+Don't use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions. Instead, use *not available* or *unavailable*. If you must describe their appearance, use *appears dimmed*.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
+See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
+
 ## shell
 ## shortcut
 
@@ -127,7 +137,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 OK to use in developer documentation and for a technical audience.
 
-In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to an spin box by its label. If you have to use a descriptor, use *spin box* or *description box*.
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a spin box by its label. If you have to use a descriptor, use *spin box* or *description box*.
 
 For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
 
@@ -174,7 +184,7 @@ See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-li
 
 ## status bar
 
-In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a *status bar* by its label. If you have to use a descriptor, use *status bar*.
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a status bar by its label. If you have to use a descriptor, use *status bar*.
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#menu-bar).
 
