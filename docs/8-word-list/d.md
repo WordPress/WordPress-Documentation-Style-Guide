@@ -10,11 +10,11 @@ See also [remove](), [cut, cut-paste]().
 
 ## dimmed
 
-See also [unavailable](//u.md).
+See also [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable](//u.md).
 
 ## disable, disabled
 
-See also [dimmed](#dimmed), [unavailable](//u.md).
+See also [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable](//u.md).
 
 ## disk
 ## drag
