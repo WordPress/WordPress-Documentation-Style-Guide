@@ -33,6 +33,11 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## search
 ## search and replace
 ## see
+
+OK to use when referring to links and cross-references.
+
+For more information, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/) and [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
+
 ## select
 ## self-
 
@@ -86,12 +91,20 @@ See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-li
 
 ## simple, simply
 
+
+
 ## sign in, sign-in, sign out
 
 
-See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out).
+
+See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out), See also [sign-on, sign](#sign-on-sign-on).
 
 ## sign-on, sign on
+
+Hyphenate in in phrases such as *single sign-on*. Don't hyphenate as a verb.
+
+See also [sign in, sign-in, sign out](#sign-in-sign-in-sign-out).
+
 ## simple, simply
 ## site
 ## sitemap
@@ -99,7 +112,21 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 One word. Not *site map* or *site-map*.
 
 ## since
+
 ## size
+
+Avoid using size as a verb, as in *size the window*. Instead, use *change the size of* or *resize*.
+
+## -size
+
+In general, don't hyphenate words ending with *size* such as *medium-size* and *letter-size*
+
+Not *-sized*.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## slave
 
 Avoid using whenever possible.
