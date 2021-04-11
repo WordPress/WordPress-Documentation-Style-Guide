@@ -43,6 +43,11 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 ## set
 ## setup, set up
+
+As a noun and an adjective, use *setup* and as a verb use two words as in *set up*.
+
+Don't hyphenate.
+
 ## SFTP
 
 Initialism for *Simple File Transfer Protocol*. Use uppercase.
@@ -66,6 +71,7 @@ See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 ## shut down, shutdown
 
 
+
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
 ## simple, simply
@@ -79,14 +85,14 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 ## simple, simply
 ## site
 ## sitemap
+
+One word. Not *site map* or *site-map*.
+
 ## since
 ## size
 ## slave
 
 Avoid using whenever possible.
-
-
-
 
 See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list/m/#master-masterslave).
 
@@ -97,6 +103,15 @@ See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list
 See also [shut down, shutdown](#shut-down-shutdown).
 
 ## slider
+
+OK to use in developer documentation and for a technical audience.
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to an slider by its label. If you have to use a descriptor, use *slider*.
+
+In user documentation, it's OK to use slider when you need to describe the UI element used to set a value on a continuous range of possible values, such as screen brightness or volume.
+
+For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
+
 ## slug
 ## SMTP
 
