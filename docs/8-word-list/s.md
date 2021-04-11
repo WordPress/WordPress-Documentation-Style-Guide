@@ -236,10 +236,26 @@ See also [flick](https://make.wordpress.org/docs/style-guide/word-list/f/#flick)
 
 ## switch
 
+As a verb, use instead of *activate* or *toggle*.
+
+OK to use as a noun as in *toggle button*.
+
+For more information, see [Toggle button](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#toggle-button).
+
 See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggle).
 
 ## symbol
+
+
+
 ## sync
+
+Shortened term for *synchronize*. Not *synch, synching,* or *synched*.
+
+OK to use as a noun or an adjective.
+
+Use *sync with* not *sync from* or *sync to*.
+
 ## Syndication
 
 See [RSS](https://make.wordpress.org/docs/style-guide/word-list/r/#rss).
