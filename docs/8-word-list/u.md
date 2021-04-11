@@ -45,7 +45,7 @@ In general, describe how the user should interact with the UI rather than descri
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
-See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled).
+See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded).
 
 ## uncheck
 
