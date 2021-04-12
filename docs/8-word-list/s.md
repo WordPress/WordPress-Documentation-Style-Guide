@@ -165,6 +165,8 @@ Use *sorry* only when the user is asked to do something inconvenient, the user c
 **Example**  
 [tip] **Recommended:** Sorry, the service is temporarily available. [/tip]  
 
+See also [please]().
+
 ## spam
 
 Don't use as a verb.
@@ -320,7 +322,15 @@ See also [toggle](https://make.wordpress.org/docs/style-guide/word-list/t/#toggl
 
 ## symbol
 
+Don't use *symbol* when you mean *button* or icon. A user can interact with a *button* or *icon* but cannot interact with a *symbol*.
 
+It's OK to use *symbol* to refer to text characters, as in the percent symbol (%). Don’t use *symbol* when you mean character, letter, or digit.
+
+Use *sign*, not *symbol*, in the following terms: *division sign, equal sign, greater-than sign, less-than sign, minus sign, multiplication sign, number sign*, and *plus sign*.
+
+For more information, see [Abbreviations]() and the [Punctuation]() section.
+
+See also [Symbols](), [button](), [icon]().
 
 ## sync
 
