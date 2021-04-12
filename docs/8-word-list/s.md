@@ -73,6 +73,11 @@ For more information, see [UI elements](https://make.wordpress.org/docs/style-gu
 See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
 
 ## shell
+
+OK to use as a noun in developer documentation and for a technical audience. Avoid using in user documentation.
+
+Don't use as a verb, such as *shell* or *shell out*. Instead, use a contextually relevant phrase, such as *create a new shell*.
+
 ## shortcut
 
 One word. Not *short cut* or *short-cut*.
@@ -89,10 +94,6 @@ See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
-## simple, simply
-
-
-
 ## sign in, sign-in, sign out
 
 
@@ -106,12 +107,20 @@ Hyphenate in in phrases such as *single sign-on*. Don't hyphenate as a verb.
 See also [sign in, sign-in, sign out](#sign-in-sign-in-sign-out).
 
 ## simple, simply
+
+Avoid using. What might be simple for one person, may not be simple for others.
+
 ## site
+
+
+
 ## sitemap
 
 One word. Not *site map* or *site-map*.
 
 ## since
+
+Don't use as a synonym for *because*. *Since* can be ambiguous and could refer to time. *Because* refers to a reason for something.
 
 ## size
 
@@ -149,7 +158,6 @@ In user documentation, it's OK to use slider when you need to describe the UI el
 
 For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
 
-## slug
 ## SMTP
 
 Initialism for *Simple Mail Transfer Protocol*. Use uppercase.
@@ -180,6 +188,11 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
 
 ## smartphone
+
+Don't use. Instead, use *phone, mobile, mobile device,* and *mobile phone*.
+
+See also [mobile, mobile device, mobile phone](), [phone]().
+
 ## SQL
 
 Initialism for *Structured Query Language*. Use uppercase.
