@@ -216,7 +216,11 @@ It's OK to use *standalone* as an adjective. Don't use as a noun.
 
 ## start, restart
 
+Don't use *start* to describe selecting a program or app to open it. Instead, use *open*.
 
+Use *restart* to describe closing and reopening a program or app or turning a device off and then immediately back on.
+
+For more information, see [Interaction verbs]().
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
@@ -328,9 +332,18 @@ It's OK to use *symbol* to refer to text characters, as in the percent symbol (%
 
 Use *sign*, not *symbol*, in the following terms: *division sign, equal sign, greater-than sign, less-than sign, minus sign, multiplication sign, number sign*, and *plus sign*.
 
-For more information, see [Abbreviations]() and the [Punctuation]() section.
+When referring to a sign or symbol, introduce its spelled out version and then the sign or symbol in parentheses. It's acceptable to use a symbol by itself in UI, tables, or headings where space is limited.
 
-See also [Symbols](), [button](), [icon]().
+For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/) and [UI elements]().
+
+Write out the plurals of symbols, showing the use in parentheses. Don't add *s* or *'s* to a symbol.
+
+**Examples**  
+[warning] **Not recommended:** Enter two backslashes (\\s) in the terminal. [/warning]  
+[warning] **Not recommended:** Enter two backslashes (\\'s) in the terminal. [/warning]  
+[tip] **Recommended:** Enter two backslashes (\\) in the terminal. [/tip]  
+
+See also [button](), [icon]().
 
 ## sync
 
