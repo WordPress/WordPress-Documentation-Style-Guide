@@ -159,7 +159,16 @@ It's OK to use lowercase in developer documentation, such as commands.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## sorry
+
+Use *sorry* only when the user is asked to do something inconvenient, the user can't use the product, the application or site is to blame for the situation, or when there is an issue with the product. It's OK to use *sorry* for other inconveniences such as data loss, errors, application failure, or when the user has to get help from a support representative.
+
+**Example**  
+[tip] **Recommended:** Sorry, the service is temporarily available. [/tip]  
+
 ## spam
+
+Don't use as a verb.
+
 ## spin box
 
 OK to use in developer documentation and for a technical audience.
