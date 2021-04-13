@@ -347,6 +347,8 @@ For example, *You should set a strong password* is a suggestion, whereas *You mu
 
 For more information, see [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/).
 
+See also [should](https://make.wordpress.org/docs/style-guide/word-list/s/#should).
+
 ## MySQL
 
 Capitalize *M* and use uppercase for *SQL*.
