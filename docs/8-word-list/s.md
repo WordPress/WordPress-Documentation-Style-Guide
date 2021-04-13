@@ -48,6 +48,13 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## set
+
+Avoid using to describe user interactions with UI elements. Instead, use contextually relevant verbs.
+
+OK to use in developer documentation and for a technical audience.
+
+For more information, see [Interaction verbs]().
+
 ## setup, set up
 
 As a noun and an adjective, use *setup* and as a verb use two words as in *set up*.
@@ -84,7 +91,10 @@ One word. Not *short cut* or *short-cut*.
 
 ## should
 
+Use only when an action is recommended, but optional. Don't use *should* to indicate probability. If you can't make a definitive statement, use might or rephrase the statement.
 
+**Example**  
+[tip] **Recommended:** You should back up your website regularly. [/tip]  
 
 See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 
@@ -112,7 +122,9 @@ Avoid using. What might be simple for one person, may not be simple for others.
 
 ## site
 
+Use to describe a collection of webpages which are part of a bigger collective, such as the WordPress site. It's OK to use *website* instead of *site* for clarity.
 
+See also [page](), [website]().
 
 ## sitemap
 
@@ -145,6 +157,8 @@ See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list
 ## sleep
 
 Use to describe putting a device into a energy-saving state without shutting it down.
+
+The computer *goes to sleep*, or the user can *put it to sleep*; the computer is then *in sleep* or *in sleep mode*. Don’t use the computer *is sleeping* or the computer *is asleep*.
 
 See also [shut down, shutdown](#shut-down-shutdown).
 
