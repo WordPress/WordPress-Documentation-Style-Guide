@@ -144,7 +144,7 @@ See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list
 
 ## sleep
 
-
+Use to describe putting a device into a energy-saving state without shutting it down.
 
 See also [shut down, shutdown](#shut-down-shutdown).
 
@@ -253,7 +253,9 @@ For more information, see [Interaction verbs](https://make.wordpress.org/docs/st
 
 ## storage, storage device
 
+Don't use *storage* to refer to available space on a disk. Instead, use *storage space* or *disk space*.
 
+Use *storage device* instead of *disk* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
 
 See also [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
 
