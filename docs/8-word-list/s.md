@@ -23,7 +23,19 @@ See also [photo](https://make.wordpress.org/docs/style-guide/word-list/p/#photo)
 See [resolution](https://make.wordpress.org/docs/style-guide/word-list/r/#resolution).
 
 ## scroll
+
+In user documentation, it's OK to use *scroll* to describe moving through pages, documents, and other items instead of *drag* or *swipe*.
+
+Don't use *scroll* as a transitive verb.
+
 ## scroll bar
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
+See also [scroll](#scroll).
+
 ## SDK
 
 Acronym for *Software Development Kit*. Use uppercase.
@@ -31,7 +43,13 @@ Acronym for *Software Development Kit*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## search
+
+
+
 ## search and replace
+
+
+
 ## see
 
 OK to use when referring to links and cross-references.
@@ -39,6 +57,9 @@ OK to use when referring to links and cross-references.
 For more information, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/) and [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
 
 ## select
+
+
+
 ## self-
 
 In general, hyphenate words beginning with *self-* such as *self-sufficient* and *self-explanatory*, unless *self-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
