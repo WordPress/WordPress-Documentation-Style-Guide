@@ -44,11 +44,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## search
 
-
+Use only as a verb, not as a noun or adjective.
 
 ## search and replace
 
+Don't use to describe finding and replacing things in a document or page. Instead, use *find and replace*.
 
+See also [find and replace]().
 
 ## see
 
@@ -58,7 +60,9 @@ For more information, see [Link text](https://make.wordpress.org/docs/style-guid
 
 ## select
 
+Use select when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be use interchangeably instead of click or check in describing checkboxes and dropdown lists.
 
+See also [Interaction verbs - Select]().
 
 ## self-
 
