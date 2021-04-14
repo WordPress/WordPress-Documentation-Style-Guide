@@ -125,15 +125,27 @@ See also [must](https://make.wordpress.org/docs/style-guide/word-list/m/#must).
 
 ## shut down, shutdown
 
+Use one word as a noun, and two words as a verb.
 
+Use *shut down* to describe exiting an operating system and turning off the device in a single action.
+
+Don't use *shut down* to describe turning off a device or as a synonym for *close*.
+
+For more information, see [Interaction verbs]().
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
 ## sign in, sign-in, sign out
 
+Hyphenate as a noun and adjective, as in *sign-in screen*. Use two words as a verb, as in *sign in to your account* and *sign out of your account*.
 
+Use *sign in* and *sign out* to refer to start and end the procedure of starting use of an internet account.
 
-See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out), See also [sign-on, sign](#sign-on-sign-on).
+Use *sign in to* and *sign out of*.
+
+Don't use *sign off, sign off of,* or *sign off from*.
+
+See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-guide/word-list/l/#login-log-in-logout-log-out), [sign-on, sign](#sign-on-sign-on).
 
 ## sign-on, sign on
 
