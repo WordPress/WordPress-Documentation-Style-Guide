@@ -168,11 +168,11 @@ For more information, see [Interaction verbs](https://make.wordpress.org/docs/st
 
 Use one word as a noun, as in *login screen* and *logout screen*. Use two words as a verb, as in *log in to your computer* and *log out of your computer*.
 
-Use to refer to start and end the procedure of starting use of a computer or device account.
+Use *log in* and *log out* to refer to start and end the procedure of starting use of a computer or device account.
 
 Use *log in to*, not *log into*.
 
-Don't use *log on, logon, log off, logoff, log out from*.
+Don't use *log on, logon, log off, logoff,* or *log out from*.
 
 **Examples**  
 [warning] **Not recommended:** Log into your computer. [/warning]  
