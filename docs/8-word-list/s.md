@@ -1,7 +1,5 @@
 # S
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## save
 
 Use as a verb to describe saving files to a device or storage device.
