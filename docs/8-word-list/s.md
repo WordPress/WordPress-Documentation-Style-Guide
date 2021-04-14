@@ -50,7 +50,7 @@ Use only as a verb, not as a noun or adjective.
 
 Don't use to describe finding and replacing things in a document or page. Instead, use *find and replace*.
 
-See also [find and replace]().
+See also [find and replace](https://make.wordpress.org/docs/style-guide/word-list/f/#find-and-replace).
 
 ## see
 
@@ -62,7 +62,7 @@ For more information, see [Link text](https://make.wordpress.org/docs/style-guid
 
 Use select when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be use interchangeably instead of click or check in describing checkboxes and dropdown lists.
 
-See also [Interaction verbs - Select]().
+See also [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select).
 
 ## self-
 
@@ -78,7 +78,7 @@ Avoid using to describe user interactions with UI elements. Instead, use context
 
 OK to use in developer documentation and for a technical audience.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 ## setup, set up
 
@@ -131,7 +131,7 @@ Use *shut down* to describe exiting an operating system and turning off the devi
 
 Don't use *shut down* to describe turning off a device or as a synonym for *close*.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
@@ -161,7 +161,7 @@ Avoid using. What might be simple for one person, may not be simple for others.
 
 Use to describe a collection of webpages which are part of a bigger collective, such as the WordPress site. It's OK to use *website* instead of *site* for clarity.
 
-See also [page](), [website]().
+See also [page](https://make.wordpress.org/docs/style-guide/word-list/p/#page), [website](https://make.wordpress.org/docs/style-guide/word-list/w/#website).
 
 ## sitemap
 
@@ -224,7 +224,7 @@ Use *sorry* only when the user is asked to do something inconvenient, the user c
 **Example**  
 [tip] **Recommended:** Sorry, the service is temporarily available. [/tip]  
 
-See also [please]().
+See also [please](https://make.wordpress.org/docs/style-guide/word-list/p/#please).
 
 ## spam
 
@@ -242,7 +242,7 @@ For more information, see [Dropdown list, combo box, and spin box](https://make.
 
 Don't use. Instead, use *phone, mobile, mobile device,* and *mobile phone*.
 
-See also [mobile, mobile device, mobile phone](), [phone]().
+See also [mobile, mobile device, mobile phone](https://make.wordpress.org/docs/style-guide/word-list/m/#mobile-mobile-device-mobile-phone), [phone](https://make.wordpress.org/docs/style-guide/word-list/p/#phone).
 
 ## SQL
 
@@ -284,7 +284,7 @@ Don't use *start* to describe selecting a program or app to open it. Instead, us
 
 Use *restart* to describe closing and reopening a program or app or turning a device off and then immediately back on.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [shut down, shutdown](#shut-down-shutdown).
 
@@ -356,7 +356,7 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 ## surf
 
-Avoid using to refer to the action of browsing.
+Avoid using *surf* to refer to the action of browsing.
 
 ## SVG
 
@@ -400,7 +400,7 @@ Use *sign*, not *symbol*, in the following terms: *division sign, equal sign, gr
 
 When referring to a sign or symbol, introduce its spelled out version and then the sign or symbol in parentheses. It's acceptable to use a symbol by itself in UI, tables, or headings where space is limited.
 
-For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/) and [UI elements]().
+For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/) and [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 Write out the plurals of symbols, showing the use in parentheses. Don't add *s* or *'s* to a symbol.
 
@@ -409,7 +409,7 @@ Write out the plurals of symbols, showing the use in parentheses. Don't add *s* 
 [warning] **Not recommended:** Enter two backslashes (\\'s) in the terminal. [/warning]  
 [tip] **Recommended:** Enter two backslashes (\\) in the terminal. [/tip]  
 
-See also [button](), [icon]().
+See also [button](https://make.wordpress.org/docs/style-guide/word-list/b/#button), [icon](https://make.wordpress.org/docs/style-guide/word-list/i/#icon).
 
 ## sync
 
