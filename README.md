@@ -188,6 +188,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | A |   🔄   |
 | F |   ✔️   |
 | G |   ✔️   |
+| H |   🔄   |
 | J |   ✔️   |
 | K |   ✔️   |
 | L |   ✔️   |
