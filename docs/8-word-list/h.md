@@ -5,7 +5,11 @@
 ## hang
 ## hardcode
 ## hard drive
+
 ## header
+
+See also [footer](f.md).
+
 ## heading
 ## healthy
 ## he/she
@@ -18,8 +22,4 @@
 ## hot link
 ## hover
 ## HTTP, HTTPS
-## header
-
-See also [footer](f.md).
-
 ## hyperlink
