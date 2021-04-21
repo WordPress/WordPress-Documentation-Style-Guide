@@ -2,10 +2,12 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## half
 ## hang
 ## hardcode
+## hard disk
 ## hard drive
-
+## HD
 ## header
 
 See also [footer](f.md).
@@ -13,7 +15,10 @@ See also [footer](f.md).
 ## heading
 ## healthy
 ## he/she
+## help
+## high-
 ## higher
+## highlight
 ## high-quality
 ## high-resolution
 ## hint
