@@ -8,7 +8,14 @@
 ## hard disk
 ## hard drive
 ## HD
+
+Initialism for *high definition* (as a verb) and *high-definition* (as an adjective). Use uppercase.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## header
+
+
 
 See also [footer](f.md).
 
@@ -27,6 +34,9 @@ See also [footer](f.md).
 ## home directory
 ## home screen
 ## hostname
+
+One word. Not *host name* or *host-name*.
+
 ## hot key
 ## hot link
 ## hover
@@ -46,6 +56,6 @@ OK to use lowercase in developer documentation, such as protocols or commands.
 
 In general, omit *http://* and *https://* from URLs. If you need to include *http://* or *https://*, use lowercase.
 
-For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types) and the Linking section.
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types) and the [Linking section]().
 
 ## hyperlink
