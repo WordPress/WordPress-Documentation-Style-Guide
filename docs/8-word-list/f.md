@@ -195,6 +195,8 @@ Use a hyphen in compound adjectives beginning with *full-*.
 - full-page
 - full-time
 
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## full screen, full-screen
