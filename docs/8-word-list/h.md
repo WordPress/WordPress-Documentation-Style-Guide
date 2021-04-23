@@ -24,6 +24,20 @@ See also [footer](f.md).
 ## he/she
 ## help
 ## high-
+
+Use a hyphen in compound adjectives beginning with *high-*.
+
+**Examples**  
+
+- high-quality
+- high-bandwidth
+- high-resolution
+- high-intensity
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## higher
 ## highlight
 ## high-quality
@@ -39,6 +53,11 @@ One word. Not *host name* or *host-name*.
 
 ## hot key
 ## hot link
+
+Don't use to refer to a link.
+
+For more information, see the [Linking section]().
+
 ## hover
 ## HTML
 
@@ -59,3 +78,7 @@ In general, omit *http://* and *https://* from URLs. If you need to include *htt
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types) and the [Linking section]().
 
 ## hyperlink
+
+
+
+For more information, see the [Linking section]().
