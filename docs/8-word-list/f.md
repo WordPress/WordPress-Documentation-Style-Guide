@@ -187,7 +187,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## full-
 
-Use a hyphen in compound adjectives beginning with full.
+Use a hyphen in compound adjectives beginning with *full-*.
 
 **Examples**  
 
