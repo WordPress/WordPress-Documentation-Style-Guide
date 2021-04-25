@@ -35,7 +35,15 @@ See also [footer](f.md).
 ## heading
 ## healthy
 ## he/she
+
+Don't use.
+
+For more information, see [Pronouns and genders]().
+
 ## help
+
+Don't use as a noun to refer to user or support documentation, manuals, guides, or tutorials.
+
 ## high-
 
 Use a hyphen in compound adjectives beginning with *high-*.
@@ -52,6 +60,9 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## higher
+
+
+
 ## highlight
 ## high-quality
 ## high-resolution
