@@ -69,7 +69,19 @@ See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later)
 ## high-quality
 ## high-resolution
 ## hint
+
+Don't use as a heading or title for a type of note.
+
+For more information, see [Notices]().
+
 ## hit
+
+Don't use to refer to pressing a key or to mean *click* or *type*. Instead, use *select*.
+
+For more information, see [Interaction verbs]().
+
+See also [select]().
+
 ## home, homepage
 ## home directory
 ## home screen
