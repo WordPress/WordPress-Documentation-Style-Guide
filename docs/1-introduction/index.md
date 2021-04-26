@@ -9,7 +9,7 @@ For an overview of the WordPress Documentation Style Guide, see [Highlights](htt
 
 ## Editorial resources
 
-Use the following editorial resources.
+Use these editorial resources for writing WordPress documentation.
 
 ### Reference hierarchy
 
