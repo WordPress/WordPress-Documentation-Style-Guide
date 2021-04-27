@@ -66,11 +66,26 @@ Don't use as a synonym for *later* to refer to versions of software. Instead, us
 See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## highlight
+
+Don't use to mean *select*.
+
+For more information, see [Interaction verbs]().
+
+See also [select]().
+
 ## high-quality
+
+Don't use *quality* by itself as an adjective. Instead, use *high-quality*. Hyphenate.
+
 ## high-resolution
+
+Hyphenate. Don't abbreviate as *hi-res* or *high-res*.
+
+See also [resolution]().
+
 ## hint
 
-Don't use as a heading or title for a type of note.
+Don't use as a heading or title for a type of note. Instead, use *Note, Info*, or *Tip*.
 
 For more information, see [Notices]().
 
