@@ -19,7 +19,21 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 ## hang
 ## hardcode
 ## hard disk
+
+Use to refer to a magnetic disk.
+
+Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
+
+See also [hard drive](#hard-drive), [memory](), [storage]().
+
 ## hard drive
+
+Use to refer to the drive on a computer used for storage purposes.
+
+Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
+
+See also [hard disk](#hard-disk), [memory](), [storage]().
+
 ## HD
 
 Initialism for *high definition* (as a verb) and *high-definition* (as an adjective). Use uppercase.
