@@ -17,7 +17,17 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## hang
+
+Don't use to refer to a device, computer, or system that isn't responding. Instead, use *stop responding* to describe a program or application which encounters a problem, isn't responding, and cannot close itself.
+
+Use *close* to describe the action a program takes to close itself when it has encountered a problem and can't continue.
+
+See also [close](), [stop, stop responding]().
+
 ## hardcode
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+
 ## hard disk
 
 Use to refer to a magnetic disk.
