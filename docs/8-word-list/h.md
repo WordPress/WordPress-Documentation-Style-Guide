@@ -122,6 +122,13 @@ For more information, see [Interaction verbs]().
 See also [select]().
 
 ## home, homepage
+
+Use *home* to refer to the main page of a website that is displayed upon opening by default. Don't use *landing page*.
+
+It's OK to use *homepage* instead of *home* for further clarity in some contexts.
+
+Don’t use *home* or *homepage* to refer to an entire website.
+
 ## home directory
 ## home screen
 ## hostname
@@ -129,6 +136,11 @@ See also [select]().
 One word. Not *host name* or *host-name*.
 
 ## hot key
+
+Don't use to describe a combination of keystrokes used to perform an action.
+
+For more information, see [Pressing and typing keyboard keys]().
+
 ## hot link
 
 Don't use to refer to a link.
