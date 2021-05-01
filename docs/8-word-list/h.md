@@ -130,7 +130,13 @@ It's OK to use *homepage* instead of *home* for further clarity in some contexts
 Don’t use *home* or *homepage* to refer to an entire website.
 
 ## home directory
-## home screen
+
+Don't use.
+
+Instead, use *root* or *root directory* in developer documentation and for a technical audience.
+
+See also [root, root directory]().
+
 ## hostname
 
 One word. Not *host name* or *host-name*.
