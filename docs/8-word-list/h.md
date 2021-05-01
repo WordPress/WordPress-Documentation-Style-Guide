@@ -52,7 +52,13 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## header
 
+Don't use as a synonym for *heading*.
 
+Don't use *running head* instead of *header* in the context of content publishing, word-processing, and websites.
+
+It's OK to use *header* as a shortened term for *file header* in developer documentation and for a technical audience.
+
+Don't use *header* as an abbreviated term for *header file* at the beginning of the file which refers to the data libraries, or definitions of variables and data types used by a program.
 
 See also [footer](f.md).
 
@@ -154,6 +160,10 @@ Don't use to refer to a link.
 For more information, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
 ## hover
+
+
+
+
 ## HTML
 
 Initialism for *Hypertext Markup Language*. Use uppercase.
