@@ -177,9 +177,9 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 It's OK to use *point to* as a verb to describe moving the mouse pointer over an area of the UI without selecting it.
 
-Don't use *point, mouse over* or *move the mouse pointer to*.
+Don't use *point, mouse over* or *hover the pointer over*.
 
-For more information, see [Hold, hover](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#hold-hover).
+For more information, see [Hold, hold the pointer over](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#hold-hold-the-pointer-over).
 
 ## populate
 
