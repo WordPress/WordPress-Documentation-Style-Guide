@@ -125,15 +125,15 @@ See also [resolution](https://make.wordpress.org/docs/style-guide/word-list/r/#r
 
 Don't use as a heading or title for a type of note. Instead, use *Note, Info*, or *Tip*.
 
-For more information, see [Notices]().
+For more information, see [Notices](https://make.wordpress.org/docs/style-guide/formatting/notices/).
 
 ## hit
 
 Don't use to refer to pressing a key or to mean *click* or *type*. Instead, use *select*.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
-See also [select]().
+See also [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select).
 
 ## hold, hold the pointer over
 
@@ -141,7 +141,7 @@ When the environment is presumably a touch device, use *hold* and *hold the poin
 
 For more information, see [Hold, hold the pointer over](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#hold-hold-the-pointer-over).
 
-See also [point to]().
+See also [point to](https://make.wordpress.org/docs/style-guide/word-list/p/#point-to).
 
 ## home, homepage
 
@@ -157,7 +157,7 @@ Don't use.
 
 Instead, use *root* or *root directory* in developer documentation and for a technical audience.
 
-See also [root, root directory]().
+See also [root, root directory](https://make.wordpress.org/docs/style-guide/word-list/r/#root-root-directory).
 
 ## hostname
 
@@ -167,7 +167,7 @@ One word. Not *host name* or *host-name*.
 
 Don't use to describe a combination of keystrokes used to perform an action.
 
-For more information, see [Pressing and typing keyboard keys]().
+For more information, see [Pressing and typing keyboard keys](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#pressing-and-typing-keyboard-keys).
 
 ## hot link
 
@@ -175,13 +175,13 @@ Don't use to refer to a link.
 
 For more information, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
-See also [link]().
+See also [link](https://make.wordpress.org/docs/style-guide/word-list/l/#link).
 
 ## hover, hover over
 
 Don't use. Instead, use *hold, hold the pointer over*, or *move the mouse pointer to*.
 
-See also [hold, hold the pointer over](#hold-hold-the-pointer-over), [point to]().
+See also [hold, hold the pointer over](#hold-hold-the-pointer-over), [point to](https://make.wordpress.org/docs/style-guide/word-list/p/#point-to).
 
 ## HTML
 
@@ -207,4 +207,4 @@ It's OK to use *hyperlink* instead of *link* to describe text, graphic, button, 
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs) and the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
-See also [link]().
+See also [link](https://make.wordpress.org/docs/style-guide/word-list/l/#link).
