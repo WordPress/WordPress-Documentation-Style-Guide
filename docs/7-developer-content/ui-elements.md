@@ -321,9 +321,11 @@ Use *clear* when referring to the action of clearing a selection, usually from a
 **Example**  
 [tip] **Recommended:** Clear the **Crop thumbnail** checkbox. [/tip]  
 
-### Hold, hover
+### Hold, hold the pointer over
 
-When the environment is presumably a touch device, use *hold* and *hover* when referring to the action of the user holding or hovering the pointer over a UI element, but not clicking the element. This action involves waiting for the UI element to react. To refer to the action of pointing the mouse pointer use *point to*. This action doesn't imply a length of time waiting for the UI element to react to user action.
+When the environment is presumably a touch device, use *hold* and *hold the pointer over* in a desktop environment, when referring to the action of the user holding or hovering the pointer over a UI element, but not clicking the element. This action involves waiting for the UI element to react. To refer to the action of pointing the mouse pointer use *point to*. This action doesn't imply a length of time waiting for the UI element to react to user action.
+
+Don't use *hover, hover the pointer over*, or *mouse over*.
 
 **Example**  
 [tip] **Recommended:** On the **Admin** toolbar, hold the pointer over **New**. [/tip]  
