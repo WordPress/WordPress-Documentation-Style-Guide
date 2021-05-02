@@ -22,7 +22,7 @@ Don't use to refer to a device, computer, or system that isn't responding. Inste
 
 Use *close* to describe the action a program takes to close itself when it has encountered a problem and can't continue.
 
-See also [close](), [stop, stop responding]().
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [stop, stop responding](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## hardcode
 
@@ -34,7 +34,7 @@ Use to refer to a magnetic disk.
 
 Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
 
-See also [hard drive](#hard-drive), [memory](), [storage]().
+See also [hard drive](#hard-drive), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
 
 ## hard drive
 
@@ -42,7 +42,7 @@ Use to refer to the drive on a computer used for storage purposes.
 
 Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
 
-See also [hard disk](#hard-disk), [memory](), [storage]().
+See also [hard disk](#hard-disk), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
 
 ## HD
 
@@ -60,13 +60,13 @@ It's OK to use *header* as a shortened term for *file header* in developer docum
 
 Don't use *header* as an abbreviated term for *header file* at the beginning of the file which refers to the data libraries, or definitions of variables and data types used by a program.
 
-See also [footer](f.md).
+See also [footer](https://make.wordpress.org/docs/style-guide/word-list/f/#footer).
 
 ## heading
 
 Use instead of *head* or *header* to refer to the heading of an article or a section.
 
-For more information, see [Headings and titles]().
+For more information, see [Headings and titles](https://make.wordpress.org/docs/style-guide/formatting/headings/).
 
 ## healthy
 
@@ -109,7 +109,7 @@ Don't use to mean *select*.
 
 For more information, see [Interaction verbs]().
 
-See also [select]().
+See also [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select).
 
 ## high-quality
 
@@ -119,7 +119,7 @@ Don't use *quality* by itself as an adjective. Instead, use *high-quality*. Hyph
 
 Hyphenate. Don't abbreviate as *hi-res* or *high-res*.
 
-See also [resolution]().
+See also [resolution](https://make.wordpress.org/docs/style-guide/word-list/r/#resolution).
 
 ## hint
 
