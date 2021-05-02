@@ -140,11 +140,11 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 Use *link* to describe text, graphic, button, or another element that users can select to go to another document, another place within the same document, or to a webpage.
 
-Don't use hot *spot, hot link*, or *shortcut* to refer to a link.
+Don't use *hot spot, hot link*, or *shortcut* to refer to a link.
 
 As a verb, it is OK to use *link* to refer to the action of creating a link, but don't use *link* to describe connecting to a cross-reference. Use *go to* to describe the process of going to another webpage or document, place, or webpage.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs) and the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
 ## Linux
 
