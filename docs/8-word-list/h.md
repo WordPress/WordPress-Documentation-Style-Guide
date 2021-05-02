@@ -63,7 +63,15 @@ Don't use *header* as an abbreviated term for *header file* at the beginning of 
 See also [footer](f.md).
 
 ## heading
+
+Use instead of *head* or *header* to refer to the heading of an article or a section.
+
+For more information, see [Headings and titles]().
+
 ## healthy
+
+Don't use to describe the condition of any device or application.
+
 ## he/she
 
 Don't use.
