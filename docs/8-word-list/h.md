@@ -1,7 +1,5 @@
 # H
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## half-
 
 Use a hyphen in compound adjectives beginning with *half-*.
@@ -179,7 +177,7 @@ See also [link](https://make.wordpress.org/docs/style-guide/word-list/l/#link).
 
 ## hover, hover over
 
-Don't use. Instead, use *hold, hold the pointer over*, or *move the mouse pointer to*.
+Don't use. Instead, use *hold* or *hold the pointer over*.
 
 See also [hold, hold the pointer over](#hold-hold-the-pointer-over), [point to](https://make.wordpress.org/docs/style-guide/word-list/p/#point-to).
 
