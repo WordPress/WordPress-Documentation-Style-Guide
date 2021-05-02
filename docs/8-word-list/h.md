@@ -135,6 +135,14 @@ For more information, see [Interaction verbs]().
 
 See also [select]().
 
+## hold, hold the pointer over
+
+When the environment is presumably a touch device, use *hold* and *hold the pointer over* in a desktop environment, when referring to the action of the user holding or hovering the pointer over a UI element, but not clicking the element.
+
+For more information, see [Hold, hold the pointer over](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#hold-hold-the-pointer-over).
+
+See also [point to]().
+
 ## home, homepage
 
 Use *home* to refer to the main page of a website that is displayed upon opening by default. Don't use *landing page*.
@@ -167,10 +175,11 @@ Don't use to refer to a link.
 
 For more information, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
-## hover
+## hover, hover over
 
+Don't use. Instead, use *hold, hold the pointer over*, or *move the mouse pointer to*.
 
-
+See also [hold, hold the pointer over](#hold-hold-the-pointer-over), [point to]().
 
 ## HTML
 
