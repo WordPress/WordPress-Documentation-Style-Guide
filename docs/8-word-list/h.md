@@ -175,6 +175,8 @@ Don't use to refer to a link.
 
 For more information, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
+See also [link]().
+
 ## hover, hover over
 
 Don't use. Instead, use *hold, hold the pointer over*, or *move the mouse pointer to*.
@@ -201,6 +203,8 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## hyperlink
 
+It's OK to use *hyperlink* instead of *link* to describe text, graphic, button, or another element that users can select to go to another document, another place within the same document, or to a webpage.
 
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs) and the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
 
-For more information, see the [Linking section](https://make.wordpress.org/docs/style-guide/linking/).
+See also [link]().
