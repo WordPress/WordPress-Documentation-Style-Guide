@@ -2,6 +2,9 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## icon
+## ID
+## i.e.
 ## if, whether
 
 Use *if* to indicate a condition. Use *whether* to indicate when two outcomes are possible.
@@ -12,11 +15,17 @@ If you can affix the words *or not* in a clause, use *whether* rather than *if*.
 [warning] **Not recommended:** The `is_plugin_active()` function determines if a plugin is active. [/warning]  
 [tip] **Recommended:** The `is_plugin_active()` function determines whether a plugin is active *(or not)*. [/tip]  
 
+## illegal
+## impact
+## inactive
+## index
 ## initialize
 
 
 See also [start](), [restart](), [turn on, turn off]().
 
+## in order to
+## interface
 ## internet
 
 
@@ -26,3 +35,5 @@ See also [web]().
 
 
 See also [onto, on to](o.md).
+
+## IP
