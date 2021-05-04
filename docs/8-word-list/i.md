@@ -18,13 +18,20 @@ If you can affix the words *or not* in a clause, use *whether* rather than *if*.
 ## illegal
 ## impact
 ## inactive
-## index
+## index, indexes, indices
+## info
 ## initialize
+
 
 
 See also [start](), [restart](), [turn on, turn off]().
 
+## initiate
+## inline
 ## in order to
+## input
+## install
+## instantiate
 ## interface
 ## internet
 
@@ -36,4 +43,10 @@ See also [web]().
 
 See also [onto, on to](o.md).
 
+## invalid
+## invoke
+## I/O
 ## IP
+## IP address
+## issue
+## italic
