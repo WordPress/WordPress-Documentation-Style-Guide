@@ -26,7 +26,7 @@ Use for a value given to a variable until an operation is completed. Don't use t
 
 ## parent/child
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *clear, delete*, or *remove*.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *clear, delete*, or *remove*.
 
 Not *parent – child* or *parent—child*. Don't use as a synonym for a primary/subordinate relationship.
 
@@ -206,7 +206,7 @@ For more information, see [UI elements and interaction](https://make.wordpress.o
 
 ## port
 
-OK to use the verb forms *port* and *port to* in developer documentation and for a technical audience in the context of portability. Avoid using in user documentation.
+OK to use the verb forms *port* and *port to* in developer documentation and for a technical audience in the context of portability. Avoid using in user documentation and for a general audience.
 
 Use *port* as a noun to refer to a location for passing data in and out of a computer or device. Don’t use *connector* to refer to a port.
 
@@ -294,7 +294,7 @@ For more information, see [Dropdown list, combo box, and spin box](https://make.
 
 ## purge
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *clear, delete*, or *remove*.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *clear, delete*, or *remove*.
 
 See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 

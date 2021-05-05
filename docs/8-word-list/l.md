@@ -158,7 +158,7 @@ For more information see [List box](https://make.wordpress.org/docs/style-guide/
 
 ## load
 
-Don't use as a verb to mean *start, install, run, set up*, or *download* in user documentation.
+Don't use as a verb to mean *start, install, run, set up*, or *download* in user documentation and for a general audience.
 
 OK to use in developer documentation and for a technical audience.
 

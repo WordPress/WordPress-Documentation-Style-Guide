@@ -146,7 +146,7 @@ For more information, see [Menu bar](https://make.wordpress.org/docs/style-guide
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements).
 
@@ -269,7 +269,7 @@ See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later)
 
 Use as a verb to describe the action of making a disk or disk image available.
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 See also [unmount](https://make.wordpress.org/docs/style-guide/word-list/u/#unmount).
 
