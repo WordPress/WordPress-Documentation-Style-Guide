@@ -208,7 +208,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## run
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 ## runtime
 

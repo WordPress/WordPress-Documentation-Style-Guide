@@ -199,7 +199,7 @@ Don't use. Instead, use something like *To summarize*, or rewrite and rephrase t
 
 ## toggle
 
-As a verb, it is OK to use *toggle* in developer documentation and for a technical audience. Avoid using in user documentation; instead use *turn on or turn off, switch between, enable*, or suitable terminology depending on the context.
+As a verb, it is OK to use *toggle* in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead use *turn on or turn off, switch between, enable*, or relevant terminology depending on the context.
 
 OK to use as a noun or an adjective, as in *toggle button* or *toggle switch*. A *toggle button* is a UI element that switches back and forth between on and off options or states.
 
