@@ -2,13 +2,13 @@
 
 ## fail
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *stop responding* or a contextually relevant term in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *stop responding* or a contextually relevant term in user documentation.
 
 See also [stop, stop responding](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## fail over, failover
 
-Two words as a verb, one word as a noun or an adjective. Avoid using in user documentation.
+Two words as a verb, one word as a noun or an adjective. Avoid using in user documentation and for a general audience.
 
 ## FAQ
 
@@ -87,13 +87,13 @@ For more information, see [Command-line syntax](https://make.wordpress.org/docs/
 
 ## flick
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *swipe* in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *swipe*.
 
 See also [swipe](https://make.wordpress.org/docs/style-guide/word-list/s/#swipe).
 
 ## flush, flush to
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation. Don't use *flush, flush to, flush left*, or *flush right* to describe text alignment. Instead, use *even, left-aligned*, or *right-aligned*, as appropriate.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience. Don't use *flush, flush to, flush left*, or *flush right* to describe text alignment. Instead, use *even, left-aligned*, or *right-aligned*, as appropriate.
 
 See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
 
@@ -177,7 +177,7 @@ Use to indicate a specific place or time as a starting point.
 
 Two words as a noun, hyphenate as an adjective.
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *interface, program, app*, or a contextually relevant and accurate term in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *interface, program, app*, or a contextually relevant and accurate term.
 
 ## FTP
 

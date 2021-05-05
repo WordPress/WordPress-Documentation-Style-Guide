@@ -210,7 +210,7 @@ For more information, see [Translate WordPress](https://make.wordpress.org/polyg
 
 Abbreviation for *graphical user interface*. Use uppercase.
 
-Avoid using. Instead, use UI in developer documentation and interface in user documentation.
+Avoid using. Instead, use UI in developer documentation and interface in user documentation and for a general audience.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 

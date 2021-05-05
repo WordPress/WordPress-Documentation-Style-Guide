@@ -24,7 +24,7 @@ See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close)
 
 ## hardcode
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 ## hard disk
 
