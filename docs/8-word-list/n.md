@@ -12,6 +12,8 @@ Abbreviation for *not available* or *not applicable*. Spell out on first referen
 
 Not *NA, N-A,* or *na*.
 
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## name server
 
 Two words. Not *nameserver* or *name-server*.
@@ -55,6 +57,8 @@ Write *neither A nor B*, not *neither A or B*.
 Don't abbreviate to *net*. Don't use *network* as a verb to refer to the action of connecting a computer to a network.
 
 Computers are *on*, not *in*, a network; and computers on a network are *linked* or *connected*, not *networked*.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## new
 
@@ -101,6 +105,8 @@ For more information about notice types in WordPress, see [Notices](https://make
 OK to abbreviate as *no.* in UI, tables, or headings where space is limited. It's acceptable to abbreviate *number* as *no.*, but consider a global audience; as many languages don't abbreviate *number* as *no.* which may cause confusion.
 
 For more information about formatting numbers, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [# (number sign)](https://make.wordpress.org/docs/style-guide/word-list/symbols/#number-sign).
 
