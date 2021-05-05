@@ -261,7 +261,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## write
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead use *copy*.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead use *copy*.
 
 ### WWW
 

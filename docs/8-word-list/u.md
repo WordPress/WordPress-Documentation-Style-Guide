@@ -137,7 +137,7 @@ See also [uncheck](#uncheck).
 
 Use as a verb to describe the action of making a disk or disk image unavailable.
 
-OK to use in developer documentation and for a technical audience. Avoid using in user documentation; instead, use *eject*.
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead, use *eject*.
 
 ## unselect
 
