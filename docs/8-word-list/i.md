@@ -22,6 +22,14 @@ If you can affix the words *or not* in a clause, use *whether* rather than *if*.
 Don't use. Instead, use *embed*.
 
 ## impact
+
+Use only as a noun. As a verb, use *affect* or a contextually similar verb.
+
+**Examples**  
+[warning] **Not recommended:** This technique impacts application startup. [/warning]  
+[tip] **Acceptable:** This technique has an impact on application startup. [/tip]  
+[tip] **Recommended:** This technique affects application startup. [/tip]  
+
 ## inactive
 ## index, indexes, indices
 ## info
@@ -54,11 +62,21 @@ See also [web]().
 ## into, in to
 
 
+
 See also [onto, on to](o.md).
 
 ## invalid
 ## invoke
 ## I/O
+
+Acronym for *Input/Output*. Use uppercase and note the punctuation.
+
+OK to use in developer documentation and for a technical audience. Always spell out on the first mention. It's OK to abbreviate as *I/O* for subsequent instances.
+
+Avoid using in user documentation and for a general audience.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## iOS
 ## iPad
 ## iPhone
