@@ -105,9 +105,22 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Initialism for *intellectual property* or *internet protocol*. Use uppercase.
 
+As an initialism for *internet protocol*, it's OK to use lowercase in developer documentation, such as protocols or commands.
+
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+See also [IP address](#ip-address).
+
 ## IP address
+
+Initialism for *internet protocol address*. Note capitalization.
+
+It's OK to use lowercase in developer documentation, such as protocols or commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+See also [IP](#ip).
+
 ## issue
 ## italic
 ## it's, its
