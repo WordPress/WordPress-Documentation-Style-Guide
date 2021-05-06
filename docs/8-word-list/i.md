@@ -5,6 +5,11 @@
 ## icon
 ## ID
 ## i.e.
+
+Don't use. Instead, use *that is*.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## if, whether
 
 Use *if* to indicate a condition. Use *whether* to indicate when two outcomes are possible.
@@ -16,6 +21,11 @@ If you can affix the words *or not* in a clause, use *whether* rather than *if*.
 [tip] **Recommended:** The `is_plugin_active()` function determines whether a plugin is active *(or not)*. [/tip]  
 
 ## illegal
+
+Don't use to mean *not valid* or *invalid*.
+
+See also [invalid](#invalid).
+
 ## image
 ## imbed
 
