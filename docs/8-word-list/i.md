@@ -27,6 +27,11 @@ Don't use to mean *not valid* or *invalid*.
 See also [invalid](#invalid).
 
 ## image
+
+See [photo]().
+
+For more information, see [Images, illustrations, and graphics]().
+
 ## imbed
 
 Don't use. Instead, use *embed*.
@@ -62,6 +67,9 @@ Not *inside of*.
 
 ## install
 ## instantiate
+
+Don't use. Instead, use *an instance of* (a class).
+
 ## interface
 ## internet
 
@@ -77,9 +85,12 @@ See also [onto, on to](o.md).
 
 ## invalid
 ## invoke
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
+
 ## I/O
 
-Acronym for *Input/Output*. Use uppercase and note the punctuation.
+Initialism for *Input/Output*. Use uppercase and note the punctuation.
 
 OK to use in developer documentation and for a technical audience. Always spell out on the first mention. It's OK to abbreviate as *I/O* for subsequent instances.
 
@@ -91,6 +102,11 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## iPad
 ## iPhone
 ## IP
+
+Initialism for *intellectual property* or *internet protocol*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## IP address
 ## issue
 ## italic
