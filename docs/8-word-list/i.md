@@ -99,8 +99,17 @@ Avoid using in user documentation and for a general audience.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## iOS
+
+Use uppercase for *OS* in *iOS*.
+
 ## iPad
+
+Capitalize *P* in *iPad*.
+
 ## iPhone
+
+Capitalize *P* in *iPhone*.
+
 ## IP
 
 Initialism for *intellectual property* or *internet protocol*. Use uppercase.
@@ -122,5 +131,8 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 See also [IP](#ip).
 
 ## issue
+
+Don't use as a verb. Avoid using as a synonym for *problem*.
+
 ## italic
 ## it's, its
