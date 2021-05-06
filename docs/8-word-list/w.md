@@ -205,7 +205,7 @@ Capitalize *W* and *P* in *WordPress*.
 
 Not *Wordpress, Word press, Word Press,* or *wordpress*.
 
-**Exception:** It is OK to use *wordpress* in lowercase for WordPress URLs. For example, [make.wordpress.org](https://make.wordpress.org).
+**Exception:** It is OK to use *wordpress* in lowercase in developer documentation such as commands, or WordPress URLs. For example, [make.wordpress.org](https://make.wordpress.org).
 
 ## wordwrap, word wrap
 
@@ -251,7 +251,7 @@ Capitalize *W* and *C* in *WooCommerce*.
 
 Not *Woocommerce, Woo commerce, Woo Commerce,* or *woocommerce*.
 
-**Exception:** It is OK to use *woocommerce* in lowercase for WooCommerce URLs. For example, [woocommerce.com](https://woocommerce.com).
+**Exception:** It is OK to use *woocommerce* in lowercase in developer documentation such as commands, or WooCommerce URLs. For example, [woocommerce.com](https://woocommerce.com).
 
 ## WP-CLI
 
