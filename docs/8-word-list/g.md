@@ -90,11 +90,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## Git
 
-Capitalize. OK to use lowercase in developer documentation, such as commands.
+Capitalize. It's OK to use lowercase in developer documentation, such as commands.
 
 ## GitHub
 
-Capitalize *G* and *H*. Capitalize. OK to use lowercase in developer documentation, such as commands.
+Capitalize *G* and *H*. Capitalize. It's OK to use lowercase in developer documentation, such as commands.
 
 ## given
 

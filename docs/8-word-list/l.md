@@ -148,7 +148,7 @@ For more information, see [Interaction verbs](https://make.wordpress.org/docs/st
 
 ## Linux
 
-Capitalize. OK to use lowercase in developer documentation, such as commands.
+Capitalize. It's OK to use lowercase in developer documentation, such as commands.
 
 ## list box
 
