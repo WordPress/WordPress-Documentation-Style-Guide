@@ -94,7 +94,7 @@ Capitalize. It's OK to use lowercase in developer documentation, such as command
 
 ## GitHub
 
-Capitalize *G* and *H*. Capitalize. It's OK to use lowercase in developer documentation, such as commands.
+Capitalize *G* and *H*. It's OK to use lowercase in developer documentation, such as commands.
 
 ## given
 
