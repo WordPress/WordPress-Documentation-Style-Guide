@@ -211,7 +211,7 @@ For more information, see [Dropdown list, combo box, and spin box](https://make.
 
 Initialism for *Simple Mail Transfer Protocol*. Use uppercase.
 
-It's OK to use lowercase in developer documentation, such as commands.
+It's OK to use lowercase in developer documentation, such as protocols commands.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
@@ -256,7 +256,7 @@ See also [MySQL](https://make.wordpress.org/docs/style-guide/word-list/m/#mysql)
 
 Initialism for *Secure Shell*. Use uppercase.
 
-It's OK to use lowercase in developer documentation, such as commands.
+It's OK to use lowercase in developer documentation, such as protocols or commands.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
