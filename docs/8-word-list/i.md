@@ -60,6 +60,9 @@ See also [start](), [restart](), [turn on, turn off]().
 One word. Not *in line* or *in-line*.
 
 ## in order to
+
+Avoid using. Instead, use *use to*.
+
 ## input
 ## inside
 
@@ -112,9 +115,9 @@ Capitalize *P* in *iPhone*.
 
 ## IP
 
-Initialism for *intellectual property* or *internet protocol*. Use uppercase.
+Initialism for *intellectual property* or *Internet Protocol*. Use uppercase.
 
-As an initialism for *internet protocol*, it's OK to use lowercase in developer documentation, such as protocols or commands.
+As an initialism for *Internet Protocol*, it's OK to use lowercase in developer documentation, such as protocols or commands.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
@@ -122,7 +125,7 @@ See also [IP address](#ip-address).
 
 ## IP address
 
-Initialism for *internet protocol address*. Note capitalization.
+Initialism for *Internet Protocol address*. Note capitalization.
 
 It's OK to use lowercase in developer documentation, such as protocols or commands.
 
