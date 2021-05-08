@@ -47,7 +47,13 @@ Use only as a noun. As a verb, use *affect* or a contextually similar verb.
 
 ## inactive
 ## index, indexes, indices
+
+Use *indexes* as the plural form of *index*. Use *indices* only in the context of mathematical expressions.
+
 ## info
+
+It's OK to use *info* as a shortened term for *information* in an informal context.
+
 ## initialize
 
 Don't use to mean *start* a program or application, or *turn on* a device.
@@ -83,6 +89,11 @@ See also [enter](), [type]().
 Not *inside of*.
 
 ## install
+
+Use as a verb to describe the action of adding programs, apps, other software, and hardware from a device.
+
+Don't use *install* as a noun. Instead, use *installation*.
+
 ## instantiate
 
 Don't use. Instead, use *an instance of* (a class).
