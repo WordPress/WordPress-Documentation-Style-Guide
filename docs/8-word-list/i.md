@@ -50,11 +50,16 @@ Use only as a noun. As a verb, use *affect* or a contextually similar verb.
 ## info
 ## initialize
 
+Don't use to mean *start* a program or application, or *turn on* a device.
 
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 See also [start](), [restart](), [turn on, turn off]().
 
 ## initiate
+
+Don't use to mean *start* a program or application.
+
 ## inline
 
 One word. Not *in line* or *in-line*.
@@ -64,6 +69,15 @@ One word. Not *in line* or *in-line*.
 Avoid using. Instead, use *use to*.
 
 ## input
+
+Don't use as a verb. Instead, use a contextually appropriate verb such as *enter*, *type*.
+
+In user documentation and for a general audience, don't use as a noun to mean data or value entered.
+
+For more information, see [Interaction verbs]().
+
+See also [enter](), [type]().
+
 ## inside
 
 Not *inside of*.
