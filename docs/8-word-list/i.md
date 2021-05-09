@@ -3,7 +3,17 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## icon
+
+
+
 ## ID
+
+Initialism for *identification* or *identifier*. Use uppercase.
+
+It's OK to use lowercase in developer documentation, such as protocols or commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## i.e.
 
 Don't use. Instead, use *that is*.
@@ -46,6 +56,9 @@ Use only as a noun. As a verb, use *affect* or a contextually similar verb.
 [tip] **Recommended:** This technique affects application startup. [/tip]  
 
 ## inactive
+
+
+
 ## index, indexes, indices
 
 Use *indexes* as the plural form of *index*. Use *indices* only in the context of mathematical expressions.
@@ -99,12 +112,18 @@ Don't use *install* as a noun. Instead, use *installation*.
 Don't use. Instead, use *an instance of* (a class).
 
 ## interface
+
+
+
 ## internet
 
 
 See also [web]().
 
 ## interrupt
+
+
+
 ## into, in to
 
 
@@ -112,6 +131,9 @@ See also [web]().
 See also [onto, on to](o.md).
 
 ## invalid
+
+
+
 ## invoke
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
@@ -163,4 +185,7 @@ See also [IP](#ip).
 Don't use as a verb. Avoid using as a synonym for *problem*.
 
 ## italic
+
+
+
 ## it's, its
