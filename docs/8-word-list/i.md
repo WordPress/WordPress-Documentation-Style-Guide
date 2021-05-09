@@ -57,7 +57,9 @@ Use only as a noun. As a verb, use *affect* or a contextually similar verb.
 
 ## inactive
 
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
+See also [dimmed](), [disable, disabled](), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]()
 
 ## index, indexes, indices
 
@@ -122,7 +124,9 @@ See also [web]().
 
 ## interrupt
 
+OK to use as a noun in developer documentation and for a technical audience.
 
+See also [close](), [end](), [exit](), [stop]().
 
 ## into, in to
 
