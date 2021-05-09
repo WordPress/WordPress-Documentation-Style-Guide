@@ -15,7 +15,7 @@ See also [disable](), [turn on, turn off]().
 ## end
 
 
-See also [close](), [exit](), [stop](), [quit]().
+See also [close](), [exit](), [interrupt](), [stop]().
 
 ## enter
 
@@ -24,4 +24,4 @@ See also [type](t.md)
 
 ## exit
 
-See also [close](), [end](), [stop](), [quit]().
+See also [close](), [end](), [interrupt](), [stop]().
