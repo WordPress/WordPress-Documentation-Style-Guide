@@ -2,6 +2,9 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## i18n, internationalization
+
+
 ## icon
 
 
@@ -195,6 +198,12 @@ It's OK to use lowercase in developer documentation, such as protocols or comman
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 See also [IP](#ip).
+
+## ISAPI
+
+Initialism for *Internet Server Application Programming Interface*. Note capitalization.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## issue
 
