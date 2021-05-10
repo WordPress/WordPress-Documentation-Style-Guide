@@ -8,6 +8,8 @@ It's OK to abbreviate *localization* as *l10n*. Spell out on the first mention.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+For more information about writing for a global audience, see {[What is internationalization, localization, and translation?](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/#what-is-internationalization-localization-and-translation).
+
 ## labeled, labeling
 
 Use one *l*, not two. Not *labelled* or *labelling*.
