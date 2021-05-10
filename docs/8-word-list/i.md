@@ -135,6 +135,9 @@ Don't use. Instead, use *an instance of* (a class).
 
 ## internet
 
+Use to refer to the collection of networks such as the World Wide Web or a generic network.
+
+Use lowercase. Capitalize only in proper names, such as *Internet Protocol*.
 
 See also [web]().
 
@@ -222,8 +225,8 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Don't use as a verb. Avoid using as a synonym for *problem*.
 
-## italic
+## italic, italics
 
-
+Use *italic* for the adjective form and *italics* as a noun form.
 
 ## it's, its
