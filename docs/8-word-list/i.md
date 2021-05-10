@@ -133,6 +133,7 @@ Don't use. Instead, use *an instance of* (a class).
 
 
 
+
 ## internet
 
 Use to refer to the collection of networks such as the World Wide Web or a generic network.
@@ -227,6 +228,12 @@ Don't use as a verb. Avoid using as a synonym for *problem*.
 
 ## italic, italics
 
-Use *italic* for the adjective form and *italics* as a noun form.
+Use *italic* for the adjective form and the plural *italics* as a noun form.
 
 ## it's, its
+
+Be wary of common mistakes such as confusing *its* with *it's*.
+
+The possessive of *it* is *its* and doesn't have an apostrophe. Whereas *it's* is a contraction for *it is*.
+
+For more information, see [Contractions](https://make.wordpress.org/docs/style-guide/language-grammar/contractions/#common-contractions) and [Possessives](https://make.wordpress.org/docs/style-guide/language-grammar/possessives/).
