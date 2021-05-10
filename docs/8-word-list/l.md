@@ -2,9 +2,9 @@
 
 ## l10n, localization
 
-Acronym for *localization*.
+Abbreviation for *localization*.
 
-OK to abbreviate *localization* as *l10n*. Spell out on the first mention.
+It's OK to abbreviate *localization* as *l10n*. Spell out on the first mention.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
