@@ -4,6 +4,13 @@
 
 ## i18n, internationalization
 
+Abbreviation for *internationalization*.
+
+It's OK to abbreviate *internationalization* as *i18n*. Spell out on the first mention.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+For more information about writing for a global audience, see {[What is internationalization, localization, and translation?](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/#what-is-internationalization-localization-and-translation).
 
 ## icon
 
@@ -199,9 +206,15 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 See also [IP](#ip).
 
+## IRC
+
+Initialism for *Internet Relay Chat*. Note capitalization.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## ISAPI
 
-Initialism for *Internet Server Application Programming Interface*. Note capitalization.
+Initialism for *Internet Server Application Programming Interface*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
