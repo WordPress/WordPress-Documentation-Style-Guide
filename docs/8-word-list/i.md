@@ -130,13 +130,19 @@ See also [close](), [end](), [exit](), [stop]().
 
 ## into, in to
 
+Use *in to* when *in* is part of the verb. Use *into* to refer to a movement or action taking place inside something, or expressing a change of state.
 
+**Examples**  
+[warning] **Not recommended:** Log into your computer. [/warning]  
+[tip] **Recommended:** Log in to your computer. [/tip]  
+[tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool.  [/tip]  
+[tip] **Recommended:** Split the columns into one-thirds using the column block. [/tip]  
 
-See also [onto, on to](o.md).
+See also [onto, on to]().
 
 ## invalid
 
-
+OK to use. When possible, use more specific and accurate terms depending on the context.
 
 ## invoke
 
