@@ -14,6 +14,12 @@ It's OK to use lowercase in developer documentation, such as protocols or comman
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+## IDE
+
+Initialism for *Integrated Development Environment*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## i.e.
 
 Don't use. Instead, use *that is*.
