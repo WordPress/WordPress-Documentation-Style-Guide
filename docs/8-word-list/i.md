@@ -14,7 +14,17 @@ For more information about writing for a global audience, see {[What is internat
 
 ## icon
 
+Use only to describe a graphic that represents another item or object such as a folder, document, or app.
 
+Use bold formatting for the icon name. For more information, see [UI elements and interaction]().
+
+Don't use *icon* to describe options that appear on toolbars, menus, or other UI elements in a window. For options that have graphics rather than text labels, use the most descriptive term available, such as *button, box*, or *checkbox*.
+
+If a graphic is enclosed in a rectangular border, then refer to it as a *button*. If it is not enclosed in a rectangular border, and doesn't initiate an action when clicked, then refer to it as an *icon*.
+
+If an icon doesn't have any label or name, and you have to use a descriptor, use a contextually relevant term. Describe the icon's appearance or function. Use lowercase. It's OK to use the word *icon* in discussions about the icon itself.
+
+See also [button](https://make.wordpress.org/docs/style-guide/word-list/b/#button), [symbol](https://make.wordpress.org/docs/style-guide/word-list/s/#symbol).
 
 ## ID
 
