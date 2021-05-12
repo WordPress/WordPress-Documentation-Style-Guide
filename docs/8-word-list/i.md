@@ -22,7 +22,7 @@ Don't use *icon* to describe options that appear on toolbars, menus, or other UI
 
 If a graphic is enclosed in a rectangular border, then refer to it as a *button*. If it is not enclosed in a rectangular border, and doesn't initiate an action when clicked, then refer to it as an *icon*.
 
-If an icon doesn't have any label or name, and you have to use a descriptor, use a contextually relevant term. Describe the icon's appearance or function. Use lowercase. It's OK to use the word *icon* in discussions about the icon itself.
+If an icon doesn't have any label or name, and you have to use a descriptor, use a contextually relevant term. Describe the icon's appearance or function and include an inline graphic of the icon. Don't enclose the icon in parentheses. Use lowercase. It's OK to use the word *icon* in discussions about the icon itself.
 
 See also [button](https://make.wordpress.org/docs/style-guide/word-list/b/#button), [symbol](https://make.wordpress.org/docs/style-guide/word-list/s/#symbol).
 
@@ -141,8 +141,11 @@ Don't use. Instead, use *an instance of* (a class).
 
 ## interface
 
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
+Don't use as a verb. Instead, use *interact* or *communicate*.
 
+See also [UI]().
 
 ## internet
 
@@ -239,6 +242,8 @@ Don't use as a verb. Avoid using as a synonym for *problem*.
 ## italic, italics
 
 Use *italic* for the adjective form and the plural *italics* as a noun form.
+
+For more information, see [Formatting common text elements]().
 
 ## it's, its
 
