@@ -10,13 +10,13 @@ It's OK to abbreviate *internationalization* as *i18n*. Spell out on the first m
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-For more information about writing for a global audience, see {[What is internationalization, localization, and translation?](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/#what-is-internationalization-localization-and-translation).
+For more information about writing for a global audience, see [What is internationalization, localization, and translation?](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/#what-is-internationalization-localization-and-translation).
 
 ## icon
 
 Use only to describe a graphic that represents another item or object such as a folder, document, or app.
 
-Use bold formatting for the icon name. For more information, see [UI elements and interaction]().
+Use bold formatting for the icon name. For more information, see [UI elements and interaction](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 Don't use *icon* to describe options that appear on toolbars, menus, or other UI elements in a window. For options that have graphics rather than text labels, use the most descriptive term available, such as *button, box*, or *checkbox*.
 
@@ -64,9 +64,9 @@ See also [invalid](#invalid).
 
 ## image
 
-See [photo]().
+See [photo](https://make.wordpress.org/docs/style-guide/word-list/p/#photo).
 
-For more information, see [Images, illustrations, and graphics]().
+For more information, see [Images, illustrations, and graphics](https://make.wordpress.org/docs/style-guide/formatting/media/#images-illustrations-and-graphics).
 
 ## imbed
 
@@ -85,7 +85,7 @@ Use only as a noun. As a verb, use *affect* or a contextually similar verb.
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
-See also [dimmed](), [disable, disabled](), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]()
+See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimmed), [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
 
 ## index, indexes, indices
 
@@ -101,7 +101,7 @@ Don't use to mean *start* a program or application, or *turn on* a device.
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
-See also [start](), [restart](), [turn on, turn off]().
+See also [start](https://make.wordpress.org/docs/style-guide/word-list/s/#start), [restart](https://make.wordpress.org/docs/style-guide/word-list/r/#restart), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
 ## initiate
 
