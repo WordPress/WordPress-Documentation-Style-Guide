@@ -121,9 +121,9 @@ Don't use as a verb. Instead, use a contextually appropriate verb such as *enter
 
 In user documentation and for a general audience, don't use as a noun to mean data or value entered.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input).
 
-See also [enter](), [type]().
+See also [enter](https://make.wordpress.org/docs/style-guide/word-list/e/#enter), [type](https://make.wordpress.org/docs/style-guide/word-list/t/#type).
 
 ## inside
 
@@ -145,7 +145,7 @@ OK to use in developer documentation and for a technical audience. Avoid using i
 
 Don't use as a verb. Instead, use *interact* or *communicate*.
 
-See also [UI]().
+See also [UI](https://make.wordpress.org/docs/style-guide/word-list/u/#ui).
 
 ## internet
 
@@ -153,13 +153,13 @@ Use to refer to the collection of networks such as the World Wide Web or a gener
 
 Use lowercase. Capitalize only in proper names, such as *Internet Protocol*.
 
-See also [web]().
+See also [web](https://make.wordpress.org/docs/style-guide/word-list/w/#web).
 
 ## interrupt
 
 OK to use as a noun in developer documentation and for a technical audience.
 
-See also [close](), [end](), [exit](), [stop]().
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
 
 ## into, in to
 
@@ -171,7 +171,7 @@ Use *in to* when *in* is part of the verb. Use *into* to refer to a movement or 
 [tip] **Recommended:** You can import content into your site from another WordPress site using the WordPress Import tool.  [/tip]  
 [tip] **Recommended:** Split the columns into one-thirds using the column block. [/tip]  
 
-See also [onto, on to]().
+See also [onto, on to](https://make.wordpress.org/docs/style-guide/word-list/o/#onto-on-to).
 
 ## invalid
 
@@ -243,7 +243,7 @@ Don't use as a verb. Avoid using as a synonym for *problem*.
 
 Use *italic* for the adjective form and the plural *italics* as a noun form.
 
-For more information, see [Formatting common text elements]().
+For more information, see [Formatting common text elements](https://make.wordpress.org/docs/style-guide/formatting/text/#formatting-common-text-elements).
 
 ## it's, its
 
