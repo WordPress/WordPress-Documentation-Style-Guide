@@ -1,7 +1,5 @@
 # I
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## i18n, internationalization
 
 Abbreviation for *internationalization*.
