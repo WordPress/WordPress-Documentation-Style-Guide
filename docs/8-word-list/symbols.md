@@ -8,6 +8,12 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when r
 
 The use of `&` in code is completely fine.
 
+## = (equal sign)
+
+Not *equal’s sign, equals sign*, or *equal symbol*.
+
+Insert spaces before and after an equal sign.
+
 ## .htaccess
 
 Use code font.
