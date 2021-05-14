@@ -16,6 +16,7 @@ See also [lower](l.md).
 ## either/or
 ## element
 ## email
+## embed
 ## emoji
 ## enable, enabled
 
@@ -32,13 +33,18 @@ See also [close](), [exit](), [interrupt](), [stop]().
 ## enter
 
 
+
 See also [type](t.md)
 
+## entry field
+## erase
+## et al.
 ## etc.
 ## execute
 ## exit
 
 See also [close](), [end](), [interrupt](), [stop]().
 
+## expand
 ## exploit
 ## extract
