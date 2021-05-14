@@ -14,6 +14,9 @@ See also [lower](l.md).
 ## e-commerce
 ## e.g.
 ## either/or
+## element
+## email
+## emoji
 ## enable, enabled
 
 
@@ -24,11 +27,18 @@ See also [disable](), [turn on, turn off]().
 
 See also [close](), [exit](), [interrupt](), [stop]().
 
+## endpoint
+## end user, end-user
 ## enter
 
 
 See also [type](t.md)
 
+## etc.
+## execute
 ## exit
 
 See also [close](), [end](), [interrupt](), [stop]().
+
+## exploit
+## extract
