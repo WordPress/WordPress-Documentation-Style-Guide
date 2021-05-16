@@ -48,7 +48,7 @@ Use an en dash indicate a range of numbers such as values or dates. Don't add sp
 [tip] **Recommended:** The program was under active development from 2012–2017. [/tip]  
 [tip] **Recommended:** Select a range from 10–60 px as the width of the button. [/tip]  
 
-Use an en dash to indicate negative numbers and the minus sign. While writing an equation with a minus sign, insert spaces before and after the minus (en dash). Contrarily, while writing a negative sign (en dash), don't insert a space after it but do insert one before the sign.
+Use an en dash to indicate negative numbers and the minus sign. While writing an equation with a minus sign, insert a space before and after the minus (en dash). Contrarily, while writing a negative sign (en dash), don't insert a space after it but do insert one before the sign.
 
 **Examples**  
 [warning] **Not recommended:** Enter the CAPTCHA: 20–6=14. [/warning]  
