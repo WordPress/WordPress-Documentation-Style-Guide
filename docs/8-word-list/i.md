@@ -70,6 +70,14 @@ For more information, see [Images, illustrations, and graphics](https://make.wor
 
 Don't use. Instead, use *embed*.
 
+## img file
+
+Don't use a filename extension to refer to a type of file. For example, use *disc image file* or *bitmap image file* rather than *.img file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
+See also [image](#image).
+
 ## impact
 
 Use only as a noun. As a verb, use *affect* or a contextually similar verb.
