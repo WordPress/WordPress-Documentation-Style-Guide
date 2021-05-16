@@ -12,7 +12,7 @@ The use of `&` in code is completely fine.
 
 Not *equal’s sign, equals sign*, or *equal symbol*.
 
-Insert spaces before and after an equal sign.
+Insert a space before and after the equal sign.
 
 ## .htaccess
 
