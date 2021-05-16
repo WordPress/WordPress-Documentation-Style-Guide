@@ -44,6 +44,11 @@ See also [type](t.md)
 ## entry field
 ## erase
 ## et al.
+
+Don't use. Instead, use *and others*.
+
+It's OK to use *et al.* in a citation that includes three or more authors.
+
 ## etc.
 ## exe
 
