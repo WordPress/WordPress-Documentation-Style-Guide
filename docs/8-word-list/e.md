@@ -13,6 +13,11 @@ See also [lower](l.md).
 ## e-book
 ## e-commerce
 ## e.g.
+
+Don't use. Instead, use *for example, such as*, or *like*.
+
+See also [like](), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
+
 ## either/or
 ## element
 ## email
@@ -40,8 +45,16 @@ See also [type](t.md)
 ## erase
 ## et al.
 ## etc.
+## exe
+
+Don't use a filename extension to refer to a type of file. For example, use *executable file* rather than *.exe file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## execute
 ## exit
+
+
 
 See also [close](), [end](), [interrupt](), [stop]().
 
