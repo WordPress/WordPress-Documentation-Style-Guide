@@ -31,6 +31,9 @@ See also [like](), [such as](https://make.wordpress.org/docs/style-guide/word-li
 ## either/or
 ## element
 ## email
+
+One word. Not *e mail* or *e-mail*.
+
 ## embed
 ## emoji
 ## enable, enabled
@@ -44,6 +47,9 @@ See also [disable](), [turn on, turn off]().
 See also [close](), [exit](), [interrupt](), [stop]().
 
 ## endpoint
+
+One word. Not *end point* or *end-point*.
+
 ## end user, end-user
 ## enter
 
