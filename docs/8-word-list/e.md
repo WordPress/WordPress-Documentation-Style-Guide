@@ -4,7 +4,18 @@
 
 ## e-
 
+Shortened abbreviation for *electronic*.
+
+In general, hyphenate words beginning with *e-* such as *e-learning, e-book*, and *e-commerce*, unless *e-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## easy, easily
+
+Avoid using. What might be easy for one person, may not be easy for others.
+
 ## earlier
 
 
@@ -39,9 +50,11 @@ One word. Not *e mail* or *e-mail*.
 ## enable, enabled
 
 
+
 See also [disable](), [turn on, turn off]().
 
 ## end
+
 
 
 See also [close](), [exit](), [interrupt](), [stop]().
