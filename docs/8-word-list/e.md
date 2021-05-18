@@ -18,8 +18,10 @@ Avoid using. What might be easy for one person, may not be easy for others.
 
 ## earlier
 
+Use *later* to refer to older versions of a product or software. Don't use *lower, higher, newer*, and *older* in context of versions.
 
-See also [lower](l.md).
+
+See also [later]().
 
 ## e-book
 
@@ -39,7 +41,14 @@ Don't use. Instead, use *for example, such as*, or *like*.
 
 See also [like](), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
 
-## either/or
+## either, either/or
+
+Use *either* only for a choice between two things; avoid using it for a choice between multiple things.
+
+When writing using *either*, use parallel syntax. It's OK to write *Do either A or B* or *Either do A or B*, but don't write *Either do A or B*.
+
+Don't use *either/or*. Use the complete phrase instead.
+
 ## element
 ## email
 
