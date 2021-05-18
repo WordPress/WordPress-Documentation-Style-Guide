@@ -18,7 +18,7 @@ Avoid using. What might be easy for one person, may not be easy for others.
 
 ## earlier
 
-Use *later* to refer to older versions of a product or software. Don't use *lower, higher, newer*, and *older* in context of versions.
+Use *later* to refer to older versions of a product or software. Don't use *lower, older, higher,*, and *newer* in context of versions.
 
 **Examples**  
 [warning] **Not recommended:** To use this function, you must have WordPress 4.2 or lower. [/warning]  
@@ -26,7 +26,7 @@ Use *later* to refer to older versions of a product or software. Don't use *lowe
 [warning] **Not recommended:** To use this function, you must have WordPress 4.2-. [/warning]  
 [tip] **Recommended:** To use this function, you must have WordPress 4.2 or earlier. [/tip]  
 
-See also [later]().
+See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## e-book
 
@@ -44,7 +44,7 @@ Not *ecommerce, eCommerce* or *e commerce*.
 
 Don't use. Instead, use *for example, such as*, or *like*.
 
-See also [like](), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
+See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
 
 ## either, either/or
 
@@ -55,11 +55,17 @@ When writing using *either*, use parallel syntax. It's OK to write *Do either A 
 Don't use *either/or*. Use the complete phrase instead.
 
 ## element
+
+In general, use *element* for HTML and XML items. HTML 4 elements are known as *tags*, but the equivalent elements in modern HTML and XML are known as *elements*.
+
 ## email
 
 One word. Not *e mail* or *e-mail*.
 
 ## embed
+
+Use instead of *imbed*.
+
 ## emoji
 ## enable, enabled
 
