@@ -30,7 +30,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Avoid using in cross-references. Whenever possible, use a link for cross-references, so that readers can find the relevant information.
 
-Use *later* to refer to future versions of a product or software. Don't use *lower, higher, newer*, and *older* in context of versions.
+Use *later* to refer to future versions of a product or software. Don't use *lower, older, higher*, and *newer* in context of versions.
 
 **Examples**  
 [warning] **Not recommended:** To use Block patterns, you must have Gutenberg 7.7 or higher. [/warning]  
@@ -209,9 +209,9 @@ Don't use. Instead, use *many*.
 
 ## lower
 
-Don't use to indicate product version numbers. Instead, use *earlier*.
+Don't use as a synonym for *earlier* to refer to older versions of a product or software. Instead, use *earlier*.
 
-See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [later](#later).
+See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## lowercase
 
