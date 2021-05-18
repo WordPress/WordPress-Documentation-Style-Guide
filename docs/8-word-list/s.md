@@ -396,7 +396,7 @@ It's OK to use *symbol* to refer to text characters, as in the percent symbol (%
 
 Use *sign*, not *symbol*, in the following terms: *division sign, equal sign, greater-than sign, less-than sign, minus sign, multiplication sign, number sign*, and *plus sign*.
 
-When referring to a sign or symbol, introduce its spelled out version and then the sign or symbol in parentheses. It's acceptable to use a symbol by itself in UI, tables, or headings where space is limited.
+When referring to a sign or symbol, introduce its spelled-out version and then the sign or symbol in parentheses. It's acceptable to use a symbol by itself in UI, tables, or headings where space is limited.
 
 For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/) and [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
