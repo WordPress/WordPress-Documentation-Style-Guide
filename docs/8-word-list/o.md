@@ -48,6 +48,12 @@ See also [off-premises, on-premises](#off-premises-on-premises), [onsite](#onsit
 
 Not *ok, okay, Okay, alright*, or *all right*. Use uppercase.
 
+## older
+
+Don't use as a synonym for *earlier* to refer to older versions of a product or software. Instead, use *earlier*.
+
+See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
+
 ## once
 
 Use only to describe *one time*. Don't use as a synonym for *after* or *when*.
