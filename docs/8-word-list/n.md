@@ -64,6 +64,12 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 In most cases, avoid describing a product or feature as *new* as it is likely to become out of date. Instead, state the version of software in which the feature or product was introduced.
 
+## newer
+
+Don't use as a synonym for *later* to refer to subsequent versions of a product or software. Instead, use *later*.
+
+See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
+
 ## NGINX
 
 Acronym for *engine X*. Use uppercase.
