@@ -97,9 +97,9 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 ## higher
 
-Don't use as a synonym for *later* to refer to versions of software. Instead, use *later*.
+Don't use as a synonym for *later* to refer to subsequent versions of a product or software. Instead, use *later*.
 
-See also [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
+See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## highlight
 
