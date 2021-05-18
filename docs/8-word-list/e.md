@@ -20,6 +20,11 @@ Avoid using. What might be easy for one person, may not be easy for others.
 
 Use *later* to refer to older versions of a product or software. Don't use *lower, higher, newer*, and *older* in context of versions.
 
+**Examples**  
+[warning] **Not recommended:** To use this function, you must have WordPress 4.2 or lower. [/warning]  
+[warning] **Not recommended:** To use this function, you must have WordPress 4.2 or older. [/warning]  
+[warning] **Not recommended:** To use this function, you must have WordPress 4.2-. [/warning]  
+[tip] **Recommended:** To use this function, you must have WordPress 4.2 or earlier. [/tip]  
 
 See also [later]().
 
