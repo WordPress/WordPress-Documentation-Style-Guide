@@ -104,7 +104,7 @@ See also [dimmed](https://make.wordpress.org/docs/style-guide/word-list/d/#dimme
 
 ## shell
 
-OK to use as a noun in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience..
+OK to use as a noun in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
 Don't use as a verb, such as *shell* or *shell out*. Instead, use a contextually relevant phrase, such as *create a new shell*.
 
