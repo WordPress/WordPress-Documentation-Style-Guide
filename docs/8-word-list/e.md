@@ -97,7 +97,7 @@ See also [type](t.md)
 
 ## entry field
 
-OK to use entry field in a database context, in developer documentation, and for a technical audience.
+It's OK to use *entry field* in a database context, in developer documentation, and for a technical audience.
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
 
@@ -107,7 +107,9 @@ For more information, see [Text box](https://make.wordpress.org/docs/style-guide
 
 ## erase
 
+Don't use as a synonym for *delete*.
 
+See also [delete]().
 
 ## et al.
 
