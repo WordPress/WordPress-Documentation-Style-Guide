@@ -84,6 +84,11 @@ See also [close](), [exit](), [interrupt](), [stop]().
 One word. Not *end point* or *end-point*.
 
 ## end user, end-user
+
+Two words as a noun. Hyphenate as an adjective.
+
+See also [user]().
+
 ## enter
 
 
@@ -91,7 +96,19 @@ One word. Not *end point* or *end-point*.
 See also [type](t.md)
 
 ## entry field
+
+OK to use entry field in a database context, in developer documentation, and for a technical audience.
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+Don't refer to a text box or text field as an *entry field*. Refer to a text box by its label. If you have to use a descriptor, use *text box*.
+
+For more information, see [Text box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#text-box).
+
 ## erase
+
+
+
 ## et al.
 
 Don't use. Instead, use *and others*.
