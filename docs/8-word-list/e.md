@@ -130,12 +130,22 @@ Don't use a filename extension to refer to a type of file. For example, use *exe
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## execute
+
+OK to use in developer documentation and for a technical audience. 
+
+Avoid using in user documentation and for a general audience. Instead, use *run*.
+
 ## exit
 
+Don't use to describe closing a program or an application.
 
+For more information see [Close - UI elements]().
 
 See also [close](), [end](), [interrupt](), [stop]().
 
 ## expand
+
+Use to describe an action which displays more items or relevant elements in the UI.
+
 ## exploit
 ## extract
