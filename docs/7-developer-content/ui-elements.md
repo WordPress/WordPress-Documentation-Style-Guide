@@ -278,9 +278,11 @@ Use *select and hold* when referring to the action of the user selecting and hol
 [tip] **Recommended:** To pick multiple images, select and hold an image and choose the required images. [/tip]  
 [tip] **Recommended:** On Windows devices, select and hold (or right-click) to open the context menu. [/tip]  
 
-### Enter, type, input  
+### Enter, type
 
-Use *enter, type*, and *input* when referring to the action of the user entering text, or inserting a value.
+Use *enter* and *type* when referring to the action of the user entering text, or inserting a value.
+
+Don't use *input* as a verb.
 
 **Examples**  
 [tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
