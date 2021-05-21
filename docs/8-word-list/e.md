@@ -131,7 +131,7 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## execute
 
-OK to use in developer documentation and for a technical audience. 
+OK to use in developer documentation and for a technical audience.
 
 Avoid using in user documentation and for a general audience. Instead, use *run*.
 
@@ -148,4 +148,11 @@ See also [close](), [end](), [interrupt](), [stop]().
 Use to describe an action which displays more items or relevant elements in the UI.
 
 ## exploit
+
+Don't use to mean *use*. Only use *exploit* in the negative sense.
+
 ## extract
+
+Use instead of *unarchive* or *uncompress*.
+
+For more information, see [File interactions](filenames).
