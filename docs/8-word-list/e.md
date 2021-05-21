@@ -75,7 +75,7 @@ See also [disable](), [turn on, turn off]().
 
 ## end
 
-
+Use as a verb to describe stopping an ongoing process. Use *close* for applications and programs.
 
 See also [close](), [exit](), [interrupt](), [stop]().
 
@@ -91,9 +91,9 @@ See also [user]().
 
 ## enter
 
+Use when referring to the action of the user entering text, or inserting a value.
 
-
-See also [type](t.md)
+See also [type]()
 
 ## entry field
 
