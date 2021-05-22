@@ -68,25 +68,39 @@ Use instead of *imbed*.
 
 ## emoji
 
-Use to refer to small symbols such as 😃 that represent emoticons, gestures, concepts, objects, and other symbols.
+It's OK to use emoji to refer to small symbols such as 😃 that represent emoticons, gestures, concepts, objects, and other symbols in documentation with an informal tone.
 
 Use lowercase. Use *emoji* for both singular and plural forms.
+
+Don't use emoji in documentation or the UI when there's a serious problem, failure, or error.
 
 Use regular punctuation with emoji that appear in running text.
 
 **Example**  
 [tip] **Recommended:** Look out for new updates 👀! [/tip]  
 
+Ensure that the meaning of your documentation could be conveyed without emoji. Using emoji may prove to be difficult for accessibility, localization, or for translation. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting emoji.
+
+For more information, see [Writing documentation for an international audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
+
 See also [emoticon](#emoticon).
 
 ## emoticon
 
+It's OK to use emoticons to represent an emotion or a facial expression in documentation with an informal tone. Generally, emoticons are created with typographic characters or symbols such as :), :P, or XD.
 
+Don't use emoticons in documentation or the UI when there's a serious problem, failure, or error.
 
+Use regular punctuation with emoji that appear in running text.
 
-Ensure that the meaning of your documentation could be conveyed without emojis or emoticons. Using emoticons may prove to be difficult for accessibility, localization, or for translation. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting emoticons.
+**Example**  
+[tip] **Recommended:** The bug was fixed :). [/tip]  
+
+Ensure that the meaning of your documentation could be conveyed without emoticons. Using emoticons may prove to be difficult for accessibility, localization, or for translation. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting emoticons.
 
 For more information, see [Writing documentation for an international audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
+
+See also [emoji](#emoji).
 
 ## enable, enabled
 
