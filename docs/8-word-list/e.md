@@ -68,12 +68,15 @@ Use instead of *imbed*.
 
 ## emoji
 
-
+Use lowercase. Use *emoji* for both singular and plural forms.
 
 
 ## enable, enabled
 
-Use *enable* to refer to turning on an option or feature.
+Use *enable* to refer to turning on an option or feature or making an action possible.
+
+**Example**  
+[tip] **Recommended:** To enable full width, select the Site Width toggle button. [/tip]  
 
 Don't use *enables* for things that *allow* you, or *let* you, or give you the ability to do something. Instead, rewrite the sentence to emphasize on the task that the user can accomplish. If you have to express ability to do something, use *lets you*.
 
