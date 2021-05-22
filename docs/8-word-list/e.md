@@ -81,6 +81,13 @@ See also [emoticon](#emoticon).
 
 ## emoticon
 
+
+
+
+Ensure that the meaning of your documentation could be conveyed without emojis or emoticons. Using emoticons may prove to be difficult for accessibility, localization, or for translation. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting emoticons.
+
+For more information, see [Writing documentation for an international audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
+
 ## enable, enabled
 
 Use *enable* to refer to turning on an option or feature or making an action possible.
