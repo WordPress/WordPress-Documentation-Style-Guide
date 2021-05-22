@@ -68,8 +68,18 @@ Use instead of *imbed*.
 
 ## emoji
 
+Use to refer to small symbols such as 😃 that represent emoticons, gestures, concepts, objects, and other symbols.
+
 Use lowercase. Use *emoji* for both singular and plural forms.
 
+Use regular punctuation with emoji that appear in running text.
+
+**Example**  
+[tip] **Recommended:** Look out for new updates 👀! [/tip]  
+
+See also [emoticon](#emoticon).
+
+## emoticon
 
 ## enable, enabled
 
