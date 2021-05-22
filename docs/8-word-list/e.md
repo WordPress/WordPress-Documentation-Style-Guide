@@ -67,11 +67,30 @@ One word. Not *e mail* or *e-mail*.
 Use instead of *imbed*.
 
 ## emoji
+
+
+
+
 ## enable, enabled
 
+Use *enable* to refer to turning on an option or feature.
 
+Don't use *enables* for things that *allow* you, or *let* you, or give you the ability to do something. Instead, rewrite the sentence to emphasize on the task that the user can accomplish. If you have to express ability to do something, use *lets you*.
 
-See also [disable](), [turn on, turn off]().
+**Examples**  
+[warning] **Not recommended:** The `get` request enables you to retrieve the data. [/warning]  
+[tip] **Sometimes okay:** The `get` request lets you retrieve the data. [/tip]  
+[tip] **Recommended:** You can retrieve the data using the `get` request. [/tip]  
+
+Don’t use *enabled* to mean *selected* such as while referring to radio buttons or checkboxes.
+
+**Examples**  
+[warning] **Not recommended:** Ensure that your choice is enabled. [/warning]  
+[tip] **Recommended:** Ensure that your choice is selected. [/tip]  
+
+For more information, see [Switch, turn on, turn off, enable]().
+
+See also [disable, disabled](), [turn on, turn off]().
 
 ## end
 
@@ -92,6 +111,8 @@ See also [user]().
 ## enter
 
 Use when referring to the action of the user entering text, or inserting a value.
+
+For more information, see [Enter, input](UI elements).
 
 See also [type]()
 
