@@ -208,9 +208,9 @@ Hyphenate as adjectives. Use instead of *top left* and *top right*.
 **Example**  
 [tip] **Recommended:** The upper-left corner [/tip]  
 
-In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
 
-For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
+For more information, see [Writing documentation for an international audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/) and [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 ## upsize
 
