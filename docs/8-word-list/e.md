@@ -140,15 +140,15 @@ One word. Not *end point* or *end-point*.
 
 Two words as a noun. Hyphenate as an adjective.
 
-See also [user]().
+See also [user](https://make.wordpress.org/docs/style-guide/word-list/u/#user).
 
 ## enter
 
 Use when referring to the action of the user entering text, or inserting a value.
 
-For more information, see [Enter, input](UI elements).
+For more information, see [Enter, type](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type).
 
-See also [type]()
+See also [type](https://make.wordpress.org/docs/style-guide/word-list/t/#type).
 
 ## entry field
 
@@ -164,7 +164,7 @@ For more information, see [Text box](https://make.wordpress.org/docs/style-guide
 
 Don't use as a synonym for *delete*.
 
-See also [delete]().
+See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete).
 
 ## et al.
 
@@ -176,7 +176,7 @@ It's OK to use *et al.* in a citation that includes three or more authors.
 
 Don't use. Instead, use *such as* or *like* followed by some examples.
 
-See also [like](), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
+See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
 
 ## exe
 
@@ -194,9 +194,9 @@ Avoid using in user documentation and for a general audience. Instead, use *run*
 
 Don't use to describe closing a program or an application.
 
-For more information see [Close - UI elements]().
+For more information see [Close](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#close).
 
-See also [close](), [end](), [interrupt](), [stop]().
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
 
 ## expand
 
@@ -210,4 +210,4 @@ Don't use to mean *use*. Only use *exploit* in the negative sense.
 
 Use instead of *unarchive* or *uncompress*.
 
-For more information, see [File interactions](filenames).
+For more information, see [File interactions](https://make.wordpress.org/docs/style-guide/formatting/filenames/#file-interactions).
