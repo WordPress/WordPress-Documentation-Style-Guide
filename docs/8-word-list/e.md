@@ -1,7 +1,5 @@
 # E
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## e-
 
 Shortened abbreviation for *electronic*.
