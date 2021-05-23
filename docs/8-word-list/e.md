@@ -122,15 +122,15 @@ Don’t use *enabled* to mean *selected* such as while referring to radio button
 [warning] **Not recommended:** Ensure that your choice is enabled. [/warning]  
 [tip] **Recommended:** Ensure that your choice is selected. [/tip]  
 
-For more information, see [Switch, turn on, turn off, enable]().
+For more information, see [Switch, turn on, turn off, enable](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#switch-turn-on-turn-off-enable).
 
-See also [disable, disabled](), [turn on, turn off]().
+See also [disable, disabled](https://make.wordpress.org/docs/style-guide/word-list/d/#disable-disabled), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
 ## end
 
 Use as a verb to describe stopping an ongoing process. Use *close* for applications and programs.
 
-See also [close](), [exit](), [interrupt](), [stop]().
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
 
 ## endpoint
 
