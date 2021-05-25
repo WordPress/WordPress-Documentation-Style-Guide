@@ -7,7 +7,11 @@
 ## dataset
 ## data source
 ## data type
-## deprecate
+## debug
+## decrement
+## default
+## deinstall
+## deprecate, deprecated
 ## delete
 
 
@@ -16,6 +20,8 @@ See also [remove](), [cut, cut-paste]().
 
 ## deselect
 ## desire
+## desktop
+## destination
 ## dialog
 ## directory
 
@@ -36,6 +42,7 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 ## DNS
 ## DNSSEC
 ## document, documentation
+## double-tap
 ## download
 ## drag
 
@@ -44,3 +51,5 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
 See also [move]().
+
+## drop-down
