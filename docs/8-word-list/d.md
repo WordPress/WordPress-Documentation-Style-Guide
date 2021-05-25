@@ -22,7 +22,10 @@ See also [remove](), [cut, cut-paste]().
 ## desire
 ## desktop
 ## destination
+## device
 ## dialog
+## different
+## direction keys
 ## directory
 
 ## dimmed
@@ -39,10 +42,15 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 
 ## disk
 ## display
+## display adapter, display driver
 ## DNS
 ## DNSSEC
 ## document, documentation
+## DOM
+## domain
+## double-click
 ## double-tap
+## downgrade
 ## download
 ## drag
 
@@ -52,4 +60,5 @@ For more information, see [UI elements](https://make.wordpress.org/docs/style-gu
 
 See also [move]().
 
-## drop-down
+## drive
+## dropdown
