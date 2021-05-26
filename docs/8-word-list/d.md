@@ -8,8 +8,15 @@
 ## data source
 ## data type
 ## debug
+## deactivate
 ## decrement
 ## default
+## degree
+
+See [degree sign]().
+
+## dehighlight
+
 ## deinstall
 ## deprecate, deprecated
 ## delete
@@ -18,6 +25,7 @@
 
 See also [remove](), [cut, cut-paste]().
 
+## depress
 ## deselect
 ## desire
 ## desktop
@@ -40,6 +48,7 @@ See also [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shade
 
 See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
 
+## disc
 ## disk
 ## display
 ## display adapter, display driver
@@ -48,6 +57,7 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 ## document, documentation
 ## DOM
 ## domain
+## double-
 ## double-click
 ## double-tap
 ## downgrade
