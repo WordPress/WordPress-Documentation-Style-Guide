@@ -8,6 +8,11 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when r
 
 The use of `&` in code is completely fine.
 
+## º (degree sign)
+
+
+
+
 ## = (equal sign)
 
 Not *equal’s sign, equals sign*, or *equal symbol*.
