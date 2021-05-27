@@ -56,14 +56,23 @@ Acronym for *Domain Name System*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+See also [DNSSEC](#dnssec).
+
 ## DNSSEC
 
 Acronym for *Domain Name System Security Extensions*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+See also [DNS](#dns).
+
 ## document, documentation
 ## DOM
+
+Acronym for *Document Object Model*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## domain
 ## double-
 ## double-click
