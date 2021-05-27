@@ -16,7 +16,6 @@
 See [degree sign]().
 
 ## dehighlight
-
 ## deinstall
 ## deprecate, deprecated
 ## delete
@@ -35,7 +34,6 @@ See also [remove](), [cut, cut-paste]().
 ## different
 ## direction keys
 ## directory
-
 ## dimmed
 
 
@@ -53,7 +51,17 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 ## display
 ## display adapter, display driver
 ## DNS
+
+Acronym for *Domain Name System*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## DNSSEC
+
+Acronym for *Domain Name System Security Extensions*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## document, documentation
 ## DOM
 ## domain
@@ -72,3 +80,5 @@ See also [move]().
 
 ## drive
 ## dropdown
+## dual-
+## due to
