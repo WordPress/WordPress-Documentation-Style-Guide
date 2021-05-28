@@ -5,7 +5,13 @@
 ## dash
 ## data
 ## dataset
+
+One word. Not *data set* or *data-set*.
+
 ## data source
+
+Two words. Not *datasource* or *data-source*.
+
 ## data type
 ## debug
 ## deactivate
