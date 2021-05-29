@@ -13,6 +13,9 @@ One word. Not *data set* or *data-set*.
 Two words. Not *datasource* or *data-source*.
 
 ## data type
+
+Two words. Not *datatype* or *data-type*.
+
 ## debug
 ## deactivate
 ## decrement
@@ -40,6 +43,11 @@ See also [remove](), [cut, cut-paste]().
 ## different
 ## direction keys
 ## directory
+
+In general, use *folder* instead of *directory*.
+
+See also [folder]().
+
 ## dimmed
 
 
