@@ -17,6 +17,9 @@ Two words. Not *datasource* or *data-source*.
 Two words. Not *datatype* or *data-type*.
 
 ## debug
+
+Use only in the context of software development. Don't use as a synonym for *troubleshoot*.
+
 ## deactivate
 ## decrement
 ## default
@@ -25,7 +28,11 @@ Two words. Not *datatype* or *data-type*.
 See [degree sign]().
 
 ## dehighlight
-## deinstall
+
+Don't use. Instead, rephrase the sentence or use a contextually relevant term such as *deselect*.
+
+See also [deselect](#deselect).
+
 ## deprecate, deprecated
 ## delete
 
