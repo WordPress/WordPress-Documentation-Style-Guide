@@ -41,11 +41,21 @@ See also [deselect](#deselect).
 See also [remove](), [cut, cut-paste]().
 
 ## depress
+
+Don't use. Instead, use *press*.
+
+For more information, see [Interaction verbs]().
+
+See also [press, press and hold]().
+
 ## deselect
 ## desire
 ## desktop
 ## destination
 ## device
+
+Use to generically refer to all types of computers, phones, and other devices.
+
 ## dialog
 ## different
 ## direction keys
