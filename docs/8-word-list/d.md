@@ -54,11 +54,18 @@ See also [press, press and hold]().
 ## destination
 ## device
 
-Use to generically refer to all types of computers, phones, and other devices.
+Use to generically refer to all types of computers, phones, and other hardware devices.
+
+Use a more accurate term such as *mobile phone* or *computer* whenever possible.
 
 ## dialog
 ## different
-## direction keys
+## direction keys, directional keys
+
+Don't use *direction keys* or *directional keys*. Instead, use *arrow keys*.
+
+See also [arrow keys]().
+
 ## directory
 
 In general, use *folder* instead of *directory*.
