@@ -19,4 +19,9 @@ See also [PC](https://make.wordpress.org/docs/style-guide/word-list/p/#pc).
 See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
 ## close
+## computer
+
+
+See also [device]().
+
 ## CSS
