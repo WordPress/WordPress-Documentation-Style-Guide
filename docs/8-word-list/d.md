@@ -152,4 +152,11 @@ See also [move]().
 ## drive
 ## dropdown
 ## dual-
+
+In general, hyphenate compound adjectives beginning with *dual-* such as *dual-core, dual-link* and *dual-band*, unless *dual-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## due to
