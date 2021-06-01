@@ -50,6 +50,15 @@ See also [press, press and hold]().
 
 ## deselect
 ## desire
+
+Don't use. Instead, use *want* or *need*.
+
+**Examples**  
+[warning] **Not recommended:** If you desire to change the color of the menu, go to **Appearance**. [/warning]  
+[tip] **Recommended:** If you want to change the color of the menu, go to **Appearance**. [/tip]  
+
+See also [need](), [want]().
+
 ## desktop
 ## destination
 ## device
