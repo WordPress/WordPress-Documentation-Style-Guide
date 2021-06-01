@@ -49,7 +49,10 @@ For more information, see [Interaction verbs]().
 See also [press, press and hold]().
 
 ## deselect
-## desire
+
+
+
+## desire, desired
 
 Don't use. Instead, use *want* or *need*.
 
@@ -60,6 +63,11 @@ Don't use. Instead, use *want* or *need*.
 See also [need](), [want]().
 
 ## desktop
+
+Don't use as a noun to refer to a computer. Instead, use *computer, device*, or a contextually accurate term.
+
+See also [computer](), [device](#device).
+
 ## destination
 ## device
 
@@ -77,7 +85,7 @@ See also [arrow keys]().
 
 ## directory
 
-In general, use *folder* instead of *directory*.
+In general, use *folder* instead of *directory*. It's OK to use *directory* for consistency, such as when your IDE or command-line uses it.
 
 See also [folder]().
 
@@ -122,6 +130,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## domain
 ## double-
+
+In general, hyphenate compound adjectives beginning with *double-* such as *double-layer* and *double-sided*, unless *double-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## double-click
 ## double-tap
 ## downgrade
