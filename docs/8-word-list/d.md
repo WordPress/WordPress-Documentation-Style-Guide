@@ -137,8 +137,21 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
-## double-click
-## double-tap
+## double click, double-click
+
+Use *double-click* as a verb to describe selecting most targets such as buttons, links, list items, and radio buttons by clicking the mouse twice in rapid succession. Don't hyphenate as a noun.
+
+For more information, see [Click]().
+
+See also [double tap, double-tap](#double-tap-double-tap).
+
+## double tap, double-tap
+
+
+For more information, see [Tap]().
+
+See also [double click, double-click](#double-click-double-click).
+
 ## downgrade
 ## download
 ## drag
