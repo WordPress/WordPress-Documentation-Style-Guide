@@ -160,6 +160,9 @@ OK to use in developer documentation and for a technical audience.
 Use only in the context of downgrading versions, drivers, software, and similar subjects.
 
 ## download
+
+
+
 ## drag
 
 
@@ -170,6 +173,13 @@ See also [move]().
 
 ## drive
 ## dropdown
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a dropdown by its label. If you have to use a descriptor, use *dropdown*.
+
+It's OK to use *dropdown* as an adjective. Avoid using *dropdown* as a noun.
+
+For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
+
 ## dual-
 
 In general, hyphenate compound adjectives beginning with *dual-* such as *dual-core, dual-link* and *dual-band*, unless *dual-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
