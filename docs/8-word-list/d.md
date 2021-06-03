@@ -147,12 +147,18 @@ See also [double tap, double-tap](#double-tap-double-tap).
 
 ## double tap, double-tap
 
+Use *double-click* as a verb to describe selecting most targets such as buttons, links, list items, and radio buttons by clicking the mouse twice in rapid succession. Don't hyphenate as a noun.
 
 For more information, see [Tap]().
 
 See also [double click, double-click](#double-click-double-click).
 
 ## downgrade
+
+OK to use in developer documentation and for a technical audience.
+
+Use only in the context of downgrading versions, drivers, software, and similar subjects.
+
 ## download
 ## drag
 
@@ -173,3 +179,5 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## due to
+
+Avoid using. Instead, use *because of, caused by*, or a contextually relevant alternative.
