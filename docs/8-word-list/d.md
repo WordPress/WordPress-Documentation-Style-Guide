@@ -104,7 +104,15 @@ See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress
 ## disc
 ## disk
 ## display
+
+Don't use as an intransitive verb. *Display* is a transitive verb; therefore it requires an object.
+
 ## display adapter, display driver
+
+Don't use. Instead, use *video card* and *video driver*.
+
+See also [video card](), [video driver]().
+
 ## DNS
 
 Acronym for *Domain Name System*. Use uppercase.
