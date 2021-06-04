@@ -10,6 +10,8 @@ Use *screen* to refer to what the user looks at on a device.
 
 Don't use as a synonym for *display*.
 
+See also [display](https://make.wordpress.org/docs/style-guide/word-list/d/#display).
+
 ## screenshot
 
 One word. Not *screen shot* or *screen-shot*.
