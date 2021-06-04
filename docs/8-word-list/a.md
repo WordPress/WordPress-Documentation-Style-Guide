@@ -18,4 +18,9 @@ For more information, see [Dates and times]().
 
 ## app, application
 
+## appear
+
+
+See also [display]().
+
 ## arrow keys
