@@ -14,6 +14,10 @@ Use *data* as both a singular and plural noun. Don't use *datum*.
 
 Always use *data* with a singular verb.
 
+**Examples**  
+[warning] **Not recommended:** The data are invalid. [/warning]  
+[tip] **Recommended:** The data is invalid. [/tip]  
+
 ## dataset
 
 One word. Not *data set* or *data-set*.
@@ -31,7 +35,17 @@ Two words. Not *datatype* or *data-type*.
 Use only in the context of software development. Don't use as a synonym for *troubleshoot*.
 
 ## deactivate
+
+Avoid using. Instead, use *turn off*.
+
+See also [turn on, turn off]().
+
 ## decrement
+
+As a verb, use *decrement* to refer to decreasing an integer count by one. Don't use as a synonym for *decrease*.
+
+OK to use in developer documentation and for a technical audience.
+
 ## default
 ## degree
 
