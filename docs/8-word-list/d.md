@@ -3,7 +3,17 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## dash
+
+Don't use *dash* to refer to a *hyphen*.
+
+For more information, see [Dashes]() and [Hyphens]().
+
 ## data
+
+Use *data* as both a singular and plural noun. Don't use *datum*.
+
+Always use *data* with a singular verb.
+
 ## dataset
 
 One word. Not *data set* or *data-set*.
