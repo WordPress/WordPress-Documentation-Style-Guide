@@ -47,6 +47,9 @@ As a verb, use *decrement* to refer to decreasing an integer count by one. Don't
 OK to use in developer documentation and for a technical audience.
 
 ## default
+
+It's OK to use *default* to describe standard settings or specifications.
+
 ## degree
 
 See [degree sign]().
@@ -58,6 +61,15 @@ Don't use. Instead, rephrase the sentence or use a contextually relevant term su
 See also [deselect](#deselect).
 
 ## deprecate, deprecated
+
+Use *deprecate* or *deprecated* to describe a product, a service, or a feature that would be or is unavailable or unsupported.
+
+OK to use in developer documentation and for a technical audience. Instead, use *obsolete* or a contextually relevant term for a general audience.
+
+Don't use *deprecated* to mean *removed, deleted, shut down*, or *turned down*.
+
+See also [obsolete]().
+
 ## delete
 
 
@@ -161,6 +173,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 See also [DNS](#dns).
 
 ## document, documentation
+
+
+
 ## DOM
 
 Acronym for *Document Object Model*. Use uppercase.
@@ -168,6 +183,9 @@ Acronym for *Document Object Model*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## domain
+
+
+
 ## double-
 
 In general, hyphenate compound adjectives beginning with *double-* such as *double-layer* and *double-sided*, unless *double-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
@@ -211,6 +229,9 @@ For more information, see [UI elements](https://make.wordpress.org/docs/style-gu
 See also [move]().
 
 ## drive
+
+
+
 ## dropdown
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a dropdown by its label. If you have to use a descriptor, use *dropdown*.
