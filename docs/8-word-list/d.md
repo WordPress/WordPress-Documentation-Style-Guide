@@ -56,9 +56,9 @@ See [degree sign]().
 
 ## dehighlight
 
-Don't use. Instead, rephrase the sentence or use a contextually relevant term such as *deselect*.
+Don't use. Instead, rephrase the sentence or use a contextually relevant term such as *clear*.
 
-See also [deselect](#deselect).
+See also [clear](#clear).
 
 ## deprecate, deprecated
 
@@ -86,7 +86,11 @@ See also [press, press and hold]().
 
 ## deselect
 
+Don't use. Instead, use *clear* for checkboxes and *cancel the selection* for other UI elements.
 
+Don't use *uncheck, unselect, unhighlight*, or *dehighlight* as a synonym for *deselect*.
+
+See also [clear]().
 
 ## desire, desired
 
@@ -105,6 +109,9 @@ Don't use as a noun to refer to a computer. Instead, use *computer, device*, or 
 See also [computer](), [device](#device).
 
 ## destination
+
+Use a more contextually accurate term such as the folder name, instead of *destination*. Use *destination* as a modifier only if necessary for clarity.
+
 ## device
 
 Use to generically refer to all types of computers, phones, and other hardware devices.
