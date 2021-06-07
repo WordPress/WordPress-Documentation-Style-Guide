@@ -181,6 +181,11 @@ See also [DNS](#dns).
 
 ## document, documentation
 
+Use *in this document* while referencing in a particular document. Avoid using *in this article* or *in this topic*.
+
+**Examples**  
+[warning] **Not recommended:**  [/warning]  
+[tip] **Recommended:**  [/tip]  
 
 
 ## DOM
