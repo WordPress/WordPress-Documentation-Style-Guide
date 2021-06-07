@@ -36,7 +36,7 @@ OK to use in developer documentation and for a technical audience.
 
 ## file
 
-Whenever possible, use a more specific term, such as document, zip file, or CSS file.
+Whenever possible, use a more specific term, such as *document, zip file*, or *CSS file*.
 
 See also [filename](#filename).
 
