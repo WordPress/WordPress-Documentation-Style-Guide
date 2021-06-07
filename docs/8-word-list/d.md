@@ -181,12 +181,16 @@ See also [DNS](#dns).
 
 ## document, documentation
 
+Use *document* to refer to any editable file such as a text or Word file. Use a contextually relevant term such as *presentation* or *sheet* whenever possible.
+
+For more information, see [Referring to files]().
+
 Use *in this document* while referencing in a particular document. Avoid using *in this article* or *in this topic*.
 
 **Examples**  
-[warning] **Not recommended:**  [/warning]  
-[tip] **Recommended:**  [/tip]  
-
+[warning] **Not recommended:** This article lists all the available WP-CLI commands. [/warning]  
+[warning] **Not recommended:** This topic lists all the available WP-CLI commands. [/warning]  
+[tip] **Recommended:** This document lists all the available WP-CLI commands.  [/tip]  
 
 ## DOM
 
