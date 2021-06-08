@@ -181,7 +181,7 @@ See also [DNS](#dns).
 
 ## document, documentation
 
-Use *document* to refer to any editable file such as a text or Word file. Use a contextually relevant term such as *presentation* or *sheet* whenever possible.
+Use *document* to refer to any editable file such as a *text file* or a *Word file*. Use a contextually relevant term such as *presentation* or *sheet* whenever possible.
 
 For more information, see [Referring to files]().
 
@@ -190,7 +190,11 @@ Use *in this document* while referencing in a particular document. Avoid using *
 **Examples**  
 [warning] **Not recommended:** This article lists all the available WP-CLI commands. [/warning]  
 [warning] **Not recommended:** This topic lists all the available WP-CLI commands. [/warning]  
-[tip] **Recommended:** This document lists all the available WP-CLI commands.  [/tip]  
+[tip] **Recommended:** This document lists all the available WP-CLI commands. [/tip]  
+
+Use *file* for general uses such as *file management* or *file structure*.
+
+See also [file]().
 
 ## DOM
 
