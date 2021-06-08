@@ -10,6 +10,10 @@ Avoid using parentheses in standard sentences unless absolutely needed. Readers 
   **Examples**<br>
   [tip] **Recommended:** Use an em dash (—) also known as a long dash, to set off a break in the flow of a sentence. [/tip]  
   [tip] **Recommended:** End the tag with a greater than (>) symbol. [/tip]  
+- If parentheses are introduced inside a sentence, then don't capitalize the first word even if the enclosed sentence is a complete sentence. Capitalize the first word of the sentence enclosed in parentheses if it is a proper noun.
+  **Examples**<br>
+  [tip] **Recommended:**  [/tip]  
+  [tip] **Recommended:** [/tip]  
 - Don't use parentheses within parentheses for text. Rephrase the sentence if necessary.
 - Use brackets to set off information already within parentheses.
 - If a complete, independent sentence is enclosed within parentheses, include the period or comma inside the parentheses.
