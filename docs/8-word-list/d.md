@@ -121,7 +121,17 @@ Use to generically refer to all types of computers, phones, and other hardware d
 Use a more accurate term such as *mobile phone* or *computer* whenever possible.
 
 ## dialog
+
+
+
 ## different
+
+Don't use to mean *various, many,* or *multiple*.
+
+It's OK to use difference in comparisons. Use *different than* only when *than* is followed by a clause.
+
+Don't use *different to*.
+
 ## direction keys, directional keys
 
 Don't use *direction keys* or *directional keys*. Instead, use *arrow keys*.
@@ -147,7 +157,17 @@ See also [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shade
 See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
 
 ## disc
+
+Use *disc* or *optical disc* to refer to optical storage media such as CDs or DVDs.
+
+For magnetic storage media such as hard disks, use *disk*.
+
+See also [disk](#disk).
+
 ## disk
+
+
+
 ## display
 
 Don't use as an intransitive verb. *Display* is a transitive verb; therefore it requires an object.
