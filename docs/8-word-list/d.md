@@ -72,9 +72,11 @@ See also [obsolete]().
 
 ## delete
 
+Use as a verb to describe removing a file, folder, or other content.
 
+Don't use *delete* as a synonym for *remove*. Don't use *cut* or erase* as a synonym for delete.
 
-See also [remove](), [cut, cut-paste]().
+See also [cut, cut-paste](), [remove]().
 
 ## depress
 
