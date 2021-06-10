@@ -146,9 +146,11 @@ See also [folder]().
 
 ## dimmed
 
+Use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions.
 
+In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing its appearance. Also include how the user can enable it and interact with the element.
 
-See also [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
+See also [disable, disabled](#disable-disabled), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
 
 ## disable, disabled
 
