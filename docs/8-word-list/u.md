@@ -37,7 +37,7 @@ Don't use. Instead, use *extract*.
 
 Use to describe a UI element such as a menu item, dropdown list option, or button that the user can't interact with due to certain conditions. Also, use *unavailable* to describe the unavailability of a product or service.
 
-In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing their appearance. Also include how the user can enable it and interact with the element.
+In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing its appearance. Also include how the user can enable it and interact with the element.
 
 **Examples**  
 [tip] **Recommended:** If the editor permissions are unavailable, contact your site administrator. [/tip]  
