@@ -168,7 +168,15 @@ See also [disk](#disk).
 
 ## disk
 
+Use to refer to magnetic storage media such as hard disks.
 
+It's OK to use *disk* to generically refer to other types of computer storage such as flash storage and solid-state drives. For example, terms like *disk image* and *disk partition* are used in the general sense without considering the type of storage.
+
+Instead of *disk*, you can also use a more general term, such as *computer* or *storage space*.
+
+For optical storage media such as  CDs or DVDs, use *disc*.
+
+See also [disc](#disc).
 
 ## display
 
