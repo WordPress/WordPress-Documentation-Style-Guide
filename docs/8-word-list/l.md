@@ -168,6 +168,8 @@ OK to use in developer documentation and for a technical audience.
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
+See also [download](https://make.wordpress.org/docs/style-guide/word-list/d/#download), [install](https://make.wordpress.org/docs/style-guide/word-list/i/#install), [upload](https://make.wordpress.org/docs/style-guide/word-list/u/#upload).
+
 ## login, log in, logout, log out
 
 Use one word as a noun, as in *login screen* and *logout screen*. Use two words as a verb, as in *log in to your computer* and *log out of your computer*.
