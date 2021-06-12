@@ -141,6 +141,8 @@ Use as a verb to describe the action of adding programs, apps, other software, a
 
 Don't use *install* as a noun. Instead, use *installation*.
 
+See also [download](https://make.wordpress.org/docs/style-guide/word-list/d/#download), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load), [upload](https://make.wordpress.org/docs/style-guide/word-list/u/#upload),
+
 ## instantiate
 
 Don't use. Instead, use *an instance of* (a class).
