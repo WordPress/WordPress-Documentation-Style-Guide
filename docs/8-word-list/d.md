@@ -272,6 +272,12 @@ Use only in the context of downgrading versions, drivers, software, and similar 
 
 Use *download* to refer to user-initiated transfer of data or content to a system or device. Use *install* to describe adding programs, apps, other software, and hardware to a device.
 
+Ensure that you make it clear whether you're using *download* as a noun or verb.
+
+When you use *download* as a verb, describe what the user is downloading and where it is being downloaded. It's OK to use *download* as a noun.
+
+See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#install), [load](https://make.wordpress.org/docs/style-guide/word-list/l/#load), [upload](https://make.wordpress.org/docs/style-guide/word-list/u/#upload).
+
 ## drag
 
 
