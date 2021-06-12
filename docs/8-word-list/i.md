@@ -137,7 +137,7 @@ Not *inside of*.
 
 ## install
 
-Use as a verb to describe the action of adding programs, apps, other software, and hardware from a device.
+Use as a verb to describe the action of adding programs, apps, other software, and hardware to a device.
 
 Don't use *install* as a noun. Instead, use *installation*.
 
