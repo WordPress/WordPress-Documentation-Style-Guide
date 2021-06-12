@@ -236,7 +236,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## domain
 
-
+In general, *domain* has multiple meanings, such as in internet addresses and databases. Specify the meaning of *domain* on the first use.
 
 ## double-
 
@@ -270,7 +270,7 @@ Use only in the context of downgrading versions, drivers, software, and similar 
 
 ## download
 
-
+Use *download* to refer to user-initiated transfer of data or content to a system or device. Use *install* to describe adding programs, apps, other software, and hardware to a device.
 
 ## drag
 
