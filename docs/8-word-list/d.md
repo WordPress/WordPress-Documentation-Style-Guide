@@ -284,15 +284,21 @@ See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#inst
 
 ## drag
 
+Use *drag*, not *drag and drop* and *click and drag*.
 
-
-For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
+For more information, see [Move, drag](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
 See also [move]().
 
 ## drive
 
+Use to refer to a data storage device such as a hard drive, optical drive, or a solid-state drive.
 
+It's OK to use *drive* after specifying the type of drive on the first mention.
+
+Don’t use drive when you mean *disk* or *disc*.
+
+See also [disc](#disc), [disk](#disk).
 
 ## dropdown
 
