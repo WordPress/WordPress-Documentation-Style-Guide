@@ -122,7 +122,11 @@ Use a more accurate term such as *mobile phone* or *computer* whenever possible.
 
 ## dialog
 
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a dialog box by its label. If you have to use a descriptor, use *dialog* or *dialog box*.
 
+Use *dialog*, not *dialogue*. Use *dialogue* only for verbal interaction between people.
+
+For more information, see [Window, page, dialog, and view]().
 
 ## different
 
