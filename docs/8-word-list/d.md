@@ -158,9 +158,13 @@ See also [disable, disabled](#disable-disabled), [shaded](https://make.wordpress
 
 ## disable, disabled
 
+It's OK to use *disable* as a verb in developer documentation and for a technical audience, to mean making a function or feature inactive. Use *disabled* for such functions and features. Avoid using in user documentation and for a general audience.
 
+Don't use *disabled* to refer to UI elements, functions, or features that are turned off or unavailable. Instead, use a more accurate term such as *turned off, inactive,* or *unavailable*.
 
-See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
+Don't use *disabled* to refer to people with disabilities. For more information, see [Accessibility and disability]().
+
+See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [inactive](), [turned off](), [unavailable]().
 
 ## disc
 
@@ -168,7 +172,7 @@ Use *disc* or *optical disc* to refer to optical storage media such as CDs or DV
 
 For magnetic storage media such as hard disks, use *disk*.
 
-See also [disk](#disk).
+See also [disk](#disk), [drive](#drive).
 
 ## disk
 
@@ -180,7 +184,7 @@ Instead of *disk*, you can also use a more general term, such as *computer* or *
 
 For optical storage media such as  CDs or DVDs, use *disc*.
 
-See also [disc](#disc).
+See also [disc](#disc), [drive](#drive).
 
 ## display
 
