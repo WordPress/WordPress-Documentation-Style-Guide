@@ -1,7 +1,5 @@
 # D
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## dash
 
 Don't use *dash* to refer to a *hyphen*.
@@ -292,7 +290,7 @@ Use *drag*, not *drag and drop* and *click and drag*.
 
 For more information, see [Move, drag](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
-See also [move]().
+See also [move](https://make.wordpress.org/docs/style-guide/word-list/m/#move).
 
 ## drive
 
