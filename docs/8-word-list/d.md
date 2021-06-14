@@ -126,7 +126,7 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 
 Use *dialog*, not *dialogue*. Use *dialogue* only for verbal interaction between people.
 
-For more information, see [Window, page, dialog, and view]().
+For more information, see [Window, page, dialog, and view](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#window-page-dialog-and-view).
 
 ## different
 
@@ -140,13 +140,13 @@ Don't use *different to*.
 
 Don't use *direction keys* or *directional keys*. Instead, use *arrow keys*.
 
-See also [arrow keys]().
+See also [arrow keys](https://make.wordpress.org/docs/style-guide/word-list/a/#arrow-keys).
 
 ## directory
 
 In general, use *folder* instead of *directory*. It's OK to use *directory* for consistency, such as when your IDE or command-line uses it.
 
-See also [folder]().
+See also [folder](https://make.wordpress.org/docs/style-guide/word-list/f/#folder).
 
 ## dimmed
 
@@ -154,7 +154,7 @@ Use to describe a UI element such as a menu item, dropdown list option, or butto
 
 In general, describe how the user should interact with the UI rather than describing the state of the UI. Use *appears dimmed* for describing its appearance. Also include how the user can enable it and interact with the element.
 
-See also [disable, disabled](#disable-disabled), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable]().
+See also [disable, disabled](#disable-disabled), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
 
 ## disable, disabled
 
@@ -162,9 +162,9 @@ It's OK to use *disable* as a verb in developer documentation and for a technica
 
 Don't use *disabled* to refer to UI elements, functions, or features that are turned off or unavailable. Instead, use a more accurate term such as *turned off, inactive,* or *unavailable*.
 
-Don't use *disabled* to refer to people with disabilities. For more information, see [Accessibility and disability]().
+Don't use *disabled* to refer to people with disabilities. For more information, see [Accessibility and disability](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#accessibility-and-disability).
 
-See also [enable, enabled](), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [inactive](), [turned off](), [unavailable]().
+See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [inactive](https://make.wordpress.org/docs/style-guide/word-list/i/#inactive), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [unavailable]().
 
 ## disc
 
