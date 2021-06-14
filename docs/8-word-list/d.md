@@ -164,7 +164,7 @@ Don't use *disabled* to refer to UI elements, functions, or features that are tu
 
 Don't use *disabled* to refer to people with disabilities. For more information, see [Accessibility and disability](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#accessibility-and-disability).
 
-See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [inactive](https://make.wordpress.org/docs/style-guide/word-list/i/#inactive), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [unavailable]().
+See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled), [dimmed](#dimmed), [shaded](https://make.wordpress.org/docs/style-guide/word-list/s/#shaded), [inactive](https://make.wordpress.org/docs/style-guide/word-list/i/#inactive), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off), [unavailable](https://make.wordpress.org/docs/style-guide/word-list/u/#unavailable).
 
 ## disc
 
@@ -201,7 +201,7 @@ Use *display* as a general term as a noun, to refer to any visual output device 
 
 Don't use. Instead, use *video card* and *video driver*.
 
-See also [video card](), [video driver]().
+See also [video card](https://make.wordpress.org/docs/style-guide/word-list/v/#video-card), [video driver](https://make.wordpress.org/docs/style-guide/word-list/v/#video-driver).
 
 ## DNS
 
@@ -223,7 +223,7 @@ See also [DNS](#dns).
 
 Use *document* to refer to any editable file such as a *text file* or a *Word file*. Use a contextually relevant term such as *presentation* or *sheet* whenever possible.
 
-For more information, see [Referring to files]().
+For more information, see [Referring to files](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-files).
 
 Use *in this document* while referencing in a particular document. Avoid using *in this article* or *in this topic*.
 
@@ -234,7 +234,7 @@ Use *in this document* while referencing in a particular document. Avoid using *
 
 Use *file* for general uses such as *file management* or *file structure*.
 
-See also [file]().
+See also [file](https://make.wordpress.org/docs/style-guide/word-list/f/#file).
 
 ## DOM
 
@@ -258,7 +258,7 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 Use *double-click* as a verb to describe selecting most targets such as buttons, links, list items, and radio buttons by clicking the mouse twice in rapid succession. Don't hyphenate as a noun.
 
-For more information, see [Click]().
+For more information, see [Click](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#click).
 
 See also [double tap, double-tap](#double-tap-double-tap).
 
@@ -266,7 +266,7 @@ See also [double tap, double-tap](#double-tap-double-tap).
 
 Use *double-click* as a verb to describe selecting most targets such as buttons, links, list items, and radio buttons by clicking the mouse twice in rapid succession. Don't hyphenate as a noun.
 
-For more information, see [Tap]().
+For more information, see [Tap](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#tap).
 
 See also [double click, double-click](#double-click-double-click).
 
