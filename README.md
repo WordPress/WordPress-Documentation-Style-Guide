@@ -186,7 +186,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Numbers |   ✔️   |
 | Symbols |   🔄   |
 | A |   🔄   |
-| D |   🔄 (⚠️ while publishing)   |
+| D |   ✔️   |
 | E |   ✔️   |
 | F |   ✔️   |
 | G |   ✔️   |
