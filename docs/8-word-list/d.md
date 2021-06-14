@@ -6,7 +6,7 @@
 
 Don't use *dash* to refer to a *hyphen*.
 
-For more information, see [Dashes]() and [Hyphens]().
+For more information, see [Dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/) and [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
 
 ## data
 
@@ -38,7 +38,7 @@ Use only in the context of software development. Don't use as a synonym for *tro
 
 Avoid using. Instead, use *turn off*.
 
-See also [turn on, turn off]().
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
 ## decrement
 
@@ -52,7 +52,7 @@ It's OK to use *default* to describe standard settings or specifications.
 
 ## degree
 
-See [degree sign]().
+See [degree symbol](https://make.wordpress.org/docs/style-guide/word-list/symbols/#o-degree-symbol).
 
 ## dehighlight
 
@@ -68,7 +68,7 @@ OK to use in developer documentation and for a technical audience. Instead, use 
 
 Don't use *deprecated* to mean *removed, deleted, shut down*, or *turned down*.
 
-See also [obsolete]().
+See also [obsolete](https://make.wordpress.org/docs/style-guide/word-list/o/#obsolete).
 
 ## delete
 
@@ -76,15 +76,15 @@ Use as a verb to describe removing a file, folder, or other content.
 
 Don't use *delete* as a synonym for *remove*. Don't use *cut* or erase* as a synonym for delete.
 
-See also [cut, cut-paste](), [remove]().
+See also [cut, cut-paste](https://make.wordpress.org/docs/style-guide/word-list/c/#cut-cut-paste), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
 ## depress
 
 Don't use. Instead, use *press*.
 
-For more information, see [Interaction verbs]().
+For more information, see [Press](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#press).
 
-See also [press, press and hold]().
+See also [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold).
 
 ## deselect
 
@@ -92,7 +92,7 @@ Don't use. Instead, use *clear* for checkboxes and *cancel the selection* for ot
 
 Don't use *uncheck, unselect, unhighlight*, or *dehighlight* as a synonym for *deselect*.
 
-See also [clear]().
+See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear).
 
 ## desire, desired
 
@@ -102,13 +102,13 @@ Don't use. Instead, use *want* or *need*.
 [warning] **Not recommended:** If you desire to change the color of the menu, go to **Appearance**. [/warning]  
 [tip] **Recommended:** If you want to change the color of the menu, go to **Appearance**. [/tip]  
 
-See also [need](), [want]().
+See also [need](https://make.wordpress.org/docs/style-guide/word-list/n/#need), [want](https://make.wordpress.org/docs/style-guide/word-list/w/#want).
 
 ## desktop
 
 Don't use as a noun to refer to a computer. Instead, use *computer, device*, or a contextually accurate term.
 
-See also [computer](), [device](#device).
+See also [computer](https://make.wordpress.org/docs/style-guide/word-list/c/#computer), [device](#device).
 
 ## destination
 
