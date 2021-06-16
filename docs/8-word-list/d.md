@@ -201,6 +201,16 @@ Don't use. Instead, use *video card* and *video driver*.
 
 See also [video card](https://make.wordpress.org/docs/style-guide/word-list/v/#video-card), [video driver](https://make.wordpress.org/docs/style-guide/word-list/v/#video-driver).
 
+## DMG file
+
+Abbreviation for *Disk Image*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *DMG file* rather than *.dmg file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
+See also [image](https://make.wordpress.org/docs/style-guide/word-list/i/#image), [IMG file](https://make.wordpress.org/docs/style-guide/word-list/i/#img-file).
+
 ## DNS
 
 Acronym for *Domain Name System*. Use uppercase.
