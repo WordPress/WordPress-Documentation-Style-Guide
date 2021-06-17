@@ -52,6 +52,8 @@ Use the plural *matrixes* unless there is a domain-specific reason (for example,
 
 Avoid using in standard documentation; reserve *may* for official policy or legal considerations. To convey possibility, use *might* instead. To convey permission, use *can* instead.
 
+See also [can](https://make.wordpress.org/docs/style-guide/word-list/c/#can)
+
 ## maximize
 
 Use to refer to making a window as big as possible without going full screen.
