@@ -176,7 +176,7 @@ Don't use. Instead, use *such as* or *like* followed by some examples.
 
 See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
 
-## exe
+## exe file
 
 Don't use a filename extension to refer to a type of file. For example, use *executable file* rather than *.exe file*.
 
