@@ -22,6 +22,7 @@ See also [mobile, mobile device, mobile phone]().
 
 ## cellular data
 ## cellular network
+## CGI
 ## chapter
 ## character
 ## chart
@@ -31,6 +32,7 @@ See also [mobile, mobile device, mobile phone]().
 ## checksum
 ## child folder
 ## chip
+## chmod
 ## choose
 ## clear
 
@@ -43,6 +45,7 @@ See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delet
 ## client/server
 ## close
 ## cloud
+## CMS
 ## co-
 ## codebase
 ## combo box
@@ -64,8 +67,10 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 ## copy
 ## corrupted
 ## country
+## cPanel
 ## CPU
 ## crash
+## CRUD
 ## CSS
 ## CSV
 ## Ctrl
