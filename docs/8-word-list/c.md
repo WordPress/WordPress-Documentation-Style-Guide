@@ -46,6 +46,7 @@ See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delet
 ## co-
 ## codebase
 ## combo box
+## command
 ## command line, command-line
 ## command prompt
 ## compile
@@ -60,11 +61,14 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 ## connect
 ## cons
 ## control
+## copy
+## corrupted
 ## country
 ## CPU
 ## crash
 ## CSS
 ## CSV
+## Ctrl
 ## currently
 ## cut, cut-paste
 ## cyber-
