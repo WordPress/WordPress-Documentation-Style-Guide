@@ -2,6 +2,7 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
+## cache, cached, caching
 ## calendar
 ## call back, callback
 ## call out, callout
@@ -11,11 +12,13 @@
 See also [may]().
 
 ## cancel, canceled, canceling, cancellation
+## capability
 ## carry out
 ## catalog
 ## cell phone, cellular phone
 
-See also [mobile, mobile device, mobile phone](m.md).
+
+See also [mobile, mobile device, mobile phone]().
 
 ## cellular data
 ## cellular network
@@ -25,7 +28,9 @@ See also [mobile, mobile device, mobile phone](m.md).
 ## chat
 ## check
 ## checkbox
+## checksum
 ## child folder
+## chip
 ## choose
 ## clear
 
@@ -35,6 +40,7 @@ See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delet
 ## CLI
 ## click
 ## client
+## client/server
 ## close
 ## cloud
 ## co-
