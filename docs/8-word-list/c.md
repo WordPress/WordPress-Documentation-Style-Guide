@@ -45,6 +45,8 @@ Initialism for *command line interface*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
+For more information, see [Command-line syntax]().
+
 ## click
 ## client
 ## client/server
@@ -78,6 +80,9 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 ## corrupted
 ## country
 ## cPanel
+
+Use lowercase *c* and capitalize *P*.
+
 ## CPU
 
 Initialism for *central processing unit*. Use uppercase.
@@ -115,6 +120,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## Ctrl
+
+Abbreviation for *Control*. Capitalize.
+
+Use *Ctrl* only in UI, tables, or headings where space is limited. Otherwise, use *Control* as in *Control key* or *Control-C*.
+
+Don't use *CTRL* or *ctrl*.
+
 ## currently
 ## cut, cut-paste
 ## cyber-

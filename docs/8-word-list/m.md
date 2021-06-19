@@ -6,7 +6,7 @@ Don't use as a synonym for computer.
 
 ## macOS
 
-Operating system used on Apple Macintosh computers. Use lowercase for *mac* and uppercase for *OS*
+Operating system used on Apple Macintosh computers. Use lowercase for *mac* and uppercase for *OS*.
 
 See also [OS, operating system](https://make.wordpress.org/docs/style-guide/word-list/o/#os-operating-system).
 
