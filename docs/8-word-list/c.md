@@ -40,12 +40,22 @@ See also [mobile, mobile device, mobile phone]().
 See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
 ## CLI
+
+Initialism for *command line interface*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## click
 ## client
 ## client/server
 ## close
 ## cloud
 ## CMS
+
+Initialism for *content management system*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## co-
 ## codebase
 ## combo box
