@@ -69,8 +69,21 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 ## country
 ## cPanel
 ## CPU
+
+Initialism for *central processing unit*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## crash
+
+
+
 ## CRUD
+
+Acronym for *create, read, update, delete*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## CSS
 
 Initialism for *Cascading Style Sheets*. Use uppercase.
@@ -83,7 +96,7 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 ## CSV
 
-Initialism for *Comma-Separated Values*. Use uppercase.
+Initialism for *comma-separated values*. Use uppercase.
 
 Don't use a filename extension to refer to a type of file. For example, use *CSV file* file rather than *.csv file*.
 
