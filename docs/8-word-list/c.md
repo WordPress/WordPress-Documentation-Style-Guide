@@ -72,7 +72,25 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 ## crash
 ## CRUD
 ## CSS
+
+Initialism for *Cascading Style Sheets*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *CCS file* file rather than *.css file*.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## CSV
+
+Initialism for *Comma-Separated Values*. Use uppercase.
+
+Don't use a filename extension to refer to a type of file. For example, use *CSV file* file rather than *.csv file*.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## Ctrl
 ## currently
 ## cut, cut-paste
