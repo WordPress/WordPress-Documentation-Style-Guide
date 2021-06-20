@@ -23,6 +23,11 @@ See also [mobile, mobile device, mobile phone]().
 ## cellular data
 ## cellular network
 ## CGI
+
+Initialism for *Common Gateway Interface*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## chapter
 ## character
 ## chart
@@ -33,6 +38,11 @@ See also [mobile, mobile device, mobile phone]().
 ## child folder
 ## chip
 ## chmod
+
+Contraction for *change mode*. Use lowercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## choose
 ## clear
 
