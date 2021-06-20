@@ -42,6 +42,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## check
 ## checkbox
 ## checksum
+
+One word. Not *check sum* or *check-sum*.
+
 ## child folder
 ## chip
 ## chmod
@@ -77,6 +80,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## co-
 ## codebase
+
+One word. Not *code base* or *code-base*.
+
 ## combo box
 ## command
 ## command line, command-line
@@ -87,11 +93,18 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## computer
 
 
+
 See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/p/#pc).
 
 ## config
+
+Avoid using whenever possible. Instead, spell out the entire word in a non-code context such as *configuration* or *configuring*. It's OK to use *config* when referring to, for example, a data structure or a file with that name.
+
 ## connect
 ## cons
+
+Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant term.
+
 ## control
 ## copy
 ## corrupted
