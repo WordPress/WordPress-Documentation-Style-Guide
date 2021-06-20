@@ -18,10 +18,17 @@ See also [may]().
 ## cell phone, cellular phone
 
 
+
 See also [mobile, mobile device, mobile phone]().
 
 ## cellular data
+
+Don't use. Instead, use *mobile data*.
+
 ## cellular network
+
+Don't use. Instead, use *mobile network*.
+
 ## CGI
 
 Initialism for *Common Gateway Interface*. Use uppercase.
