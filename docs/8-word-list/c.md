@@ -109,7 +109,7 @@ Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant t
 ## copy
 ## corrupted
 
-Avoid using. Instead, rewrite the sentence to include a more empathetic and inclusive statement. Offer help in fixing the problem if possible. 
+Avoid using. Instead, rewrite the sentence to include a more empathetic and inclusive statement. Offer help in fixing the problem if possible.
 
 Don't use *corrupt*.
 
@@ -126,7 +126,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## crash
 
+Don't use. Instead, use *fail* for disks or other hardware, or *stop responding* for programs or operating systems.
 
+See also [fail](https://make.wordpress.org/docs/style-guide/word-list/f/#fail), [stop, stop responding](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## CRUD
 
