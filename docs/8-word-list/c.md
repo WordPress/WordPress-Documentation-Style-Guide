@@ -108,6 +108,11 @@ Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant t
 ## control
 ## copy
 ## corrupted
+
+Avoid using. Instead, rewrite the sentence to include a more empathetic and inclusive statement. Offer help in fixing the problem if possible. 
+
+Don't use *corrupt*.
+
 ## country
 ## cPanel
 
@@ -153,10 +158,13 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 Abbreviation for *Control*. Capitalize.
 
-Use *Ctrl* only in UI, tables, or headings where space is limited. Otherwise, use *Control* as in *Control key* or *Control-C*.
+Use *Ctrl* only in UI, tables, or headings where space is limited. Otherwise, use *Control* as in *Control key* or *Control+C*.
 
 Don't use *CTRL* or *ctrl*.
 
 ## currently
+
+
+
 ## cut, cut-paste
 ## cyber-
