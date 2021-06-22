@@ -36,6 +36,9 @@ Initialism for *Common Gateway Interface*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## chapter
+
+Don't use when referring to documentation that isn't in the form of a book. Instead, refer to documents, pages, or sections.
+
 ## character
 ## chart
 ## chat
@@ -69,6 +72,9 @@ For more information, see [Command-line syntax]().
 
 ## click
 ## client
+
+Don't use to refer to a person. Instead, use *customer*.
+
 ## client/server
 ## close
 ## cloud
