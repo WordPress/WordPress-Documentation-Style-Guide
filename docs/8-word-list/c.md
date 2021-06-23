@@ -42,6 +42,11 @@ Don't use when referring to documentation that isn't in the form of a book. Inst
 ## character
 ## chart
 ## chat
+
+Use as a noun only after identifying the context such as *audio chat* or *video chat* to avoid ambiguity.
+
+It's OK to use *chat* as an adjective or verb.
+
 ## check
 ## checkbox
 ## checksum
@@ -49,6 +54,11 @@ Don't use when referring to documentation that isn't in the form of a book. Inst
 One word. Not *check sum* or *check-sum*.
 
 ## child folder
+
+Don't use. Use *subfolder, subdirectory, folder*, or the name of the folder.
+
+See also [folder](https://make.wordpress.org/docs/style-guide/word-list/f/#folder).
+
 ## chip
 ## chmod
 
