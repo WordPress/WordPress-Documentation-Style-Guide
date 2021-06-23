@@ -60,6 +60,9 @@ Don't use. Use *subfolder, subdirectory, folder*, or the name of the folder.
 See also [folder](https://make.wordpress.org/docs/style-guide/word-list/f/#folder).
 
 ## chip
+
+Don’t use to mean *microprocessor*.
+
 ## chmod
 
 Contraction for *change mode*. Use lowercase.
@@ -68,6 +71,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## choose
 ## clear
+
 
 
 See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
@@ -88,6 +92,11 @@ Don't use to refer to a person. Instead, use *customer*.
 ## client/server
 ## close
 ## cloud
+
+Don't capitalize. In most cases, use *cloud* as an adjective. Avoid using as a noun, as in *the cloud*.
+
+Don't use cloud interchangeably with *internet* or *web*.
+
 ## CMS
 
 Initialism for *content management system*. Use uppercase.
