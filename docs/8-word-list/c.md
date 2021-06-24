@@ -110,7 +110,23 @@ One word. Not *code base* or *code-base*.
 
 ## combo box
 ## command
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. If you have to use a descriptor, use *command*.
+
+It's OK to use *item* or *option* in the context of commands.
+
+For more information, see [Command-line syntax]().
+
+See also [command line, command-line](), [command prompt]().
+
 ## command line, command-line
+
+Use two words as a noun. Hyphenate as an adjective.
+
+Users enter commands *at a command prompt* not *on a command line*.
+
+See also [command](), [command prompt]().
+
 ## command prompt
 ## compile
 ## compile time, compile-time
