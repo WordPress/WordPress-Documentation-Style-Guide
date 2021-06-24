@@ -117,19 +117,38 @@ It's OK to use *item* or *option* in the context of commands.
 
 For more information, see [Command-line syntax]().
 
-See also [command line, command-line](), [command prompt]().
+See also [command line, command-line](#command-line-command-line), [command prompt](#command-prompt).
 
 ## command line, command-line
 
 Use two words as a noun. Hyphenate as an adjective.
 
-Users enter commands *at a command prompt* not *on a command line*.
+Describe entering commands *at a command prompt* not *on a command line*.
 
-See also [command](), [command prompt]().
+See also [command](#command), [command prompt](#command-prompt).
 
 ## command prompt
+
+Don't use *command-line prompt, C prompt*, or *system prompt*.
+
+Describe entering commands *at a command prompt* not *on a command line*.
+
+For more information, see [Command prompt](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#command-prompt).
+
+See also [command](#command), [command line, command-line](#command-line-command-line).
+
 ## compile
+
+
+
+See also [compile time, compile-time](#compile-time-compile-time).
+
 ## compile time, compile-time
+
+Use two words as a noun. Hyphenate as an adjective.
+
+See also [compile](#compile).
+
 ## comprise
 ## computer
 
