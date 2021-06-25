@@ -104,11 +104,18 @@ Initialism for *content management system*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## co-
+
+
+
 ## codebase
 
 One word. Not *code base* or *code-base*.
 
 ## combo box
+
+
+
+
 ## command
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. If you have to use a descriptor, use *command*.
@@ -139,7 +146,7 @@ See also [command](#command), [command line, command-line](#command-line-command
 
 ## compile
 
-
+It's OK to use *compile* as an adjective, as in *compile-time*, or as a verb. Don't use as a noun.
 
 See also [compile time, compile-time](#compile-time-compile-time).
 
@@ -173,7 +180,14 @@ Avoid using. Instead, rewrite the sentence to include a more empathetic and incl
 
 Don't use *corrupt*.
 
-## country
+## country, country or region
+
+Avoid using *country* when referring to a geographical area. Instead, use *country or region* or just *region*.
+
+Don't use *geography* or *geo* as a synonym for *country or region*.
+
+It's OK to use *country/region* where space is limited.
+
 ## cPanel
 
 Use lowercase *c* and capitalize *P*.
