@@ -240,7 +240,12 @@ Don't use *CTRL* or *ctrl*.
 
 ## currently
 
+Don't use *currently* to imply that a feature or functionality might become available in the future.
 
+**Examples**  
+[warning] **Not recommended:** Full site editor is currently not supported on this theme. [/warning]  
+
+For more information, see [Documenting future features]().
 
 ## cut, cut-paste
 ## cyber-
