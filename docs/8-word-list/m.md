@@ -297,7 +297,7 @@ Use as a verb to describe transferring files, folders, or UI elements from one l
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#move-drag).
 
-See also [drag](https://make.wordpress.org/docs/style-guide/word-list/d/#drag).
+See also [drag](https://make.wordpress.org/docs/style-guide/word-list/d/#drag), [copy](https://make.wordpress.org/docs/style-guide/word-list/c/#copy).
 
 ## MP3
 
