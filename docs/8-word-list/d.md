@@ -74,7 +74,7 @@ Use as a verb to describe removing a file, folder, or other content.
 
 Don't use *delete* as a synonym for *remove*. Don't use *cut* or erase* as a synonym for delete.
 
-See also [cut, cut-paste](https://make.wordpress.org/docs/style-guide/word-list/c/#cut-cut-paste), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
+See also [cut, cut-and-paste](https://make.wordpress.org/docs/style-guide/word-list/c/#cut-cut-and-paste), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
 ## depress
 
