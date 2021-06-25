@@ -247,5 +247,16 @@ Don't use *currently* to imply that a feature or functionality might become avai
 
 For more information, see [Documenting future features]().
 
-## cut, cut-paste
+## cut, cut-and-paste
+
+It's OK to use *cut-and-paste* as an adjective.
+
+Don't use *cut-and-paste* or *cut-and-replace* as a noun or verb. Instead, use *delete*. It's OK to use *paste* by itself.
+
+Don't use *cut* as a verb to describe removing or deleting something. Instead, use *delete*.
+
+Don't use *cut* as a verb to describe temporarily moving text to the clipboard. Instead, use *move* or *copy*.
+
+See also [copy](#copy), [delete](), [move]().
+
 ## cyber-
