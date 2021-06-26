@@ -105,7 +105,11 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## co-
 
+In general, don't hyphenate words beginning with *co-* such as *coordinate, cooperate,* and *coexist*, unless *co-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
 
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## codebase
 
