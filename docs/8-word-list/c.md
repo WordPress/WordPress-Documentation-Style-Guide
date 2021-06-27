@@ -177,7 +177,19 @@ Avoid using whenever possible. Instead, spell out the entire word in a non-code 
 Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant term.
 
 ## control
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
+
+Don't use to refer to any adjustable UI element such as 
+
 ## copy
+
+Use instead of *cut* as a verb to describe temporarily moving text to the clipboard.
+
+You copy a file *to* a disk, not *on* a disk or *onto* a disk.
+
+See alos [cut, cut-and-paste](#cut-cut-and-paste), [move]().
+
 ## corrupted
 
 Avoid using. Instead, rewrite the sentence to include a more empathetic and inclusive statement. Offer help in fixing the problem if possible.
