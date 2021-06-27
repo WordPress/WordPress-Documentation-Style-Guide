@@ -207,7 +207,7 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 
 In user documentation, it's OK to use slider when you need to describe the UI element used to set a value on a continuous range of possible values, such as screen brightness or volume.
 
-For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
 ## SMTP
 
