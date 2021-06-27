@@ -172,6 +172,9 @@ See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/
 Avoid using whenever possible. Instead, spell out the entire word in a non-code context such as *configuration* or *configuring*. It's OK to use *config* when referring to, for example, a data structure or a file with that name.
 
 ## connect
+
+Don’t use *connect* when you mean *plug in*.
+
 ## cons
 
 Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant term.
@@ -180,7 +183,13 @@ Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant t
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
 
-Don't use to refer to any adjustable UI element such as 
+In user documentation, don't use *control* when you need to describe the UI element used to set a value on a continuous range of possible values, such as screen brightness or volume. Instead, use *slider*.
+
+In other contexts, it's OK to use *control*.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
+See also [slider](https://make.wordpress.org/docs/style-guide/word-list/s/#slider).
 
 ## copy
 
