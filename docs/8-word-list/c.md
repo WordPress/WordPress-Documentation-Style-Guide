@@ -117,8 +117,11 @@ One word. Not *code base* or *code-base*.
 
 ## combo box
 
+Two words. It's OK to use *combo box* in developer documentation and for a technical audience to describe a box in which the user can enter or select a value.
 
+Avoid using in user documentation and for a general audience. Instead, refer to it as a *box*.
 
+For more information, see [Combo box]().
 
 ## command
 
