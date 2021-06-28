@@ -161,9 +161,14 @@ Use two words as a noun. Hyphenate as an adjective.
 See also [compile](#compile).
 
 ## comprise
+
+Don't use. Instead, use *is composed of, consists of, contains, includes*, or a contextually appropriate term.
+
 ## computer
 
+Use to describe a computing device other than a mobile device.
 
+Don’t use *mobile computer, portable computer, machine*, or *unit*.
 
 See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/p/#pc).
 
