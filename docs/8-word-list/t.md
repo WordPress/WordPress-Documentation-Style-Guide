@@ -20,7 +20,7 @@ Use *double-tap* to describe selecting, opening, or enabling targets such as but
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#tap).
 
-See also [touch and hold](#touch-and-hold).
+See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [touch and hold](#touch-and-hold).
 
 ## tap and hold
 
