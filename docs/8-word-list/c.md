@@ -85,14 +85,28 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 For more information, see [Command-line syntax]().
 
 ## click
+
+
+
+For more information, see [Click](ui elements).
+
 ## client
 
 Don't use to refer to a person. Instead, use *customer*.
 
+See also [client/server](#client-server).
+
 ## client/server
+
+Use a slash. Capitalize both words if the context requires *client* to be capitalized.
+
+See also [client](#client).
+
 ## close
 
 Use as a verb to describe closing applications, programs, files, documents, alerts, and other UI elements.
+
+For more information, see [Close](ui elements).
 
 See also [open](https://make.wordpress.org/docs/style-guide/word-list/o/#open), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
 
