@@ -108,7 +108,7 @@ See also [client](#client).
 
 Use as a verb to describe closing applications, programs, files, documents, alerts, and other UI elements.
 
-For more information, see [Close](ui elements).
+For more information, see [Close](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#close).
 
 See also [open](https://make.wordpress.org/docs/style-guide/word-list/o/#open), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
 
@@ -142,7 +142,7 @@ Two words. It's OK to use *combo box* in developer documentation and for a techn
 
 Avoid using in user documentation and for a general audience. Instead, refer to it as a *box*.
 
-For more information, see [Combo box]().
+For more information, see [Dropdown list, combo box, and spin box](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#dropdown-list-combo-box-and-spin-box).
 
 ## command
 
@@ -150,7 +150,7 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 
 It's OK to use *item* or *option* in the context of commands.
 
-For more information, see [Command-line syntax]().
+For more information, see [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 See also [command line, command-line](#command-line-command-line), [command prompt](#command-prompt).
 
@@ -194,7 +194,7 @@ Use to describe a computing device other than a mobile device.
 
 Don’t use *mobile computer, portable computer, machine*, or *unit*.
 
-See also [device](), [PC](https://make.wordpress.org/docs/style-guide/word-list/p/#pc).
+See also [device](https://make.wordpress.org/docs/style-guide/word-list/d/#device), [PC](https://make.wordpress.org/docs/style-guide/word-list/p/#pc).
 
 ## config
 
@@ -226,7 +226,7 @@ Use instead of *cut* as a verb to describe temporarily moving text to the clipbo
 
 You copy a file *to* a disk, not *on* a disk or *onto* a disk.
 
-See alos [cut, cut-and-paste](#cut-cut-and-paste), [move]().
+See alos [cut, cut-and-paste](#cut-cut-and-paste), [move](https://make.wordpress.org/docs/style-guide/word-list/m/#move).
 
 ## corrupted
 
