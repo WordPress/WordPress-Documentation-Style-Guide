@@ -262,6 +262,8 @@ Use only to describe pushing a physical button on a device or hardware.
 
 For more information see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#press).
 
+See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
+
 ## primitive
 
 Use with caution. Don't use *primitive* in a disparaging sense.
