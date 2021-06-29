@@ -268,7 +268,7 @@ Use *double-click* as a verb to describe selecting most targets such as buttons,
 
 For more information, see [Click](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#click).
 
-See also [double tap, double-tap](#double-tap-double-tap).
+See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double tap, double-tap](#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
 
 ## double tap, double-tap
 
@@ -276,7 +276,7 @@ Use *double-click* as a verb to describe selecting most targets such as buttons,
 
 For more information, see [Tap](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#tap).
 
-See also [double click, double-click](#double-click-double-click).
+See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](#double-click-double-click), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
 
 ## downgrade
 
