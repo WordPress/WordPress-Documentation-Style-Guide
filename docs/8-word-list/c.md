@@ -86,9 +86,11 @@ For more information, see [Command-line syntax]().
 
 ## click
 
-
+When the environment is presumably a desktop with a mouse, use *click* to describe the act of selecting most targets such as buttons, links, list items, and radio buttons or initiating an action by briefly pressing and releasing the mouse.
 
 For more information, see [Click](ui elements).
+
+See also [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
 
 ## client
 
