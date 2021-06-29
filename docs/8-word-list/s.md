@@ -64,6 +64,9 @@ Use select when referring to the action of the user selecting targets such as me
 
 See also [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select).
 
+See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
+
+
 ## self-
 
 In general, hyphenate words beginning with *self-* such as *self-sufficient* and *self-explanatory*, unless *self-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
