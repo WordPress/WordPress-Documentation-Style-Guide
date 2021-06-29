@@ -91,6 +91,11 @@ Don't use to refer to a person. Instead, use *customer*.
 
 ## client/server
 ## close
+
+Use as a verb to describe closing applications, programs, files, documents, alerts, and other UI elements.
+
+See also [open](https://make.wordpress.org/docs/style-guide/word-list/o/#open), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
+
 ## cloud
 
 Don't capitalize. In most cases, use *cloud* as an adjective. Avoid using as a noun, as in *the cloud*.
