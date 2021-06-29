@@ -299,7 +299,7 @@ Don't use *currently* to imply that a feature or functionality might become avai
 **Examples**  
 [warning] **Not recommended:** Full site editor is currently not supported on this theme. [/warning]  
 
-For more information, see [Documenting future features]().
+For more information, see [Documenting future features](https://make.wordpress.org/docs/style-guide/general-guidelines/facts-claims/#documenting-future-features).
 
 ## cut, cut-and-paste
 
@@ -311,7 +311,7 @@ Don't use *cut* as a verb to describe removing or deleting something. Instead, u
 
 Don't use *cut* as a verb to describe temporarily moving text to the clipboard. Instead, use *move* or *copy*.
 
-See also [copy](#copy), [delete](), [move]().
+See also [copy](#copy), [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [move](https://make.wordpress.org/docs/style-guide/word-list/m/#move).
 
 ## cyber-
 
