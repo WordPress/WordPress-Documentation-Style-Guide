@@ -72,7 +72,11 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## choose
 ## clear
 
+Use *clear* as a verb when referring to the action of clearing a selection, usually from a checkbox.
 
+Use instead of *unselect, deselect,* or *uncheck*.
+
+For more information, see [Clear]().
 
 See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
