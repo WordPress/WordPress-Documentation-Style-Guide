@@ -70,13 +70,18 @@ Contraction for *change mode*. Use lowercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## choose
+
+Use *choose* when referring to the action of the user making a choice from multiple options, a list of items, or numerical values.
+
+For more information, see [Choose](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#choose).
+
 ## clear
 
 Use *clear* as a verb when referring to the action of clearing a selection, usually from a checkbox.
 
 Use instead of *unselect, deselect,* or *uncheck*.
 
-For more information, see [Clear]().
+For more information, see [Clear](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#clear).
 
 See also [delete](https://make.wordpress.org/docs/style-guide/word-list/d/#delete), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 
