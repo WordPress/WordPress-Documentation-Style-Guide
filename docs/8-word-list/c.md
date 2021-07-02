@@ -48,7 +48,19 @@ Use as a noun only after identifying the context such as *audio chat* or *video 
 It's OK to use *chat* as an adjective or verb.
 
 ## check
+
+
+
 ## checkbox
+
+One word. Not *check box* or *check-box*.
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. If you have to use a descriptor, use *checkbox*.
+
+For more information, see [Checkbox](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#checkbox).
+
+See also [check](#check).
+
 ## checksum
 
 One word. Not *check sum* or *check-sum*.
