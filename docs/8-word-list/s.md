@@ -60,12 +60,11 @@ For more information, see [Link text](https://make.wordpress.org/docs/style-guid
 
 ## select
 
-Use select when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be use interchangeably instead of click or check in describing checkboxes and dropdown lists.
+Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. *Select* can be used interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
 
 See also [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select).
 
-See also [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
-
+See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear), [click](https://make.wordpress.org/docs/style-guide/word-list/c/#click), [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
 
 ## self-
 
