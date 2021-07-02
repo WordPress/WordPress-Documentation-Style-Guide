@@ -40,7 +40,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 Don't use when referring to documentation that isn't in the form of a book. Instead, refer to documents, pages, or sections.
 
 ## character
+
+
+
 ## chart
+
+Don't use as a verb when referring to entering data for a chart. Instead, use *plot*.
+
 ## chat
 
 Use as a noun only after identifying the context such as *audio chat* or *video chat* to avoid ambiguity.
@@ -49,7 +55,9 @@ It's OK to use *chat* as an adjective or verb.
 
 ## check
 
+Don't use as a verb to refer to marking a checkbox. Instead, use *select*.
 
+See also [checkbox](#checkbox), [clear](#clear), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select).
 
 ## checkbox
 
