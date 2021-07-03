@@ -17,7 +17,7 @@ See also [may]().
 ## catalog
 ## cell phone, cellular phone
 
-
+Don't use. Instead, use *mobile* or *mobile phone*, or if you're talking about more than phones, then use *mobile device*. It's OK to just use *phone* when the context is clear.
 
 See also [mobile, mobile device, mobile phone]().
 
@@ -41,7 +41,9 @@ Don't use when referring to documentation that isn't in the form of a book. Inst
 
 ## character
 
+Use in reference to what a key on a keyboard stands for.
 
+See also [symbol]().
 
 ## chart
 
