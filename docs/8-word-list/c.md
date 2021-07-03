@@ -14,10 +14,18 @@ See also [may]().
 ## cancel, canceled, canceling, cancellation
 ## capability
 ## carry out
+
+Don't use as a synonym for *run* or *execute*.
+
+See also [run]().
+
 ## catalog
+
+Use instead of *catalogue*.
+
 ## cell phone, cellular phone
 
-Don't use. Instead, use *mobile* or *mobile phone*, or if you're talking about more than phones, then use *mobile device*. It's OK to just use *phone* when the context is clear.
+Don't use. Instead, use *mobile* or *mobile phone*, or if you're talking about more than phones, then use *mobile device*. It's OK to just use *phone* by itself when the context is clear.
 
 See also [mobile, mobile device, mobile phone]().
 
