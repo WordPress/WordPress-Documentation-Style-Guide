@@ -12,7 +12,17 @@
 See also [may]().
 
 ## cancel, canceled, canceling, cancellation
+
+
+
 ## capability
+
+Avoid using in the context of features or functionalities of software or hardware. Instead, rewrite the sentence without using the term.
+
+**Examples**  
+[warning] **Not recommended:** Gutenberg has the capability of block editing. [/warning]  
+[tip] **Recommended:** You can edit blocks with Gutenberg. [/tip]  
+
 ## carry out
 
 Don't use as a synonym for *run* or *execute*.
@@ -335,7 +345,7 @@ Don't use *CTRL* or *ctrl*.
 
 Don't use *currently* to imply that a feature or functionality might become available in the future.
 
-**Examples**  
+**Example**  
 [warning] **Not recommended:** Full site editor is currently not supported on this theme. [/warning]  
 
 For more information, see [Documenting future features](https://make.wordpress.org/docs/style-guide/general-guidelines/facts-claims/#documenting-future-features).
