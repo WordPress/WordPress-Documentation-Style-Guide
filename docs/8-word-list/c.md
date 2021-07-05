@@ -8,6 +8,11 @@
 ## call out, callout
 ## can
 
+Use *can* to convey permission, to refer to an optional action, or to refer to a possible outcome.
+
+**Example**  
+[tip] **Recommended:** You can also use the slash command to insert a block. [/tip]  
+[tip] **Recommended:** The process can take up to 15 minutes. [/tip]  
 
 See also [may]().
 
