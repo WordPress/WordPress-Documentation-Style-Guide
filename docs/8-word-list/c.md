@@ -13,7 +13,9 @@ See also [may]().
 
 ## cancel, canceled, canceling, cancellation
 
+Use one *l* for the verb *cancel* and its other forms such as *canceled* and *canceling*.
 
+Use two *l*s for *cancellation*.
 
 ## capability
 
