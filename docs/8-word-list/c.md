@@ -5,7 +5,13 @@
 ## cache, cached, caching
 ## calendar
 ## call back, callback
+
+Use two words as a verb. One word as an adjective or noun.
+
 ## call out, callout
+
+Use two words as a verb. Use one word as an adjective or noun.
+
 ## can
 
 Use *can* to convey permission, to refer to an optional action, or to refer to a possible outcome.
