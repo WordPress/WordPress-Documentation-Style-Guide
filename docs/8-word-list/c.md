@@ -10,7 +10,7 @@ Don't use as a verb. Instead, use *schedule, list*, or a contextually appropriat
 
 ## call back, callback
 
-Use two words as a verb. One word as an adjective or noun.
+Use two words as a verb. Use one word as an adjective or noun.
 
 ## call out, callout
 
