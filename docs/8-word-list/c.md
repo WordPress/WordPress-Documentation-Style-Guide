@@ -1,7 +1,5 @@
 # C
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## cache, cached, caching
 
 Use *cache* as a noun or verb. Use *cached* as a verb or adjective. Use *caching* without an *e* as a noun or verb.
