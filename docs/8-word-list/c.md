@@ -3,7 +3,13 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## cache, cached, caching
+
+Use *cache* as a noun or verb. Use *cached* as a verb or adjective. Use *caching* without an *e* as a noun or verb.
+
 ## calendar
+
+Don't use as a verb. Instead, use *schedule, list*, or a contextually appropriate verb.
+
 ## call back, callback
 
 Use two words as a verb. One word as an adjective or noun.
@@ -20,7 +26,7 @@ Use *can* to convey permission, to refer to an optional action, or to refer to a
 [tip] **Recommended:** You can also use the slash command to insert a block. [/tip]  
 [tip] **Recommended:** The process can take up to 15 minutes. [/tip]  
 
-See also [may]().
+See also [may](https://make.wordpress.org/docs/style-guide/word-list/m/#may).
 
 ## cancel, canceled, canceling, cancellation
 
@@ -40,7 +46,7 @@ Avoid using in the context of features or functionalities of software or hardwar
 
 Don't use as a synonym for *run* or *execute*.
 
-See also [run]().
+See also [run](https://make.wordpress.org/docs/style-guide/word-list/r/#run).
 
 ## catalog
 
@@ -50,7 +56,7 @@ Use instead of *catalogue*.
 
 Don't use. Instead, use *mobile* or *mobile phone*, or if you're talking about more than phones, then use *mobile device*. It's OK to just use *phone* by itself when the context is clear.
 
-See also [mobile, mobile device, mobile phone]().
+See also [mobile, mobile device, mobile phone](https://make.wordpress.org/docs/style-guide/word-list/m/#mobile-mobile-device-mobile-phone).
 
 ## cellular data
 
@@ -74,7 +80,7 @@ Don't use when referring to documentation that isn't in the form of a book. Inst
 
 Use in reference to what a key on a keyboard stands for.
 
-See also [symbol]().
+See also [symbol](https://make.wordpress.org/docs/style-guide/word-list/s/#symbol).
 
 ## chart
 
@@ -144,13 +150,13 @@ Initialism for *command line interface*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-For more information, see [Command-line syntax]().
+For more information, see [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 ## click
 
 When the environment is presumably a desktop with a mouse, use *click* to describe the act of selecting most targets such as buttons, links, list items, and radio buttons or initiating an action by briefly pressing and releasing the mouse.
 
-For more information, see [Click](ui elements).
+For more information, see [Click](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#click).
 
 See also [double click, double-click](https://make.wordpress.org/docs/style-guide/word-list/d/#double-click-double-click), [double tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/d/#double-tap-double-tap), [press, press and hold](https://make.wordpress.org/docs/style-guide/word-list/p/#press-press-and-hold), [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select), [tap, double-tap](https://make.wordpress.org/docs/style-guide/word-list/t/#tap-double-tap).
 
