@@ -25,13 +25,19 @@ For more information, see [Abbreviations](numbers.md).
 ## black box
 ## blacklist, black list, black-list
 ## blank
+## blog
+## bold
+## bookmark
 ## boolean
-
+## boot
 ## bottom left, bottom right
 
 Don't use.
 
 See [lower left, lower right](l.md).
 
+## box
+## browse
+## build
 ## built-in
 ## button
