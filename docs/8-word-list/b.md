@@ -8,6 +8,9 @@
 ## backspace
 ## backup, back up
 ## backward compatible
+
+Not *backwards compatible* or *backwards compatibility*.
+
 ## bandwidth
 ## bar
 ## -based
@@ -36,6 +39,9 @@ For more information, see [Abbreviations](numbers.md).
 ## blog
 ## bold
 ## bookmark
+
+One word. Not *book mark* or *book-mark*.
+
 ## boolean
 ## boot
 ## bottom left, bottom right
@@ -45,7 +51,9 @@ Don't use.
 See [lower left, lower right](l.md).
 
 ## box
+## brackets
 ## browse
+## bug
 ## build
 ## built-in
 ## button
