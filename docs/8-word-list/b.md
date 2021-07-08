@@ -2,14 +2,21 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
-
 ## backend
 ## backlink
+## backslash
 ## backspace
 ## backup, back up
 ## backward compatible
+## bandwidth
 ## bar
+## -based
 ## bbPress
+## because
+
+
+See also [since]().
+
 ## below
 ## beta
 ## between
@@ -20,8 +27,9 @@ Don't abbreviate *billion* as *B, b*, or *bn*. Spell out the word or denote the 
 
 For more information, see [Abbreviations](numbers.md).
 
+## bit
 ## bitmap
-## bits per second
+## bps (bit/s), bits per second
 ## black box
 ## blacklist, black list, black-list
 ## blank
