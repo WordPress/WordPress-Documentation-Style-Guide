@@ -15,6 +15,13 @@ Not *backwards compatible* or *backwards compatibility*.
 ## bar
 ## -based
 ## bbPress
+
+Use lowercase for *bb*. Capitalize *P*.
+
+Not *Bbpress, Bb press, Bb Press, bb press* or *bbpress*.
+
+**Exception:** It is OK to use *bbpress* in lowercase in developer documentation such as commands, or WordPress URLs. For example, [codex.bbpress.org/](https://codex.bbpress.org/).
+
 ## because
 
 
