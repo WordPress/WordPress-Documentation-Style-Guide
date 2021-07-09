@@ -2,8 +2,16 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]
 
-## backend
+## back end, back-end
+
+Two words as a noun, hyphenate as an adjective.
+
+Avoid using if you can use a contextually relevant term such as *database, server*, or *operating system*.
+
 ## backlink
+
+One word. Not *back link* or *back-link*.
+
 ## backslash
 ## backspace
 ## backup, back up
