@@ -53,6 +53,14 @@ See [lower left, lower right](l.md).
 ## box
 ## brackets
 ## browse
+## BuddyPress
+
+Capitalize *B* and *P*.
+
+Not *Buddypress, Buddy press, Buddy Press,* or *buddypress*.
+
+**Exception:** It is OK to use *buddypress* in lowercase in developer documentation such as commands, or BuddyPress URLs. For example, [codex.buddypress.org/](https://codex.buddypress.org/).
+
 ## bug
 ## build
 ## built-in
