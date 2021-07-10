@@ -13,7 +13,15 @@ Avoid using if you can use a contextually relevant term such as *database, serve
 One word. Not *back link* or *back-link*.
 
 ## backslash
+
+One word. Not *back slash* or *back-slash*.
+
+Use *backslash* to describe the *\* character.
+
 ## backspace
+
+One word. Not *back space* or *back-space*.
+
 ## backup, back up
 ## backward compatible
 
