@@ -23,11 +23,19 @@ Use *backslash* to describe the *\* character.
 One word. Not *back space* or *back-space*.
 
 ## backup, back up
+
+Two words as a verb, one word as an adjective or a noun.
+
+Not *back-up*.
+
 ## backward compatible
 
 Not *backwards compatible* or *backwards compatibility*.
 
 ## bandwidth
+
+One word. Not *band width* or *band-width*.
+
 ## bar
 ## -based
 ## bbPress
