@@ -70,12 +70,20 @@ Not *Bbpress, Bb press, Bb Press, bb press* or *bbpress*.
 ## because
 
 
+
 See also [since]().
 
 ## below
 ## beta
 ## between
 ## bi-
+
+In general, don't hyphenate words beginning with *bi-* such as *bimodal, biweekly,* and *bidirectional*, unless *bi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## billion, B
 
 Don't abbreviate *billion* as *B, b*, or *bn*. Spell out the word or denote the entire number.
@@ -115,6 +123,11 @@ Not *Buddypress, Buddy press, Buddy Press,* or *buddypress*.
 
 ## bug
 ## build
+
+It's OK to use *build* in developer documentation and for a technical audience as a verb to mean *compile* and as a noun to mean *version*.
+
+Avoid using in user documentation and for a general audience as a synonym for *create, make* or *develop*. Instead, use a contextually relevant term.
+
 ## built-in
 
 Hyphenate as an adjective.
