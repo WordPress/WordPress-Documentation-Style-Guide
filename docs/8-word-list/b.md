@@ -48,7 +48,16 @@ See also [foo, foobar, fubar]().
 
 ## -based
 
+In general, hyphenate compound adjectives ending with *-based* such as *ARM-based, application-based*, and *HTML-based*.
 
+Use an en dash if based follows a term with two or more words.
+
+**Example**  
+[tip] **Recommended:** ARM processor–based device [/tip]  
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/) and [Dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## bbPress
 
