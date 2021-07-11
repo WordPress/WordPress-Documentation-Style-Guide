@@ -22,6 +22,8 @@ Use *backslash* to describe the *\* character.
 
 One word. Not *back space* or *back-space*.
 
+It's OK to use *backspace* as a verb.
+
 ## backup, back up
 
 Two words as a verb, one word as an adjective or a noun.
@@ -37,7 +39,17 @@ Not *backwards compatible* or *backwards compatibility*.
 One word. Not *band width* or *band-width*.
 
 ## bar
+
+Avoid using. Instead, use a clearer and more meaningful placeholder with relevant text.
+
+For more information, see [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
+
+See also [foo, foobar, fubar]().
+
 ## -based
+
+
+
 ## bbPress
 
 Use lowercase for *bb*. Capitalize *P*.
@@ -95,4 +107,7 @@ Not *Buddypress, Buddy press, Buddy Press,* or *buddypress*.
 ## bug
 ## build
 ## built-in
+
+Hyphenate as an adjective.
+
 ## button
