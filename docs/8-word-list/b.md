@@ -50,7 +50,7 @@ See also [foo, foobar, fubar]().
 
 In general, hyphenate compound adjectives ending with *-based* such as *ARM-based, application-based*, and *HTML-based*.
 
-Use an en dash if based follows a term with two or more words.
+Use an en dash if *based* follows a term with two or more words.
 
 **Example**  
 [tip] **Recommended:** ARM processor–based device [/tip]  
@@ -96,7 +96,17 @@ For more information, see [Abbreviations](numbers.md).
 ## black box
 ## blacklist, black list, black-list
 ## blank
+
+Don't use as a verb to mean removing the contents of any element. Instead, use *clear*.
+
+See also [clear]().
+
 ## blog
+
+Shortened term for *weblog*. Always use *blog*.
+
+Don't use *blog* as a verb. Instead, use *write, publish*, or a contextually relevant term.
+
 ## bold
 ## bookmark
 
