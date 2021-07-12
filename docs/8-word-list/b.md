@@ -108,12 +108,27 @@ Shortened term for *weblog*. Always use *blog*.
 Don't use *blog* as a verb. Instead, use *write, publish*, or a contextually relevant term.
 
 ## bold
+
+Use only as an adjective, not as a noun or verb.
+
+Don't use *bolded, boldface*, or *boldfaced*.
+
+For more information, see [Text highlighting]().
+
 ## bookmark
 
 One word. Not *book mark* or *book-mark*.
 
-## boolean
+## Boolean
+
+Capitalize.
+
 ## boot
+
+Don't use as a verb to mean turning on a device. Instead, use *turn on*. 
+
+See also [turn on, turn off]().
+
 ## bottom left, bottom right
 
 Don't use.
