@@ -92,6 +92,11 @@ For more information, see [Abbreviations](numbers.md).
 
 ## bit
 ## bitmap
+
+One word. Not *bit map* or *bit-map*.
+
+Don't use generically to refer to any graphic. Instead, use *illustration, picture, image, figure*, or a contextually relevant term instead.
+
 ## bps (bit/s), bits per second
 ## black box
 ## blacklist, black list, black-list
@@ -125,7 +130,9 @@ Capitalize.
 
 ## boot
 
-Don't use as a verb to mean turning on a device. Instead, use *turn on*. 
+Don't use as a verb to mean turning on a device. Instead, use *turn on*.
+
+It's OK to use *boot* in developer documentation and for a technical audience.
 
 See also [turn on, turn off]().
 
@@ -147,6 +154,11 @@ Not *Buddypress, Buddy press, Buddy Press,* or *buddypress*.
 **Exception:** It is OK to use *buddypress* in lowercase in developer documentation such as commands, or BuddyPress URLs. For example, [codex.buddypress.org/](https://codex.buddypress.org/).
 
 ## bug
+
+OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
+
+Instead, use *problem, condition, issue*, or *situation*.
+
 ## build
 
 It's OK to use *build* in developer documentation and for a technical audience as a verb to mean *compile* and as a noun to mean *version*.
