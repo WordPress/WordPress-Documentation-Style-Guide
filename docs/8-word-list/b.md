@@ -92,7 +92,14 @@ For more information, see [Abbreviations](numbers.md).
 
 ## bit
 
+Shortened term for *binary digit*.
 
+Hyphenate as an adjective.
+
+**Examples**  
+[tip] **Recommended:** AES provides 128-bit, 192-bit or 256-bit encryption.  [/tip]  
+[tip] **Recommended:** Copy the 32-bit key.  [/tip]  
+[tip] **Recommended:** The key uses 32 bits.  [/tip]  
 
 ## bitmap
 
@@ -111,6 +118,9 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 See also [bit](#bit).
 
 ## black box
+
+Don't use. Instead, use *closed, closed box, opaque testing*, or a contextually relevant term.
+
 ## blacklist, black list, black-list
 ## blank
 
