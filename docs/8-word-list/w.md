@@ -111,6 +111,10 @@ See [if, whether](https://make.wordpress.org/docs/style-guide/word-list/i/#if-wh
 
 Use only to refer to something occurring in a period of time. Don't use as a synonym for *though, although, whereas, in spite of*, or *on the contrary*.
 
+## white box
+
+Don't use. Instead, use *open, open box, transparent, clear testing*, or a contextually relevant term.
+
 ## whitelist
 
 Don't use. Instead, use *allowlist, allowed*, or *approved*.
