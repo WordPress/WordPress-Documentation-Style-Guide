@@ -91,6 +91,9 @@ Don't abbreviate *billion* as *B, b*, or *bn*. Spell out the word or denote the 
 For more information, see [Abbreviations](numbers.md).
 
 ## bit
+
+
+
 ## bitmap
 
 One word. Not *bit map* or *bit-map*.
@@ -98,6 +101,15 @@ One word. Not *bit map* or *bit-map*.
 Don't use generically to refer to any graphic. Instead, use *illustration, picture, image, figure*, or a contextually relevant term instead.
 
 ## bps (bit/s), bits per second
+
+Initialism for *bits per second*.
+
+For more information, see [Units of measurement](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/).
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
+See also [bit](#bit).
+
 ## black box
 ## blacklist, black list, black-list
 ## blank
