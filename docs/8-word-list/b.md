@@ -165,8 +165,19 @@ Don't use.
 See [lower left, lower right](l.md).
 
 ## box
+
+
+
 ## brackets
+
+See [brackets](symbols.md).
+
 ## browse
+
+Use to refer to manually scanning internet sites or other files.
+
+It’s OK to use *browse* as either a transitive verb, as in *browse the web* or an intransitive verb, as in *browse through a document*.
+
 ## BuddyPress
 
 Capitalize *B* and *P*.
