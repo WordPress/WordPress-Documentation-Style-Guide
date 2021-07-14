@@ -8,6 +8,12 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when r
 
 The use of `&` in code is completely fine.
 
+## [] (brackets)
+
+Use *brackets*, to describe these symbols: [ ]. Don’t use *brackets* when you mean *angle brackets* (< >).
+
+Use *opening and closing brackets* to distinguish between the left and right brackets.
+
 ## º (degree symbol)
 
 
