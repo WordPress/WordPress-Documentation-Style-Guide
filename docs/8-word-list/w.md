@@ -115,6 +115,8 @@ Use only to refer to something occurring in a period of time. Don't use as a syn
 
 Don't use. Instead, use *open, open box, transparent, clear testing*, or a contextually relevant term.
 
+For more information, see [Writing inclusive documentation](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
+
 ## whitelist
 
 Don't use. Instead, use *allowlist, allowed*, or *approved*.
