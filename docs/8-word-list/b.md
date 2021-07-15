@@ -122,6 +122,11 @@ See also [bit](#bit).
 Don't use. Instead, use *closed, closed box, opaque testing*, or a contextually relevant term.
 
 ## blacklist, black list, black-list
+
+Don't use. Instead, use *deny list, blocklist, disallowed, unapproved*, or a contextually relevant term.
+
+For more information, see [Replacing established terms](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/#replacing-established-terms).
+
 ## blank
 
 Don't use as a verb to mean removing the contents of any element. Instead, use *clear*.
