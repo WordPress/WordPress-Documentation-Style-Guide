@@ -74,6 +74,15 @@ Not *Bbpress, Bb press, Bb Press, bb press* or *bbpress*.
 See also [since]().
 
 ## below
+
+Don't use to mean *later*. Instead, use *following*.
+
+Don't use as an adjective to introduce a table, list, or other content as in *the below section*. Instead, use *the following* or use a cross-reference.
+
+For more information, see [Cross-references]().
+
+See also [following]().
+
 ## beta
 
 Capitalize when part of a product name.
@@ -83,6 +92,9 @@ Capitalize when part of a product name.
 [tip] **Recommended:** WordPress has released a beta version of 5.8.  [/tip]  
 
 ## between
+
+
+
 ## bi-
 
 In general, don't hyphenate words beginning with *bi-* such as *bimodal, biweekly,* and *bidirectional*, unless *bi-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
