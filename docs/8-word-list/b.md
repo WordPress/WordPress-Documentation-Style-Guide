@@ -75,6 +75,13 @@ See also [since]().
 
 ## below
 ## beta
+
+Capitalize when part of a product name.
+
+**Examples**  
+[tip] **Recommended:** WordPress 5.8 Beta 4 [/tip]  
+[tip] **Recommended:** WordPress has released a beta version of 5.8.  [/tip]  
+
 ## between
 ## bi-
 
@@ -120,6 +127,8 @@ See also [bit](#bit).
 ## black box
 
 Don't use. Instead, use *closed, closed box, opaque testing*, or a contextually relevant term.
+
+For more information, see [Writing inclusive documentation](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 
 ## blacklist, black list, black-list
 
