@@ -192,7 +192,15 @@ See [lower left, lower right](l.md).
 
 ## box
 
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
 
+Refer to a box by its label instead of *field*. If you have to use a descriptor, use the complete term such as *list box* or *checkbox*.
+
+Don’t use *dialog box*. Instead, use *dialog*.
+
+For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
+
+See also [checkbox](), {dialog]().
 
 ## brackets
 
