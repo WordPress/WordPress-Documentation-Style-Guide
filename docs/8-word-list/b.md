@@ -192,9 +192,7 @@ See [lower left, lower right](l.md).
 
 ## box
 
-In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element.
-
-Refer to a box by its label instead of *field*. If you have to use a descriptor, use the complete term such as *list box* or *checkbox*.
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a box by its label instead of *field*. If you have to use a descriptor, use the complete term such as *list box* or *checkbox*.
 
 Don’t use *dialog box*. Instead, use *dialog*.
 
@@ -237,3 +235,7 @@ Avoid using in user documentation and for a general audience as a synonym for *c
 Hyphenate as an adjective.
 
 ## button
+
+In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a button by its label. If you have to use a descriptor, use *button*.
+
+For more information, see [Button and icon](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#button-and-icon).
