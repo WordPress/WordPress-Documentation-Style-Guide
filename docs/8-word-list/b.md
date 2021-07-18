@@ -69,9 +69,9 @@ Not *Bbpress, Bb press, Bb Press, bb press* or *bbpress*.
 
 ## because
 
+Use *because* to mean *for the reason that*.
 
-
-See also [since]().
+See also [since](https://make.wordpress.org/docs/style-guide/word-list/s/#since).
 
 ## below
 
