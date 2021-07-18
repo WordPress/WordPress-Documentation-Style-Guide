@@ -173,6 +173,8 @@ One word. Not *site map* or *site-map*.
 
 Don't use as a synonym for *because*. *Since* can be ambiguous and could refer to time. *Because* refers to a reason for something.
 
+See [because](https://make.wordpress.org/docs/style-guide/word-list/b/#because)
+
 ## size
 
 Avoid using size as a verb, as in *size the window*. Instead, use *change the size of* or *resize*.
