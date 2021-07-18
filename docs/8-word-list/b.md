@@ -93,7 +93,14 @@ Capitalize when part of a product name.
 
 ## between
 
+Use *between* while referring to two or more distinct things.
 
+**Example**  
+[tip] **Recommended:** These are the main differences between WordPress.com and WordPress. [/tip]  
+
+Don't interchange *between* with *among*. Use among when referring to two or more things that aren't distinct.
+
+See also [among]().
 
 ## bi-
 
