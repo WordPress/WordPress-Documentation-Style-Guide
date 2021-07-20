@@ -16,7 +16,7 @@ One word. Not *back link* or *back-link*.
 
 One word. Not *back slash* or *back-slash*.
 
-Use *backslash* to describe the *\* character.
+Use *backslash* to describe the *\\* character.
 
 ## backspace
 
@@ -159,7 +159,7 @@ For more information, see [Replacing established terms](https://make.wordpress.o
 
 Don't use as a verb to mean removing the contents of any element. Instead, use *clear*.
 
-See also [clear]().
+See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear).
 
 ## blog
 
@@ -173,7 +173,7 @@ Use only as an adjective, not as a noun or verb.
 
 Don't use *bolded, boldface*, or *boldfaced*.
 
-For more information, see [Text highlighting]().
+For more information, see [Text highlighting](https://make.wordpress.org/docs/style-guide/formatting/text/#text-highlighting).
 
 ## bookmark
 
@@ -189,13 +189,13 @@ Don't use as a verb to mean turning on a device. Instead, use *turn on*.
 
 It's OK to use *boot* in developer documentation and for a technical audience.
 
-See also [turn on, turn off]().
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
 ## bottom left, bottom right
 
 Don't use.
 
-See [lower left, lower right](l.md).
+See [lower left, lower right](https://make.wordpress.org/docs/style-guide/word-list/l/#lower-left-lower-right).
 
 ## box
 
@@ -205,11 +205,11 @@ Don’t use *dialog box*. Instead, use *dialog*.
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 
-See also [checkbox](), {dialog]().
+See also [checkbox](https://make.wordpress.org/docs/style-guide/word-list/c/#checkbox), [dialog](https://make.wordpress.org/docs/style-guide/word-list/d/#dialog).
 
 ## brackets
 
-See [brackets](symbols.md).
+See [brackets](https://make.wordpress.org/docs/style-guide/word-list/symbols/#brackets).
 
 ## browse
 
