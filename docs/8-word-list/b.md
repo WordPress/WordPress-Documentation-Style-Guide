@@ -44,7 +44,7 @@ Avoid using. Instead, use a clearer and more meaningful placeholder with relevan
 
 For more information, see [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
 
-See also [foo, foobar, fubar]().
+See also [foo, foobar, fubar](https://make.wordpress.org/docs/style-guide/word-list/f/#foo-foobar-fubar).
 
 ## -based
 
@@ -79,9 +79,9 @@ Don't use to mean *later*. Instead, use *following*.
 
 Don't use as an adjective to introduce a table, list, or other content as in *the below section*. Instead, use *the following* or use a cross-reference.
 
-For more information, see [Cross-references]().
+For more information, see [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
 
-See also [following]().
+See also [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following).
 
 ## beta
 
@@ -100,7 +100,7 @@ Use *between* while referring to two or more distinct things.
 
 Don't interchange *between* with *among*. Use among when referring to two or more things that aren't distinct.
 
-See also [among]().
+See also [among](https://make.wordpress.org/docs/style-guide/word-list/a/#among).
 
 ## bi-
 
@@ -114,7 +114,7 @@ For word usage of specific terms, see [The American Heritage Dictionary](https:/
 
 Don't abbreviate *billion* as *B, b*, or *bn*. Spell out the word or denote the entire number.
 
-For more information, see [Abbreviations](numbers.md).
+For more information, see [Abbreviations](https://make.wordpress.org/docs/style-guide/formatting/numbers/#abbreviations).
 
 ## bit
 
