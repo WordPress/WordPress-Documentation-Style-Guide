@@ -1,7 +1,5 @@
 # B
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## back end, back-end
 
 Two words as a noun, hyphenate as an adjective.
