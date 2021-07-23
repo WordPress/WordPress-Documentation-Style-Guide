@@ -30,7 +30,7 @@ See also [between]().
 ## and/or
 ## and so on
 ## anti-
-
+## API
 ## app, application
 
 ## appear
@@ -38,4 +38,7 @@ See also [between]().
 
 See also [display]().
 
+## argument
 ## arrow keys
+## as
+## auto-
