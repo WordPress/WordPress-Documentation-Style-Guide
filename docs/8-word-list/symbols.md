@@ -8,6 +8,9 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when r
 
 The use of `&` in code is completely fine.
 
+## <> (angle brackets)
+
+
 ## {} (braces)
 
 Use *braces* to describe the *{}* symbols. Don't use *braces*.
