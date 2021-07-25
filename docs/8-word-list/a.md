@@ -25,6 +25,7 @@
 ## alignment
 ## allow
 ## alpha
+## alphabetical
 ## alphanumeric
 ## AM, PM
 
@@ -57,6 +58,8 @@ See also [display]().
 ## argument
 ## arrow keys
 ## as
+## as well as
 ## ASCII
+## ask
 ## assure
 ## auto-
