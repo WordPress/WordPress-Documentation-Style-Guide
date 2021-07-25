@@ -9,8 +9,8 @@ Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when r
 The use of `&` in code is completely fine.
 
 ## <> (angle brackets)
-
-
+## * (asterisk)
+## @ (at sign)
 ## {} (braces)
 
 Use *braces* to describe the *{}* symbols. Don't use *braces*.
@@ -24,7 +24,6 @@ Use *brackets* to describe the *[]* symbols. Don’t use *brackets* when you mea
 Use *opening bracket* and *closing brackets* to distinguish between the left and right brackets.
 
 ## º (degree symbol)
-
 
 ## ÷ (division sign)
 
