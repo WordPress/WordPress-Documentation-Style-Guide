@@ -10,6 +10,7 @@
 ## above
 ## access
 ## activate
+## add
 ## add-on
 ## address
 ## address bar
@@ -18,6 +19,7 @@
 ## agnostic
 ## Ajax
 ## aka
+## alarm
 ## alert
 ## alias
 ## alignment
@@ -56,4 +58,5 @@ See also [display]().
 ## arrow keys
 ## as
 ## ASCII
+## assure
 ## auto-
