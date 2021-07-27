@@ -18,6 +18,13 @@
 ## afterward
 ## agnostic
 ## Ajax
+
+Capitalize.
+
+Don't use a filename extension to refer to a type of file. For example, use *Ajax file* rather than *.ajax file*.
+
+For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
+
 ## aka
 ## alarm
 ## alert
