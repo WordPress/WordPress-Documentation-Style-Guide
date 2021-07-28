@@ -17,6 +17,9 @@
 ## admin, administrator
 ## afterward
 ## agnostic
+
+Don't use. Instead, use a precise term like *platform-independent*.
+
 ## Ajax
 
 Capitalize.
@@ -32,6 +35,13 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## alignment
 ## allow
 ## alpha
+
+Capitalize when part of a product name.
+
+**Examples**  
+[tip] **Recommended:** WordPress 5.8 Alpha 2 [/tip]  
+[tip] **Recommended:** WordPress has released an alpha version of 5.8.  [/tip]  
+
 ## alphabetical
 ## alphanumeric
 ## AM, PM
