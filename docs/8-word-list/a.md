@@ -77,6 +77,11 @@ See also [display]().
 ## as
 ## as well as
 ## ASCII
+
+Acronym for *American Standard Code for Information Interchange*. Use uppercase.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## ask
 ## assure
 ## auto-
