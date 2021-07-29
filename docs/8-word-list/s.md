@@ -38,7 +38,7 @@ See also [scroll](#scroll).
 
 ## SDK
 
-Acronym for *Software Development Kit*. Use uppercase.
+Initialism for *Software Development Kit*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
@@ -274,7 +274,7 @@ Don't use *ssh* or *SSH* as a verb.
 
 ## SSL
 
-Acronym for *Secure Socket Layer*. Use uppercase.
+Initialism for *Secure Socket Layer*. Use uppercase.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
