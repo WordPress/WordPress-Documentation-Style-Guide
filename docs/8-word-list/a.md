@@ -5,6 +5,9 @@
 ## a11y, accessibility
 ## a, an
 ## abnormal
+
+Don't use to refer to a person. It's OK to use *abnormal* in developer documentation and for a technical audience.
+
 ## abort
 ## about
 ## above
@@ -14,6 +17,9 @@
 ## add-on
 ## address
 ## address bar
+
+Use to refer to the URL bar or search box in a browser. 
+
 ## admin, administrator
 ## afterward
 ## agnostic
