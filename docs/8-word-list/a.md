@@ -14,13 +14,17 @@ Don't use to refer to a person. It's OK to use *abnormal* in developer documenta
 
 Don't use to mean *earlier* to refer to a position in a document or article. Instead, use *earlier* or *preceding*.
 
+Don't use as an adjective to introduce a table, list, or other content as in *the above section*. Instead, use *the preceding* or use a cross-reference.
+
+For more information, see [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
+
 Don't use for a range of numbers. Instead, use *later*.
 
-Don't use to refer to a position in the UI. In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+Don't use to refer to a position in the UI. In general, avoid using directional language in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
 
 For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
-See also [later]().
+See also [earlier](), [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following), [later]().
 
 ## access
 ## activate
