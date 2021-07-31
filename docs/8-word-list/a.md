@@ -11,6 +11,17 @@ Don't use to refer to a person. It's OK to use *abnormal* in developer documenta
 ## abort
 ## about
 ## above
+
+Don't use to mean *earlier* to refer to a position in a document or article. Instead, use *earlier* or *preceding*.
+
+Don't use for a range of numbers. Instead, use *later*.
+
+Don't use to refer to a position in the UI. In general, avoid using directional language such as *left, right, up, down* in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+
+For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
+
+See also [later]().
+
 ## access
 ## activate
 ## add
@@ -18,7 +29,7 @@ Don't use to refer to a person. It's OK to use *abnormal* in developer documenta
 ## address
 ## address bar
 
-Use to refer to the URL bar or search box in a browser. 
+Use to refer to the URL bar or search box in a browser.
 
 ## admin, administrator
 ## afterward
@@ -51,6 +62,7 @@ Capitalize when part of a product name.
 ## alphabetical
 ## alphanumeric
 ## AM, PM
+
 
 
 For more information, see [Dates and times]().
