@@ -73,11 +73,15 @@ See also [since](https://make.wordpress.org/docs/style-guide/word-list/s/#since)
 
 ## below
 
-Don't use to mean *later*. Instead, use *following*.
+Don't use to mean *later* to refer to a position in a document or article. Instead, use *following*.
 
 Don't use as an adjective to introduce a table, list, or other content as in *the below section*. Instead, use *the following* or use a cross-reference.
 
 For more information, see [Cross-references](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
+
+Don't use to refer to a position in the UI. In general, avoid using directional language in instructions to locate UI elements or other content. Directional language proves to be difficult for accessibility or for localization. People with cognitive impairments, as well as people using assistive technologies such as screen-reading software and might have difficulty interpreting directional language. If a particular UI element or other content is difficult to convey, include a screenshot or illustration.
+
+For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
 See also [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following).
 
