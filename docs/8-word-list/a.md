@@ -92,6 +92,11 @@ See [& (ampersand)]().
 Note spelling.
 
 ## and/or
+
+Avoid using. Instead, reconsider and rewrite the sentence whenever possible.
+
+It's OK to use *and/or* to avoid lengthy and complex sentences or where space is limited.
+
 ## and so on
 ## anti-
 ## Apache
