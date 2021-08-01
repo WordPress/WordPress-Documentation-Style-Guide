@@ -95,13 +95,21 @@ Note spelling.
 
 Avoid using. Instead, reconsider and rewrite the sentence whenever possible.
 
-It's OK to use *and/or* to avoid lengthy and complex sentences or where space is limited.
+It's OK to use *and/or* to avoid lengthy and complex sentences, or where space is limited.
 
 ## and so on
 ## anti-
 ## Apache
 ## API
+
+Initialism for *application programming interface*. Use uppercase.
+
+It's OK to use lowercase in developer documentation, such as commands.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## app, application
+
 
 
 See also [program]().
@@ -115,6 +123,9 @@ See also [display]().
 ## arrow keys
 ## as
 ## as well as
+
+Don't use as a synonym for *and*.
+
 ## ASCII
 
 Acronym for *American Standard Code for Information Interchange*. Use uppercase.
