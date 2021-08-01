@@ -53,6 +53,11 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 ## alarm
 ## alert
 ## alias
+
+Use *for* with *alias*; not *of* or *to*. Don't use *aliased*.
+
+Avoid using for an email address, account name, or other similar name.
+
 ## alignment
 ## allow
 ## alpha
@@ -83,12 +88,19 @@ See also [between]().
 See [& (ampersand)]().
 
 ## analog
+
+Note spelling.
+
 ## and/or
 ## and so on
 ## anti-
 ## Apache
 ## API
 ## app, application
+
+
+See also [program]().
+
 ## appear
 
 
