@@ -120,8 +120,21 @@ See also [program]().
 See also [display]().
 
 ## argument
+
+
+
 ## arrow keys
+
+
+
 ## as
+
+Avoid using to mean *because*. Instead, use *because*.
+
+*As* can refer to the context of time; whereas *because* refers to a reason for something.
+
+See also [because](), [since]().
+
 ## as well as
 
 Don't use as a synonym for *and*.
