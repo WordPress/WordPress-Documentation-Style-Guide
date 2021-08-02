@@ -99,6 +99,13 @@ It's OK to use *and/or* to avoid lengthy and complex sentences, or where space i
 
 ## and so on
 ## anti-
+
+In general, don't hyphenate words beginning with *anti-* such as *antivirus* and *antialiasing*, unless *anti-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
+
+For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/punctuation/hyphens/).
+
+For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
+
 ## Apache
 ## API
 
