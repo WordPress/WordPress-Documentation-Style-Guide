@@ -98,6 +98,13 @@ Avoid using. Instead, reconsider and rewrite the sentence whenever possible.
 It's OK to use *and/or* to avoid lengthy and complex sentences, or where space is limited.
 
 ## and so on
+
+Don't use. Instead, use *such as* or *like* followed by some examples.
+
+Don't use *etc*.
+
+See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
+
 ## anti-
 
 In general, don't hyphenate words beginning with *anti-* such as *antivirus* and *antialiasing*, unless *anti-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
@@ -107,6 +114,11 @@ For more information, see [Hyphens](https://make.wordpress.org/docs/style-guide/
 For word usage of specific terms, see [The American Heritage Dictionary](https://ahdictionary.com/).
 
 ## Apache
+
+Colloquially shortened for *Apache HTTP Server Project*. Capitalize.
+
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
+
 ## API
 
 Initialism for *application programming interface*. Use uppercase.
