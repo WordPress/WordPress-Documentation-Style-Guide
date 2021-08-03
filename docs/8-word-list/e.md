@@ -174,6 +174,8 @@ It's OK to use *et al.* in a citation that includes three or more authors.
 
 Don't use. Instead, use *such as* or *like* followed by some examples.
 
+Don't use *and so on*.
+
 See also [like](https://make.wordpress.org/docs/style-guide/word-list/l/#like), [such as](https://make.wordpress.org/docs/style-guide/word-list/s/#such-as).
 
 ## exe file
