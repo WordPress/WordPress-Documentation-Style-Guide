@@ -100,7 +100,7 @@ Use *between* while referring to two or more distinct things.
 **Example**  
 [tip] **Recommended:** These are the main differences between WordPress.com and WordPress. [/tip]  
 
-Don't interchange *between* with *among*. Use among when referring to two or more things that aren't distinct.
+Don't interchange *between* with *among*. Use *among* when referring to two or more things that aren't distinct.
 
 See also [among](https://make.wordpress.org/docs/style-guide/word-list/a/#among).
 
