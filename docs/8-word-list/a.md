@@ -79,7 +79,10 @@ For more information, see [Dates and times]().
 ## America, American
 ## among
 
+Use *among* when referring to two or more things that aren't distinct.
 
+**Example**  
+[tip] **Recommended:** Selecting among thousands of themes. [/tip]  
 
 See also [between]().
 
@@ -144,11 +147,13 @@ See also [display]().
 
 ## arrow keys
 
-Use lowercase in general references.
+Use lowercase in general references. Capitalize the name when you refer to a specific arrow key.
 
 Don't use *direction keys, directional keys*, or *movement keys*.
 
 **Examples**  
+[warning] **Not recommended:** Use the Arrow keys to navigate through the table. [/warning]  
+[tip] **Recommended:** Use the arrow keys to navigate through the table. [/tip]  
 [warning] **Not recommended:** Press the Right arrow key. [/warning]  
 [tip] **Recommended:** Press the Right Arrow key. [/tip]  
 
