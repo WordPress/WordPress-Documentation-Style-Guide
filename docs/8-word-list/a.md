@@ -144,7 +144,13 @@ See also [display]().
 
 ## arrow keys
 
+Use lowercase in general references.
 
+Don't use *direction keys, directional keys*, or *movement keys*.
+
+**Examples**  
+[warning] **Not recommended:** Press the Right arrow key. [/warning]  
+[tip] **Recommended:** Press the Right Arrow key. [/tip]  
 
 ## as
 
