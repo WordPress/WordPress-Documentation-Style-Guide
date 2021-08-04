@@ -84,7 +84,9 @@ Use *among* when referring to two or more things that aren't distinct.
 **Example**  
 [tip] **Recommended:** Selecting among thousands of themes. [/tip]  
 
-See also [between]().
+Don't interchange *between* with *among*. Use *between* when referring to two or more distinct things.
+
+See also [between](https://make.wordpress.org/docs/style-guide/word-list/b/#between).
 
 ## ampersand
 
