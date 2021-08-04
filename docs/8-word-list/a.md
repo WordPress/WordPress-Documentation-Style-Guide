@@ -165,7 +165,13 @@ Acronym for *American Standard Code for Information Interchange*. Use uppercase.
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
 ## ask
+
+Don't use as a noun. Instead, use *request, task*, or a contextually relevant term.
+
 ## assure
+
+Don't use to mean *ensure*. Use *assure* to affirm a statement.
+
 ## auto-
 
 In general, don't hyphenate words beginning with *auto-* such as *autosave, autoplay,* and *autoscale*, unless *auto-* is followed by a proper noun or it is absolutely necessary to avoid confusion.
