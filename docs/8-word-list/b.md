@@ -95,7 +95,7 @@ Capitalize when part of a product name.
 
 ## between
 
-Use *between* while referring to two or more distinct things.
+Use *between* when referring to two or more distinct things.
 
 **Example**  
 [tip] **Recommended:** These are the main differences between WordPress.com and WordPress. [/tip]  
