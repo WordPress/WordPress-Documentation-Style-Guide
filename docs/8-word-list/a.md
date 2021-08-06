@@ -37,6 +37,9 @@ Use to refer to the URL bar or search box in a browser.
 
 ## admin, administrator
 ## afterward
+
+Not *afterwards*.
+
 ## agnostic
 
 Don't use. Instead, use a precise term like *platform-independent*.
@@ -50,6 +53,13 @@ Don't use a filename extension to refer to a type of file. For example, use *Aja
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
 ## aka
+
+Don't use. Instead, spell out as *also known as*, present an alternative term using parentheses or the word *or*, or use a contextually relevant term. You can also write out a definition.
+
+For more information, see [Parentheses]().
+
+
+
 ## alarm
 ## alert
 ## alias
@@ -70,7 +80,7 @@ Capitalize when part of a product name.
 
 ## alphabetical
 
-Use instead of *alphabetical*.
+Not *alphabetical*.
 
 ## alphanumeric
 
