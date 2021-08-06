@@ -69,7 +69,15 @@ Capitalize when part of a product name.
 [tip] **Recommended:** WordPress has released an alpha version of 5.8.  [/tip]  
 
 ## alphabetical
+
+Use instead of *alphabetical*.
+
 ## alphanumeric
+
+One word. Not *alpha numeric* or *alpha-numeric*.
+
+Don't use *alphanumerical*.
+
 ## AM, PM
 
 
