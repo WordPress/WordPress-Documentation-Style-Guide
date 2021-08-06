@@ -58,7 +58,11 @@ Don't use. Instead, spell out as *also known as*, present an alternative term us
 
 For more information, see [Parentheses]().
 
-
+**Examples**  
+[warning] **Not recommended:** Localization, aka *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/warning]  
+[tip] **Recommended:** Localization, also known as *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
+[tip] **Recommended:** Localization (*l10n*) is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
+[tip] **Recommended:** Localization, or *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 
 ## alarm
 ## alert
