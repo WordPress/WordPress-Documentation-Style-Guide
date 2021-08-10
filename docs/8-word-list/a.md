@@ -4,6 +4,11 @@
 
 ## a11y, accessibility
 ## a, an
+
+Use *a* when the next word starts with a consonant sound, regardless of what letter it starts with. 
+
+For more information, see [Articles (a, an, the)]().
+
 ## abnormal
 
 Don't use to refer to a person. It's OK to use *abnormal* in developer documentation and for a technical audience.
