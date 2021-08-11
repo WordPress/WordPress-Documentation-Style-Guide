@@ -70,6 +70,11 @@ For more information, see [Parentheses]().
 [tip] **Recommended:** Localization, or *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 
 ## alarm
+
+Don't use as a generic term for a sound intended to get the user's attention. Instead use *beep* or a contextually specific term.
+
+It's OK to use *alarm* in a specific description.
+
 ## alert
 ## alias
 
