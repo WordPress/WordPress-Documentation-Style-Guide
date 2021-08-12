@@ -177,7 +177,11 @@ See also [display]().
 
 ## argument
 
+OK to use in developer documentation and for a technical audience.
 
+Avoid using in user documentation and for a general audience. Instead, use *option*.
+
+For more information, see [Command-line syntax]().
 
 ## arrow keys
 
