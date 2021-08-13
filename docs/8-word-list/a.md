@@ -8,7 +8,9 @@ Abbreviation for *accessibility*.
 
 It’s OK to abbreviate localization as *a11y*. Spell out on the first mention.
 
-For more information about spelling out abbreviations, see Abbreviations.
+Don't use *accessible* as a synonym for simple. Instead, use *easy to use* or *intuitive*.
+
+For more information about spelling out abbreviations, see {Abbreviations]().
 
 For more information about writing for a global audience, see [Accessbility]().
 
