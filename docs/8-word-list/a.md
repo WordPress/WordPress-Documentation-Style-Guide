@@ -3,6 +3,15 @@
 [alert] **Caution:** This page is currently under development. [/alert]
 
 ## a11y, accessibility
+
+Abbreviation for *accessibility*.
+
+It’s OK to abbreviate localization as *a11y*. Spell out on the first mention.
+
+For more information about spelling out abbreviations, see Abbreviations.
+
+For more information about writing for a global audience, see [Accessbility]().
+
 ## a, an
 
 Use *a* when the next word starts with a consonant sound, regardless of what letter it starts with. 
