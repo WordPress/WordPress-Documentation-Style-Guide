@@ -10,9 +10,9 @@ It’s OK to abbreviate localization as *a11y*. Spell out on the first mention.
 
 Don't use *accessible* as a synonym for simple. Instead, use *easy to use* or *intuitive*.
 
-For more information about spelling out abbreviations, see {Abbreviations]().
+For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
-For more information about writing for a global audience, see [Accessbility]().
+For more information about writing for a global audience, see [Accessbility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/).
 
 ## a, an
 
