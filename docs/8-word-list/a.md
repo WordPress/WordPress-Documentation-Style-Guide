@@ -40,7 +40,7 @@ Don't use to refer to a position in the UI. In general, avoid using directional 
 
 For more information, see [Procedures and instructions](https://make.wordpress.org/docs/style-guide/formatting/procedures/).
 
-See also [earlier](), [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following), [later]().
+See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## access
 ## activate
@@ -184,7 +184,7 @@ See also [program]().
 ## appear
 
 
-See also [display]().
+See also [display](https://make.wordpress.org/docs/style-guide/word-list/d/#display).
 
 ## argument
 
