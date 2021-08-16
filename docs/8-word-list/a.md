@@ -133,7 +133,7 @@ See also [between](https://make.wordpress.org/docs/style-guide/word-list/b/#betw
 
 ## ampersand
 
-See [& (ampersand)]().
+See [& (ampersand)](https://make.wordpress.org/docs/style-guide/word-list/symbols/#ampersand).
 
 ## analog
 
@@ -179,7 +179,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 
 
-See also [program]().
+See also [program](https://make.wordpress.org/docs/style-guide/word-list/p/#program).
 
 ## appear
 
@@ -192,7 +192,7 @@ OK to use in developer documentation and for a technical audience.
 
 Avoid using in user documentation and for a general audience. Instead, use *option*.
 
-For more information, see [Command-line syntax]().
+For more information, see [Command-line syntax](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/).
 
 ## arrow keys
 
@@ -212,7 +212,7 @@ Avoid using to mean *because*. Instead, use *because*.
 
 *As* can refer to the context of time; whereas *because* refers to a reason for something.
 
-See also [because](), [since]().
+See also [because](https://make.wordpress.org/docs/style-guide/word-list/b/#because), [since](https://make.wordpress.org/docs/style-guide/word-list/s/#since).
 
 ## as well as
 
