@@ -66,4 +66,4 @@ It is acceptable to use *just* to describe an approach that is easier or simpler
 
 Don't use to refer to the alignment of text to the left or right margin. Instead, use *alignment*. Justified text is text that is aligned on both the right and the left margins. To describe alignment on one margin only, use *left-aligned* or *right-aligned*, not *left-justified* or *right-justified*.
 
-See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
+See also [alignment](https://make.wordpress.org/docs/style-guide/word-list/a/#alignment), [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
