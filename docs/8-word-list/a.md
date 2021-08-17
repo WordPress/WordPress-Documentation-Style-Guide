@@ -95,7 +95,9 @@ Avoid using for an email address, account name, or other similar name.
 
 ## alignment
 
-Use to refer to the alignment of text to the left or right margin. Don't use *justified*. Justified text is text that is aligned on both the right and the left margins. To describe alignment on one margin only, use *left-aligned* or *right-aligned*, not *left-justified* or *right-justified*.
+Use to refer to the alignment of text to the left or right margin. Don't use *justification*. Justified text is text that is aligned on both the right and the left margins. To describe alignment on one margin only, use *left-aligned* or *right-aligned*, not *left-justified* or *right-justified*.
+
+See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
 
 ## allow
 ## alpha
