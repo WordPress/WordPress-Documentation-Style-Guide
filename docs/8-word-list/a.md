@@ -94,6 +94,9 @@ Use *for* with *alias*; not *of* or *to*. Don't use *aliased*.
 Avoid using for an email address, account name, or other similar name.
 
 ## alignment
+
+Use to refer to the alignment of text to the left or right margin. Don't use *justified*. Justified text is text that is aligned on both the right and the left margins. To describe alignment on one margin only, use *left-aligned* or *right-aligned*, not *left-justified* or *right-justified*.
+
 ## allow
 ## alpha
 
