@@ -125,6 +125,13 @@ Don't use *alphanumerical*.
 For more information, see [Dates and times]().
 
 ## America, American
+
+*America* refers to the AMerican continent, including both North and South America. 
+
+Don't use to refer to the *United States*. Instead, use a more accuarate term such as *the US* or *the United States*.
+
+For more information, see [Writing for a global audience]().
+
 ## among
 
 Use *among* when referring to two or more things that aren't distinct.
