@@ -45,6 +45,11 @@ See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earl
 ## access
 ## activate
 ## add
+
+Don't use as a verb to describe installing applications and programs. Instead, use *install*.
+
+See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#install).
+
 ## add-on
 ## address
 ## address bar
