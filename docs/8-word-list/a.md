@@ -25,6 +25,13 @@ For more information, see [Articles (a, an, the)]().
 Don't use to refer to a person. It's OK to use *abnormal* in developer documentation and for a technical audience.
 
 ## abort
+
+Avoid using in user documentation and for a general audience.
+
+Instead, use *exit, cancel, stop, quit, end*, or a contextually relevant term.
+
+See also [cancel](), [end](), [exit](), [stop](), [quit]().
+
 ## about
 ## above
 
