@@ -33,6 +33,13 @@ Instead, use *exit, cancel, stop, quit, end*, or a contextually relevant term.
 See also [cancel](), [end](), [exit](), [stop](), [quit]().
 
 ## about
+
+Use instead of *on* to describe any information about what a cross-reference links to.
+
+**Examples**  
+[warning] **Not recommended:** For more information on nested procedures, see [Sub-steps in numbered procedures](https://make.wordpress.org/docs/style-guide/formatting/procedures/#sub-steps-in-numbered-procedures). [/warning]  
+[tip] **Recommended:** For more information about nested procedures, see [Sub-steps in numbered procedures](https://make.wordpress.org/docs/style-guide/formatting/procedures/#sub-steps-in-numbered-procedures). [/tip]  
+
 ## above
 
 Don't use to mean *earlier* to refer to a position in a document or article. Instead, use *earlier* or *preceding*.
