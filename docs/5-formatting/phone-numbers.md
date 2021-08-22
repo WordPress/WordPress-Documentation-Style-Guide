@@ -4,7 +4,7 @@
 
 ## Phone numbers in examples
 
-Use mock phone numbers instead of real ones in examples. For additional information about what phone numbers to use in examples, see [Example phone numbers](https://make.wordpress.org/docs/style-guide/formatting/examples/#example-phone-numbers).  
+Use mock phone numbers instead of real ones in examples. For more information about what phone numbers to use in examples, see [Example phone numbers](https://make.wordpress.org/docs/style-guide/formatting/examples/#example-phone-numbers).  
 
 ## Writing real phone numbers
 
