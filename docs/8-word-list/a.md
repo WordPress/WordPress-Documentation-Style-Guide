@@ -57,6 +57,11 @@ For more information, see [Procedures and instructions](https://make.wordpress.o
 See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earlier), [following](https://make.wordpress.org/docs/style-guide/word-list/f/#following), [later](https://make.wordpress.org/docs/style-guide/word-list/l/#later).
 
 ## access
+
+Avoid using. Instead, use *see, edit, find, use, view, log in,* or a contextually relevant term.
+
+Don't use *access* to mean *open, start,* or *create*.
+
 ## activate
 ## add
 
@@ -71,6 +76,9 @@ See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#inst
 Use to refer to the URL bar or search box in a browser.
 
 ## admin, administrator
+
+
+
 ## afterward
 
 Not *afterwards*.
@@ -106,6 +114,9 @@ Don't use as a generic term for a sound intended to get the user's attention. In
 It's OK to use *alarm* in a specific description.
 
 ## alert
+
+
+
 ## alias
 
 Use *for* with *alias*; not *of* or *to*. Don't use *aliased*.
@@ -119,6 +130,9 @@ Use to refer to the alignment of text to the left or right margin. Don't use *ju
 See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
 
 ## allow
+
+
+
 ## alpha
 
 Capitalize when part of a product name.
@@ -213,6 +227,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 See also [program](https://make.wordpress.org/docs/style-guide/word-list/p/#program).
 
 ## appear
+
 
 
 See also [display](https://make.wordpress.org/docs/style-guide/word-list/d/#display).
