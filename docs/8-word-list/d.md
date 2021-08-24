@@ -34,7 +34,7 @@ Use only in the context of software development. Don't use as a synonym for *tro
 
 ## deactivate
 
-Avoid using. Instead, use *turn off*.
+Avoid using. Instead, use *turn off* or a contextually relevant term.
 
 See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
