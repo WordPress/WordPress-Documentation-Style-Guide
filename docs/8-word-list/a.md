@@ -63,6 +63,11 @@ Avoid using. Instead, use *see, edit, find, use, view, log in,* or a contextuall
 Don't use *access* to mean *open, start,* or *create*.
 
 ## activate
+
+Avoid using. Instead, use *turn on* or a contextually relevant term.
+
+See also [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
+
 ## add
 
 Don't use as a verb to describe installing applications and programs. Instead, use *install*.
