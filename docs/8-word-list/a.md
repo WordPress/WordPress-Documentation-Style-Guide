@@ -75,7 +75,17 @@ Don't use as a verb to describe installing applications and programs. Instead, u
 See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#install).
 
 ## add-on
+
+
+
 ## address
+
+*Address* can refer to either an email address, a location, a website URL, or in the context of computer memory. 
+
+It's OK to use *address* in as long as the context is clear.
+
+See also [email](https://make.wordpress.org/docs/style-guide/word-list/e/#email), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory).
+
 ## address bar
 
 Use to refer to the URL bar or search box in a browser.
