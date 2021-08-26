@@ -130,7 +130,11 @@ It's OK to use *alarm* in a specific description.
 
 ## alert
 
+OK to use in developer documentation and for a technical audience to refer to an auditory or visual cue.
 
+Avoid using in user documentation and for a general audience. Instead, use *notification* or a contextually relevant term.
+
+See also [notification](https://make.wordpress.org/docs/style-guide/word-list/n/#notification).
 
 ## alias
 
