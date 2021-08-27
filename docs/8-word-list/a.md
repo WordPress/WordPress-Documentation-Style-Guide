@@ -76,7 +76,9 @@ See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#inst
 
 ## add-on
 
+Hyphenate. 
 
+Not *add on* or *addon*.
 
 ## address
 
@@ -148,9 +150,11 @@ Use to refer to the alignment of text to the left or right margin. Don't use *ju
 
 See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/word-list/l/#left-align-left-aligned), [right align, right-aligned](https://make.wordpress.org/docs/style-guide/word-list/r/#right-align-right-aligned).
 
-## allow
+## allow, allows
 
+Don't use *allows you to*. Instead, rewrite the sentence to emphasize on the task that the user can accomplish. If you have to express ability to do something, use *lets you*.
 
+See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled).
 
 ## alpha
 
