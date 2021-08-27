@@ -152,9 +152,11 @@ See also [left align, left-aligned](https://make.wordpress.org/docs/style-guide/
 
 ## allow, allows
 
+Avoid using. Instead, rephrase the sentence without using the term.
+
 Don't use *allows you to*. Instead, rewrite the sentence to emphasize on the task that the user can accomplish. If you have to express ability to do something, use *lets you*.
 
-See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled).
+See also [enable, enabled](https://make.wordpress.org/docs/style-guide/word-list/e/#enable-enabled), [let, lets](https://make.wordpress.org/docs/style-guide/word-list/l/#let-lets).
 
 ## alpha
 
