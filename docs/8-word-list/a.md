@@ -178,9 +178,9 @@ Don't use *alphanumerical*.
 
 ## AM, PM
 
+Always include AM and PM while expressing times. Insert a space between the time and AM or PM and ensure that it is capitalized.
 
-
-For more information, see [Dates and times]().
+For more information, see [Dates and times](https://make.wordpress.org/docs/style-guide/formatting/dates-times/).
 
 ## America, American
 
