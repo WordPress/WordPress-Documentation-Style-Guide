@@ -94,7 +94,7 @@ Use to refer to the URL bar or search box in a browser.
 
 ## admin, administrator
 
-
+Use *admin* or *administrator* unless you need to specify a particular administrator such as *system administrator, network administrator,* or *database administrator*.
 
 ## afterward
 
@@ -116,13 +116,13 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 Don't use. Instead, spell out as *also known as*, present an alternative term using parentheses or the word *or*, or use a contextually relevant term. You can also write out a definition.
 
-For more information, see [Parentheses]().
-
 **Examples**  
 [warning] **Not recommended:** Localization, aka *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/warning]  
 [tip] **Recommended:** Localization, also known as *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 [tip] **Recommended:** Localization (*l10n*) is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 [tip] **Recommended:** Localization, or *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
+
+For more information, see [Parentheses]().
 
 ## alarm
 
