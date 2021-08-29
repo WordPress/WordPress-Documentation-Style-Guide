@@ -16,9 +16,9 @@ For more information about writing for a global audience, see [Accessbility](htt
 
 ## a, an
 
-Use *a* when the next word starts with a consonant sound, regardless of what letter it starts with. 
+Use *a* when the next word starts with a consonant sound, regardless of what letter it starts with.
 
-For more information, see [Articles (a, an, the)]().
+For more information, see [Articles (a, an, the)](https://make.wordpress.org/docs/style-guide/language-grammar/articles/).
 
 ## abnormal
 
@@ -30,7 +30,7 @@ Avoid using in user documentation and for a general audience.
 
 Instead, use *exit, cancel, stop, quit, end*, or a contextually relevant term.
 
-See also [cancel](), [end](), [exit](), [stop](), [quit]().
+See also [cancel, canceled, canceling, cancellation](https://make.wordpress.org/docs/style-guide/word-list/c/#cancel-canceled-canceling-cancellation), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop), [quit](https://make.wordpress.org/docs/style-guide/word-list/q/#quit).
 
 ## about
 
@@ -76,13 +76,13 @@ See also [install](https://make.wordpress.org/docs/style-guide/word-list/i/#inst
 
 ## add-on
 
-Hyphenate. 
+Hyphenate.
 
 Not *add on* or *addon*.
 
 ## address
 
-*Address* can refer to either an email address, a location, a website URL, or in the context of computer memory. 
+*Address* can refer to either an email address, a location, a website URL, or in the context of computer memory.
 
 It's OK to use *address* as long as the context is clear.
 
@@ -122,7 +122,7 @@ Don't use. Instead, spell out as *also known as*, present an alternative term us
 [tip] **Recommended:** Localization (*l10n*) is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 [tip] **Recommended:** Localization, or *l10n*, is a process by which a product or service is translated and adapted to another language and culture along with its documentation. [/tip]  
 
-For more information, see [Parentheses]().
+For more information, see [Parentheses](https://make.wordpress.org/docs/style-guide/punctuation/parentheses/).
 
 ## alarm
 
@@ -184,7 +184,7 @@ For more information, see [Dates and times](https://make.wordpress.org/docs/styl
 
 ## America, American
 
-*America* refers to the AMerican continent, including both North and South America. 
+*America* refers to the AMerican continent, including both North and South America.
 
 Don't use to refer to the *United States*. Instead, use a more accuarate term such as *the US* or *the United States*.
 
