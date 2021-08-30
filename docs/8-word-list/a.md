@@ -184,11 +184,11 @@ For more information, see [Dates and times](https://make.wordpress.org/docs/styl
 
 ## America, American
 
-*America* refers to the AMerican continent, including both North and South America.
+*America* refers to the American continent, including both North and South America.
 
-Don't use to refer to the *United States*. Instead, use a more accuarate term such as *the US* or *the United States*.
+Don't use to refer to the *United States*. Instead, use a more accurate term such as *the US* or *the United States*.
 
-For more information, see [Writing for a global audience]().
+For more information, see [Writing documentation for an international audience](https://make.wordpress.org/docs/style-guide/general-guidelines/global-audience/).
 
 ## among
 
