@@ -195,6 +195,8 @@ Don't use as an intransitive verb. *Display* is a transitive verb; therefore it 
 
 Use *display* as a general term as a noun, to refer to any visual output device such as a monitor or a built-in display on most devices. Don't use *display* when you mean *desktop* or *screen*. Use *screen* to distinguish the usable portion of the display from its edges.
 
+See also [appear](https://make.wordpress.org/docs/style-guide/word-list/a/#appear).
+
 ## display adapter, display driver
 
 Don't use. Instead, use *video card* and *video driver*.
