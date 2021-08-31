@@ -253,6 +253,13 @@ See also [program](https://make.wordpress.org/docs/style-guide/word-list/p/#prog
 
 ## appear
 
+Use *appear*, not *display* to refer to items being visible on the screen.
+
+**Examples**  
+[warning] **Not recommended:** The setup dialog box displays. [/warning]  
+[warning] **Not recommended:** The setup dialog box is displayed. [/warning]  
+[tip] **Recommended:** The setup dialog box appears. [/tip]  
+
 
 
 See also [display](https://make.wordpress.org/docs/style-guide/word-list/d/#display).
