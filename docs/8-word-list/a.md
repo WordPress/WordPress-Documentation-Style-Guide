@@ -260,7 +260,10 @@ Use *appear*, not *display* to refer to items being visible on the screen.
 [warning] **Not recommended:** The setup dialog box is displayed. [/warning]  
 [tip] **Recommended:** The setup dialog box appears. [/tip]  
 
+It's OK to use *appear* in a task for information.
 
+**Example**  
+[tip] **Recommended:** The options only appear when you submit the form. [/tip]  
 
 See also [display](https://make.wordpress.org/docs/style-guide/word-list/d/#display).
 
