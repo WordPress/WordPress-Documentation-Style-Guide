@@ -247,7 +247,13 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 ## app, application
 
+Use a descriptor of the application whenever possible.
 
+In general, use *app* instead of *application* to refer to end-user programs in mobile and web software contexts.
+
+It's OK to use *application* in technical contexts and developer documentation.
+
+Don't use *application program*.
 
 See also [program](https://make.wordpress.org/docs/style-guide/word-list/p/#program).
 
