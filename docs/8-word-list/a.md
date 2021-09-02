@@ -1,7 +1,5 @@
 # A
 
-[alert] **Caution:** This page is currently under development. [/alert]
-
 ## a11y, accessibility
 
 Abbreviation for *accessibility*.
