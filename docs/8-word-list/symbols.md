@@ -40,7 +40,11 @@ It's OK to use *degree* or *degrees* instead of the degree symbol.
 
 Don't insert a space between the numerical value, the degree symbol and the unit of measurement.
 
-
+**Examples**  
+[warning] **Not recommended:** 70º F [/warning]  
+[warning] **Not recommended:** 70 ºF [/warning]  
+[warning] **Not recommended:** 70 º F [/warning]  
+[tip] **Recommended:** 70ºF [/tip]  
 
 ## ÷ (division sign)
 
