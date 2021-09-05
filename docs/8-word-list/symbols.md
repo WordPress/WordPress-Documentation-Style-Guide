@@ -34,7 +34,17 @@ See also [<> (angle brackets)](#angle-brackets).
 
 ## º (degree symbol)
 
+Use degree symbol to describe the *º* symbol.
+
+It's OK to use *degree* or *degrees* instead of the degree symbol.
+
+Don't insert a space between the numerical value, the degree symbol and the unit of measurement.
+
+
+
 ## ÷ (division sign)
+
+
 
 ## = (equal sign)
 
