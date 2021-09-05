@@ -10,7 +10,7 @@ The use of `&` in code is completely fine.
 
 ## <> (angle brackets)
 
-Use *angle brackets*, not *brackets* to describe the *<* and *>* symbols.
+Use *angle brackets* to describe the *<* and *>* symbols. Don’t use *angle brackets* when you mean *brackets* ([]).
 
 Use *opening bracket* and *closing bracket* to distinguish between the left and right brackets.
 
@@ -26,9 +26,11 @@ Use *opening braces* and *closing braces* to distinguish between the left and ri
 
 ## [] (brackets)
 
-Use *brackets* to describe the *[* and *]* symbols. Don’t use *brackets* when you mean *angle brackets* (< >).
+Use *brackets* to describe the *[* and *]* symbols. Don’t use *brackets* when you mean *angle brackets* (<>).
 
 Use *opening bracket* and *closing brackets* to distinguish between the left and right brackets.
+
+See also [<> (angle brackets)](#angle-brackets).
 
 ## º (degree symbol)
 
