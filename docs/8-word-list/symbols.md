@@ -48,7 +48,9 @@ Don't insert a space between the numerical value, the degree symbol and the unit
 
 ## ÷ (division sign)
 
+Not *division symbol*.
 
+For more information about fractions and division, see [Numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/).
 
 ## = (equal sign)
 
