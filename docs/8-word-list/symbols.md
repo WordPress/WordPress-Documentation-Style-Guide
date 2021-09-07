@@ -70,7 +70,13 @@ For more information, see [Filenames](https://make.wordpress.org/docs/style-guid
 
 ## × (multiplication sign)
 
+Not *multiplication symbol*.
 
+It is OK to use *x* instead of the multiplication sign (×).
+
+For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions) and [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
+
+See also [x](https://make.wordpress.org/docs/style-guide/word-list/x/#x)
 
 ## # (number sign)
 
