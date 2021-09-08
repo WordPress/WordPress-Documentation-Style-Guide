@@ -64,9 +64,13 @@ Use code font.
 
 For more information, see [Filenames](https://make.wordpress.org/docs/style-guide/formatting/filenames/).
 
-## - (minus sign)
+## – (minus sign)
 
+Not *minus symbol*.
 
+Use an en dash to indicate the minus sign. While writing an equation with a minus sign, insert a space before and after the minus sign (en dash).
+
+For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes).
 
 ## × (multiplication sign)
 
