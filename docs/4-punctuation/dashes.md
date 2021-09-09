@@ -39,7 +39,7 @@ Turn num lock on, then hold down the left <kbd>Alt</kbd> key and type <kbd>0151<
 
 ## En dashes
 
-En dashes are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
+En dashes (–) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges.
 
 Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash.
 
