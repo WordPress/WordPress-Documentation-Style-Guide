@@ -17,7 +17,15 @@ Use *opening bracket* and *closing bracket* to distinguish between the left and 
 See also [[] (brackets)](#brackets).
 
 ## * (asterisk)
+
+
+
 ## @ (at sign)
+
+Pronounce as *at sign*.
+
+In most cases don't spell out as *at sign*.
+
 ## {} (braces)
 
 Use *braces* to describe the *{}* symbols. Don't use *braces*.
