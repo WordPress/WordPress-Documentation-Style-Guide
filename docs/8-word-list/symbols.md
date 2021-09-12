@@ -1,7 +1,5 @@
 # Symbols
 
-[alert] **Caution:** This page is currently under development. [/alert]  
-
 ## & (ampersand)
 
 Don't use *&* instead of *and* in most cases. It is acceptable to use *&* when referencing UI elements that use *&*, in places with space constraints, such as tables and UI element labels.
