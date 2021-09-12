@@ -18,6 +18,8 @@ See also [[] (brackets)](#brackets).
 
 ## * (asterisk)
 
+OK to use in developer documentation and for a technical audience.
+
 Don't use an asterisk instead of the multiplication sign, or while expressing dimensions. Instead use the multiplication sign.
 
 For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions) and [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
@@ -26,7 +28,7 @@ See also [× (multiplication sign)](https://make.wordpress.org/docs/style-guide/
 
 ## @ (at sign)
 
-Pronounce as *at sign*.
+Pronounced as *at sign*.
 
 In most cases don't spell out as *at sign*.
 
@@ -95,6 +97,8 @@ For more information, see [Dimensions](https://make.wordpress.org/docs/style-gui
 See also [x](https://make.wordpress.org/docs/style-guide/word-list/x/#x)
 
 ## # (number sign)
+
+Not *number symbol*.
 
 Always spell out *number* in *number sign*. Don't use *pound sign* or *number symbol*.
 
