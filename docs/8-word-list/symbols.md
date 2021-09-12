@@ -18,7 +18,11 @@ See also [[] (brackets)](#brackets).
 
 ## * (asterisk)
 
+Don't use an asterisk instead of the multiplication sign, or while expressing dimensions. Instead use the multiplication sign.
 
+For more information, see [Dimensions](https://make.wordpress.org/docs/style-guide/formatting/numbers/#dimensions) and [Placeholders](https://make.wordpress.org/docs/style-guide/developer-content/placeholders/).
+
+See also [× (multiplication sign)](https://make.wordpress.org/docs/style-guide/word-list/symbols/#x-multiplication-sign), [x](https://make.wordpress.org/docs/style-guide/word-list/x/#x)
 
 ## @ (at sign)
 
