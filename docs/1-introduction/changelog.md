@@ -8,11 +8,12 @@ This section shows recent updates and changes to the WordPress Style Guide.
 
 | **Date** | **Article** | **Description** |
 |----------|-------------|-----------------|
-| **xx-xx-2021** | <code><var>PAGE_NAME</code></var> | Updated title. |
+| **September 11, 2021** | [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/) | Completed new *Word list and usage dictionary* section. |
+
 
 ## Release history
 
 | **Date** | **Description** |
 |----------|-----------------|
-| **March 15, 2021** | Initial Public Release |
 | **March 15, 2021** | First Edition completed as part of [Google Season of Docs 2020](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic) by Atharva Dhekne ([@tacitonic](https://github.com/tacitonic)). |
+| **March 15, 2021** | Initial public release. |
