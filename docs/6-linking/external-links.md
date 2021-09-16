@@ -10,3 +10,12 @@ Although in some cases, including brief information can save the readers a trip 
 
 **Example**  
 [tip] **Recommended:** To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. For more information on which uses of `<br>` are correct and which ones aren't, see the [HTML specification for `<br>`](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element). [/tip]
+
+Ensure that the sites you link to are of high standard and quality.
+
+If the URL has a locale indicator, remove it and then test the link. For example, in a Wikipedia link, change the following:
+
+**Examples**  
+```
+https://en.wikipedia.org/wiki/XML-RPC
+```
