@@ -15,7 +15,11 @@ Ensure that the sites you link to are of high standard and quality.
 
 If the URL has a locale indicator, remove it and then test the link. For example, in a Wikipedia link, change the following:
 
-**Examples**  
+**Examples**
 ```
 https://en.wikipedia.org/wiki/XML-RPC
+```
+to this:
+```
+https://wikipedia.org/wiki/XML-RPC
 ```
