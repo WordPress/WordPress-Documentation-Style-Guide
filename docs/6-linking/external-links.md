@@ -2,7 +2,7 @@
 
 [alert] **Caution:** This page is currently under development. [/alert]  
 
-[info] **Highlight:**  [/info]  
+[info] **Highlight:** It's OK to link to external sites for more information. [/info]  
 
 WordPress documentation is undoubtedly reliant on third-party standards, software, platforms and technologies. Moreover, third-party documentation may become obsolete after upgrades and updates, so there is always the possibility of WordPress documentation potentially referencing obsolete content. Hence, in order to provide abundant references and guidance, it is preferable to link to external sites and sources instead of quoting or rewriting existing documentation.
 
@@ -23,7 +23,8 @@ https://wikipedia.org/wiki/XML-RPC
 ```
 
 Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window.  
+
 **Example**  
 [tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/). [/tip]
 
-For more information, see [Links to pages on a different domain or server]().
+Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Links to pages on a different domain or server]().
