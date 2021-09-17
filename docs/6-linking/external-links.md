@@ -13,9 +13,7 @@ Although in some cases, including brief information can save the readers a trip 
 
 Ensure that the sites you link to are of high standard and quality.
 
-If the URL has a locale indicator, remove it and then test the link. For example, in a Wikipedia link, change the following:
-
-**Examples**
+If the URL has a locale indicator, remove it and then test the link. For example, in a Wikipedia link, change the following:  
 ```
 https://en.wikipedia.org/wiki/XML-RPC
 ```
@@ -23,3 +21,9 @@ to this:
 ```
 https://wikipedia.org/wiki/XML-RPC
 ```
+
+Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window.  
+**Example**  
+[tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/). [/tip]
+
+For more information, see [Links to pages on a different domain or server]().
