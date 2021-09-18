@@ -133,12 +133,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | Units of measurement                                              |   ✔️   |
 | Words as words (New component)                                    |   ✔️   |
 
-### Linking (New section) 🔄
+### Linking (New section) ✔️
 
 | Component                  | Status |
 |----------------------------|--------|
 | Cross-references           |   ✔️   |
-| External links             |   🔄   |
+| External links             |   ✔️   |
 | Heading links              |   ✔️   |
 | Image links                |   ✔️   |
 | Link text                  |   ✔️   |
