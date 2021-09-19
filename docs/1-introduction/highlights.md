@@ -77,7 +77,7 @@ For more information about guidelines or topics, follow the links.
 ## Linking
 
 - [Use cross-references to guide readers to related information](https://make.wordpress.org/docs/style-guide/linking/cross-references/).
-- [*`External linking`*](https://make.wordpress.org/docs/style-guide/linking/external-links/).
+- [It's OK to link to external sites for more information.](https://make.wordpress.org/docs/style-guide/linking/external-links/).
 - [Use heading anchors](https://make.wordpress.org/docs/style-guide/linking/heading-targets/).
 - [Use root-relative URLs for image links](https://make.wordpress.org/docs/style-guide/linking/image-links/).
 - [Write detailed and expressive link text that provides context](https://make.wordpress.org/docs/style-guide/linking/link-text/).
