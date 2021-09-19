@@ -15,12 +15,12 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | ❌      | Discarded   |
 | ⚠️      | Needs changes |
 
-### Style guide introduction (New section) 🔄
+### Style guide introduction (New section) ✔️   |
 
 | Component                          | Status  |
 |------------------------------------|---------|
-| WordPress style guide              |   🔄 (⚠️ while publishing)   |
-| Style guide highlights             |   🔄 (⚠️ while publishing)   |
+| WordPress style guide              |   ✔️   |
+| Style guide highlights             |   ✔️   |
 | Other resources                    |   ✔️   |
 | Changelog                          |   ✔️   |
 
