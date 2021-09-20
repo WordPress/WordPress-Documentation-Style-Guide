@@ -1,7 +1,11 @@
 # WordPress Documentation Style Guide
 
-The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic) for 2020.  
-**⚠️ The Style Guide is currently under development.**
+The WordPress Documentation Style Guide is one of [Google Season of Docs' projects](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic) for 2020.
+
+Quick links:
+- [WordPress Documentation Style Guide](https://make.wordpress.org/docs/style-guide/)
+- [Google Season of Docs original project proposal for tacitonic (Atharva Dhekne) – Google Developers](https://developers.google.com/season-of-docs/docs/2020/participants/project-wordpress-tacitonic)
+- [WordPress Documentation Style Guide – Google Season of Docs 2020 Project Report](https://make.wordpress.org/docs/2021/03/07/wordpress-documentation-style-guide-google-season-of-docs-2020-project-report-tacitonic/)
 
 - Technical writer: Atharva Dhekne ([@tacitonic](https://github.com/tacitonic))
 - Mentors: Felipe Elia ([@felipeelia](https://github.com/felipeelia)) and Milana Cap ([@zzap](https://github.com/zzap))
@@ -15,7 +19,7 @@ The WordPress Documentation Style Guide is one of [Google Season of Docs' projec
 | ❌      | Discarded   |
 | ⚠️      | Needs changes |
 
-### Style guide introduction (New section) ✔️   |
+### Style guide introduction (New section) ✔️
 
 | Component                          | Status  |
 |------------------------------------|---------|
