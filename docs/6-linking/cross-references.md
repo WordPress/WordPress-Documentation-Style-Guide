@@ -66,6 +66,6 @@ When you're linking to another page on the same server, use root-relative URLs s
 - Don't force links to open in a new tab or window. Let the reader decide how to open links. If the link needs to open in a new tab or window, notify the reader that the link will open in a new tab or window.  
   **Example**<br>
   [tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/). [/tip]  
-- Use an external link icon to indicate that the link goes to a different domain or server. Examples of internal links are, a link from make.wordpress.org to developer.wordpress.org or a link from wordpress.org/news to the make.wordpress.org/docs subdomain. A link from developer.wordpress.org to github.com/WordPress is an example of an external link.  
-  **Examples**<br>
+- Use an external link icon to indicate that the link goes to a different domain or server. Examples of internal links are, a link from *make.wordpress.org* to *developer.wordpress.org* or a link from *wordpress.org/news* to the *make.wordpress.org/docs* subdomain. A link from *developer.wordpress.org* to *github.com/WordPress* is an example of an external link.  
+  **Example**<br>
   [tip] **Recommended:** For more information, see the [Gutenberg project repository](https://github.com/WordPress/gutenberg). [/tip]  
