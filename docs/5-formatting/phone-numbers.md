@@ -19,7 +19,7 @@ To format phone numbers in the USA, Canada, and other [NANP](https://wikipedia.o
 
 ### International phone numbers
 
-To format phone numbers in non-NANP countries, include the country and area codes at the beginning of the phone number. Insert a plus sigh before the country code without any space in between. The plus sign (+) stands in for a prefix known as an *exit code* that lets you dial out of a country. Separate the groups of numbers with spaces.
+To format phone numbers in non-NANP countries, include the country and area codes at the beginning of the phone number. Insert a plus sign before the country code without any space in between. The plus sign (+) stands in for a prefix known as an *exit code* that lets you dial out of a country. Separate the groups of numbers with spaces.
 
 **Example**  
-[tip] **Recommended:** +1 800 555 0139 [/tip]  
+[tip] **Recommended:** +91 000 555 0139 [/tip]  
