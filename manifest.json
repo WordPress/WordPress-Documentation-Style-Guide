@@ -4,637 +4,637 @@
 		"slug": "welcome",
 		"parent": null,
 		"order": 1,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/index.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/1-introduction/index.md"
 	},
 	"introduction/highlights": {
 		"title": "Highlights",
 		"parent": "welcome",
 		"slug": "highlights",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/highlights.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/1-introduction/highlights.md"
 	},
 	"introduction/changelog": {
 		"title": "Changelog",
 		"parent": "welcome",
 		"slug": "changelog",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/1-introduction/changelog.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/1-introduction/changelog.md"
 	},
 	"general-guidelines": {
 		"title": "General guidelines",
 		"slug": "general-guidelines",
 		"parent": null,
 		"order": 2,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/README.md"
 	},
 	"general-guidelines/document-structure": {
 		"title": "Document structure",
 		"parent": "general-guidelines",
 		"slug": "document-structure",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/1-document-structure.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/1-document-structure.md"
 	},
 	"general-guidelines/style-voice-tone": {
 		"title": "Style, voice, and tone",
 		"parent": "general-guidelines",
 		"slug": "style-voice-tone",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/2-style-voice-tone.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/2-style-voice-tone.md"
 	},
 	"general-guidelines/accessibility": {
 		"title": "Accessibility",
 		"parent": "general-guidelines",
 		"slug": "accessibility",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/3-accessibility.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/3-accessibility.md"
 	},
 	"general-guidelines/global-audience": {
 		"title": "Global audience",
 		"parent": "general-guidelines",
 		"slug": "global-audience",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/4-global-audience.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/4-global-audience.md"
 	},
 	"general-guidelines/inclusivity": {
 		"title": "Inclusivity",
 		"parent": "general-guidelines",
 		"slug": "inclusivity",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/5-inclusivity.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/5-inclusivity.md"
 	},
 	"general-guidelines/facts-claims": {
 		"title": "Facts and claims",
 		"parent": "general-guidelines",
 		"slug": "facts-claims",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/6-facts-claims.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/6-facts-claims.md"
 	},
 	"general-guidelines/external-sources": {
 		"title": "External sources",
 		"parent": "general-guidelines",
 		"slug": "external-sources",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/7-external-sources.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/7-external-sources.md"
 	},
 	"general-guidelines/contributing-to-style-guide": {
 		"title": "Contributing to the Style Guide",
 		"parent": "general-guidelines",
 		"slug": "contributing-to-style-guide",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/2-general-guidelines/8-contributing-to-style-guide.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/2-general-guidelines/8-contributing-to-style-guide.md"
 	},
 	"language-grammar": {
 		"title": "Language and grammar",
 		"slug": "language-grammar",
 		"parent": null,
 		"order": 3,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/README.md"
 	},
 	"language-grammar/abbreviations": {
 		"title": "Abbreviations",
 		"parent": "language-grammar",
 		"slug": "abbreviations",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/abbreviations.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/abbreviations.md"
 	},
 	"language-grammar/articles": {
 		"title": "Articles",
 		"parent": "language-grammar",
 		"slug": "articles",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/articles.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/articles.md"
 	},
 	"language-grammar/capitalization": {
 		"title": "Capitalization",
 		"parent": "language-grammar",
 		"slug": "capitalization",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/capitalization.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/capitalization.md"
 	},
 	"language-grammar/clauses": {
 		"title": "Clauses",
 		"parent": "language-grammar",
 		"slug": "clauses",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/clauses.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/clauses.md"
 	},
 	"language-grammar/contractions": {
 		"title": "Contractions",
 		"parent": "language-grammar",
 		"slug": "contractions",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/contractions.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/contractions.md"
 	},
 	"language-grammar/direct-indirect-speech": {
 		"title": "Direct and indirect speech",
 		"parent": "language-grammar",
 		"slug": "direct-indirect-speech",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/direct-indirect-speech.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/direct-indirect-speech.md"
 	},
 	"language-grammar/grammatical-person": {
 		"title": "Grammatical person",
 		"parent": "language-grammar",
 		"slug": "grammatical-person",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/grammatical-person.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/grammatical-person.md"
 	},
 	"language-grammar/nouns": {
 		"title": "Nouns",
 		"parent": "language-grammar",
 		"slug": "nouns",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/nouns.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/nouns.md"
 	},
 	"language-grammar/plurals": {
 		"title": "Plurals",
 		"parent": "language-grammar",
 		"slug": "plurals",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/plurals.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/plurals.md"
 	},
 	"language-grammar/possessives": {
 		"title": "Possessives",
 		"parent": "language-grammar",
 		"slug": "possessives",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/possessives.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/possessives.md"
 	},
 	"language-grammar/prefixes-suffixes": {
  	 "title": "Prefixes and suffixes",
  	 "parent": "language-grammar",
  	 "slug": "prefixes-suffixes",
- 	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/prefixes-suffixes.md"
+ 	 "markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/prefixes-suffixes.md"
   },
 	"language-grammar/prepositions": {
 		"title": "Prepositions",
 		"parent": "language-grammar",
 		"slug": "prepositions",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/prepositions.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/prepositions.md"
 	},
 	"language-grammar/pronouns": {
 		"title": "Pronouns",
 		"parent": "language-grammar",
 		"slug": "pronouns",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/pronouns.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/pronouns.md"
 	},
 	"language-grammar/tense": {
 		"title": "Tense",
 		"parent": "language-grammar",
 		"slug": "tense",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/tense.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/tense.md"
 	},
 	"language-grammar/verbs": {
 		"title": "Verbs",
 		"parent": "language-grammar",
 		"slug": "verbs",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/verbs.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/verbs.md"
 	},
 	"language-grammar/voice": {
 		"title": "Voice",
 		"parent": "language-grammar",
 		"slug": "voice",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/voice.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/voice.md"
 	},
 	"language-grammar/word-choice": {
 		"title": "Word choice",
 		"parent": "language-grammar",
 		"slug": "word-choice",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/3-language-grammar/word-choice.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/3-language-grammar/word-choice.md"
 	},
 	"punctuation": {
 		"title": "Punctuation",
 		"slug": "punctuation",
 		"parent": null,
 		"order": 4,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/README.md"
 	},
 	"punctuation/apostrophes": {
 		"title": "Apostrophes",
 		"parent": "punctuation",
 		"slug": "apostrophes",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/apostrophes.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/apostrophes.md"
 	},
 	"punctuation/colons": {
 		"title": "Colons",
 		"parent": "punctuation",
 		"slug": "colons",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/colons.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/colons.md"
 	},
 	"punctuation/commas": {
 		"title": "Commas",
 		"parent": "punctuation",
 		"slug": "commas",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/commas.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/commas.md"
 	},
 	"punctuation/dashes": {
 		"title": "Dashes",
 		"parent": "punctuation",
 		"slug": "dashes",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/dashes.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/dashes.md"
 	},
 	"punctuation/ellipses": {
 		"title": "Ellipses",
 		"parent": "punctuation",
 		"slug": "ellipses",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/ellipses.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/ellipses.md"
 	},
 	"punctuation/exclamation-points": {
 		"title": "Exclamation points",
 		"parent": "punctuation",
 		"slug": "exclamation-points",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/exclamation-points.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/exclamation-points.md"
 	},
 	"punctuation/hyphens": {
 		"title": "Hyphens",
 		"parent": "punctuation",
 		"slug": "hyphens",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/hyphens.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/hyphens.md"
 	},
 	"punctuation/parentheses": {
 		"title": "Parentheses",
 		"parent": "punctuation",
 		"slug": "parentheses",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/parentheses.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/parentheses.md"
 	},
 	"punctuation/periods": {
 		"title": "Periods",
 		"parent": "punctuation",
 		"slug": "periods",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/periods.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/periods.md"
 	},
 	"punctuation/question-marks": {
 		"title": "Question marks",
 		"parent": "punctuation",
 		"slug": "question-marks",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/question-marks.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/question-marks.md"
 	},
 	"punctuation/quotation-marks": {
 		"title": "Quotation marks",
 		"parent": "punctuation",
 		"slug": "quotation-marks",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/quotation-marks.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/quotation-marks.md"
 	},
 	"punctuation/semicolons": {
 		"title": "Semicolons",
 		"parent": "punctuation",
 		"slug": "semicolons",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/semicolons.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/semicolons.md"
 	},
 	"punctuation/slashes": {
 		"title": "Slashes",
 		"parent": "punctuation",
 		"slug": "slashes",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/4-punctuation/slashes.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/4-punctuation/slashes.md"
 	},
 	"formatting": {
 		"title": "Formatting",
 		"slug": "formatting",
 		"parent": null,
 		"order": 5,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/README.md"
 	},
 	"formatting/dates-times": {
 		"title": "Dates and times",
 		"parent": "formatting",
 		"slug": "dates-times",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/dates-times.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/dates-times.md"
 	},
 	"formatting/examples": {
 		"title": "Examples and scenarios",
 		"parent": "formatting",
 		"slug": "examples",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/examples.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/examples.md"
 	},
 	"formatting/filenames": {
 		"title": "Filenames, file formats, and types",
 		"parent": "formatting",
 		"slug": "filenames",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/filenames.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/filenames.md"
 	},
 	"formatting/footnotes": {
 		"title": "Footnotes",
 		"parent": "formatting",
 		"slug": "footnotes",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/footnotes.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/footnotes.md"
 	},
 	"formatting/headings": {
 		"title": "Headings and titles",
 		"parent": "formatting",
 		"slug": "headings",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/headings.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/headings.md"
 	},
 	"formatting/key-terms": {
 		"title": "Key terms",
 		"parent": "formatting",
 		"slug": "key-terms",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/key-terms.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/key-terms.md"
 	},
 	"formatting/lists": {
 		"title": "Lists",
 		"parent": "formatting",
 		"slug": "lists",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/lists.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/lists.md"
 	},
 	"formatting/media": {
 		"title": "Media",
 		"parent": "formatting",
 		"slug": "media",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/media.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/media.md"
 	},
 	"formatting/notices": {
 		"title": "Notices",
 		"parent": "formatting",
 		"slug": "notices",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/notices.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/notices.md"
 	},
 	"formatting/numbers": {
 		"title": "Numbers",
 		"parent": "formatting",
 		"slug": "numbers",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/numbers.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/numbers.md"
 	},
 	"formatting/obsolete-content": {
 		"title": "Obsolete content",
 		"parent": "formatting",
 		"slug": "obsolete-content",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/obsolete-content.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/obsolete-content.md"
 	},
 	"formatting/phone-numbers": {
 		"title": "Phone numbers",
 		"parent": "formatting",
 		"slug": "phone-numbers",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/phone-numbers.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/phone-numbers.md"
 	},
 	"formatting/procedures": {
 		"title": "Procedures and instructions",
 		"parent": "formatting",
 		"slug": "procedures",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/procedures.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/procedures.md"
 	},
 	"formatting/tables": {
 		"title": "Tables",
 		"parent": "formatting",
 		"slug": "tables",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/tables.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/tables.md"
 	},
 	"formatting/text": {
 		"title": "Text formatting",
 		"parent": "formatting",
 		"slug": "text",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/text.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/text.md"
 	},
 	"formatting/trademarks": {
 		"title": "Trademarks",
 		"parent": "formatting",
 		"slug": "trademarks",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/trademarks.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/trademarks.md"
 	},
 	"formatting/units-of-measurement": {
 		"title": "Units of measurement",
 		"parent": "formatting",
 		"slug": "units-of-measurement",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/units-of-measurement.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/units-of-measurement.md"
 	},
 	"formatting/words-as-words": {
 		"title": "Words as words",
 		"parent": "formatting",
 		"slug": "words-as-words",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/5-formatting/words-as-words.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/5-formatting/words-as-words.md"
 	},
 	"linking": {
 		"title": "Linking",
 		"slug": "linking",
 		"parent": null,
 		"order": 6,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/README.md"
 	},
 	"linking/cross-references": {
 		"title": "Cross-references",
 		"parent": "linking",
 		"slug": "cross-references",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/cross-references.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/cross-references.md"
 	},
 	"linking/external-links": {
 		"title": "External links",
 		"parent": "linking",
 		"slug": "external-links",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/external-links.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/external-links.md"
 	},
 	"linking/heading-targets": {
 		"title": "Headings as link targets",
 		"parent": "linking",
 		"slug": "heading-targets",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/heading-targets.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/heading-targets.md"
 	},
 	"linking/image-links": {
 		"title": "Image links",
 		"parent": "linking",
 		"slug": "image-links",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/image-links.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/image-links.md"
 	},
 	"linking/link-text": {
 		"title": "Link text",
 		"parent": "linking",
 		"slug": "link-text",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/6-linking/link-text.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/6-linking/link-text.md"
 	},
 	"developer-content": {
 		"title": "Developer content",
 		"slug": "developer-content",
 		"parent": null,
 		"order": 7,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/README.md"
 	},
 	"developer-content/code-examples": {
 		"title": "Code examples",
 		"parent": "developer-content",
 		"slug": "code-examples",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-examples.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/code-examples.md"
 	},
 	"developer-content/code-in-text": {
 		"title": "Code in text",
 		"parent": "developer-content",
 		"slug": "code-in-text",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/code-in-text.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/code-in-text.md"
 	},
 	"developer-content/coding-standards": {
 		"title": "Coding standards",
 		"parent": "developer-content",
 		"slug": "coding-standards",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/coding-standards.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/coding-standards.md"
 	},
 	"developer-content/command-line-syntax": {
 		"title": "Command-line syntax",
 		"parent": "developer-content",
 		"slug": "command-line-syntax",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/command-line-syntax.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/command-line-syntax.md"
 	},
 	"developer-content/placeholders": {
 		"title": "Placeholders",
 		"parent": "developer-content",
 		"slug": "placeholders",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/placeholders.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/placeholders.md"
 	},
 	"developer-content/ui-elements": {
 		"title": "UI elements and interaction",
 		"parent": "developer-content",
 		"slug": "ui-elements",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/7-developer-content/ui-elements.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/7-developer-content/ui-elements.md"
 	},
 	"word-list": {
 		"title": "Word list and usage dictionary",
 		"slug": "word-list",
 		"parent": null,
 		"order": 8,
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/README.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/README.md"
 	},
 	"word-list/numbers": {
 		"title": "Numbers",
 		"parent": "word-list",
 		"slug": "numbers",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/numbers.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/numbers.md"
 	},
 	"word-list/symbols": {
 		"title": "Symbols",
 		"parent": "word-list",
 		"slug": "symbols",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/symbols.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/symbols.md"
 	},
 	"word-list/a": {
 		"title": "A",
 		"parent": "word-list",
 		"slug": "a",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/a.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/a.md"
 	},
 	"word-list/b": {
 		"title": "B",
 		"parent": "word-list",
 		"slug": "b",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/b.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/b.md"
 	},
 	"word-list/c": {
 		"title": "C",
 		"parent": "word-list",
 		"slug": "c",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/c.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/c.md"
 	},
 	"word-list/d": {
 		"title": "D",
 		"parent": "word-list",
 		"slug": "d",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/d.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/d.md"
 	},
 	"word-list/e": {
 		"title": "E",
 		"parent": "word-list",
 		"slug": "e",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/e.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/e.md"
 	},
 	"word-list/f": {
 		"title": "F",
 		"parent": "word-list",
 		"slug": "f",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/f.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/f.md"
 	},
 	"word-list/g": {
 		"title": "G",
 		"parent": "word-list",
 		"slug": "g",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/g.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/g.md"
 	},
 	"word-list/h": {
 		"title": "H",
 		"parent": "word-list",
 		"slug": "h",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/h.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/h.md"
 	},
 	"word-list/i": {
 		"title": "I",
 		"parent": "word-list",
 		"slug": "i",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/i.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/i.md"
 	},
 	"word-list/j": {
 		"title": "J",
 		"parent": "word-list",
 		"slug": "j",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/j.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/j.md"
 	},
 	"word-list/k": {
 		"title": "K",
 		"parent": "word-list",
 		"slug": "k",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/k.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/k.md"
 	},
 	"word-list/l": {
 		"title": "L",
 		"parent": "word-list",
 		"slug": "l",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/l.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/l.md"
 	},
 	"word-list/m": {
 		"title": "M",
 		"parent": "word-list",
 		"slug": "m",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/m.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/m.md"
 	},
 	"word-list/n": {
 		"title": "N",
 		"parent": "word-list",
 		"slug": "n",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/n.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/n.md"
 	},
 	"word-list/o": {
 		"title": "O",
 		"parent": "word-list",
 		"slug": "o",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/o.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/o.md"
 	},
 	"word-list/p": {
 		"title": "P",
 		"parent": "word-list",
 		"slug": "p",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/p.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/p.md"
 	},
 	"word-list/q": {
 		"title": "Q",
 		"parent": "word-list",
 		"slug": "q",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/q.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/q.md"
 	},
 	"word-list/r": {
 		"title": "R",
 		"parent": "word-list",
 		"slug": "r",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/r.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/r.md"
 	},
 	"word-list/s": {
 		"title": "S",
 		"parent": "word-list",
 		"slug": "s",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/s.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/s.md"
 	},
 	"word-list/t": {
 		"title": "T",
 		"parent": "word-list",
 		"slug": "t",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/t.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/t.md"
 	},
 	"word-list/u": {
 		"title": "U",
 		"parent": "word-list",
 		"slug": "u",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/u.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/u.md"
 	},
 	"word-list/v": {
 		"title": "V",
 		"parent": "word-list",
 		"slug": "v",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/v.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/v.md"
 	},
 	"word-list/w": {
 		"title": "W",
 		"parent": "word-list",
 		"slug": "w",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/w.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/w.md"
 	},
 	"word-list/x": {
 		"title": "X",
 		"parent": "word-list",
 		"slug": "x",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/x.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/x.md"
 	},
 	"word-list/y": {
 		"title": "Y",
 		"parent": "word-list",
 		"slug": "y",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/y.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/y.md"
 	},
 	"word-list/z": {
 		"title": "Z",
 		"parent": "word-list",
 		"slug": "z",
-		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/master/docs/8-word-list/z.md"
+		"markdown_source": "https://github.com/WordPress/WordPress-Documentation-Style-Guide/blob/main/docs/8-word-list/z.md"
 	}
 }
