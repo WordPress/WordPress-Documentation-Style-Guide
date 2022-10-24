@@ -272,7 +272,7 @@ Don’t use *connect* when you mean *plug in*.
 
 ## cons
 
-Don't use. Instead, use *disadvatanges, drawbacks*, or a contextually relevant term.
+Don't use. Instead, use *disadvantages, drawbacks*, or a contextually relevant term.
 
 ## control
 
@@ -292,7 +292,7 @@ Use instead of *cut* as a verb to describe temporarily moving text to the clipbo
 
 You copy a file *to* a disk, not *on* a disk or *onto* a disk.
 
-See alos [cut, cut-and-paste](#cut-cut-and-paste), [move](https://make.wordpress.org/docs/style-guide/word-list/m/#move).
+See also [cut, cut-and-paste](#cut-cut-and-paste), [move](https://make.wordpress.org/docs/style-guide/word-list/m/#move).
 
 ## corrupted
 

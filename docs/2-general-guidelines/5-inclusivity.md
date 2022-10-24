@@ -60,7 +60,7 @@ Use gender-neutral language, including pronouns. When writing about a real indiv
 | chairperson | chairman |
 | everyone, folks, people | guys, gals, girls, boys |
 
-Don't use *he, him, his, she, her, or hers* while refencing people. To write around pronouns, you can:
+Don't use *he, him, his, she, her, or hers* while referencing people. To write around pronouns, you can:
 - Rewrite using the second person (*you*).
 - Rewrite the sentence to have a plural noun and pronoun.
 - Use the words *person* or *individual*.
