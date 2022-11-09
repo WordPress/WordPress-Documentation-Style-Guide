@@ -4,7 +4,7 @@
 
 ## Predicate adjectives
 
-Don't hyphenate a predicate adjective unless specifically mentioned in the [Word list and usage disctionary](https://make.wordpress.org/docs/style-guide/word-list/) or otherwise. An adjective predicate is an adjective that modifies the subject of the sentence. The adjective and the subject are connected by a linking verb.
+Don't hyphenate a predicate adjective unless specifically mentioned in the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/) or otherwise. An adjective predicate is an adjective that modifies the subject of the sentence. The adjective and the subject are connected by a linking verb.
 
 **Examples**  
 [warning] **Not recommended:** The image needs to be high-resolution. [/warning]  
