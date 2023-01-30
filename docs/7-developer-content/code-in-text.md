@@ -35,7 +35,7 @@ For more information, see [Code text preceding colon](https://make.wordpress.org
 
 Use standard font while expressing the following items, which include but are not limited to:
 - Email addresses.
-- Names of products, services, and organizations.
+- Names of products, services, and organizations. However, when a product name is also a command-line utility name, code font can be used.
 - URLs. For more information, see [Link text](https://make.wordpress.org/docs/style-guide/linking/link-text/).
 
 ## Method names
