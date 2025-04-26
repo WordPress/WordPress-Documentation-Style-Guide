@@ -25,13 +25,13 @@ When you put a specific string, term, or phrase in quotation marks, put any punc
 
 ## Straight and curly quotation marks
 
-The direction of curly quotation marks (“ ”) and apostrophes are often confused while writing documentation. If you use straight quotation marks (" ") the trouble of tracking and writing the starting and closing curly quotation marks is eliminated. Code specifically needs straight quotation marks for its syntax, in addition to user input fields. Furthermore, not all software environments use curly quotation marks.
+The direction of curly quotation marks (“ ”) and apostrophes are often confused while writing documentation. If you use straight quotation marks (<kbd>"</kbd> <kbd>"</kbd>) the trouble of tracking and writing the starting and closing curly quotation marks is eliminated. Code specifically needs straight quotation marks for its syntax, in addition to user input fields. Furthermore, not all software environments use curly quotation marks.
 
-Hence, in general, use straight quotation marks (" ").
+Hence, in general, use straight quotation marks (<kbd>"</kbd> <kbd>"</kbd>).
 
 **Examples**  
 [warning] **Not recommended:** What does it mean if I see a message saying: “Error Code 345. Do you want to continue?” [/warning]  
-[tip] **Recommended:** What does it mean if I see a message saying: "Error Code 345. Do you want to continue?" [/tip]  
+[tip] **Recommended:** What does it mean if I see a message saying: <kbd>"</kbd>Error Code 345. Do you want to continue?<kbd>"</kbd> [/tip]  
 
 ## Single quotation marks
 
