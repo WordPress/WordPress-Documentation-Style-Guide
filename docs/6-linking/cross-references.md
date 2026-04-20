@@ -44,7 +44,7 @@ While writing descriptions for what the cross-references link to, use *about* in
 - In case the cross-reference isn't a link, use italics or quotation marks as appropriate.
   - Use italics for cross-references that are titles of full-length works such as a movie, book, or paper that are unlinked.  
     **Example**<br>
-    [tip] **Recommended:** For more information, see the *American Heritage Dictionary*. [/tip]  
+    [tip] **Recommended:** For more information, see the *[American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/)*. [/tip]  
   - Use quotation marks for cross-references that are short works such as a blog post or a TV episode, and document sections.  
     **Example**<br>
     [tip] **Recommended:** For more information, see "Compound modifiers". [/tip]  
