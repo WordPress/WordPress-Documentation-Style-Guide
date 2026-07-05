@@ -73,7 +73,7 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 
 **Examples**  
 [warning] **Not recommended:** Create a new post with the plugin. You can see it on the blog page. [/warning]  
-[tip] **Recommended:** Create a new post with the plugin, You can see the post on the blog page. [/tip]  
+[tip] **Recommended:** Create a new post with the plugin, you can see the post on the blog page. [/tip]  
 [warning] **Not recommended:** The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/. [/warning]  
 [tip] **Recommended:** The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]  
 [warning] **Not recommended:** Toggle this to *on.* [/warning]  
