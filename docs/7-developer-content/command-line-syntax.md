@@ -79,7 +79,7 @@ In this example, `install` is required, but `[--force]` and `[--activate]` are o
 
 ## Mutually exclusive arguments
 
-When writing commands where the use has to choose one item, enclose the items in angle brackets (`<>`; also known as *inequality signs*). Sometimes the mutually exclusive choices are also enclosed in braces (also known as *curly braces*). Use vertical bars (also knows as *pipes*) to separate the items. You can have more than two mutually exclusive items that are separated from each other by pipes.
+When writing commands where the use has to choose one item, enclose the items in angle brackets (`<>`; also known as *inequality signs*). Sometimes the mutually exclusive choices are also enclosed in braces (also known as *curly braces*). Use vertical bars (also known as *pipes*) to separate the items. You can have more than two mutually exclusive items that are separated from each other by pipes.
 
 **Example**  
 [tip] **Recommended:**  
@@ -111,7 +111,7 @@ In this example, the ellipsis indicates that the user can specify multiple plugi
 
 You don't have to show an output for every command. Only add the output if it is useful; for example, if the user needs to copy a value or needs to verify a value from the output.
 
-If you do show have to show an output, use an introductory phrase to separate the command from the output.
+If you do have to show an output, use an introductory phrase to separate the command from the output.
 
 **Examples**  
 [tip] **Recommended:**  
