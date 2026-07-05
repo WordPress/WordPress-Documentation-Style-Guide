@@ -128,7 +128,7 @@ A *button* is a UI element that performs or initiates a specified action when cl
 [warning] **Not recommended:** Click the "Publish" button. [/warning]  
 [tip] **Recommended:** Click **Publish**. [/tip]  
 
-An *icon* is a image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</code></var> <code><var>LABEL_NAME</code></var> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
+An *icon* is an image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</code></var> <code><var>LABEL_NAME</code></var> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
 
 **Examples**  
 [warning] **Not recommended:** Click the <span class="dashicons dashicons-search"></span> icon. [/warning]  
@@ -263,7 +263,7 @@ It's acceptable to write *click in* when referring to a region that needs focus 
 
 ### Select
 
-Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be use interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
+Use *select* when referring to the action of the user selecting targets such as menu commands, checkboxes, items, and dropdown lists. Select can be used interchangeably instead of *click* or *check* in describing checkboxes and dropdown lists.
 
 **Examples**  
 [tip] **Recommended:** In the **Appearance** section, select the **Themes** option and then click **Add New**. [/tip]  
@@ -374,7 +374,7 @@ Use *close* when referring to the action of closing targets such as apps, progra
 
 ### Zoom
 
-Use *zoom, zoom in*, and *zoom out* a when referring to the action of changing the magnification of a screen, window, or a page.
+Use *zoom, zoom in*, and *zoom out*  when referring to the action of changing the magnification of a screen, window, or a page.
 
 **Example**  
 [tip] **Recommended:** Zoom in to see more details in the figure. [/tip]  
