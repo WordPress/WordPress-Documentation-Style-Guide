@@ -27,7 +27,7 @@ Technical terms can vary from everyday words like net, bit, cloud, virus to prop
 - If it is essential to create a new term, only do so after thoroughly verifying that the new term isn't already being used to mean something else. Also verify if your new term is comparable to existing terms with a similar meaning.
 - Define technical terms in your documentation. Don't assume that readers will understand them.
 - If you're using a particular term, customarily use it across all your documentation, publication, websites, and concepts with consistency.
-- Cater your vocabulary for specific audiences and readers. For example, technical terminology would apt for a developer demographic, but not for a non-technical, beginner, or business-minded audience.
+- Cater your vocabulary for specific audiences and readers. For example, technical terminology would be apt for a developer demographic, but not for a non-technical, beginner, or business-minded audience.
 - Research new terminology to stay up-to-date with the latest technological terms and industry approaches. Refer the latest technical and industry publications for demonstrated uses of new terms.
 
 ## Avoid jargon and slang

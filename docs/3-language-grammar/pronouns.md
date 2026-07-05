@@ -47,7 +47,7 @@ Be careful while using relative pronouns such as *who, that*, and *which*.
 [warning] **Not recommended:** The folder that is blue can be used. [/warning]  
 This sentence describes a specific blue folder that can be used. *That* introduces a restrictive clause and isn't preceded by a comma.  
 [tip] **Recommended:** The folder, which is blue can be used. [/tip]  
-This sentence describes a blue folder from a group of folders can be used. *Which* introduces a non-restrictive clause and is preceded by a comma.  
+This sentence describes a blue folder from a group of folders that can be used. *Which* introduces a non-restrictive clause and is preceded by a comma.  
 
 Use *who* while referring to people instead of *that*. The possessive of *who*, *whose* can also be used for people, animals, and things.  
 **Examples**  
@@ -73,7 +73,7 @@ Ensure that the pronoun you're using is referencing its antecedent (the noun tha
 
 **Examples**  
 [warning] **Not recommended:** Create a new post with the plugin. You can see it on the blog page. [/warning]  
-[tip] **Recommended:** Create a new post with the plugin, You can see the post on the blog page. [/tip]  
+[tip] **Recommended:** Create a new post with the plugin, you can see the post on the blog page. [/tip]  
 [warning] **Not recommended:** The WordPress codebase can be accessed using Subversion and Git. Its repository is located at git://develop.git.wordpress.org/. [/warning]  
 [tip] **Recommended:** The WordPress codebase can be accessed using Subversion and Git. The git repository is located at git://develop.git.wordpress.org/. [/tip]  
 [warning] **Not recommended:** Toggle this to *on.* [/warning]  
