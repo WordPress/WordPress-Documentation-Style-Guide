@@ -40,7 +40,7 @@ In numbered procedures, label sub-steps with lowercase letters, and sub-sub-step
 When a step has sub-steps, write the step as an [introductory statement](#introductory-sentences) to the sub-steps.
 
 **Example**  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 1. To set up your development environment, follow these steps:<br>
    a. Install Node development tools as follows:<br>
       i. Download and install Node Version Manager (nvm).<br>
@@ -62,7 +62,6 @@ When a step has sub-steps, write the step as an [introductory statement](#introd
       wp-env start
       ```  
    c. Set up your code editor.<br>
-[/tip]  
 
 ## Instructions with multiple actions
 
@@ -121,12 +120,11 @@ Avoid repeating procedures. Instead, reference those procedures and link to them
 - It is acceptable to not provide context such as UI element position multiple times within a step, if the instruction appears in the same UI where the action occurs.
 - If a particular step is optional in a procedure, indicate it by mentioning "Optional" at the beginning of the step.  
   **Example**<br>
-  [tip] **Recommended:** Optional: If docker is not running, try to restart the service using:  
+  [tip] **Recommended:** Optional: If docker is not running, try to restart the service using: [/tip]  
   ```sh
   sudo systemctl daemon-reload
   sudo systemctl restart docker.service
   ```
-  [/tip]  
 - If you think that a specific step might confuse the reader, provide an introductory step. You can also include a brief phrase so that the reader follows the instruction at the right place.  
   **Example**<br>
   [tip] **Recommended:** Navigate to the menu bar and click on the **Encoding** tab. [/tip]  

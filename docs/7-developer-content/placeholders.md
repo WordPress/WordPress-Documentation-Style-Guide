@@ -125,7 +125,7 @@ Use the following order to describe placeholders:
 - Explain any output if required.
 
 **Example**  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 
 ```html
 <pre class="prototype">
@@ -141,7 +141,6 @@ Use the following order to describe placeholders:
   <li><code><var>IMAGE_PATH</var></code>: the directory path of the image asset.</li>
 </ul>
 ```  
-[/tip]  
 
 ## Single placeholder
 
@@ -166,10 +165,7 @@ When there are two or more placeholders in code examples, commands, or other tex
 - Introduce the placeholder description list with *Replace the following:*
 - List all the placeholder variables in the order in which they appear in the code example, command, or other text.
 - Provide a description for each placeholder variable.
-- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
-  ```html
-  <li><code><var>PLACEHOLDER</var></code>: description</li>
-  ```  
+- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows: <code>&lt;li&gt;&lt;code&gt;&lt;var&gt;PLACEHOLDER&lt;/var&gt;&lt;/code&gt;: description&lt;/li&gt;</code>
 
 **Example**  
 [tip] **Recommended:**  
@@ -193,10 +189,7 @@ When you specify placeholders in output examples, use the following formatting:
 - Introduce the placeholder description list with *In this output:*
 - List all the placeholder variables in the order in which they appear in the output example.
 - Provide a description for each placeholder variable.
-- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows:
-  ```html
-  <li><code><var>PLACEHOLDER</var></code>: description</li>
-  ```  
+- Tag each placeholder with `<code><var>` elements, followed by a colon and lowercase letter as follows: <code>&lt;li&gt;&lt;code&gt;&lt;var&gt;PLACEHOLDER&lt;/var&gt;&lt;/code&gt;: description&lt;/li&gt;</code>
 
 For more information, see [Command output](https://make.wordpress.org/docs/style-guide/developer-content/command-line-syntax/#command-output).
 

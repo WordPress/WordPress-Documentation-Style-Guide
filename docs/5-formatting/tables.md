@@ -27,7 +27,7 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 
 A table cell can contain more than one paragraph.
 
-To create multiple paragraphs, use the `<p>` element rather than using the `<br>` element. For more information on which uses of `<br>` are correct and which ones aren't, see the [HTML specification for `<br>`](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element).
+To create multiple paragraphs, use the <code>&lt;p&gt;</code> element rather than using the <code>&lt;br&gt;</code> element. For more information on which uses of <code>&lt;br&gt;</code> are correct and which ones aren't, see the [HTML specification for <code>&lt;br&gt;</code>](https://html.spec.whatwg.org/multipage/semantics.html#the-br-element).
 
 **Example**  
 
@@ -65,7 +65,7 @@ While referring to a table, refer to it by its number. For example, *Enter the v
 **Example**  
 [tip] **Recommended:** Table 3. Block API reference [/tip]  
 
-For HTML tables, insert a caption using the [`<caption>` element](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element) as the first child of the `<table>` element.  
+For HTML tables, insert a caption using the [<code>&lt;caption&gt;</code> element](https://html.spec.whatwg.org/multipage/tables.html#the-caption-element) as the first child of the <code>&lt;table&gt;</code> element.
 
 **Example**  
 

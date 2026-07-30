@@ -11,35 +11,31 @@ Heading anchors are useful for document sections that are frequently linked to. 
 {% codetabs %}  
 {% HTML %}  
 To add an anchor to a heading in HTML, do the following:
-- Add a `<section>` element with an `id` attribute. Don't use `<a name>`.
+- Add a <code>&lt;section&gt;</code> element with an `id` attribute. Don't use <code>&lt;a name&gt;</code>.
 - Use lowercase for `id` values.
 - Insert hyphens between words.
 
 **Examples**  
-[warning] **Not recommended:**  
+[warning] **Not recommended:** [/warning]  
 ```html
 <h2><a name="Determining_Plugin_And_Content_Directories">Determining plugin and content directories</a></h2>
 ```  
-[/warning]  
-[warning] **Not recommended:**  
+[warning] **Not recommended:** [/warning]  
 ```html
 <a name="Determining_Plugin_And_Content_Directories"></a>
 <h2>Determining plugin and content directories</h2>
- ```  
-[/warning]  
-[tip] **Acceptable:**  
+```  
+[tip] **Acceptable:** [/tip]  
 ```html
 <h2 id="determining-plugin-and-content-directories">Determining plugin and content directories</h2>
 ```  
-[/tip]  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```html
 <section id="determining-plugin-and-content-directories">
 <h2>Determining plugin and content directories</h2>
 ...
 </section>
 ```  
-[/tip]  
 {% Markdown %}  
 To add an anchor to a heading in Markdown, do the following:  
 - Add `{:#ID_OF_ANCHOR}` after the heading, to the end of the line that the heading is on. Replace <var><code>ID_OF_ANCHOR</var></code> with the ID for this heading.
@@ -47,37 +43,31 @@ To add an anchor to a heading in Markdown, do the following:
 - Insert hyphens between words.
 
 **Examples**  
-[warning] **Not recommended:**  
+[warning] **Not recommended:** [/warning]  
 ```markdown
 ## Determining plugin and content directories  {: id="ID_OF_ANCHOR" }
 ```  
-[/warning]  
-[warning] **Not recommended:** (Note single quotation marks)  
+[warning] **Not recommended:** (Note single quotation marks) [/warning]  
 ```markdown
 ## Determining plugin and content directories {: id='ID_OF_ANCHOR' }
 ```  
-[/warning]  
-[warning] **Not recommended:**  
+[warning] **Not recommended:** [/warning]  
 ```markdown
 ## Determining plugin and content directories  
 {:#ID_OF_ANCHOR}  
 ```  
-[/warning]  
-[tip] **Acceptable:**  
+[tip] **Acceptable:** [/tip]  
 ```markdown
 ## Determining plugin and content directories {: id="determining-directories" }
 ```  
-[/tip]  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```markdown
 ## Determining plugin and content directories {:#determining-plugin-and-content-directories}
 ```  
-[/tip]  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```markdown
 ## Determining plugin and content directories {:#determining-plugin-content-directories}
 ```  
-[/tip]  
 {% end %}  
 
 ## Changing an anchor
@@ -92,22 +82,20 @@ To change an anchor, you need to create a custom anchor that uses the older ID s
 If you change a heading from *Custom template files* to *Custom post type template files*, then add a custom anchor that uses the older ID string and formatting.
 
 **Example**  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```html
 <section id="custom_template_files">
 <h2>Custom post type template files</h2>
 ...
 </section>
 ```  
-[/tip]  
 {% Markdown %}  
 
 If you change a heading from *Custom template files* to *Custom post type template files*, then add a custom anchor that uses the older ID string and formatting.
 
 **Example**  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```markdown
 ## Custom post type template files {:#custom_template_files}
 ```
-[/tip]  
 {% end %}  
