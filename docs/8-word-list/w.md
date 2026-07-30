@@ -251,6 +251,10 @@ See also [global](https://make.wordpress.org/docs/style-guide/word-list/g/#globa
 
 Don't use. Instead, use [web](#web). Don't abbreviate as *WWW*.
 
+## WWW
+
+Don't use as an abbreviation for *World Wide Web*. Instead use [web](#web).
+
 ## WooCommerce
 
 Capitalize *W* and *C* in *WooCommerce*.
@@ -268,7 +272,3 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 ## write
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience; instead use *copy*.
-
-### WWW
-
-Don't use as an abbreviation for *World Wide Web*. Instead use [web](#web).
