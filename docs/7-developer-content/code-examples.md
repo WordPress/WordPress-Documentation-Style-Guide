@@ -18,7 +18,7 @@ For more information about adding code blocks in the Gutenberg block editor, see
 For more information see [Coding standards](https://make.wordpress.org/docs/style-guide/developer-content/coding-standards/).
 
 **Example**  
-[tip] **Recommended:**  
+[tip] **Recommended:** [/tip]  
 ```html
 <pre class="example">
 function longSentence() {
@@ -35,7 +35,6 @@ function longSentence() {
     line.');
 }
 ```  
-[/tip]  
 
 ## Introductory sentences
 

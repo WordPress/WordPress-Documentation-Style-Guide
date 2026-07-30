@@ -6,7 +6,7 @@ When you're including an image that is served from the same domain as your docum
 
 {% codetabs %}  
 {% HTML %}  
-Insert the URL in the `src` attribute of the `<img>` element:
+Insert the URL in the `src` attribute of the <code>&lt;img&gt;</code> element:
 ```html
 <img
   src="/assets/images/wapuu.png"
