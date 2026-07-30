@@ -26,10 +26,10 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 There are different types of text associated with images. Alt text is a concise description of the image that can replace the image in situations when the image isn't visible as well as accessible documentation. For example, people using screen readers, people using text-only browsers or people having a low-bandwidth internet connection can benefit from alt text. Alt text should consider the context of the image, not just its content. For more information, see [alt attribute](https://wikipedia.org/wiki/Alt_attribute).
 
-An image caption is a short description of the image. An image description is a textual explanation of the image which can be used to convey detailed descriptions than image captions. Figure captions are optional. When using the [`<figcaption>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figcaption-element), both the `<figcaption>` and `<img>` elements must be wrapped in the [`<figure>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figure-element) to ensure that the figure caption is properly associated with the image.
+An image caption is a short description of the image. An image description is a textual explanation of the image which can be used to convey detailed descriptions than image captions. Figure captions are optional. When using the [<code>&lt;figcaption&gt;</code> element](https://html.spec.whatwg.org/multipage/semantics.html#the-figcaption-element), both the <code>&lt;figcaption&gt;</code> and <code>&lt;img&gt;</code> elements must be wrapped in the [<code>&lt;figure&gt;</code> element](https://html.spec.whatwg.org/multipage/semantics.html#the-figure-element) to ensure that the figure caption is properly associated with the image.
 
 **Examples**  
-[tip] **Recommended (HTML):**  
+[tip] **Recommended (HTML):** [/tip]  
 ```html
 <figure id="wapuu">
   <img src="/assets/images/wapuu.png"
@@ -44,8 +44,7 @@ An image caption is a short description of the image. An image description is a 
 </div>
 ```  
 
-[/tip]  
-[tip] **Recommended (Markdown):**  
+[tip] **Recommended (Markdown):** [/tip]  
 ```markdown
 ![The WordPress mascot Wapuu.](/assets/images/wapuu.png){: width="70"}
 
@@ -54,13 +53,11 @@ An image caption is a short description of the image. An image description is a 
 The official WordPress mascot - the adorable cartoon creature Wapuu, was first revealed in 2011.
 ```  
 
-[/tip]  
-
 #### Alt text
 
 Use an [`alt` attribute](https://html.spec.whatwg.org/multipage/embedded-content.html#alt) to provide an alternative text for an image; the value must be an appropriate replacement for the image. Alt text is used to write accessible documentation and is used in assistive technologies such as screen readers, text-only browsers or low-bandwidth internet connections. The `alt` attribute helps support navigability in screen readers, markup validation, and search engine optimization (SEO). If the image is decorative (not informative) or it's provided only as a visual aid for information that is already expressed in text, then provide empty alternative text (`alt=""`) so it will be ignored by assistive technologies.
 
-The `alt` attribute is required when using the `<img>` element, even if it is an empty string (`alt=""`). If you don't use the `alt` attribute, screen readers might read the filename instead.  
+The `alt` attribute is required when using the <code>&lt;img&gt;</code> element, even if it is an empty string (`alt=""`). If you don't use the `alt` attribute, screen readers might read the filename instead.  
 
 As per the [HTML specification](https://html.spec.whatwg.org/dev/images.html#general-guidelines), "the most general rule to consider when writing alternative text is the following: the intent is that replacing every image with the text of its alt attribute not change the meaning of the page." So if the alternative text is redundant with surrounding text or it's not useful to visually impaired readers, use the empty tag.
 
@@ -124,4 +121,4 @@ For more information about image accessibility, see the following resources:
 - In general, don't use an image that is larger than its intended container. Resize the image if its dimensions exceed the container's specifications.
 - Resize or reformat high resolution images that take up too much space.
 - Don't link to the figure from within the same page unless it's a very long page and you're linking to it from quite far away on the page.
-- Don't put the `<img>` inside a `<p>`.
+- Don't put the <code>&lt;img&gt;</code> inside a <code>&lt;p&gt;</code>.

@@ -8,9 +8,9 @@ Insert a nonbreaking space between the number and a unit for most units of measu
 
 **Examples**  
 [warning] **Not recommended:** 16ft [/warning]  
-[tip] **Recommended:** 16`&nbsp;`ft [/tip]  
-[tip] **Recommended:** 75`&nbsp;`kg [/tip]  
-[tip] **Recommended:** 10`&nbsp;`GB [/tip]  
+[tip] **Recommended:** 16&nbsp;ft [/tip]  
+[tip] **Recommended:** 75&nbsp;kg [/tip]  
+[tip] **Recommended:** 10&nbsp;GB [/tip]  
 
 Don't use a space when the unit of measure is a percentage, money, or degrees of an angle.
 
