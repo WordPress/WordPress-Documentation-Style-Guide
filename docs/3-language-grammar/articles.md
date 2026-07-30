@@ -2,6 +2,8 @@
 
 [info] **Highlight:** Include definite and indefinite articles in your documentation. [/info]  
 
+## Using articles
+
 Articles modify nouns. *The* is a definite article, and is used to define specific or particular nouns.
 *A* and *an* are indefinite articles, and are used to define non-specific or non-particular nouns.
 

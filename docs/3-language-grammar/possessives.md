@@ -5,9 +5,9 @@
 A singular or plural noun is transformed to its possessive form to show its ownership or possession.
 To form a possessive of a singular or plural noun, add *'s* to the end of the word. This is regardless of whether the singular noun ends with an *s* or if the plural noun doesn't end with an *s*. Most plurals already end with an *s*; for these plurals, add an apostrophe at the end without an additional *s*.
 
-**Examples**  
+## Singular nouns
 
-**Singular nouns**  
+**Examples**  
 - John's software
 - Buzz's laptop
 - application's password
@@ -22,7 +22,9 @@ To form a possessive of a singular or plural noun, add *'s* to the end of the wo
 **Exception:** If a proper noun ends with an *s*, you can either use an apostrophe and *s* or just an apostrophe.  
 **Exception:** The possessive of *it* is *its* and doesn't have an apostrophe. Be wary of common mistakes such as confusing *its* with *it's* (a contraction for *it is*).  
 
-**Plural nouns**  
+## Plural nouns
+
+**Examples**  
 - computers' keyboards
 - buses' architecture
 - arrays' elements
@@ -31,6 +33,8 @@ To form a possessive of a singular or plural noun, add *'s* to the end of the wo
 - OEMs' products
 - Jones' programs
 - Williams' websites
+
+## Possessive pronouns
 
 Don't use an apostrophe with possessive pronouns.  
 
