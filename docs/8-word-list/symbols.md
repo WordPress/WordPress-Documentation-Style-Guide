@@ -44,7 +44,7 @@ Use *opening bracket* and *closing brackets* to distinguish between the left and
 
 See also [<> (angle brackets)](#angle-brackets).
 
-## º (degree symbol)
+## º (degree symbol) {:#o-degree-symbol}
 
 Use degree symbol to describe the *º* symbol.
 
@@ -84,7 +84,7 @@ Use an en dash to indicate the minus sign. While writing an equation with a minu
 
 For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes).
 
-## × (multiplication sign)
+## × (multiplication sign) {:#x-multiplication-sign}
 
 Not *multiplication symbol*.
 

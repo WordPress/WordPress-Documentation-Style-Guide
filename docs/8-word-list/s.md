@@ -282,7 +282,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 It's OK to use *standalone* as an adjective. Don't use as a noun.
 
-## start, restart
+## start, restart {:#start}
 
 Don't use *start* to describe selecting a program or app to open it. Instead, use *open*.
 
@@ -298,7 +298,7 @@ In general, emphasize on the task to be accomplished, rather than how the user s
 
 For more information, see [UI elements](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#menu-bar).
 
-## stop, stop responding
+## stop, stop responding {:#stop}
 
 Don't use *stop* to mean *exit a program or application*.
 
@@ -306,7 +306,7 @@ Use *stop responding* when a program encounters a problem and can't close itself
 
 For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#interaction-verbs).
 
-## storage, storage device
+## storage, storage device {:#storage}
 
 Don't use *storage* to refer to available space on a disk. Instead, use *storage space* or *disk space*.
 

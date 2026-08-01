@@ -76,7 +76,7 @@ Don't use.
 
 For more information, see [Pronouns and genders](https://make.wordpress.org/docs/style-guide/language-grammar/pronouns/#pronouns-and-genders).
 
-## help
+## help {:#help}
 
 Don't use as a noun to refer to user or support documentation, manuals, guides, or tutorials.
 
