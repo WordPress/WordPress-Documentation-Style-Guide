@@ -96,7 +96,7 @@ Use *open*, not *start* or *launch* to describe opening a program, application, 
 
 Use *open*, not *opened*, to describe the open state, such as *an open folder*.
 
-For more information, see [Interaction verbs]https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#open).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#open).
 
 See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close).
 
