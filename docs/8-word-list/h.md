@@ -185,7 +185,7 @@ See also [hold, hold the pointer over](#hold-hold-the-pointer-over), [point to](
 
 Initialism for *Hypertext Markup Language*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *HTML file* file rather than *.html file*.
+Don't use a filename extension to refer to a type of file. For example, use *HTML file* rather than *.html file*.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 

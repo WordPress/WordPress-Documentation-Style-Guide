@@ -60,7 +60,7 @@ See also [computer](https://make.wordpress.org/docs/style-guide/word-list/c/#com
 
 Initialism for *Portable Document Format*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *PDF file* file rather than *.pdf file*.
+Don't use a filename extension to refer to a type of file. For example, use *PDF file* rather than *.pdf file*.
 
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
@@ -122,7 +122,7 @@ Don't use as a verb. Instead, use *photograph* or *take a picture*.
 
 Initialism for *Hypertext Preprocessor* (earlier called *Personal Home Page*). Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *PHP file* file rather than *.php file*.
+Don't use a filename extension to refer to a type of file. For example, use *PHP file* rather than *.php file*.
 
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 
@@ -169,7 +169,7 @@ See [AM, PM](https://make.wordpress.org/docs/style-guide/word-list/a/#am-pm).
 
 Initialism for *Portable Network Graphics*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *PNG file* file rather than *.png file*.
+Don't use a filename extension to refer to a type of file. For example, use *PNG file* rather than *.png file*.
 
 For more information, see [Referring to file types](https://make.wordpress.org/docs/style-guide/formatting/filenames/#referring-to-file-types).
 

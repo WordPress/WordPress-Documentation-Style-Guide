@@ -334,7 +334,7 @@ For more information about spelling out abbreviations, see [Abbreviations](https
 
 Initialism for *Cascading Style Sheets*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *CCS file* file rather than *.css file*.
+Don't use a filename extension to refer to a type of file. For example, use *CCS file* rather than *.css file*.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
@@ -344,7 +344,7 @@ For more information, see [Referring to file types](https://make.wordpress.org/d
 
 Initialism for *comma-separated values*. Use uppercase.
 
-Don't use a filename extension to refer to a type of file. For example, use *CSV file* file rather than *.csv file*.
+Don't use a filename extension to refer to a type of file. For example, use *CSV file* rather than *.csv file*.
 
 For more information about spelling out abbreviations, see [Abbreviations](https://make.wordpress.org/docs/style-guide/language-grammar/abbreviations/).
 
