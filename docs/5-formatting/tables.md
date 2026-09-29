@@ -11,7 +11,7 @@ Sometimes to represent data, it could be confusing as to what would be ideal - a
 | **Item type** | **Example** | **List or table** |
 |---------------|-------------|-------------------|
 | Each item is a single unit. | A procedure with instructions. | Use a [bulleted list](https://make.wordpress.org/docs/style-guide/formatting/lists/#bulleted-lists), [numbered list](https://make.wordpress.org/docs/style-guide/formatting/lists/#numbered-lists), or [lettered list](https://make.wordpress.org/docs/style-guide/formatting/lists/#lettered-list). |
-| Each item consists of a two related pieces of data. | A glossary with term and description pairs. | Use a [description list](https://make.wordpress.org/docs/style-guide/formatting/lists/#description-list). |
+| Each item consists of two related pieces of data. | A glossary with term and description pairs. | Use a [description list](https://make.wordpress.org/docs/style-guide/formatting/lists/#description-list). |
 | Each item consists of three or more related pieces of data. | A set of parameters with multiple values, data, categories, and descriptions. | Use a table. |  
 
 ### When not to use tables

@@ -46,7 +46,7 @@ Clear, legible, as well as aesthetically pleasing typography is one of the prima
 
 - In general, use sentence-case capitalization and avoid other forms of capitalization such as all-uppercase, all-lowercase, or title case.
   For more information, see [Capitalization](https://make.wordpress.org/docs/style-guide/language-grammar/capitalization/).
-- Use left alignment for text. This ensures an even left margin with a irregular right margin- improving document structure.
+- Use left alignment for text. This ensures an even left margin with an irregular right margin- improving document structure.
 - Avoid center-aligned text.
 - Ensure adequate and consistent line spacing - which is the amount of vertical space between two lines of text in a text body. If your site's design determines the line spacing, don't change it. Don't reduce line spacing to fit more text or content; rewrite or edit the text instead.
 
