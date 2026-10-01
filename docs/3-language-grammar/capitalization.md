@@ -39,7 +39,7 @@ Use sentence case for tables, lists and all their elements.
 
 ## Capitalization and colons
 
-Capitalize text after a colon if they are headings, titles, proper nouns, official terminology, and quotations. Use lowercase if the text following the colon is exclusive of this criteria.  
+Capitalize text after a colon if it introduces headings, titles, proper nouns, official terminology, or quotations. Use lowercase if the text following the colon is exclusive of these criteria.  
 
 **Examples**  
 

@@ -32,7 +32,7 @@ Use to refer to a magnetic disk.
 
 Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
 
-See also [hard drive](#hard-drive), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
+See also [hard drive](#hard-drive), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage-storage-device).
 
 ## hard drive
 
@@ -40,7 +40,7 @@ Use to refer to the drive on a computer used for storage purposes.
 
 Use *storage device* instead of *disk* or *drive* to refer generally to external drives such as hard drives, solid-state drives, flash storage, and other types of storage hardware.
 
-See also [hard disk](#hard-disk), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
+See also [hard disk](#hard-disk), [memory](https://make.wordpress.org/docs/style-guide/word-list/m/#memory), [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage-storage-device).
 
 ## HD
 
@@ -105,7 +105,7 @@ See also [earlier](https://make.wordpress.org/docs/style-guide/word-list/e/#earl
 
 Don't use to mean *select*.
 
-For more information, see [Interaction verbs]().
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#select).
 
 See also [select](https://make.wordpress.org/docs/style-guide/word-list/s/#select).
 

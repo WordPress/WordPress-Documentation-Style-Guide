@@ -28,7 +28,7 @@ Avoid using in user documentation and for a general audience.
 
 Instead, use *exit, cancel, stop, quit, end*, or a contextually relevant term.
 
-See also [cancel, canceled, canceling, cancellation](https://make.wordpress.org/docs/style-guide/word-list/c/#cancel-canceled-canceling-cancellation), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop), [quit](https://make.wordpress.org/docs/style-guide/word-list/q/#quit).
+See also [cancel, canceled, canceling, cancellation](https://make.wordpress.org/docs/style-guide/word-list/c/#cancel-canceled-canceling-cancellation), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding), [quit](https://make.wordpress.org/docs/style-guide/word-list/q/#quit).
 
 ## about
 

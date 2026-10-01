@@ -71,13 +71,13 @@ When writing about a person, use the pronouns that the person prefers. Only use 
 
 ## Using diverse examples
 
-Represent diverse perspectives and scenarios in text and media. Make use of inclusive and a diverse range of names, ages, gender identities, locations, professions, and cultures while depicting people.
+Represent diverse perspectives and scenarios in text and media. Make use of an inclusive and diverse range of names, ages, gender identities, locations, professions, and cultures while depicting people.
 - Avoid making generalizations about people, religions, cultures, regions, and countries.
 - Avoid unintentional racial and cultural bias while writing examples.  
 
 ## Accessibility and disability
 
-- Research the terminology that the people with disability want to be identified with.
+- Research the terminology that people with disabilities want to be identified with.
 - Don't refer to people without disabilities as *normal, fit or healthy*; terms that would demean people with disabilities. This includes terms that are judgmental and victimize people with disabilities as *abnormal* or *sick*.  
 
 ### Accessibility terminology

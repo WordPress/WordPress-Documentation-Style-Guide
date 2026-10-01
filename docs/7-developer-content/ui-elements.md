@@ -43,13 +43,13 @@ If you're using non-HTML markup, use monospace text formatting, which is how `<k
 
 To express a key that the user has to type to enter that key's value as text input, use the `<code>` element instead of the `<kbd>` element. For more information, see [Code font](https://make.wordpress.org/docs/style-guide/formatting/text/#text-highlighting).
 
-To refer to a keyboard key, use the key's name. If the key's name is ambiguous, use the form *the <code><var>KEY_NAME</code></var> key.*
+To refer to a keyboard key, use the key's name. If the key's name is ambiguous, use the form *the <code><var>KEY_NAME</var></code> key.*
 
 **Examples**  
 [tip] **Recommended:** Press <kbd>Esc</kbd>. [/tip]  
 [tip] **Recommended:** Press the <kbd>Esc</kbd> key. [/tip]  
 
-Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the complete key names and don't use their symbols. To refer to a key combination that uses a modifier key, use the form *<code><var>MODIFIER_KEY</code></var>+<code><var>KEY_NAME</code></var>.*
+Don't abbreviate the names of modifier keys such as Control, Shift, Command, and Option. Spell out the complete key names and don't use their symbols. To refer to a key combination that uses a modifier key, use the form *<code><var>MODIFIER_KEY</var></code>+<code><var>KEY_NAME</var></code>.*
 
 **Examples**  
 [warning] **Not recommended:** Press <kbd>Ctrl+T</kbd>. [/warning]  
@@ -63,7 +63,7 @@ In most cases, to accommodate both Windows and Mac users, insert the Mac shortcu
 [warning] **Not recommended:** To redo, press <kbd>Ctrl+Y</kbd> (<kbd>⌘+Y</kbd>). [/warning]  
 [tip] **Recommended:** To redo, press <kbd>Control+Y</kbd> (or <kbd>Command+Y</kbd> on Mac). [/tip]  
 
-To refer to a key or combination that uses the Shift key, use the form *<code><var>MODIFIER_KEY</code></var>+<kbd>Shift</kbd>+<code><var>KEY_NAME</code></var>.*
+To refer to a key or combination that uses the Shift key, use the form *<code><var>MODIFIER_KEY</var></code>+<kbd>Shift</kbd>+<code><var>KEY_NAME</var></code>.*
 
 **Examples**  
 [tip] **Recommended:** Press <kbd>Control+Shift+T</kbd>. [/tip]  
@@ -89,25 +89,25 @@ Following are the terminology and word usage when referring to UI elements:
 
 ### Window, page, dialog, and view
 
-A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed. To refer to a window, use the form *the <code><var>LABEL_NAME</code></var> window.*
+A *window* is the complete application window in a desktop environment. A window can also refer to adaptive application elements that can be opened and closed. To refer to a window, use the form *the <code><var>LABEL_NAME</var></code> window.*
 
 **Examples**  
 [warning] **Not recommended:** On the **Publish** page, click **Save**. [/warning]  
 [tip] **Recommended:** In the **Publish** window, click **Save**. [/tip]  
 
-Generally, a *page* is the shortened version of the word *webpage*. To refer to a page, use the form *the <code><var>LABEL_NAME</code></var> page.*
+Generally, a *page* is the shortened version of the word *webpage*. To refer to a page, use the form *the <code><var>LABEL_NAME</var></code> page.*
 
 **Examples**  
 [warning] **Not recommended:** On the Dashboard, go to the **Updates** window. [/warning]  
 [tip] **Recommended:** On the Dashboard, go to the **Updates** page. [/tip]  
 
-A *dialog* is a small window that appears in front of the window, but is separate from the main application window. To refer to a dialog, use the form *the <code><var>LABEL_NAME</code></var> dialog.*
+A *dialog* is a small window that appears in front of the window, but is separate from the main application window. To refer to a dialog, use the form *the <code><var>LABEL_NAME</var></code> dialog.*
 
 **Examples**  
 [warning] **Not recommended:** In the **Choose Image** pop-up window, click **Upload**. [/warning]  
 [tip] **Recommended:** In the **Choose Image** dialog, click **Upload**. [/tip]  
 
-A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden. To refer to a view, use the form *the <code><var>LABEL_NAME</code></var> view.*
+A *view* or a *pane* is a smaller section that is part of the application window. Generally, a view is adjacent to other UI elements and regions, and cannot be hidden, whereas a window is separate and can be hidden. To refer to a view, use the form *the <code><var>LABEL_NAME</var></code> view.*
 
 **Example**  
 [tip] **Recommended:** In the **Appearance** view, click **Typography**. [/tip]  
@@ -122,13 +122,13 @@ When referring to windows, dialogs, and views, use the preposition *in*. Use *on
 
 ### Button and icon
 
-A *button* is a UI element that performs or initiates a specified action when clicked or tapped. To refer to a button, use the form *the <code><var>LABEL_NAME</code></var> button.*
+A *button* is a UI element that performs or initiates a specified action when clicked or tapped. To refer to a button, use the form *the <code><var>LABEL_NAME</var></code> button.*
 
 **Examples**  
 [warning] **Not recommended:** Click the "Publish" button. [/warning]  
 [tip] **Recommended:** Click **Publish**. [/tip]  
 
-An *icon* is a image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</code></var> <code><var>LABEL_NAME</code></var> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
+An *icon* is an image, sign, or symbol that depicts a function. An icon can also be a component of a button. To refer to a button with an icon, use the form *the <code><var>BUTTON_ICON</var></code> <code><var>LABEL_NAME</var></code> button.* If you are unsure of the name of the icon, inspect the element to use the `aria-label` attribute. For more information, see [Using an aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
 
 **Examples**  
 [warning] **Not recommended:** Click the <span class="dashicons dashicons-search"></span> icon. [/warning]  
@@ -148,7 +148,7 @@ In general, avoid using directional language such as *above, top, below, left-ha
 
 ### Menu bar
 
-A *menu bar* is a set of menus that is at the top of a desktop application window, such as **File**, **Edit**, or **View**. Each menu has a set of submenus or commands. To refer to a menu, use the form *the <code><var>LABEL_NAME</code></var> menu.* To refer to an item in the menu, use the form *the <code><var>LABEL_NAME</code></var> command.*
+A *menu bar* is a set of menus that is at the top of a desktop application window, such as **File**, **Edit**, or **View**. Each menu has a set of submenus or commands. To refer to a menu, use the form *the <code><var>LABEL_NAME</var></code> menu.* To refer to an item in the menu, use the form *the <code><var>LABEL_NAME</var></code> command.*
 
 When combining multiple small actions into a single sequential step use angle brackets (>) to make simple sentences. If you use angle brackets, use the following guidelines:
 - Insert spaces around each angle bracket, with the space before the bracket being a nonbreaking space (`&nbsp;`).
@@ -172,21 +172,21 @@ Use this format only for combining multiple small actions into a single sequenti
 
 ### Toolbar
 
-A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</code></var> toolbar.*
+A *toolbar* is a set of buttons for the most frequently used user features. To refer to a toolbar, use the form *the <code><var>LABEL_NAME</var></code> toolbar.*
 
 **Example**  
 [tip] **Recommended:** In the **Admin** toolbar, click **Profile**. [/tip]  
 
 ### Tab
 
-A *tab* is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</code></var> tab.*
+A *tab* is a navigation element that looks like a file tab. To refer to a tab, use the form *the <code><var>LABEL_NAME</var></code> tab.*
 
 **Example**  
 [tip] **Recommended:** Select **Settings > Preferences**, and then click the **Edit** tab. [/tip]  
 
 ### Text box
 
-A *text box* or a *text field* is a box that the user can input or type in. To refer to a text box, use the form *the <code><var>LABEL_NAME</code></var> box*. Use code formatting for the text that the user inputs using the `<code>` element in HTML, backticks (``` ` ```) in Markdown, or a monospace font in other markup.
+A *text box* or a *text field* is a box that the user can input or type in. To refer to a text box, use the form *the <code><var>LABEL_NAME</var></code> box*. Use code formatting for the text that the user inputs using the `<code>` element in HTML, backticks (``` ` ```) in Markdown, or a monospace font in other markup.
 
 **Examples**  
 [tip] **Recommended:** In the **Link** box, enter your sitemap link. [/tip]  
@@ -195,17 +195,17 @@ A *text box* or a *text field* is a box that the user can input or type in. To r
 
 ### Dropdown list, combo box, and spin box
 
-A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</code></var> dropdown list* or *the <code><var>LABEL_NAME</code></var> box* depending upon the context.
+A *dropdown list* or a *list box* is a UI element that provides a list of items for the user to choose from. To refer to a dropdown list, use the form *the <code><var>LABEL_NAME</var></code> dropdown list* or *the <code><var>LABEL_NAME</var></code> box* depending upon the context.
 
 **Example**  
 [tip] **Recommended:** In the **Default page** dropdown list, select **Homepage**. [/tip]  
 
-A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type*, or *select*.
+A *combo box* is a combination of a text box and a dropdown list. To refer to a list box, use the form *the <code><var>LABEL_NAME</var></code> box*. To refer to the action of inputting a value into a combo box, use the verbs *enter, type*, or *select*.
 
 **Example**  
 [tip] **Recommended:** In the **Post** box, type or select the post type you want to use. [/tip]  
 
-A *spin box* is a UI element that lets the user choose a value — a numerical value in most cases — by clicking arrows or by typing. To refer to a spin box, use the form *the <code><var>LABEL_NAME</code></var> box*. To refer to the action of entering a value into a spin box, use the verb *enter*.
+A *spin box* is a UI element that lets the user choose a value — a numerical value in most cases — by clicking arrows or by typing. To refer to a spin box, use the form *the <code><var>LABEL_NAME</var></code> box*. To refer to the action of entering a value into a spin box, use the verb *enter*.
 
 **Example**  
 [tip] **Recommended:** In the **Font Size** box, enter a font size. [/tip]  
@@ -219,7 +219,7 @@ An *expander arrow* is a UI element that is used to expand or collapse a section
 
 ### Checkbox
 
-A *checkbox* is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</code></var> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
+A *checkbox* is a box that indicates whether a particular value is selected or not. To refer to a checkbox, use the form *the <code><var>LABEL_NAME</var></code> checkbox.* Be cautious while using the verb *check*, which can be ambiguous. Use *select* instead.
 
 **Examples**  
 [tip] **Recommended:** Select the **Search engine visibility** checkbox. [/tip]  

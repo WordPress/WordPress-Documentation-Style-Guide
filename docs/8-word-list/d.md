@@ -56,7 +56,7 @@ See [degree symbol](https://make.wordpress.org/docs/style-guide/word-list/symbol
 
 Don't use. Instead, rephrase the sentence or use a contextually relevant term such as *clear*.
 
-See also [clear](#clear).
+See also [clear](https://make.wordpress.org/docs/style-guide/word-list/c/#clear).
 
 ## deprecate, deprecated
 
@@ -72,7 +72,7 @@ See also [obsolete](https://make.wordpress.org/docs/style-guide/word-list/o/#obs
 
 Use as a verb to describe removing a file, folder, or other content.
 
-Don't use *delete* as a synonym for *remove*. Don't use *cut* or erase* as a synonym for delete.
+Don't use *delete* as a synonym for *remove*. Don't use *cut* or *erase* as a synonym for *delete*.
 
 See also [cut, cut-and-paste](https://make.wordpress.org/docs/style-guide/word-list/c/#cut-cut-and-paste), [remove](https://make.wordpress.org/docs/style-guide/word-list/r/#remove).
 

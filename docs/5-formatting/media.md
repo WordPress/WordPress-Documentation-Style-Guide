@@ -26,7 +26,7 @@ The introductory sentence can end with a colon or a period. Use a period if the 
 
 There are different types of text associated with images. Alt text is a concise description of the image that can replace the image in situations when the image isn't visible as well as accessible documentation. For example, people using screen readers, people using text-only browsers or people having a low-bandwidth internet connection can benefit from alt text. Alt text should consider the context of the image, not just its content. For more information, see [alt attribute](https://wikipedia.org/wiki/Alt_attribute).
 
-An image caption is a short description of the image. An image description is a textual explanation of the image which can be used to convey detailed descriptions than image captions. Figure captions are optional. When using the [`<figcaption>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figcaption-element), both the `<figcaption>` and `<img>` elements must be wrapped in the [`<figure>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figure-element) to ensure that the figure caption is properly associated with the image.
+An image caption is a short description of the image. An image description is a textual explanation of the image which can be used to convey more detailed descriptions than image captions. Figure captions are optional. When using the [`<figcaption>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figcaption-element), both the `<figcaption>` and `<img>` elements must be wrapped in the [`<figure>` element](https://html.spec.whatwg.org/multipage/semantics.html#the-figure-element) to ensure that the figure caption is properly associated with the image.
 
 **Examples**  
 [tip] **Recommended (HTML):**  
@@ -78,7 +78,7 @@ When writing alt text, follow these guidelines:
 
 Captions are brief, concise summaries of an image or a figure.
 When writing image captions, follow these guidelines:
-- Use the form,  "<b>Figure <var><code>NUMBER</var></code>.</b> <var><code>DESCRIPTION</var></code>".
+- Use the form,  "<b>Figure <code><var>NUMBER</var></code>.</b> <code><var>DESCRIPTION</var></code>".
 - Use punctuation in image captions.
 - In general, avoid using directional language such as *the image above, top, below, left-hand side, lower-right side* in instructions to locate images or other figures. Directional language proves to be difficult for accessibility or for localization.
 - Don't include the image caption in a sentence referencing the image.

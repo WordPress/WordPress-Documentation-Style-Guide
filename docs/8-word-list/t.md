@@ -299,7 +299,7 @@ See [2D](https://make.wordpress.org/docs/style-guide/word-list/numbers/#2d).
 
 OK to use.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type).
 
 See also [enter](https://make.wordpress.org/docs/style-guide/word-list/e/#enter).
 

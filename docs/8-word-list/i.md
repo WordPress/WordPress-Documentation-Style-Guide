@@ -107,7 +107,7 @@ Don't use to mean *start* a program or application, or *turn on* a device.
 
 OK to use in developer documentation and for a technical audience. Avoid using in user documentation and for a general audience.
 
-See also [start](https://make.wordpress.org/docs/style-guide/word-list/s/#start), [restart](https://make.wordpress.org/docs/style-guide/word-list/r/#restart), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
+See also [start](https://make.wordpress.org/docs/style-guide/word-list/s/#start-restart), [restart](https://make.wordpress.org/docs/style-guide/word-list/r/#restart), [turn on, turn off](https://make.wordpress.org/docs/style-guide/word-list/t/#turn-on-turn-off).
 
 ## initiate
 
@@ -127,7 +127,7 @@ Don't use as a verb. Instead, use a contextually appropriate verb such as *enter
 
 In user documentation and for a general audience, don't use as a noun to mean data or value entered.
 
-For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type-input).
+For more information, see [Interaction verbs](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#enter-type).
 
 See also [enter](https://make.wordpress.org/docs/style-guide/word-list/e/#enter), [type](https://make.wordpress.org/docs/style-guide/word-list/t/#type).
 
@@ -167,7 +167,7 @@ See also [web](https://make.wordpress.org/docs/style-guide/word-list/w/#web).
 
 OK to use as a noun in developer documentation and for a technical audience.
 
-See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## into, in to
 

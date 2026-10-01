@@ -128,7 +128,7 @@ See also [disable, disabled](https://make.wordpress.org/docs/style-guide/word-li
 
 Use as a verb to describe stopping an ongoing process. Use *close* for applications and programs.
 
-See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [exit](https://make.wordpress.org/docs/style-guide/word-list/e/#exit), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## endpoint
 
@@ -196,7 +196,7 @@ Don't use to describe closing a program or an application.
 
 For more information see [Close](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/#close).
 
-See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop).
+See also [close](https://make.wordpress.org/docs/style-guide/word-list/c/#close), [end](https://make.wordpress.org/docs/style-guide/word-list/e/#end), [interrupt](https://make.wordpress.org/docs/style-guide/word-list/i/#interrupt), [stop](https://make.wordpress.org/docs/style-guide/word-list/s/#stop-stop-responding).
 
 ## expand
 

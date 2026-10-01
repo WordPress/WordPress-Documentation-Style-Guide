@@ -40,13 +40,13 @@ Use *opening braces* and *closing braces* to distinguish between the left and ri
 
 Use *brackets* to describe the *[* and *]* symbols. Don’t use *brackets* when you mean *angle brackets* (<>).
 
-Use *opening bracket* and *closing brackets* to distinguish between the left and right brackets.
+Use *opening bracket* and *closing bracket* to distinguish between the left and right brackets.
 
 See also [<> (angle brackets)](#angle-brackets).
 
 ## º (degree symbol)
 
-Use degree symbol to describe the *º* symbol.
+Use the degree symbol to describe the *º* symbol.
 
 It's OK to use *degree* or *degrees* instead of the degree symbol.
 

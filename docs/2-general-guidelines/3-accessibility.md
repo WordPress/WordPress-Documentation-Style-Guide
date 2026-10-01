@@ -2,12 +2,12 @@
 
 [info] **Highlight:** Write documentation that is accessible to everyone. [/info]  
 
-The WordPress community and the open source WordPress project is committed to being as inclusive and accessible as possible. This means ensuring users, regardless of device or ability, to be able to publish content and maintain a website or application built with WordPress.
+The WordPress community and the open source WordPress project are committed to being as inclusive and accessible as possible. This means ensuring that users, regardless of device or ability, are able to publish content and maintain a website or application built with WordPress.
 
 ## General guidelines
 
 - Emphasize the reader rather than underlining their inconveniences.
-  - Don't refer a person with a disability as a disabled person (such as referring a *visually impaired person* as *blind* or *handicapped*).
+  - Don't refer to a person with a disability as a disabled person (such as referring to a *visually impaired person* as *blind* or *handicapped*).
   - Use approved terminology for people with specific disabilities; such as *Person with limited mobility* (rather than a person who is *crippled*). For more information, see [Writing inclusive documentation](https://make.wordpress.org/docs/style-guide/general-guidelines/inclusivity/).
 - Maintain a uniform structure for your document. Emphasize important points both stylistically and visually.
 - Use a screen reader to test your documentation. To test a screen reader, see [List of screen readers](https://wikipedia.org/wiki/List_of_screen_readers).
@@ -50,8 +50,8 @@ For more information, see [Media](https://make.wordpress.org/docs/style-guide/fo
 
 - Don't use direction-based guidelines solely, for navigating user interfaces (for example, '*Click the __Publish__ button on the right sidebar*'; rather than '*Go to the top and click the button.*').
 -  Clearly state error descriptions and ways to fix them.
-- Ensure that correct terminology is used for UI elements. Additional information about UI Elements.
-- Identify and inspect the regions of a page for their `aria-label`. Refer these UI elements by their terminology or by their `aria-label`. For more information, see [aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
+- Ensure that correct terminology is used for UI elements.
+- Identify and inspect the regions of a page for their `aria-label`. Refer to these UI elements by their terminology or by their `aria-label`. For more information, see [aria-label](https://www.w3.org/TR/WCAG20-TECHS/ARIA14.html).
 
 For more information, see [UI elements and interaction](https://make.wordpress.org/docs/style-guide/developer-content/ui-elements/).
 

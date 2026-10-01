@@ -2,7 +2,7 @@
 
 ## radio button
 
-Use *radio button* only in in developer documentation and for a technical audience.
+Use *radio button* only in developer documentation and for a technical audience.
 
 In general, emphasize on the task to be accomplished, rather than how the user should interact with the UI element. Refer to a radio button by its label. If you have to use a descriptor, use *option* or *option button*.
 

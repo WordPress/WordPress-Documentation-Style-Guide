@@ -41,7 +41,7 @@
   [tip] **Recommended:** There are a total of 70 users currently online. [/tip]  
   **Exceptions:** Use numerals for the following instances in all cases, even when they're less than 10:  
   - Page numbers.
-  - Chapter, section, volumes, part, and step numbers.
+  - Chapter, section, volume, part, and step numbers.
   - Rows and columns in tables and lists.
   - Technical quantities such as memory, disk space, lines of code, etc.
   - Version numbers.

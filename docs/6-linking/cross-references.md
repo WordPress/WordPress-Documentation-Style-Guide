@@ -54,7 +54,7 @@ While writing descriptions for what the cross-references link to, use *about* in
 When you're linking to another section in the same page, mention that the link guides you to a different section on the same page.
 
 **Example**  
-[tip] **Recommended:** In this document, see [References to other documents](#). [/tip]  
+[tip] **Recommended:** In this document, see [References to other documents](#references-to-other-documents). [/tip]  
 
 ### Links to pages on the same server
 

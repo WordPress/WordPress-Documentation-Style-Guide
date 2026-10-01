@@ -7,7 +7,7 @@ For more information about writing simple, easy-to-understand documentation, see
 
 ## Spelling
 
-In general, use American (US) English. When the spelling of English words differ by locale, use the US spelling.
+In general, use American (US) English. When the spelling of English words differs by locale, use the US spelling.
 If you're doubtful of a particular word, first refer the [Word list and usage dictionary](https://make.wordpress.org/docs/style-guide/word-list/); if it's not covered there, refer the [American Heritage Dictionary](https://ahdictionary.com/) and [Merriam-Webster](https://www.merriam-webster.com/).
 
 **Examples**  
@@ -27,12 +27,12 @@ Technical terms can vary from everyday words like net, bit, cloud, virus to prop
 - If it is essential to create a new term, only do so after thoroughly verifying that the new term isn't already being used to mean something else. Also verify if your new term is comparable to existing terms with a similar meaning.
 - Define technical terms in your documentation. Don't assume that readers will understand them.
 - If you're using a particular term, customarily use it across all your documentation, publication, websites, and concepts with consistency.
-- Cater your vocabulary for specific audiences and readers. For example, technical terminology would apt for a developer demographic, but not for a non-technical, beginner, or business-minded audience.
+- Cater your vocabulary for specific audiences and readers. For example, technical terminology would be apt for a developer demographic, but not for a non-technical, beginner, or business-minded audience.
 - Research new terminology to stay up-to-date with the latest technological terms and industry approaches. Refer the latest technical and industry publications for demonstrated uses of new terms.
 
 ## Avoid jargon and slang
 
-Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinders understanding more than simplifying it. Instead of using slang or jargon, use common and easy-to-understand terms.
+Be thoughtful of word choice - particularly avoid jargon, slang and ableist language. In a spoken and informal context, slang or jargon would suffice. But for achieving inclusive and accessible documentation for a global audience, slang and jargon hinder understanding more than simplifying it. Instead of using slang or jargon, use common and easy-to-understand terms.
 
 Avoid using jargon if there is a better, comprehensible word for that specific term. Additionally, don't use jargon if the term is familiar to only a small portion of your reader demographic. Only use jargon if it is absolutely needed to explain technical or software-related concepts.
 

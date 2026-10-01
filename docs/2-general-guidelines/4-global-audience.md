@@ -28,13 +28,13 @@ Translation is simply changing the language of the content to another language. 
 ## Language guidelines
 
 - Write concise and succinct sentences, while using simple verbs and vocabulary. Longer sentences are difficult to translate and require higher effort.
-- If the sentence consists of more than a few commas, it usually indicates and complex sentence. Review the sentence and consider breaking it down to multiple sentences. Also, replace complex sentences and paragraphs with illustrations, tables, and lists.
+- If the sentence consists of more than a few commas, it usually indicates a complex sentence. Review the sentence and consider breaking it down into multiple sentences. Also, replace complex sentences and paragraphs with illustrations, tables, and lists.
 - Use active voice, present tense, and second person.
 - Avoid long chains of modifying words. Keep adverbs and adjectives close to their modifying words. Be mindful of placement of words like *only*.
 - Make abundant use of articles such as *a*, *an*, *the* and helper words such as *if*, *then*, etc.
 - Avoid shortcuts, symbols, and abbreviations that could easily be spelled out.
 - Ensure overall consistency in language - particularly names, terminology, punctuation and capitalization.
-- Use consistent text and media formatting. See additional information on [Text Formatting]().
+- Use consistent text and media formatting. See additional information on [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
 - Deviate from conventional standards only when there's a genuinely compelling purpose in implementing an unconventional style.
 
 ## Additional resources

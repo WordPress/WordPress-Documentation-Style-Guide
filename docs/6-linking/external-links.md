@@ -25,4 +25,4 @@ Don't force links to open in a new tab or window. Let the reader decide how to o
 **Example**  
 [tip] **Recommended:** For more information, see the [American Heritage Dictionary (opens in a new tab)](https://ahdictionary.com/). [/tip]
 
-Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Links to pages on a different domain or server]().
+Use an external link icon to indicate that the link goes to a different domain or server. For more information, see [Links to pages on a different domain or server](https://make.wordpress.org/docs/style-guide/linking/cross-references/#links-to-pages-on-a-different-domain-or-server).

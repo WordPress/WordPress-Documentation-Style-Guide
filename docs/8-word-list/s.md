@@ -151,7 +151,7 @@ See also [login, log in, logout, log out](https://make.wordpress.org/docs/style-
 
 ## sign-on, sign on
 
-Hyphenate in in phrases such as *single sign-on*. Don't hyphenate as a verb.
+Hyphenate in phrases such as *single sign-on*. Don't hyphenate as a verb.
 
 See also [sign in, sign-in, sign out](#sign-in-sign-in-sign-out).
 
@@ -197,7 +197,7 @@ See [master, master/slave](https://make.wordpress.org/docs/style-guide/word-list
 
 ## sleep
 
-Use to describe putting a device into a energy-saving state without shutting it down.
+Use to describe putting a device into an energy-saving state without shutting it down.
 
 The computer *goes to sleep*, or the user can *put it to sleep*; the computer is then *in sleep* or *in sleep mode*. Don’t use the computer *is sleeping* or the computer *is asleep*.
 

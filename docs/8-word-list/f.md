@@ -155,7 +155,7 @@ Use *formatting* or *formatted* to refer to specific character formatting, parag
 
 For more information, see [Document structure](https://make.wordpress.org/docs/style-guide/general-guidelines/document-structure/) and [Text formatting](https://make.wordpress.org/docs/style-guide/formatting/text/).
 
-See also [font, font style](#font-font-style).
+See also [font, font style, font size](#font-font-style-font-size).
 
 ## freeze, frozen
 

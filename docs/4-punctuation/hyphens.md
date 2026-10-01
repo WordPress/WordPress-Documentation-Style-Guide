@@ -54,9 +54,9 @@ Hyphenate compound numerals and fractions.
 - Jump to the thirty-second page in the user manual.
 - Split the columns into one-thirds using the column block.  
 
-[En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes) (–) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges. Use an en dash indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen. Use an en dash instead of a hyphen in a compound adjective when the compound adjective includes an open compound.  
+[En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes) (–) are generally used to indicate a range of numbers, the minus sign, or negative numbers. Although you can use en dashes for these purposes, you can also use hyphens or the word *to* for numerical ranges. Use an en dash to indicate a range of numbers such as values or dates. Don't add spaces before and after the en dash or the hyphen. Use an en dash instead of a hyphen in a compound adjective when the compound adjective includes an open compound.  
 
-For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Range of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#range-of-numbers), and [Range of numbers with units](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/#ranges-of-numbers-with-units).
+For more information, see [En dashes](https://make.wordpress.org/docs/style-guide/punctuation/dashes/#en-dashes), [Ranges of numbers](https://make.wordpress.org/docs/style-guide/formatting/numbers/#ranges-of-numbers), and [Range of numbers with units](https://make.wordpress.org/docs/style-guide/formatting/units-of-measurement/#ranges-of-numbers-with-units).
 
 ## Prefixes and suffixes
 

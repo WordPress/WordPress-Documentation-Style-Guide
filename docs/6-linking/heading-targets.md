@@ -42,7 +42,7 @@ To add an anchor to a heading in HTML, do the following:
 [/tip]  
 {% Markdown %}  
 To add an anchor to a heading in Markdown, do the following:  
-- Add `{:#ID_OF_ANCHOR}` after the heading, to the end of the line that the heading is on. Replace <var><code>ID_OF_ANCHOR</var></code> with the ID for this heading.
+- Add `{:#ID_OF_ANCHOR}` after the heading, to the end of the line that the heading is on. Replace <code><var>ID_OF_ANCHOR</var></code> with the ID for this heading.
 - Use lowercase for `id` values.
 - Insert hyphens between words.
 

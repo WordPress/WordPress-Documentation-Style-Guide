@@ -136,7 +136,7 @@ In the noun forms that refer to memory measurements, use *of* in a prepositional
 
 Don’t use memory to refer to storage capacity; instead, use a term such as *storage space*.
 
-See also [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage).
+See also [storage](https://make.wordpress.org/docs/style-guide/word-list/s/#storage-storage-device).
 
 ## menu bar
 

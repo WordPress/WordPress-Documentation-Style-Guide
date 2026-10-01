@@ -17,7 +17,7 @@ Use these editorial resources for writing WordPress documentation.
 
 2. **This style guide:** If certain guidelines are not there in your project-specific style guide, or there are no project-specific guidelines altogether, then use this style guide.
 
-3. **External references:** If the preceding references don't provide explicit guidance, the refer the following external references:
+3. **External references:** If the preceding references don't provide explicit guidance, then refer to the following external references:
    - [The Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)  
    - [The American Heritage Dictionary](https://ahdictionary.com/)  
    - [Merriam-Webster](https://www.merriam-webster.com/)

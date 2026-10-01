@@ -43,7 +43,7 @@ Use the following guidelines to express time zones:
 - If the time is the reader's local time, indicate it accordingly.  
   **Example**<br>
   [tip] **Recommended:** The weekly team meeting will start at 7:30 PM your local time. [/tip]  
-- Use Coordinated Universal Time (UTC) over Greenwich Mean Time (GMT), in general. Don't write *Universal Time Coordinate* or *Universal Time Coordinated* as alternatives to Coordinated Universal Time. Only use GMT unless absolutely needed.
+- Use Coordinated Universal Time (UTC) over Greenwich Mean Time (GMT), in general. Don't write *Universal Time Coordinate* or *Universal Time Coordinated* as alternatives to Coordinated Universal Time. Don't use GMT unless absolutely needed.
 - For time zones without names, use the Coordinated Universal Time (UTC) offset. If you're writing about a particular geographic area, specify the country or region if UTC is unavailable.  
   **Examples**<br>
   [tip] **Recommended:** UTC+7 [/tip]  
